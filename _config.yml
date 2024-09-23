@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            EA Notes
+longtitle:        
+author:           MattC
+email:            mcurcio@duck.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Learn taxes the hard way while using a GitBook style Jekyll theme.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://mcc-us.github.io'
+baseurl:          '/ea'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -62,7 +62,7 @@ ordered_collections:
   - pages
   - others
 
-page_width: 800px
+page_width: 1100px
 
 destination:      ./_site
 incremental:      false
