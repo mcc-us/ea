@@ -1,9 +1,9 @@
 ---
 title: Pub 17 Tax Guide
-date: 2024-08-24
 layout: post
 ---
 
+2024-08-24
 <script>function buttonPubs() { window.open("https://www.irs.gov/forms-pubs"); }</script>
 
 
