@@ -3,7 +3,7 @@ title: Tax Tips, Sept 4, 2024
 layout: post
 ---
 
-Tax pros: Know the potential signs of a data breach
+- **Know the potential signs of a data breach**
 
 The IRS and the [Security Summit](https://www.irs.gov/tax-professionals/protect-your-clients-protect-yourself-summer-2024) partners continue to see identity thieves targeting tax professionals in hopes of gaining valuable client tax information.
 
@@ -30,7 +30,7 @@ Tax professionals should watch for these red flags when their business experienc
 
 1.  Notification from the IRS regarding a client that they do not represent.
 
-Tax pros should report data theft immediately
+- **Tax pros should report data theft immediately**
 
 1.  Report the incident to their local [IRS stakeholder liaison](https://www.irs.gov/businesses/small-businesses-self-employed/stakeholder-liaison-local-contacts). Speed is critical. IRS stakeholder liaisons will ensure all the appropriate IRS offices are alerted. If reported quickly, the IRS can take steps to block fraudulent returns in the clients' names and will assist tax pros through the process.
 
@@ -40,5 +40,4 @@ Tax pros should report data theft immediately
 
 1.  Tax professionals should be proactive with clients who could have been affected and suggest appropriate actions, such as getting an [Identity Protection PIN](https://www.irs.gov/newsroom/security-summit-identity-protection-pins-are-an-important-tool-against-tax-related-identity-theft) or completing a [Form 14039, Identity Theft Affidavit](https://www.irs.gov/pub/irs-pdf/f14039.pdf), if applicable.
 
-
-[Data Theft Information for Tax Professionals](https://www.irs.gov/individuals/data-theft-information-for-tax-professionals)
+See: [Data Theft Information for Tax Professionals](https://www.irs.gov/individuals/data-theft-information-for-tax-professionals)
