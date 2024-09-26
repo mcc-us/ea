@@ -24,4 +24,4 @@ function button5() { window.open("/irs.ea/pages/001-pub17.tax.guide/"); }
 
 ---
 
-This website is [MCs EA Homepage](https://mcc-us.github.io/irs.ea/).
+This website is [MCs EA Homepage](https://mcc-us.github.io/ea/).
