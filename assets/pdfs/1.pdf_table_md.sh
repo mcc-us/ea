@@ -11,8 +11,10 @@ content="---\n"
 content+="layout: post\n"
 content+="title: IRS Doc No & Title\n"
 content+="---\n\n"
+content+="<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>\n"
+content+="<button onclick="button1()">Goto IRS Pubs</button>\n\n"
 content+="| Doc # | Title |\n"
-content+="|---|---| \n"  # Separator line
+content+="|---|---|\n"  # Separator line
 
 # Get all PDF files in the current directory
 pdf_files=( *.pdf )
@@ -24,13 +26,10 @@ do
   filename="${pdf_file%.*}"
 
   # Get subject using pdfinfo (may need adjustment for non-IRS PDFs)
-  subject=$(pdfinfo "$pdf_file" | grep "Subject: ") # | awk '{print $2}')
-
-  # Escape special characters in title for markdown
-  #escaped_title=$(echo "$subject")
+  subject=$(pdfinfo "$pdf_file" | grep "Subject: ") 
 
   # Append table row to content
-  content+="| [View $filename](/ea/others/view.$filename) | $subject |\n"
+  content+="| [$filename](/ea/others/view.$filename) | $subject |\n"
 done
 
 # Write the final content to the markdown file
