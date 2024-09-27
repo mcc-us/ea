@@ -45,7 +45,7 @@ layout: post
 
 3. See IRS Video [Inflation Reduction Act: New and Used Clean Vehicles](https://www.youtube.com/watch?v=DtYufJmdm1A)
 
-> "The credit is lesser of $4,000 or 30% of the sales price of the previously owned clean vehicle you acquired and placed into service that year."
+> The credit is lesser of $4,000 or 30% of the sales price of the previously owned clean vehicle you acquired and placed into service that year.
 
 <hr class="red">
 
@@ -417,10 +417,6 @@ layout: post
 
 
 
-
-
-
-
 - When Using a Tax Professional  (ADD MORE??)  
 
 ## When Do I File?
@@ -495,9 +491,9 @@ Your accounting method is how you record income and expenses. Most people use ei
 1. Payments to a Third Party or Agent: If someone else is paid from your property or an agent receives income for you, it's considered your income when they receive it.
 1. Checks: A check made available to you before the end of the tax year counts as income for that year, whether or not you cash it.
 
-- If there are circumstances where you don’t have access to the income, you might not have "constructively received" it.
+- If there are circumstances where you don’t have access to the income, you might not have constructively received it.
 
-- Example: A teacher agrees to only receive the difference between their salary and the cost of a substitute teacher. The amount deducted for the substitute is not considered "constructively received."
+- Example: A teacher agrees to only receive the difference between their salary and the cost of a substitute teacher. The amount deducted for the substitute is not considered constructively received.
 
 - Accrual Method: You report income when you earn it, not when you receive it, and you deduct expenses when you incur them, not when you pay them.
 
@@ -509,35 +505,35 @@ Your accounting method is how you record income and expenses. Most people use ei
 
 2.1 What's New & Reminders
 
-  -  Filing status rules
+-  Filing status rules
 
-  -  Tax benefits for married taxpayers
+-  Tax benefits for married taxpayers
 
 - Filing Status Categories
 
-  -  Single
+-  Single
 
-  -  Married Filing Jointly
+-  Married Filing Jointly
 
-  -  Married Filing Separately
+-  Married Filing Separately
 
-  -  Head of Household
+-  Head of Household
 
-  -  Qualifying Surviving Spouse
+-  Qualifying Surviving Spouse
 
 ## 3. Dependents
 
 ### What's New
 
-  -  Child & Dependent Care Credit
+-  Child & Dependent Care Credit
 
 ### Reminders
 
-  -  Dependent Rules
+-  Dependent Rules
 
 ### Introduction
 
-  -  Who Can Claim a Dependent?
+-  Who Can Claim a Dependent?
 
 ##### Qualifying Child
 
@@ -547,17 +543,17 @@ Your accounting method is how you record income and expenses. Most people use ei
 
 - What's New
 
-  -  Changes in Tax Withholding
+-  Changes in Tax Withholding
 
 -  Reminders
 
-  -  Estimated Tax Payments
+-  Estimated Tax Payments
 
-  -  Changes in Taxable Income
+-  Changes in Taxable Income
 
 -  Introduction
 
-  -  Understanding Tax Withholding
+-  Understanding Tax Withholding
 
 -  W-4 Forms
 
