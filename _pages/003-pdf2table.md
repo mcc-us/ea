@@ -3,6 +3,10 @@ layout: post
 title: 101 IRS Doc No & Title
 ---
 
+
+<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>
+<button onclick="button1()">Goto IRS Pubs</button>
+
 | Doc # | Title |
 |:--|:--| 
 | [f1040es](/ea/others/view.f1040es) | Form 1040-ES, Estimated Tax for Individuals |
