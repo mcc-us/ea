@@ -53,9 +53,9 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-#  others:
-#    output: true
-#    permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
   posts:
     output: true
     permalink: /:collection/:path/
