@@ -1,6 +1,11 @@
+---
+title: Tax Refund Extensions
+layout: post
+---
+
 In some cases, a late-filed tax return and claiming a tax refund beyond
 deadline will be honored. The IRS will consider many sound reasons with
-reasonable cause for Jaling to file a tax return, make a deposit, or pay tax
+reasonable cause for ?Jaling? to file a tax return, make a deposit, or pay tax
 when due. Sound reasons, if established, include:
 
 Fire, casualty, natural disaster or other disturbances
@@ -25,4 +30,3 @@ Exceptions for military personnel
 Taxpayers in federally declared disaster areas
 
 Taxpayers who have been affected by a terroristic or military action
-
