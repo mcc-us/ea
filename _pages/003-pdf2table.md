@@ -104,6 +104,6 @@ title: IRS Doc No & Title
 | [View p926](/ea/others/view.p926) | Household Employer's Tax Guide |
 | [View p970](/ea/others/view.p970) | Tax Benefits for Education |
 | [View pcir230](/ea/others/view.pcir230) | Regulations Governing Practice before the Internal Revenue Service |
-| [View PTIN.Application.Checklist_Internal.Revenue.Service](/ea/others/view.PTIN.Application.Checklist_Internal.Revenue.Service) | Application.Checklist_Internal.Revenue.Service |
+| [View PTIN.Application.Checklist](/ea/others/view.PTIN.Application.Checklist_Internal.Revenue.Service) | Application Checklist |
 | [View regulation_1_6011_4](/ea/others/view.regulation_1_6011_4) |  |
 
