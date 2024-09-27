@@ -3,7 +3,7 @@ title: Kiddie Tax Overview
 layout: post
 ---
 
-Q. I am studying IRS tax regulations. I have a question regarding the "kiddie tax". What is it and how much is its limit?
+Q. What is the "kiddie tax"? and how much is it's limit?
 
 - **The Kiddie Tax: A Brief Overview**
 
