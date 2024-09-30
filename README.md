@@ -14,6 +14,7 @@ function button5() { window.open("https://www.irs.gov/pub/irs-pdf/p17.pdf"); }
 
 | **IRS Information** |
 |:-|
+|[SEE-1](pages/002-hock-domain1.md)|
 | <button onclick="button5()">17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
 | <button onclick="button2()">Open: irs-pubs</button> &nbsp;&nbsp;&nbsp; Find IRS Pubs & Forms|
 | <button onclick="button3()">Open: irs-ita</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS Info chatbot|
