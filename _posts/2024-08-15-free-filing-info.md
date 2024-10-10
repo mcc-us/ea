@@ -38,14 +38,14 @@ layout: post
 p4491.pdf
 
 <div class="pdf-container">
-    <iframe src="/irs.ea/assets/pdfs/p4491.pdf" height="600" width="100%" allowFullScreen="true">
+    <iframe src="/ea/assets/pdfs/p4491.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 
 p4012.pdf
 
 <div class="pdf-container">
-    <iframe src="/irs.ea/assets/pdfs/p4012.pdf" height="600" width="100%" allowFullScreen="true">
+    <iframe src="/ea/assets/pdfs/p4012.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 
@@ -54,7 +54,7 @@ p4012.pdf
 - filing_status_4012.pdf, Filing Status - Interview Tips
 
 <div class="pdf-container">
-    <iframe src="/irs.ea/assets/pdfs/filing_status_4012.pdf" height="600" width="100%" allowFullScreen="true">
+    <iframe src="/ea/assets/pdfs/filing_status_4012.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>
 
@@ -63,6 +63,6 @@ p4012.pdf
 f13614c.pdf  
 
 <div class="pdf-container">
-    <iframe src="/irs.ea/assets/pdfs/f13614c.pdf" height="600" width="100%" allowFullScreen="true">
+    <iframe src="/ea/assets/pdfs/f13614c.pdf" height="600" width="100%" allowFullScreen="true">
     </iframe>
 </div>

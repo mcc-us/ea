@@ -55,19 +55,19 @@ layout: post
 
 |Table 1-1, Gen. Filing |
 |:-:|
-|![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
+|![Table 1-1](/ea/assets/images/images.pub.17/table.1.1.png)|
 
 ## 1-2: Dependents Table 
 
 |Table 1-2, Filing with Dependents |
 |:-:|
-|![Table 1-2](/irs.ea/assets/images/images.pub.17/table.1.2.png)|
+|![Table 1-2](/ea/assets/images/images.pub.17/table.1.2.png)|
 
 ## 1-3: Other Situations Table
 
 |Table 1-3, Other Situations to File |
 |:-:|
-|![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
+|![Table 1-3](/ea/assets/images/images.pub.17/table.1.3.png)|
 
 <hr class="red">
 
@@ -302,8 +302,8 @@ layout: post
 
 |MAKE LINKS|
 |:-:|
-|![Table 1-1](/irs.ea/assets/images/images.pub.17/table.1.1.png)|
-|![Table 1-3](/irs.ea/assets/images/images.pub.17/table.1.3.png)|
+|![Table 1-1](/ea/assets/images/images.pub.17/table.1.1.png)|
+|![Table 1-3](/ea/assets/images/images.pub.17/table.1.3.png)|
 
 <hr class="red">
 
@@ -426,7 +426,7 @@ layout: post
 
 |When To File|
 |:-:|
-|![Table 1.5](/irs.ea/assets/images/images.pub.17/table.1.5.png)|
+|![Table 1.5](/ea/assets/images/images.pub.17/table.1.5.png)|
 
 - LATE Filing    
  : Penalities and Interest: Interest is charged from the due date of your return, even if you get an extension.  Penalities (failure-to-file penalty) is ~5% for each month or part of a month that it is late, but not more 25%.  

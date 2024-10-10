@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IRS Doc No & Title
+title: IRS Doc & Title
 ---
 
 <script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>
@@ -10,9 +10,9 @@ title: IRS Doc No & Title
 |---|---| 
 | [f1040es](/ea/others/view.f1040es) | Form 1040-ES, Estimated Tax for Individuals |
 | [f1040s1](/ea/others/view.f1040s1) | Additional Income and Adjustments to Income |
-| [f1040s2](/ea/others/view.f1040s2) | Additional Taxes |
-| [f1040s3](/ea/others/view.f1040s3) | Additional Credits and Payments |
-| [f1040s](/ea/others/view.f1040s) | US Tax Return for Seniors |
+| [f1040s2](/ea/others/view.f1040s2) | Additional Taxes, Schedule 2 |
+| [f1040s3](/ea/others/view.f1040s3) | Additional Credits and Payments, Schedule 3 |
+| [f1040s(r)](/ea/others/view.f1040s) | US Tax Return for Seniors |
 | [f1040x](/ea/others/view.f1040x) | Amended US Individual Income Tax Return |
 | [f1041](/ea/others/view.f1041) | US Income Tax Return for Estates and Trusts |
 | [f1065](/ea/others/view.f1065) | US Return of Partnership Income |
