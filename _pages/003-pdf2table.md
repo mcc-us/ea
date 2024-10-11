@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IRS Doc & Title
+title: IRS Doc and Title
 ---
 
 <script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>
