@@ -261,16 +261,3 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --c-danger-title: #c00;
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
-
-.pdf-container {
-    width: 100%;
-    height: auto;
-    max-width: 100%;
-    overflow: hidden;
-}
-
-.pdf-container iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
-}
