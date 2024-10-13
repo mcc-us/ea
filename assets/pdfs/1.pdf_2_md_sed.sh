@@ -1,22 +1,24 @@
 #!/bin/bash
 
+# 1. PRODUCE PDF/Name markdown file
+
 # Define the output filename
 output_file="1.pdf2table.md"
 
 # Create the empty markdown file
 touch "$output_file"
 
-# Build initial content
+# Build header content
 content="---\n"
 content+="layout: post\n"
 content+="title: IRS Doc No & Title\n"
 content+="---\n\n"
 content+="<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>\n"
-content+="<button onclick="button1()">Goto IRS Pubs</button>\n\n"
+content+="<button onclick=\"button1()\">Goto IRS Pubs</button>\n\n"
 content+="| Doc # | Title |\n"
 content+="|---|---|\n"  # Separator line
 
-# Get all PDF files in the current directory
+# Get list of all PDF files in the current directory
 pdf_files=( *.pdf )
 
 # Loop through each PDF file
@@ -34,6 +36,7 @@ done
 
 # Write the final content to the markdown file
 echo -e "$content" >> "$output_file"
+echo "Made Table"
 
 #-----------------------------------
 
@@ -48,9 +51,11 @@ fi
 
 #-----------------------------------------
 
-# Define the strings to replace, PHASE 1
+# 2. REPLACE STRINGS
+
+# Define the strings to replace
 old_string="Subject:         "
-new_string=""  # Empty string to replace with
+new_string=""  # Empty string
 
 # Perform the replacement using sed with in-place editing (-i) flag
 sed -i "s/$old_string/$new_string/g" "$file"
@@ -62,9 +67,9 @@ new_string="Instructions:"  # Empty string to replace with
 # Perform the replacement using sed with in-place editing (-i) flag
 sed -i "s/$old_string/$new_string/g" "$file"
 
-# Perform the replacement using sed with in-place editing (-i) flag
+# Replace U.S. with US
 sed -i "s/"U.S."/"US"/g" "$file"
 
+echo "Replaced Strings"
 
-# Inform about completion
-#echo "Successfully replaced '$old_string' with '$new_string' in '$file'"
+

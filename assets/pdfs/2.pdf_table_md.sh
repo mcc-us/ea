@@ -12,7 +12,7 @@ content+="layout: post\n"
 content+="title: IRS Doc No & Title\n"
 content+="---\n\n"
 content+="<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>\n"
-content+="<button onclick="button1()">Goto IRS Pubs</button>\n\n"
+content+="<button onclick=\"button1()\">Goto IRS Pubs</button>\n\n"
 content+="| Doc # | Title |\n"
 content+="|---|---|\n"  # Separator line
 
