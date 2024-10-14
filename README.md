@@ -15,7 +15,7 @@ function button5() { window.open("https://www.irs.gov/pub/irs-pdf/p17.pdf"); }
 | **IRS Information** |
 |:-|
 | <button onclick="button2()">Open: irs-pubs</button> &nbsp;&nbsp;&nbsp; Find IRS Pubs & Forms|
-| <button onclick="button5()">Pub17 Notes</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
+| <button onclick="button5()">Pub17</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
 | <button onclick="button3()">Open: irs-ita</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS Info chatbot|
 | <button onclick="button4()">Open: Title 26</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title 26 Code |
 | <button onclick="button1()">Open: EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
