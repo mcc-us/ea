@@ -1,5 +1,5 @@
 ---
-title: Data breachs 
+title: Data Breachs 
 layout: post
 ---
 
