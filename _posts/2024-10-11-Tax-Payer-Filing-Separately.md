@@ -21,6 +21,8 @@ Correct Answer Explanation for C:
 
 Lacie cannot use the standard deduction; she must itemize her deductions. This is because the spouses are both filing MFS. If one spouse itemizes deductions, the other spouse is also forced to itemize. This rule only applies if both spouses are filing MFS.
 
+<hr class="red">
+
 2. Question ID: 94815950 (Topic: Taxpayer Filing Status)
 
 Jillian and Olden were married on February 20, 2023 and lived together all year. On January 2, 2024, Jillian moves out of the marital home and files for an annulment on the basis of fraud. Her annulment is granted on February 28, 2024. Neither taxpayer has any dependents. What is Jillian’s filing status for 2023?
@@ -37,6 +39,8 @@ This question is answered correctly on the first attempt by 79% of students.
 Correct Answer Explanation for A:
 
 Jillian must file as single. Unlike a divorce, an annulment is retroactive. A court decree of annulment holds that no valid marriage ever existed. Therefore, the taxpayer is considered unmarried even if she filed joint returns for earlier years. The taxpayer must file amended tax returns claiming single or HOH status (if applicable) for each tax year affected by the annulment that is not closed by the statute of limitations for filing a tax return. The statute of limitations generally does not end until three years after the original return was filed.
+
+<hr class="red">
 
 3. Question ID: 95405078 (Topic: Taxpayer Filing Status)
 
@@ -62,6 +66,8 @@ Second year after death 	QSS
 Third and subsequent years after death 	HOH or single
 
 See the IRS tutorial page on filing status.
+
+<hr class="red">
 
 4. Question ID: 94815995 (Topic: Taxpayer Filing Status)
 

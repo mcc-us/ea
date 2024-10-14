@@ -20,7 +20,7 @@ Correct Answer Explanation for B:
 
 Tammy is required to use the "Married Filing Separate" filing status on her final return. That is the only filing status permitted in this scenario. Taxpayers whose spouses died during the tax year are considered married for the entire year, provided they did not remarry. Since Hector remarried in the same year that his previous wife died, then the deceased spouse’s filing status becomes Married Filing Separately. The executor of Tammy's estate (whether it is her surviving spouse or someone else named in her final will) would be responsible for Tammy's final return.
 
----
+<hr class="red">
 
 11. Question ID: 94815938 (Topic: Taxpayer Filing Status)
 
@@ -45,7 +45,7 @@ Marital status is typically determined as of the last day of the tax year. Howev
 - The taxpayer's marriage was annulled with an official court decree of annulment.
 - The taxpayer is still legally married, but was "considered unmarried" for the purpose of qualifying for the Head of Household filing status.
 
----
+<hr class="red">
 
 13. Question ID: 94815907 (Topic: Taxpayer Filing Status)
 
@@ -75,7 +75,7 @@ There are exceptions for temporary absences, such as school, and for a qualifyin
 - Maintain the home as the main residence of a qualifying child, stepchild, or foster child for more than half the year.
 - Be able to claim an exemption for the child (although there is an exception for divorced parents).
 
----
+<hr class="red">
 
 16. Question ID: 94815995 (Topic: Taxpayer Filing Status)
 
@@ -94,7 +94,7 @@ Correct Answer Explanation for A:
 
 Ruth may choose to file as either Married Filing Jointly or Married Filing Separately. For tax purposes, she is considered married to her deceased spouse during the entire year because she did not remarry.
 
----
+<hr class="red">
 
 18. Question ID: 94816045 (Topic: Taxpayer Filing Status)
 
@@ -113,7 +113,7 @@ Correct Answer Explanation for B:
 
 Marnie can only file Single. Juniper is Marnie's qualifying relative dependent, only because she lived with Marnie all year as a member of her household. This means that Marnie can claim Juniper as a dependent on her return. However, Juniper is not a qualifying person for Head of Household filing status because she is not related to Marnie in one of the ways that is required for Head of Household status (i.e., is one of the following: a child, stepchild, foster child, or a descendant of any of them; your sibling, half-sibling, or a son or daughter of any of them; an ancestor or sibling of your father or mother; or stepbrother, stepsister, stepfather, stepmother, son-in-law, daughter in-law, father-in-law, mother-in-law, brother-in law or sister-in-law). See guidance in Publication 4491, Who Is a Qualifying Person Qualifying You To File as Head of Household?
 
----
+<hr class="red">
 
 22. Question ID: 94815918 (Topic: Taxpayer Filing Status)
 
@@ -132,7 +132,7 @@ Correct Answer Explanation for C:
 
 For federal tax purposes, civil unions and registered domestic partnerships are not recognized as legal marriages. The taxpayers must file as single. If Sarah and Daria were to get married at a later date, they would be required to file MFS or MFJ. To see more information about how Registered Domestic Partnerships and Civil Unions are treated for federal tax purposes, see the official IRS FAQ page. 
 
----
+<hr class="red">
 
 1. Question ID: 94850152 (Topic: Filing Requirements and Due Date)
 
@@ -153,7 +153,7 @@ If Emilio gets his 2020 amended return postmarked on or before April 15, 2024, (
 
 Note: There are a few exceptions to the three-year limit on the IRS Statute of Limitations on refunds. For example, a taxpayer has a longer period of time to claim a loss on a bad debt or worthless security, or for a foreign tax credit or deduction. 
 
----
+<hr class="red">
 
 2. Question ID: 94815842 (Topic: Taxpayer Filing Status)
 
@@ -172,7 +172,7 @@ Correct Answer Explanation for B:
 
 Lacie cannot use the standard deduction; she must itemize her deductions. This is because the spouses are both filing MFS. If one spouse itemizes deductions, the other spouse is also forced to itemize. This rule only applies if both spouses are filing MFS.
 
----
+<hr class="red">
 
 3. Question ID: 94850116 (Topic: Use of Prior Years' Returns)
 
@@ -199,7 +199,7 @@ Since Layla had zero tax liability on her prior-year return, she is not required
 
 Note: There is a higher “safe harbor” threshold for higher-income taxpayers. For taxpayers with adjusted gross income of over \$150,000 ($75,000 if married filing separately), the threshold for the amount owed would be 110% of the previous year's tax liability rather than 100%. See the dedicated IRS page for estimated taxes for more information.
 
----
+<hr class="red">
 
 4. Question ID: 95405078 (Topic: Taxpayer Filing Status)
 
@@ -226,7 +226,7 @@ Third and subsequent years after death 	HOH or single
 
 See the IRS tutorial page on filing status.
 
----
+<hr class="red">
 
 5. Question ID: 94815892 (Topic: Taxpayer Personal Information)
 
@@ -245,7 +245,7 @@ Correct Answer Explanation for A:
 
 She must fill out a W-7 application form to request an ITIN, and submit it to the IRS along with a completed tax return. A W-7 Form is used to apply for an individual taxpayer identification number, or ITIN, for nonresidents who are not eligible to receive a Social Security Number. It takes approximately 12 weeks for the IRS to process and issue an ITIN, which will be sent to the taxpayer by mail.
 
----
+<hr class="red">
 
 7. Question ID: 94850128 (Topic: Marriage Divorce and Injured and Innocent Spouse)
 
@@ -268,7 +268,7 @@ Correct Answer Explanation for A:
 - You are widowed, or
 - You have not been a member of the same household as the spouse with whom you filed the joint return at any time during the 12-month period ending on the date you request relief.
 
----
+<hr class="red">
 
 8. Question ID: 94815824 (Topic: Taxpayer Filing Status)
 
@@ -289,7 +289,7 @@ Camilla may file as Married Filing Separately or as Head of Household. This is b
 
 To be "considered unmarried" at the end of a tax year, the taxpayer's spouse may not be a member of the household for the last 6 months of the tax year and the taxpayer must also have a qualifying dependent. In this scenario, Camilla's home must have been the main home of a child, stepchild, or foster child for more than half the year. Since her son lived with her all year, then she would qualify. She cannot file jointly (MFJ) with her estranged husband because, as the question states, he refuses to file jointly with her. In the case of an MFJ return, both spouses must agree to file jointly and sign the return. 
 
----
+<hr class="red">
 
 9. Question ID: 94850155 (Topic: Filing Requirements and Due Date)
 
@@ -310,7 +310,7 @@ The IRS must assess additional tax within three years from the received date of 
 
 Note: There are some instances when the IRS has a longer time period to assess additional tax. If you omitted more than 25% of your gross income from a tax return, the time the IRS can assess additional tax increases from three to six years from the date your tax return was filed. On a fraudulent return, the IRS has an unlimited amount of time to assess tax.
 
----
+<hr class="red">
 
 10. Question ID: 94850118 (Topic: Marriage Divorce and Injured and Innocent Spouse)
 
@@ -329,7 +329,7 @@ Correct Answer Explanation for D:
 
 Rebekah can request injured spouse relief in order to recover her portion of the refund. If a taxpayer files a joint return and is not responsible for the debt, but is entitled to a portion of the refund, the injured spouse may request their portion of the refund by filing Form 8379, Injured Spouse Allocation.  For more information, refer to Topic No. 203, Reduced Refund, and the Instructions for Form 8379, Injured Spouse Allocation
 
----
+<hr class="red">
 
 12. Question ID: 95850119 (Topic: Use of Prior Years' Returns)
 
@@ -361,7 +361,7 @@ Explanation for C:
 
 If any errors or omissions are discovered on a prior-year return, the preparer is required by law to inform the taxpayer of the mistake and explain the potential consequences if it is not corrected. Tax practitioners have a legal duty to promptly disclose to a client errors they discover in the client’s previously filed tax returns. However, the preparer is not obligated to fix the error.
 
----
+<hr class="red">
 
 14. Question ID: 97091963 (Topic: Taxpayer Filing Status)
 
@@ -380,7 +380,7 @@ Correct Answer Explanation for A:
 
 A parent is the only dependent relative who does not have to live with Daniel for him to claim “head of household” status. In order to file for head of household, the “qualifying person” must be one of the following: a birth child, adopted child, grandchild, stepchild, foster child, brother, sister, half-brother, half-sister, stepbrother, stepsister, or a descendant of any of those, or a parent. The qualifying person must also LIVE WITH the taxpayer (unless the absence is temporary). The only exception to the “residency test” is a parent, who does not have to live with the taxpayer. A cousin does not qualify because they do not meet the relationship test. The adopted child does not qualify because the child lived with the taxpayer for less than one-half of the year.
 
----
+<hr class="red">
 
 15. Question ID: 94850108 (Topic: Estimated Taxes and Penalty Avoidance)
 
@@ -399,7 +399,7 @@ Correct Answer Explanation for D:
 
 Kyle and Jenna need to adjust their withholding. They can use the Tax Withholding Estimator at IRS.gov and then adjust their withholding with their employer. Taxpayers who need to change the amount of tax withheld from their paychecks need to complete a Form W-4 and give it to their employer. The Form W-4 is not filed with the IRS.
 
----
+<hr class="red">
 
 17. Question ID: 94815894 (Topic: Taxpayer Filing Status)
 
@@ -418,7 +418,7 @@ Correct Answer Explanation for A:
 
 Halton, whose annulment was finalized on January 10, 2024 would be considered UNMARRIED for all of 2023 as well as any prior years. Unlike divorce, which is the dissolution of a valid marriage, an annulment is retroactive and nullifies the marriage contract. If you obtain a court decree of annulment, which holds that no valid marriage ever existed, you are considered unmarried even if you filed joint returns for earlier years.
 
----
+<hr class="red">
 
 19. Question ID: 94850130 (Topic: Marriage Divorce and Injured and Innocent Spouse)
 
@@ -437,7 +437,7 @@ Correct Answer Explanation for C:
 
 If the taxpayer requesting relief still lives with his or her spouse, it would be unfavorable, rather than favorable. “Equitable relief” is designed to provide tax relief from spousal liability (if a taxpayer can't get tax relief under innocent spouse relief or separation of liability). Equitable relief is offered by the IRS to those taxpayers that don't qualify for innocent spouse relief or relief by separation of liability. With equitable relief cases, the IRS looks to see if it would be unfair to hold the taxpayer liable for the taxes even if the taxpayer does not qualify for the other two forms of relief. 
 
----
+<hr class="red">
 
 20. Question ID: 94815949 (Topic: Taxpayer Filing Status)
 
@@ -456,7 +456,7 @@ Correct Answer Explanation for C:
 
 In the year of his wife’s death, Pavlo was entitled to file a joint return for himself and his deceased wife. For 2023, he can file as Qualifying surviving spouse (QSS). After 2023, he can file as Head of Household if he still qualifies.
 
----
+<hr class="red">
 
 21. Question ID: 94849889 (Topic: Marriage Divorce and Injured and Innocent Spouse)
 
@@ -475,7 +475,7 @@ Correct Answer Explanation for A:
 
 Orville may request injured spouse relief to recover his portion of the refund. If a taxpayer files a joint return and all or part of their share of the refund is applied against the other spouse’s past-due federal tax, state income tax, child or spousal support, or federal nontax debt, such as a student loan, the "injured" spouse may be entitled to relief by filing Form 8379, Injured Spouse Allocation. 
 
----
+<hr class="red">
 
 23. Question ID: 94850315 (Topic: Estimated Taxes and Penalty Avoidance)
 
@@ -493,10 +493,11 @@ This question is answered correctly on the first attempt by 90% of students.
 Correct Answer Explanation for B:
 
 Her first estimated payment would be due April 15. A self-employed taxpayer's first estimated payment is generally due April 15. Estimated tax payments for individuals are due as follows:
-– January 1 to March 31 payment is due April 15.
-– April 1 to May 31 payment is due June 15.
-– June 1 to August 31 payment is due September 15.
-– September 1 to December 31 payment is due January 15 of the following year.
+- January 1 to March 31 payment is due April 15.
+- April 1 to May 31 payment is due June 15.
+- June 1 to August 31 payment is due September 15.
+- September 1 to December 31 payment is due January 15 of the following year.
+
 When to Pay Estimated Tax
 Payment Period 	Due Date
 January 1 – March 31 	April 15
@@ -506,7 +507,7 @@ September 1 – December 31 	January 15* of the following year. *See Chapter 2 o
 
 Note: There are special exceptions to the estimated tax due dates for Farmers and Fishermen. For more information about the rules for estimated taxes, see the IRS page for Top Frequently Asked Questions for Estimated Tax.
 
----
+<hr class="red">
 
 24. Question ID: 94816035 (Topic: Taxpayer Filing Status)
 
@@ -525,7 +526,7 @@ Correct Answer Explanation for B:
 
 Both taxpayers must file a return, because they have chosen to file MFS, and the filing threshold for MFS filers is only $5. Married filing separately is a tax status for couples who choose to record their incomes, exemptions, and deductions on separate tax returns.
 
----
+<hr class="red">
 
 25. Question ID: 94816006 (Topic: Taxpayer Filing Status)
 
