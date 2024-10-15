@@ -7,10 +7,10 @@ layout: post
 
 Tammy and Hector are married and have always filed jointly. They have no children or other dependents. Tammy dies on March 4. Hector remarries on November 30, to Jennifer. Jennifer and Hector plan to file jointly. Before Tammy's death on March 4, she had earned $27,000 in wages. What is Tammy's filing status (the deceased spouse) on her final Form 1040?
 
-A. Married Filing Jointly
-B. Married Filing Separate correct
-C. Qualifying Surviving Spouse
-D. Single
+A. Married Filing Jointly  
+B. **Married Filing Separate correct**  
+C. Qualifying Surviving Spouse  
+D. Single  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -26,10 +26,10 @@ Tammy is required to use the "Married Filing Separate" filing status on her fina
 
 For the purpose of determining filing status, which of the following taxpayers would be treated as an unmarried individual for the entire tax year?
 
-A. Opal, whose marriage was annulled, but not until January 1 of the following tax year. correct
-B. Thomas, whose spouse died in March of the tax year.
-C. Paula, who got married to Danny on December 31 of the current tax year.
-D. Halle, who is married and lives apart from her spouse.
+A. **Opal, whose marriage was annulled, but not until January 1 of the following tax year. correct**  
+B. Thomas, whose spouse died in March of the tax year.  
+C. Paula, who got married to Danny on December 31 of the current tax year.  
+D. Halle, who is married and lives apart from her spouse.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -52,7 +52,7 @@ Marital status is typically determined as of the last day of the tax year. Howev
 Dinah is legally married but has lived apart from her husband since May 1. She has not filed for divorce or legal separation. She provided 80% of the support for her three children who lived with her all year. Which of the following statements is correct?
 
 A. She must file as married filing separately.
-B. She qualifies for head of household filing status.correct
+B. **She qualifies for head of household filing status. correct**
 C. She must file as married filing jointly.
 D. She must file as married filing separately or married filing jointly.
 
@@ -81,7 +81,7 @@ There are exceptions for temporary absences, such as school, and for a qualifyin
 
 Ruth and Peter were married on January 9, 2023. Peter died suddenly on November 10, 2023. Ruth did not remarry during the year. She has no dependents. What filing status is available to her?
 
-A. She can choose to file Married Filing Jointly OR Married Filing Separately.correct
+A. **She can choose to file Married Filing Jointly OR Married Filing Separately. correct**
 B. Qualifying surviving spouse (QSS) 
 C. Married Filing Jointly.
 D. She can choose to file Single or as a Qualifying surviving spouse (QSS) 
@@ -100,10 +100,10 @@ Ruth may choose to file as either Married Filing Jointly or Married Filing Separ
 
 Since her husband died four years ago, Juniper has lived with her best friend, Marnie, who is also a widow. Juniper is a U.S. citizen and lived with Marnie all year. Juniper had no income and received all of her support from Marnie. Juniper is Marnie's dependent because she lived with Marnie all year as a member of her household. Marnie earned $47,000 in wages during the year. What is Marnie's filing status?
 
-A. Married Filing Jointly
-B. Single correct correct
-C. Head of Household
-D. Qualifying Surviving Spouse
+A. Married Filing Jointly  
+B. **Single correct**  
+C. Head of Household  
+D. Qualifying Surviving Spouse  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -119,10 +119,10 @@ Marnie can only file Single. Juniper is Marnie's qualifying relative dependent, 
 
 Sarah and Daria are registered domestic partners (RDPs) living in California. What is their filing status for federal tax purposes?
 
-A. Married filing jointly or married filing separately.
-B. Married filing jointly.
-C. Single. correct
-D. Single, married filing jointly, or married filing separately.
+A. Married filing jointly or married filing separately.  
+B. Married filing jointly.  
+C. Single. correct**  
+D. Single, married filing jointly, or married filing separately.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -138,10 +138,10 @@ For federal tax purposes, civil unions and registered domestic partnerships are 
 
 Emilio's 2020 tax return was due April 15, 2021. He filed it early, on January 23, 2021. Later, he finds an error on the return, and wants to amend it, expecting the correction to result in a refund. If he gets it postmarked on or before _____________ he will receive a refund from the IRS.
 
-A. January 23, 2024
-B. January 23, 2025
-C. April 15, 2025
-D. April 15, 2024 correct
+A. January 23, 2024  
+B. January 23, 2025  
+C. April 15, 2025  
+D. **April 15, 2024 correct**  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -159,10 +159,10 @@ Note: There are a few exceptions to the three-year limit on the IRS Statute of L
 
 Lacie and Grant are married and live together all year. They have no dependents. They have always kept their finances separate and choose to file as Married Filing Separately. Grant will be itemizing his deductions this year. What must Lacie do on her MFS tax return?
 
-A. Lacie may use the standard deduction or she may itemize her deductions.
-B. Lacie cannot use the standard deduction; she must itemize her deductions. correct
-C. Lacie's itemized deductions must be zero.
-D. Lacie must use the standard deduction; she cannot itemize her deductions.
+A. Lacie may use the standard deduction or she may itemize her deductions.  
+B. **Lacie cannot use the standard deduction; she must itemize her deductions. correct**  
+C. Lacie's itemized deductions must be zero.  
+D. Lacie must use the standard deduction; she cannot itemize her deductions.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -178,10 +178,10 @@ Lacie cannot use the standard deduction; she must itemize her deductions. This i
 
 Layla is self-employed and expects to owe $2,500 of taxes for 2023. Her tax liability for the prior tax year was zero because her Schedule C business had a loss in the prior year. Which of the following statements is correct?
 
-A. Layla is not required to pay estimated taxes. correct
-B. Layla is required to pay estimated taxes.
-C. Layla is required to pay the full amount due before December 31 or she will be subject to an estimated tax penalty.
-D. Layla must pay at least \$1,500 of estimated tax during the year, so she can be under the safe harbor threshold of $1,000 for the year.
+A.**Layla is not required to pay estimated taxes. correct**  
+B. Layla is required to pay estimated taxes.  
+C. Layla is required to pay the full amount due before December 31 or she will be subject to an estimated tax penalty.  
+D. Layla must pay at least \$1,500 of estimated tax during the year, so she can be under the safe harbor threshold of $1,000 for the year.  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -194,8 +194,8 @@ Since Layla had zero tax liability on her prior-year return, she is not required
 - The taxpayer expects to owe at least $1,000 in tax after subtracting withholding and credits.
 - The taxpayer expects the amount owed after withholding and credits to be less than the smaller of:
 
-    - 90% of the tax to be shown on the current year tax return, or
-    - 100% of the tax shown on the prior-year tax return.
+     - 90% of the tax to be shown on the current year tax return, or
+     - 100% of the tax shown on the prior-year tax return.
 
 Note: There is a higher “safe harbor” threshold for higher-income taxpayers. For taxpayers with adjusted gross income of over \$150,000 ($75,000 if married filing separately), the threshold for the amount owed would be 110% of the previous year's tax liability rather than 100%. See the dedicated IRS page for estimated taxes for more information.
 
@@ -205,10 +205,10 @@ Note: There is a higher “safe harbor” threshold for higher-income taxpayers.
 
 Jennie's husband, Odin, died on January 30, 2022 (last year). Jennie filed jointly with her deceased husband in 2022, the year of his death. Jennie has one dependent son, age 15. Jennie did not remarry in 2023. What is her most beneficial filing status in 2023?
 
-A. Married Filing Separate
-B. Head of Household
-C. Qualifying Surviving Spouse (QSS) correct
-D. Single 
+A. Married Filing Separate  
+B. Head of Household  
+C. **Qualifying Surviving Spouse (QSS) correct**  
+D. Single  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -232,10 +232,10 @@ See the IRS tutorial page on filing status.
 
 Jamila is a nonresident alien that owns a rental property in the US that she inherited from her brother, who was a green-card holder. Jamila must file a U.S. tax return, but she is not eligible for a Social Security Number. What must she do?
 
-A. She must fill out a W-7 application form for an ITIN, and submit it to the IRS along with a completed tax return. correct
-B. She must fill out a W-7 form for an ATIN, and submit it to the IRS along with a completed tax return.
-C. She must fill out a W-9 application form for an ITIN, and submit it to the IRS along with a completed tax return.
-D. She must fill out a W-7 application form for an EIN, and submit it to the IRS along with a completed tax return.
+A. **She must fill out a W-7 application form for an ITIN, and submit it to the IRS along with a completed tax return. correct**  
+B. She must fill out a W-7 form for an ATIN, and submit it to the IRS along with a completed tax return.  
+C. She must fill out a W-9 application form for an ITIN, and submit it to the IRS along with a completed tax return.  
+D. She must fill out a W-7 application form for an EIN, and submit it to the IRS along with a completed tax return.  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -251,10 +251,10 @@ She must fill out a W-7 application form to request an ITIN, and submit it to th
 
 "Separation of liability” relief does NOT apply to taxpayers who are:
 
-A. Married taxpayers who are living in the same household. correct
-B. No longer married.
-C. Living apart for the 12 months prior to the filing of a claim.
-D. Legally separated.
+A. **Married taxpayers who are living in the same household. correct**  
+B. No longer married.  
+C. Living apart for the 12 months prior to the filing of a claim.  
+D. Legally separated.  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -274,10 +274,10 @@ Correct Answer Explanation for A:
 
 Camilla and Ryan are married. Ryan leaves Camilla on March 5, 2023, and moves out. Camilla pays all of the expenses relating to their 5-year-old son, who lives with her all year. Ryan refuses to file jointly with Camilla but also refuses to file for divorce or legal separation. What filing status is available to Camilla?
 
-A. She can choose Married Filing Jointly or Single.
-B. She can choose Single or Married Filing Separately.
-C. She can choose to file Head of Household or Married Filing Separately. correct
-D. She can choose to file Married Filing Jointly or Head of household.
+A. She can choose Married Filing Jointly or Single.  
+B. She can choose Single or Married Filing Separately.  
+C. **She can choose to file Head of Household or Married Filing Separately. correct**
+D. She can choose to file Married Filing Jointly or Head of household.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -295,10 +295,10 @@ To be "considered unmarried" at the end of a tax year, the taxpayer's spouse may
 
 Percy filed his 2020 tax return late. He didn't file it until December 1, 2023. How long does the IRS have to audit the return and assess additional tax after Percy filed it?
 
-A. The IRS must assess additional tax within six years from the received date of Percy's tax return.
-B. The IRS must assess additional tax within eighteen months from the original due date of the return.
-C. The IRS must assess additional tax within two years after Percy files it.
-D. The IRS must assess additional tax within three years from the received date of Percy's tax return. correct
+A. The IRS must assess additional tax within six years from the received date of Percy's tax return.  
+B. The IRS must assess additional tax within eighteen months from the original due date of the return.  
+C. The IRS must assess additional tax within two years after Percy files it.  
+D. **The IRS must assess additional tax within three years from the received date of Percy's tax return. correct**  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -316,10 +316,10 @@ Note: There are some instances when the IRS has a longer time period to assess a
 
 Rebekah filed a joint tax return with her new husband, Noah, and the entire refund was applied to Noah’s overdue student loans. What form should Rebekah file, in order to receive her portion of the refund?
 
-A. CP 2000.
-B. Form 656.
-C. Form 8857.
-D. Form 8379. correct
+A. CP 2000.  
+B. Form 656.  
+C. Form 8857.  
+D. **Form 8379. correct**  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -335,10 +335,10 @@ Rebekah can request injured spouse relief in order to recover her portion of the
 
 A tax preparer has discovered a significant error on their client's prior-year return, but the client does not want to pay for an amended tax return. What is the preparer's responsibility, in this scenario?
 
-A. If the client refuses to correct the error, the preparer must always disengage from the client.
-B. Tax practitioners are obligated to fix any errors they discover on a prior-year return.
-C. If the client refuses to correct the error, the preparer must report the error to the IRS anonymously.
-D. The preparer must inform the taxpayer of the error and its potential consequences. However, the preparer is not obligated to correct the error. correct
+A. If the client refuses to correct the error, the preparer must always disengage from the client.  
+B. Tax practitioners are obligated to fix any errors they discover on a prior-year return.  
+C. If the client refuses to correct the error, the preparer must report the error to the IRS anonymously.  
+D. **The preparer must inform the taxpayer of the error and its potential consequences. However, the preparer is not obligated to correct the error. correct**  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -367,10 +367,10 @@ If any errors or omissions are discovered on a prior-year return, the preparer i
 
 Daniel is divorced and earns $70,000 in wages. He has several relatives which he supports. These relatives do not all live with him, but none earn any income. Which dependent relative may qualify Daniel for head of household filing status?
 
-A. A parent who lives in a retirement home, and not with Daniel. correct
-B. A foster child who lived with Daniel for 3 months of the tax year.
-C. A cousin who lives with Daniel all year.
-D. An adult stepdaughter who lives in her own apartment who is supported by Daniel.
+A. **A parent who lives in a retirement home, and not with Daniel. correct**  
+B. A foster child who lived with Daniel for 3 months of the tax year.  
+C. A cousin who lives with Daniel all year.  
+D. An adult stepdaughter who lives in her own apartment who is supported by Daniel.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -386,10 +386,10 @@ A parent is the only dependent relative who does not have to live with Daniel fo
 
 Kyle and Jenna are married and file jointly. They both work full time for a department store. They have a $1,500 balance due on their joint return and want advice on how to prevent a balance due next year. What would help them avoid balance due in future years?
 
-A. They should adjust their withholding by filing a Form W-4 with the IRS.
-B. They can ask for fewer hours through their employer.
-C. One of them can quit their jobs.
-D. They need to adjust their withholding using Form W-4, then give the form to their employer. correct
+A. They should adjust their withholding by filing a Form W-4 with the IRS.  
+B. They can ask for fewer hours through their employer.  
+C. One of them can quit their jobs.  
+D. **They need to adjust their withholding using Form W-4, then give the form to their employer. correct**  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -405,10 +405,10 @@ Kyle and Jenna need to adjust their withholding. They can use the Tax Withholdin
 
 For the purpose of determining filing status, which of the following taxpayers would be considered unmarried for the entire tax year and must file SINGLE in 2023? (None of the taxpayers listed below have any dependents).
 
-A. Halton, whose annulment was finalized on January 10, 2024. correct
-B. Terrance, whose spouse died on February 1, 2023.
-C. Gregory, who got married on June 1, 2023 to a nonresident alien.
-D. Crystal, who got married on December 25, 2023.
+A. **Halton, whose annulment was finalized on January 10, 2024. correct**  
+B. Terrance, whose spouse died on February 1, 2023.  
+C. Gregory, who got married on June 1, 2023 to a nonresident alien.  
+D. Crystal, who got married on December 25, 2023.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -424,10 +424,10 @@ Halton, whose annulment was finalized on January 10, 2024 would be considered UN
 
 According to the IRS, which of the following factors do NOT weigh in favor of the IRS approving equitable relief?
 
-A. Abuse by the spouse or former spouse.
-B. Poor mental or physical health on the date the taxpayer signed the return or requested relief.
-C. The taxpayer requesting relief still living with his or her spouse. correct
-D. None of the above.
+A. Abuse by the spouse or former spouse.  
+B. Poor mental or physical health on the date the taxpayer signed the return or requested relief.  
+C. **The taxpayer requesting relief still living with his or her spouse. correct**
+D. None of the above.  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -443,10 +443,10 @@ If the taxpayer requesting relief still lives with his or her spouse, it would b
 
 Pavlo's wife died in 2021. He has not remarried. During 2023, he continued to keep up a home for himself and his seven-year-old son, Barron, who lives with him and for whom he can claim as a dependent. What is Pavlo's most advantageous filing status for the year?
 
-A. Single.
-B. Married Filing Jointly.
-C. Qualifying surviving spouse (QSS) correct
-D. Head of Household.
+A. Single.  
+B. Married Filing Jointly.  
+C. **Qualifying surviving spouse (QSS) correct**  
+D. Head of Household.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -462,9 +462,9 @@ In the year of his wife’s death, Pavlo was entitled to file a joint return for
 
 Yolanda and Orville were married on November 1, 2023. Unknown to Orville, Yolanda had delinquent student loans totaling more than $80,000. They filed their joint tax return on March 1, 2024, and their entire refund was offset to pay Yolanda's delinquent student loan debt. Does Orville have any recourse in this case?
 
-A. Orville may request injured spouse relief. correct
-B. Orville may request equitable spouse relief.
-C. Orville may request a Collection Due Process (CDP) hearing.
+A. **Orville may request injured spouse relief. correct**  
+B. Orville may request equitable spouse relief.  
+C. Orville may request a Collection Due Process (CDP) hearing.  
 D. Orville may request innocent spouse relief.
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
@@ -473,7 +473,7 @@ This question is answered correctly on the first attempt by 74% of students.
 
 Correct Answer Explanation for A:
 
-Orville may request injured spouse relief to recover his portion of the refund. If a taxpayer files a joint return and all or part of their share of the refund is applied against the other spouse’s past-due federal tax, state income tax, child or spousal support, or federal nontax debt, such as a student loan, the "injured" spouse may be entitled to relief by filing Form 8379, Injured Spouse Allocation. 
+Orville may request injured spouse relief to recover his portion of the refund. If a taxpayer files a joint return and all or part of their share of the refund is applied against the other spouse’s past-due federal tax, state income tax, child or spousal support, or federal non-tax debt, such as a student loan, the "injured" spouse may be entitled to relief by filing Form 8379, Injured Spouse Allocation. 
 
 <hr class="red">
 
@@ -481,10 +481,10 @@ Orville may request injured spouse relief to recover his portion of the refund. 
 
 Elena is a self-employed bookkeeper. She reports her income on Schedule C. Her business is profitable, and she is required to make estimated payments throughout the year. When is her first estimated payment due?
 
-A. March 15.
-B. April 15. correct
-C. May 1.
-D. January 1.
+A. March 15.  
+B. **April 15. correct**  
+C. May 1.  
+D. January 1.  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -513,10 +513,10 @@ Note: There are special exceptions to the estimated tax due dates for Farmers an
 
 Greta and Johnny are married. Greta is 70 and had a gross income of \$12,000 in wages for the tax year. Johnny is 75, and his gross income was $4,000 for the year, and it was all Social Security. Johnny is also legally blind. They plan to file separate tax returns (MFS). Do they have a filing requirement?
 
-A. Only Greta must file a return. Johnny is not required to file. 
-B. Yes, both must file, because they have chosen to file separate returns (MFS). correct
-C. Only Johnny must file a return. Greta is not required to file, because her only income is from wages.
-D. Neither has to file a return, because they are both senior citizens.
+A. Only Greta must file a return. Johnny is not required to file.  
+B. **Yes, both must file, because they have chosen to file separate returns (MFS). correct**  
+C. Only Johnny must file a return. Greta is not required to file, because her only income is from wages.  
+D. Neither has to file a return, because they are both senior citizens.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -532,10 +532,10 @@ Both taxpayers must file a return, because they have chosen to file MFS, and the
 
 Torie's husband died on January 5, 2022. She has not remarried during 2023, but she has a 15-year-old dependent daughter. Torie's filing status in 2023 should be:
 
-A. Qualifying surviving spouse (QSS) correct
-B. Single
-C. Married filing jointly
-D. Head of household
+A. **Qualifying surviving spouse (QSS) correct**  
+B. Single  
+C. Married filing jointly  
+D. Head of household  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
