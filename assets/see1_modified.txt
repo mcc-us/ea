@@ -1,121 +1,121 @@
-﻿Domain 1: Preliminary Work and Taxpayer Data 14 Questions
+﻿Domain 1: Preliminary Work & Taxpayer Data, 14 Questions
 
 1.1. Preliminary work to prepare tax returns
 
-- Use of prior years' returns for comparison, accuracy, and carryovers for current year's return
+- Use of prior year returns for comparison, accuracy, & carryovers for current year's return
 
-- Taxpayer personal information (e.g., date of birth, marital status, dependents, identity protection PIN, state issued photo ID)
+- Taxpayer personal information (e.g. date of birth, marital status, dependents, identity protection PIN, state issued photo ID)
 
-- Residency status and/or citizenship (e.g., , visas, green cards, resident alien or non-resident alien, ITIN)
+- Residency status and/or citizenship (e.g. visas, green cards, resident alien or non-resident alien, ITIN, ATIN)
 
-- Filing requirements and due date
+- Filing requirements & due dates
 
 - Taxpayer filing status
 
-- Sources of worldwide taxable and non-taxable income (e.g., interest, wages, business, sales of property, dividends, rental income, flow-through entities, alimony received)
+- Sources of worldwide taxable & non-taxable income (e.g. interest, wages, business, sales of property, dividends, rental income, flow-through entities, alimony received)
 
-- Sources of applicable exclusions and adjustments to gross income (e.g., foreign earned income exclusion, retirement plans, HSAs, alimony paid, health insurance, self-employment tax)
+- Sources of applicable exclusions & adjustments to gross income (e.g. foreign earned income exclusion, retirement plans, HSAs, alimony paid, health insurance, self-employment tax)
 
-- Sources of applicable deductions (e.g., itemized, standard)
+- Sources of applicable deductions (e.g. itemized, standard)
 
 - Qualifications for dependency
 
-- Sources of applicable credits (e.g., education, foreign tax, child and dependent care, credit for other dependents, child tax credit)
+- Sources of applicable credits (e.g. education, foreign tax, child & dependent care, credit for other dependents, child tax credit)
 
-- Sources of tax payments and refundable credits
+- Sources of tax payments & refundable credits
 
 - Previous IRS correspondence with taxpayer
 
--Additional required returns to be filed, and taxes paid (e.g., employment, gifts, international information returns, and other information returns)
+-Additional required returns to be filed, & taxes paid (e.g. employment, gifts, international information returns, & other information returns)
 
 - Special filing requirements (e.g. foreign income, presidentially declared disaster areas, injured spouse)
 
-- Foreign account and asset reporting (e.g., FBAR, Form 8938)
+- Foreign account & asset reporting (e.g. FBAR, Form 8938)
 
 - Minor children's unearned income ("Kiddie" tax)
 
-- ACA requirements (e.g., , total household income, premium tax credit, household size)
+- ACA requirements (e.g. total household income, premium tax credit, household size)
 
 
-Domain 2: Income and Assets 17 Questions
+Domain 2: Income & Assets, 17 Questions
 
 2.1. Income
 
-- Taxability of wages, salaries and other earnings
+- Taxability of wages, salaries & other earnings
 
-- Interest Income (e.g., taxable and non-taxable)
+- Interest Income (e.g. taxable & non-taxable)
 
-- Dividends and other distributions from mutual funds, corporations, and other entities
+- Dividends & other distributions from mutual funds, corporations, & other entities
 
 - Personal property rental
 
-- Gambling income and allowable deductions (e.g., Form W-2G, documentation)
+- Gambling income & allowable deductions (e.g. Form W-2G, documentation)
 
-- Tax treatment of cancellation of debt (e.g., Form 1099C, foreclosures, insolvency)
+- Tax treatment of cancellation of debt (e.g. Form 1099C, foreclosures, insolvency)
 
-- Tax treatment of a U.S. citizen/resident with foreign income (e.g., tax treaties, Form 1116, Form 2555, Form 3520, Form 5471)
+- Tax treatment of a US citizen/resident with foreign income (e.g. tax treaties, Form 1116, Form 2555, Form 3520, Form 5471)
 
-- Other income (e.g., scholarships, barter income, hobby income, alimony, non-taxable combat pay, unearned income, taxable recoveries, NOL, illegal income)
+- Other income (e.g. scholarships, barter income, hobby income, alimony, non-taxable combat pay, unearned income, taxable recoveries, NOL, illegal income)
 
 - Constructive receipt of income
 
-- Constructive dividends (e.g., payments of personal expenses from a business entity)
+- Constructive dividends (e.g. payments of personal expenses from a business entity)
 
-- Passive income and loss
+- Passive income & loss
 
-- Pass-through income (e.g., Schedule K-1, income, deductions, basis, qualified business income (QBI) items)
+- Pass-through income (e.g. Schedule K-1, income, deductions, basis, qualified business income(QBI) items)
 
-- Royalties and related expenses
+- Royalties & related expenses
 
-- State/local income tax refund and other itemized deduction recoveries
+- State/local income tax refund & other itemized deduction recoveries
 
-- 1099 MISC, 1099 NEC, 1099 K reporting, irregularities, and corrections
+- 1099MISC, 1099NEC, 1099K reporting, irregularities, & corrections
 
 
 2.2. Retirement income
 
 - Basis in a traditional IRA (Form 8606)
 
-- Comparison of and distributions from traditional and Roth IRAs
+- Comparison of & distributions from traditional & Roth IRAs
 
-- Distributions from qualified and non-qualified plans (e.g., pre-tax, after-tax, rollovers, Form 1099R, qualified charitable distribution)
+- Distributions from qualified & non-qualified plans (e.g. pre-tax, after-tax, rollovers, Form 1099R, qualified charitable distribution)
 
-- Excess contributions and tax treatment (e.g., penalties)
+- Excess contributions & tax treatment (e.g. penalties)
 
-- Penalties and exceptions on premature distributions from qualified retirement plans and IRAs
+- Penalties & exceptions on premature distributions from qualified retirement plans & IRAs
 
-- Prohibited transactions and tax consequences
+- Prohibited transactions & tax consequences
 
-- IRA conversions and recharacterization (Form 8606)
+- IRA conversions & recharacterization (Form 8606)
 
 - Required minimum distributions
 
 - Loans from qualified plans
 
-- Taxability of Social Security and Railroad Retirement benefits
+- Taxability of Social Security & Railroad Retirement benefits
 
 - Inherited retirement accounts
 
--Foreign pensions and retirement income
+- Foreign pensions & retirement income
 
 
-2.3. Property, real and personal
+2.3. Property, real & personal
 
-- Sale or disposition of property including depreciation recapture rules and 1099A
+- Sale or disposition of property including depreciation recapture rules & 1099A
 
-- Capital gains and losses (e.g., netting effect, short-term, long-term, mark-to-market, virtual currency)
+- Capital gains & losses (e.g. netting effect, short-term, long-term, mark-to-market, virtual currency)
 
-- Basis of assets (e.g., purchased, gifted or inherited)
+- Basis of assets (e.g. purchased, gifted or inherited)
 
-- Basis of stock after stock splits and/or stock dividends (e.g., research, schedules, brokerage re cords)
+- Basis of stock after stock splits and/or stock dividends (e.g. research, schedules, brokerage re cords)
 
-- Publicly traded partnerships (PTP) (e.g., sales, dispositions, losses)
+- Publicly traded partnerships(PTP) (e.g. sales, dispositions, losses)
 
-- Sale of a personal residence (e.g., IRC sec 121 exclusions)
+- Sale of a personal residence (e.g. IRC sec 121 exclusions)
 
-- Installment sales (e.g., related parties, original cost, date of acquisition, possible recalculations and recharacterization)
+- Installment sales (e.g. related parties, original cost, date of acquisition, possible recalculations & recharacterization)
 
-- Options (e.g., stock, commodity, ISO, ESPP)
+- Options (e.g. stock, commodity, ISO, ESPP)
 
 - Like-kind exchange
 
@@ -128,64 +128,64 @@ Domain 2: Income and Assets 17 Questions
 
 - Self-employment tax
 
-- Retirement contribution limits and deductibility (e.g., earned compensation requirements)
+- Retirement contribution limits & deductibility (e.g. earned compensation requirements)
 
 - Health savings accounts
 
-- Other adjustments to income (e.g., student loan interest, alimony, moving expenses for active military, write-in adjustments)
+- Other adjustments to income (e.g. student loan interest, alimony, moving expenses for active military, write-in adjustments)
 
 - Self-Employed Health Insurance
 
 
-Domain 3: Deductions and Credits 17 Questions
+Domain 3: Deductions & Credits, 17 Questions
 
-3.1. Itemized deductions and QBI
+3.1. Itemized deductions & Qualified Business Income(QBI)
 
 - Medical, dental, vision, long-term care expenses
 
-- Various taxes (e.g., state and local, personal property, real estate)
+- Various taxes (e.g. state & local, personal property, real estate)
 
-- Interest expense (e.g., mortgage interest, investment interest, tracing rules, points, indebtedness limitations)
+- Interest expense (e.g. mortgage interest, investment interest, tracing rules, points, indebtedness limitations)
 
-- Charitable contributions (e.g., cash, non-cash, limitations, documentation required)
+- Charitable contributions (e.g. cash, non-cash, limitations, documentation required)
 
-- Non-business casualty and theft losses
+- Non-business casualty & theft losses
 
 - Other itemized deductions
 
 - Itemized deductions for Form 1040-NR
 
-- Qualified Business Income (QBI) deduction
+- Qualified Business Income(QBI) deduction
 
 
 3.2. Credits
 
-- Child and dependent care credit
+- Child & dependent care credit
 
-- Child tax credit and credit for other dependents
+- Child tax credit & credit for other dependents
 
 - Education credits
 
 - Foreign tax credit
 
-- Earned income tax credit (e.g., paid preparer's earned income credit checklist, eligibility and disallowance)
+- Earned income tax credit (e.g. paid preparer's earned income credit checklist, eligibility & disallowance)
 
-- Adoption credits (e.g., carryovers, limitations, special needs)
+- Adoption credits (e.g. carryovers, limitations, special needs)
 
 - ACA premium tax credit
 
-- Other credits (refundable and non-refundable) (e.g., health coverage tax credit, energy credits, Retirement savings contribution credit)
+- Other credits (refundable & non-refundable) (e.g. health coverage tax credit, energy credits, Retirement savings contribution credit)
 
 
-Domain 4: Taxation 15 Items
+Domain 4: Taxation, 15 Items
 
 4.1. Taxation
 
-- Alternative minimum tax and credit for prior year
+- Alternative minimum tax & credit for prior year
 
 - Household employees
 
-- Underpayment penalties and interest
+- Underpayment penalties & interest
 
 - Self-employment tax
 
@@ -201,59 +201,59 @@ Domain 4: Taxation 15 Items
 
 - Additional Medicare tax
 
-- Uncollected Social Security and Medicare tax
+- Uncollected Social Security & Medicare tax
 
-- Other taxes (e.g., first time homebuyer credit repayment)
+- Other taxes (e.g. first time homebuyer credit repayment)
 
 
-Domain 5: Advising the individual taxpayer 11 Questions
+Domain 5: Advising the individual taxpayer, 11 Questions
 
 5.1. Advising the Individual Taxpayer
 
-- Reporting obligations for individuals (e.g., 1099, bartering, cash)
+- Reporting obligations for individuals (e.g. 1099, bartering, cash)
 
-- Property sales (e.g., homes, stock, businesses, antiques, collectibles)
+- Property sales (e.g. homes, stock, businesses, antiques, collectibles)
 
-- Education planning (e.g., lifetime learning credit, IRC section 529 plans)
+- Education planning (e.g. lifetime learning credit, IRC section 529 plans)
 
-- Estate planning (e.g., gift versus inheritance, trusts, family partnerships, charitable giving, long- term care, life insurance)
+- Estate planning (e.g. gift versus inheritance, trusts, family partnerships, charitable giving, long- term care, life insurance)
 
-- Retirement planning (e.g., annuities, IRAs, employer plans, early retirement rules, required minimum distribution, beneficiary ownership, charitable distributions from an IRA)
+- Retirement planning (e.g. annuities, IRAs, employer plans, early retirement rules, required minimum distribution, beneficiary ownership, charitable distributions from an IRA)
 
-- Marriage and divorce (e.g., divorce settlement, common-law, community property, alimony)
+- Marriage & divorce (e.g. divorce settlement, common-law, community property, alimony)
 
-- Items that will affect future/past returns (e.g., carryovers, net operating loss, Schedule D, Form 8801, negative QBI carryover)
+- Items that will affect future/past returns (e.g. carryovers, net operating loss, Schedule D, Form 8801, negative QBI carryover)
 
 - Injured spouse
 
 - Innocent spouse
 
-- Estimated tax and penalty avoidance (e.g., mid-year estimated tax planning)
+- Estimated tax & penalty avoidance (e.g. mid-year estimated tax planning)
 
-- Adjustments, deductions, and credits for tax planning (e.g., timing of income and expenses)
+- Adjustments, deductions, & credits for tax planning (e.g. timing of income & expenses)
 
-- Character of transaction (e.g., use of capital gain rates versus ordinary income rates)
+- Character of transaction (e.g. use of capital gain rates versus ordinary income rates)
 
-- Advantages and disadvantages of MFJ/MFS/HOH filing statuses in various scenarios (e.g., joint and several liability)
+- Advantages & disadvantages of MFJ/MFS/HOH filing statuses in various scenarios (e.g. joint & several liability)
 
-- Conditions for filing a claim for refund (e.g., amended returns)
+- Conditions for filing a claim for refund (e.g. amended returns)
 
 - Penalty of perjury
 
 
-Domain 6: Specialized Returns for Individuals 11 Questions
+Domain 6: Specialized Returns for Individuals, 11 Questions
 
 6.1. Estate Tax
 
-- Gross estate, taxable estate (calculations and payments), unified credit
+- Gross estate, taxable estate (calculations & payments), unified credit
 
 - Jointly held property
 
-- Marital deduction and other marital issues (e.g., portability election)
+- Marital deduction & other marital issues (e.g. portability election)
 
-- Life insurance, IRAs, and retirement plans
+- Life insurance, IRAs, & retirement plans
 
-- Estate filing requirements and due dates (e.g., Form 706: Form 1041)
+- Estate filing requirements & due dates (e.g. Form 706: Form 1041)
 
 
 6.2. Gift Tax
@@ -264,16 +264,17 @@ Domain 6: Specialized Returns for Individuals 11 Questions
 
 - Unified credit
 
-- Effect on estate tax (e.g., Generation skipping transfer tax)
+- Effect on estate tax (e.g. Generation skipping transfer tax)
 
-- Filing requirements (e.g., Form 709)
+- Filing requirements (e.g. Form 709)
+
 
 6.3. International Information Reporting
 
-- Filing and reporting requirements and due dates (e.g., FBAR, Form 8938, Form 8865, Form 5471, Form 3520)
+- Filing & reporting requirements & due dates (e.g. Foreign Bank & Financial Accounts(FBAR), Form 8938, Form 8865, Form 5471, Form 3520)
 
-- Covered accounts (e.g., FBAR, Form 8938)
+- Covered accounts (e.g. FBAR, Form 8938)
 
-- Potential penalties (e.g., failure to file, under-reporting, substantially incomplete, statute of limitations, reduction of tax attributes)
+- Potential penalties (e.g. failure to file, under-reporting, substantially incomplete, statute of limitations, reduction of tax attributes)
 
-- Distinctions between FBAR and Form 8938 requirements
+- Distinctions between FBAR & Form 8938 requirements
