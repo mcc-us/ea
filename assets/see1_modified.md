@@ -2,19 +2,44 @@
 
 1.1. Preliminary work to prepare tax returns
 
-- Use of prior year returns for comparison, accuracy, & carryovers for current year's return
+- Q. Why are Prior years' returns needed?
+  - To compare accuracy, Carryovers,
+  - Net Operating Loss(NOL),
+  - Depreciation,
+  - Asset basis,
+  - Prior yr minimum tax for current year's return
 
-- Taxpayer personal information (e.g. date of birth, marital status, dependents, identity protection PIN, state issued photo ID)
 
-- Residency status and/or citizenship (e.g. visas, green cards, resident alien or non-resident alien, ITIN, ATIN)
+- What Taxpayer information is Needed?
+  - Names, Date of birth, Marital status,
+  - Dependents(names, dob, ssn, status)
+  - Citizenship, Residency: SSN, ITIN, ATIN
+  - Identity protection(IP-PIN)
+  - photo ID,  Look at SS card for FAKE/FALSE Returns
+  - NOTE: Deceased child w/o SSN (See: p17) write “DIED” in SSN, FILE By Paper
+
+
+Note: See: Pub4491, Vita/TCE training guide
+
+
+- Residency status and/or citizenship
+  - SSN, ITIN, ATIN (Individual / Adoption), visas, green cards, resident or non-resident alien
+  - CANNOT USE: Employer Id number (EIN)
+  - You may have a SSN & NOT be able to work, SEE: SS cards, below.
+  - Lawfully admitted Non-citizens can work in certain circumstances
+  - NOTE: NR-Alien can work in US, for example, foreign scholar, Post-doc, or Prof.
+  - If you do not have ITIN, you must apply with W7 via 
+    - Certifying Acceptance Agents(CAA) (via mail in TX) or 
+    - Taxpayer Advocate(in person).
+
 
 - Filing requirements & due dates
 
 - Taxpayer filing status
 
-- Sources of worldwide taxable & non-taxable income (e.g. interest, wages, business, sales of property, dividends, rental income, flow-through entities, alimony received) ???
+- Sources of worldwide taxable & non-taxable income (e.g. interest, wages, business, sales of property, dividends, rental income, flow-through entities, alimony received)
 
-- Sources of applicable exclusions & adjustments to gross income (e.g. foreign earned income exclusion, retirement plans, HSAs, alimony paid, health insurance, self-employment tax) ???
+- Sources of applicable exclusions & adjustments to gross income (e.g. foreign earned income exclusion, retirement plans, HSAs, alimony paid, health insurance, self-employment tax)
 
 - Sources of applicable deductions (e.g. itemized, standard)
 
