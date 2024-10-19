@@ -8,9 +8,9 @@ layout: post
 
 Kylie files her tax return and requests a direct deposit of her refund, which is \$3,100 for the current year. She also owes $500 in delinquent back taxes from the prior year. How will the IRS allocate her refund in this scenario?
 
-A. The IRS will not direct deposit her refund until Kylie pays the full balance from the prior year. wrong  
+A. The IRS will not direct deposit her refund until Kylie pays the full balance from the prior year. wrong   
 B. The IRS will withhold the balance due from Kylie's refund and send a paper check for the balance.  
-C. The IRS will withhold the balance due from Kylie's refund and adjust her direct deposit accordingly.  correct  
+C. The IRS will withhold the balance due from Kylie's refund and adjust her direct deposit accordingly.  correct   
 D. Kylie must request a formal abatement before receiving her refund.   
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.

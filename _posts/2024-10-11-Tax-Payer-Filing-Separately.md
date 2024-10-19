@@ -10,7 +10,7 @@ Lacie and Grant are married and live together all year. They have no dependents.
 
 A. Lacie must use the standard deduction; she cannot itemize her deductions.
 B. Lacie's itemized deductions must be zero.
-C. Lacie cannot use the standard deduction; she must itemize her deductions.correct
+C. Lacie cannot use the standard deduction; she must itemize her deductions. correct
 D. Lacie may use the standard deduction or she may itemize her deductions.wrong
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
@@ -27,9 +27,9 @@ Lacie cannot use the standard deduction; she must itemize her deductions. This i
 
 Jillian and Olden were married on February 20, 2023 and lived together all year. On January 2, 2024, Jillian moves out of the marital home and files for an annulment on the basis of fraud. Her annulment is granted on February 28, 2024. Neither taxpayer has any dependents. What is Jillian’s filing status for 2023?
 
-A. Single.correct
+A. Single. correct
 B. Head of household.
-C. Married filing separately.wrong
+C. Married filing separately.
 D. Married filing jointly.
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
@@ -49,7 +49,7 @@ Jennie's husband, Odin, died on January 30, 2022 (last year). Jennie filed joint
 A. Married Filing Separate
 B. Head of Household
 C. Single 
-D. Qualifying Surviving Spouse (QSS)correct
+D. Qualifying Surviving Spouse (QSS) correct
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -73,10 +73,10 @@ See the IRS tutorial page on filing status.
 
 Ruth and Peter were married on January 9, 2023. Peter died suddenly on November 10, 2023. Ruth did not remarry during the year. She has no dependents. What filing status is available to her?
 
-A. Qualifying surviving spouse (QSS) 
-B. Married Filing Jointly.
-C. She can choose to file Married Filing Jointly OR Married Filing Separately.correct
-D. She can choose to file Single or as a Qualifying surviving spouse (QSS) 
+A. Qualifying surviving spouse (QSS)  
+B. Married Filing Jointly.  
+C. She can choose to file Married Filing Jointly OR Married Filing Separately. correct  
+D. She can choose to file Single or as a Qualifying surviving spouse (QSS)  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 

@@ -51,10 +51,10 @@ Marital status is typically determined as of the last day of the tax year. Howev
 
 Dinah is legally married but has lived apart from her husband since May 1. She has not filed for divorce or legal separation. She provided 80% of the support for her three children who lived with her all year. Which of the following statements is correct?
 
-A. She must file as married filing separately.
-B. **She qualifies for head of household filing status. correct**
-C. She must file as married filing jointly.
-D. She must file as married filing separately or married filing jointly.
+A. She must file as married filing separately.  
+B. **She qualifies for head of household filing status. correct**  
+C. She must file as married filing jointly.  
+D. She must file as married filing separately or married filing jointly.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -63,7 +63,7 @@ This question is answered correctly on the first attempt by 75% of students.
 Correct Answer Explanation for B:
 
 Dinah is “considered unmarried” and can choose to file as head of household. The head of household status is available to taxpayers who meet all three of the following requirements:
-- The taxpayer must be single, divorced, legally separated, or “considered unmarried” on the last day of the year.
+- The taxpayer must be single, divorced, legally separated, or “considered unmarried” on the last day of the year.  
 - The taxpayer must have paid more than half the cost of keeping up a home for the year.
 - The taxpayer must have had a qualifying person living in her home for more than half the year.
 
@@ -81,10 +81,10 @@ There are exceptions for temporary absences, such as school, and for a qualifyin
 
 Ruth and Peter were married on January 9, 2023. Peter died suddenly on November 10, 2023. Ruth did not remarry during the year. She has no dependents. What filing status is available to her?
 
-A. **She can choose to file Married Filing Jointly OR Married Filing Separately. correct**
-B. Qualifying surviving spouse (QSS) 
-C. Married Filing Jointly.
-D. She can choose to file Single or as a Qualifying surviving spouse (QSS) 
+A. **She can choose to file Married Filing Jointly OR Married Filing Separately. correct**  
+B. Qualifying surviving spouse (QSS)   
+C. Married Filing Jointly.   
+D. She can choose to file Single or as a Qualifying surviving spouse (QSS)  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -100,7 +100,7 @@ Ruth may choose to file as either Married Filing Jointly or Married Filing Separ
 
 Since her husband died four years ago, Juniper has lived with her best friend, Marnie, who is also a widow. Juniper is a U.S. citizen and lived with Marnie all year. Juniper had no income and received all of her support from Marnie. Juniper is Marnie's dependent because she lived with Marnie all year as a member of her household. Marnie earned $47,000 in wages during the year. What is Marnie's filing status?
 
-A. Married Filing Jointly  
+A. Married Filing Jointly   
 B. **Single correct**  
 C. Head of Household  
 D. Qualifying Surviving Spouse  
@@ -121,7 +121,7 @@ Sarah and Daria are registered domestic partners (RDPs) living in California. Wh
 
 A. Married filing jointly or married filing separately.  
 B. Married filing jointly.  
-C. Single. correct**  
+C. **Single. correct**  
 D. Single, married filing jointly, or married filing separately.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
@@ -194,8 +194,8 @@ Since Layla had zero tax liability on her prior-year return, she is not required
 - The taxpayer expects to owe at least $1,000 in tax after subtracting withholding and credits.
 - The taxpayer expects the amount owed after withholding and credits to be less than the smaller of:
 
-     - 90% of the tax to be shown on the current year tax return, or
-     - 100% of the tax shown on the prior-year tax return.
+     - 90% of the tax to be shown on the current year tax return, or  
+     - 100% of the tax shown on the prior-year tax return.  
 
 Note: There is a higher “safe harbor” threshold for higher-income taxpayers. For taxpayers with adjusted gross income of over \$150,000 ($75,000 if married filing separately), the threshold for the amount owed would be 110% of the previous year's tax liability rather than 100%. See the dedicated IRS page for estimated taxes for more information.
 
@@ -206,7 +206,7 @@ Note: There is a higher “safe harbor” threshold for higher-income taxpayers.
 Jennie's husband, Odin, died on January 30, 2022 (last year). Jennie filed jointly with her deceased husband in 2022, the year of his death. Jennie has one dependent son, age 15. Jennie did not remarry in 2023. What is her most beneficial filing status in 2023?
 
 A. Married Filing Separate  
-B. Head of Household  
+B. Head of Household   
 C. **Qualifying Surviving Spouse (QSS) correct**  
 D. Single  
 
@@ -276,7 +276,7 @@ Camilla and Ryan are married. Ryan leaves Camilla on March 5, 2023, and moves ou
 
 A. She can choose Married Filing Jointly or Single.  
 B. She can choose Single or Married Filing Separately.  
-C. **She can choose to file Head of Household or Married Filing Separately. correct**
+C. **She can choose to file Head of Household or Married Filing Separately. correct**  
 D. She can choose to file Married Filing Jointly or Head of household.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
