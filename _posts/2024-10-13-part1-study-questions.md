@@ -3,7 +3,7 @@ title: Study Questions
 layout: post
 ---
 
-6. Question ID: 94816043 (Topic: Taxpayer Filing Status)
+Question ID: 94816043 (Topic: Taxpayer Filing Status)
 
 Tammy and Hector are married and have always filed jointly. They have no children or other dependents. Tammy dies on March 4. Hector remarries on November 30, to Jennifer. Jennifer and Hector plan to file jointly. Before Tammy's death on March 4, she had earned $27,000 in wages. What is Tammy's filing status (the deceased spouse) on her final Form 1040?
 
@@ -22,7 +22,7 @@ Tammy is required to use the "Married Filing Separate" filing status on her fina
 
 <hr class="red">
 
-11. Question ID: 94815938 (Topic: Taxpayer Filing Status)
+Question ID: 94815938 (Topic: Taxpayer Filing Status)
 
 For the purpose of determining filing status, which of the following taxpayers would be treated as an unmarried individual for the entire tax year?
 
@@ -47,7 +47,7 @@ Marital status is typically determined as of the last day of the tax year. Howev
 
 <hr class="red">
 
-13. Question ID: 94815907 (Topic: Taxpayer Filing Status)
+Question ID: 94815907 (Topic: Taxpayer Filing Status)
 
 Dinah is legally married but has lived apart from her husband since May 1. She has not filed for divorce or legal separation. She provided 80% of the support for her three children who lived with her all year. Which of the following statements is correct?
 
@@ -77,7 +77,7 @@ There are exceptions for temporary absences, such as school, and for a qualifyin
 
 <hr class="red">
 
-16. Question ID: 94815995 (Topic: Taxpayer Filing Status)
+Question ID: 94815995 (Topic: Taxpayer Filing Status)
 
 Ruth and Peter were married on January 9, 2023. Peter died suddenly on November 10, 2023. Ruth did not remarry during the year. She has no dependents. What filing status is available to her?
 
