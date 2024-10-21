@@ -20,6 +20,7 @@ content+="|:--|:--|\n"  # Table separator line
 
 # Get list of all PDF files in the current directory
 pdf_files=( *.pdf )
+echo ${#pdf_files[@]}
 
 # Loop through each PDF file
 for pdf_file in "${pdf_files[@]}"
@@ -36,7 +37,7 @@ done
 
 # Write the final content to the markdown file
 echo -e "$content" >> "$output_file"
-echo "Created Table"
+echo "CREATED TABLE"
 
 #-----------------------------------
 
@@ -55,7 +56,7 @@ fi
 
 # Replace: "Subject:         "
 old_string="Subject:         "
-new_string=""  # Empty string
+new_string=""  # null string
 
 # Perform the replacement using sed with in-place editing (-i) flag
 sed -i "s/$old_string/$new_string/g" "$file"
@@ -64,15 +65,19 @@ sed -i "s/$old_string/$new_string/g" "$file"
 
 # Replace: "Instructions for "
 old_string="Instructions for "
-new_string="Instructions:"  # Empty string to replace with
+new_string="Instructions:"
 
 # Perform the replacement using sed with in-place editing (-i) flag
 sed -i "s/$old_string/$new_string/g" "$file"
 
 #---------------------------------------------
 
-# Replace U.S./United States with US
+# Replace TEXT Phrases
 sed -i "s/"U.S."/"US"/g" "$file"
 sed -i "s/"United States"/"US"/g" "$file"
+#sed -i "s/"_Internal.Revenue.Service"/""/g" "$file"
+#sed -i "s/" and "/" & "/g" "$file"
+sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
 
-echo "Replaced Strings"
+
+echo "FINI"
