@@ -21,7 +21,8 @@ function button5() { window.open("https://www.irs.gov/pub/irs-pdf/p17.pdf"); }
 | <button onclick="button1()">Open: EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
 |https://www.prometric.com/test-takers/search/irs|
 |https://www.youtube.com/@irsvideos|
+|https://www.score.org/|
 
 ---
 
-This website is [MCs EA Homepage](https://mcc-us.github.io/ea/).
+This website is [MC's EA Homepage](https://mcc-us.github.io/ea/).
