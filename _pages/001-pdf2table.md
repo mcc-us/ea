@@ -92,6 +92,7 @@ title: IRS Documents
 | [iw9](/ea/others/view.iw9) | Instructions:the  Requester of Form W-9, Request for Taxpayer Identification Number and Certification |
 | [minor-p4693a](/ea/others/view.minor-p4693a) | Return Prepare Office (RPO) - Guide to the Enrolled Agent Program |
 | [minor-p5279](/ea/others/view.minor-p5279) | Your Pathway to Becoming an Enrolled Agent Starts Here |
+| [p15b](/ea/others/view.p15b) | Employer's Tax Guide to Fringe Benefits |
 | [p1660](/ea/others/view.p1660) | Collection Appeal Rights |
 | [p17](/ea/others/view.p17) | Your Federal Income Tax, For Individuals |
 | [p1915](/ea/others/view.p1915) | Understanding Your IRS Individual Taxpayer Identification Number ITIN |
@@ -109,7 +110,7 @@ title: IRS Documents
 | [p505](/ea/others/view.p505) | Tax  Withholding  and Estimated  Tax |
 | [p5101](/ea/others/view.p5101) | VITA/TCE INTAKE/INTERVIEW AND QUALITY REVIEW TRAINING |
 | [p519](/ea/others/view.p519) | US Tax Guide for Aliens |
-| [p525](/ea/others/view.p525) | Taxable and Nontaxable  Income |
+| [p525](/ea/others/view.p525) | Taxable and Nontaxable Income |
 | [p5477-IPPIN](/ea/others/view.p5477-IPPIN) | All taxpayers now eligible for Identity Protection PINs  |
 | [p54](/ea/others/view.p54) | Tax Guide for US Citizens and Resident Aliens Abroad |
 | [p555](/ea/others/view.p555) | Community Property |
@@ -121,6 +122,6 @@ title: IRS Documents
 | [p970](/ea/others/view.p970) | Tax Benefits for Education |
 | [p971](/ea/others/view.p971) | Innocent Spouse Relief |
 | [pcir230](/ea/others/view.pcir230) | Regulations Governing Practice before the Internal Revenue Service |
-| [PTIN.Application.Checklist_Internal.Revenue.Service](/ea/others/view.PTIN.Application.Checklist_Internal.Revenue.Service) |  |
+| [PTIN.Application.Checklist](/ea/others/view.PTIN.Application.Checklist_Internal.Revenue.Service) |  |
 | [regulation_1_6011_4](/ea/others/view.regulation_1_6011_4) |  |
 

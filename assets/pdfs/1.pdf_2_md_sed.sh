@@ -42,7 +42,7 @@ echo "CREATED TABLE"
 #-----------------------------------
 
 # Define the filename
-file="1.pdf2table.md"
+file=$output_file
 
 # Check if the file exists
 if [ ! -f "$file" ]; then
