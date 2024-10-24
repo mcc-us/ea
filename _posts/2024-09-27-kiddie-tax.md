@@ -7,7 +7,7 @@ Q. What is the "kiddie tax"? and what is it's limit?
 
 Congress introduced the Kiddie tax 1986 to prevent parents from taking advantage of a tax loophole: Shifting wealth into their children’s name to avoid paying taxes on their taxable income. Before, the children’s investments were taxed at the child’s presumably lower tax rate.
 
-For tax year 2024 (taxes filed in 2025), the kiddie tax threshold will rise to \$2,600. Any unearned income over $2,600 is taxed at their parent or guardian’s marginal income tax rate, using IRS Form 8615. 
+For tax year 2024 (taxes filed in 2025), the kiddie tax threshold will rise to $2,600. Any unearned income over $2,600 is taxed at their parent or guardian’s marginal income tax rate, using IRS Form 8615. 
 
 The kiddie tax is a federal tax that applies to certain dependent children who have unearned income (like interest, dividends, or capital gains) that exceeds a specific threshold (limit for 2024 is \$2,600). This tax is designed to prevent parents from avoiding taxes by transferring income-producing assets to their children.
 
