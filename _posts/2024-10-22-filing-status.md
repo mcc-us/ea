@@ -14,10 +14,10 @@ Below is a review of your answers, with the incorrectly answered questions first
 
 Francine is divorced and lived with her 21-year-old unmarried son, Barron, all year. Francine paid for all their housing costs and food. Francine provided more than half of her son's total support. Barron earned $5,000 in wages and is not a student. What filing status can Francine use?
 
-    A. Married Filing Jointly
-    B. Married Filing Separately
-    C. Singlecorrect
-    D. Head of Householdwrong
+    A. Married Filing Jointly  
+    B. Married Filing Separately  
+    C. Single correct   
+    D. Head of Household wrong  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
