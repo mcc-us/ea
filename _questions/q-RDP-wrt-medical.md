@@ -1,5 +1,5 @@
 ---
-title: Registered domestic partners wrt medical
+title: Q - Registered domestic partners wrt medical
 layout: post
 ---
 

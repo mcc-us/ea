@@ -1,5 +1,5 @@
 ---
-title: Q. HOH w/ Qualifying Relative
+title: Q - HOH w/ Qualifying Relative
 layout: post
 ---
 

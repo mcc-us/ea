@@ -1,5 +1,5 @@
 ---
-title: Question on expenses for divorced couple
+title: Q - Expenses for divorced couple
 layout: post
 ---
 

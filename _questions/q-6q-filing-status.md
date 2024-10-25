@@ -1,10 +1,10 @@
 ---
-title: Questions - Special Filing Requirements
+title: Q - Special Filing Requirements
 layout: post
 ---
 
 
-3. Question ID: 94815996 (Topic: Special Filing Requirements)
+1. Question ID: 94815996 (Topic: Special Filing Requirements)
 
 Sometimes, a taxpayer is required to file a tax return, even if their income does not exceed the gross income threshold for filing a tax return. Which of the following scenarios would always trigger a filing requirement, regardless of the taxpayer's gross income?
 
@@ -34,7 +34,7 @@ Explanation for C:
 
 Not everyone is required to file a tax return. However, if a taxpayer received advance payments of the Premium Tax Credit (the APTC), they are required to do so. The taxpayer should receive Form 1095-A showing the amount of the advance payments. The other choices wouldn’t necessarily trigger a filing requirement.
 
-1. Question ID: 94815993 (Topic: Special Filing Requirements)
+2. Question ID: 94815993 (Topic: Special Filing Requirements)
 
 Kylie files her tax return and requests a direct deposit of her refund, which is $3,100 for the current year. She also owes $500 in delinquent back taxes from the prior year. How will the IRS allocate her refund in this scenario?
 
@@ -51,7 +51,7 @@ Correct Answer Explanation for D:
 
 The IRS will withhold the balance due from Kylie's refund and adjust her direct deposit accordingly. She will receive a letter from IRS explaining any adjustment(s) to her refund amount and direct deposit.
 
-2. Question ID: 94815890 (Topic: Special Filing Requirements)
+3. Question ID: 94815890 (Topic: Special Filing Requirements)
 
 Jianyu is a Chinese citizen who is a foreign student on an F-1 Student Visa. Jianyu is allowed to work part-time on campus as a teaching assistant. He had Social Security and Medicare taxes withheld on his wages in error. Jianyu is a nonresident alien to tax purposes and must file Form 1040NR. What form can he file to request a refund of these taxes?
 
