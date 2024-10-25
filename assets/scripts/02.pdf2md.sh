@@ -1,9 +1,10 @@
 #!/bin/bash
 
 # Replace this with your desired output directory
+_others/New Folder
 
-mkdir "/home/mcc/websites/ea/pdf2md-test/"
-output_dir="/home/mcc/websites/ea/pdf2md-test/"
+mkdir "/home/mcc/websites/ea/_others/test/"
+output_dir="/home/mcc/websites/ea/_others/test/"
 
 # Loop through all files in the current directory
 for filename in *.pdf; do
