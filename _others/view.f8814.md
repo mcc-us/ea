@@ -1,9 +1,9 @@
 ---
 layout: post
-title: f8814.pdf
+title: f8814
 ---
 
 <div class="pdf-container">
-<iframe src="/ea/assets/pdfs/f8814.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
+<iframe src="ea/assets/pdfs/f8814.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
 </div>
 

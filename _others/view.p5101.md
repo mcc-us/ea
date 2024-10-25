@@ -1,9 +1,9 @@
 ---
 layout: post
-title: p5101.pdf
+title: p5101
 ---
 
 <div class="pdf-container">
-<iframe src="/ea/assets/pdfs/p5101.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
+<iframe src="ea/assets/pdfs/p5101.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
 </div>
 
