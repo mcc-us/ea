@@ -4,6 +4,6 @@ title: fw9
 ---
 
 <div class="pdf-container">
-<iframe src="ea/assets/pdfs/fw9.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
+<iframe src="/assets/pdfs/fw9.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
 </div>
 
