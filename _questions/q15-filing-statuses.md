@@ -3,7 +3,7 @@ title: Q - Taxpayer status
 layout: post
 ---
 
-1. Question ID: 94815910 (Topic: Taxpayer Filing Status)
+**Question ID: 94815910 (Topic: Taxpayer Filing Status)**
 
 Francine is divorced and lived with her 21-year-old unmarried son, Barron, all year. Francine paid for all their housing costs and food. Francine provided more than half of her son's total support. Barron earned $5,000 in wages and is not a student. What filing status can Francine use?
 
@@ -23,7 +23,7 @@ Correct Answer Explanation for A:
 
 ---
 
-2. Question ID: 94816023 (Topic: Taxpayer Filing Status)
+**Question ID: 94816023 (Topic: Taxpayer Filing Status)**
 
 Manny is recently divorced. He provided all the costs of keeping up his home for the year. Manny's son, Franklin, lived with him the entire year. Franklin is 23 years old and was not a full-time student during the tax year. Franklin earned $5,600 from a part-time job during the year. Based on these facts, what is the BEST filing status for Manny?
 
@@ -40,7 +40,7 @@ Manny must file "Single". He cannot file as Head of Household and claim his son,
 
 ---
 
-3. Question ID: 94816044 (Topic: Taxpayer Filing Status)
+**Question ID: 94816044 (Topic: Taxpayer Filing Status)**
 
 Ginny is age 48 and legally divorced. Ginny's unmarried 21-year-old son, Denny, lived with her all year. Denny is not a student and worked a part time job, earning $5,400 in wages, but he did not provide more than one half of his own support. What is Ginny's most favorable filing status?
 
@@ -57,7 +57,7 @@ Ginny can only file Single. Denny is 21 and was not a full-time student during t
 
 ---
 
-4. Question ID: 94815911 (Topic: Taxpayer Filing Status)
+**Question ID: 94815911 (Topic: Taxpayer Filing Status)**
 
 Wyatt, age 32, is divorced and has no children. He lived with his girlfriend, Florinda, age 31, all year, and was the sole source of her support. Wyatt should file as:
 
@@ -74,7 +74,7 @@ Even though Wyatt provided all of Florinda's financial support and she lived wit
 
 ---
 
-5. Question ID: 94815918 (Topic: Taxpayer Filing Status)
+**Question ID: 94815918 (Topic: Taxpayer Filing Status)**
 
 Sarah and Daria are registered domestic partners (RDPs) living in California. What is their filing status for federal tax purposes?
 
@@ -91,7 +91,7 @@ For federal tax purposes, civil unions and registered domestic partnerships are 
 
 ---
 
-10. Question ID: 94816045 (Topic: Taxpayer Filing Status)
+**Question ID: 94816045 (Topic: Taxpayer Filing Status)**
 
 Since her husband died four years ago, Juniper has lived with her best friend, Marnie, who is also a widow. Juniper is a U.S. citizen and lived with Marnie all year. Juniper had no income and received all of her support from Marnie. Juniper is Marnie's dependent because she lived with Marnie all year as a member of her household. Marnie earned $47,000 in wages during the year. What is Marnie's filing status?
 
@@ -108,7 +108,7 @@ Marnie can only file Single. Juniper is Marnie's qualifying relative dependent, 
 
 ---
 
-13. Question ID: 94816030 (Topic: Taxpayer Filing Status)
+**Question ID: 94816030 (Topic: Taxpayer Filing Status)**
 
 Dominique's divorce became final on November 7, 2023. She has sole custody of her two children, who lived with her the entire year. The children are both under the age of 18. She provided more than half of the cost of keeping up the home. What is the best filing status for her for tax year 2023?
 
@@ -125,7 +125,7 @@ The most advantageous filing status for Dominique is Head of Household. Because 
 
 ---
 
-14. Question ID: 94815954 (Topic: Taxpayer Filing Status)
+**Question ID: 94815954 (Topic: Taxpayer Filing Status)**
 
 Elise's husband died on May 1, 2023. She has one dependent son, aged 18. What is the most beneficial filing status for Elise in 2023, assuming she does not remarry before year-end?
 
@@ -142,7 +142,7 @@ In this scenario, Elise’s best filing status would be "Married Filing Jointly"
 
 ---
 
-6. Question ID: 94816027 (Topic: Taxpayer Filing Status)
+**Question ID: 94816027 (Topic: Taxpayer Filing Status)**
 
 Edgar's wife moved out of their home on November 1, 2023. She has not returned to the marital home. Edgar provides all the cost of keeping up the home for himself, and his dependent child, who is 6 years old. Edgar's wife is noncommunicative and does not respond to his calls. He cannot obtain a signature from her or any of her income information. He has not filed for divorce. What filing status should Edgar use?
 
@@ -159,7 +159,7 @@ Edgar does not qualify for Head of Household status because he did not live apar
 
 ---
 
-7. Question ID: 94815907 (Topic: Taxpayer Filing Status)
+**Question ID: 94815907 (Topic: Taxpayer Filing Status)**
 
 Dinah is legally married but has lived apart from her husband since May 1. She has not filed for divorce or legal separation. She provided 80% of the support for her three children who lived with her all year. Which of the following statements is correct?
 
@@ -188,7 +188,7 @@ Be able to claim an exemption for the child (although there is an exception for 
 
 ---
 
-8. Question ID: 94816034 (Topic: Taxpayer Filing Status)
+**Question ID: 94816034 (Topic: Taxpayer Filing Status)**
 
 Anthony is 62. His wife, Marie, died on January 3. Anthony meets someone new and remarries on December 31, to Donatella, age 61. Anthony plans to file a joint return with his new wife, Donatella. What is the filing status for Marie (the deceased spouse)?
 
@@ -205,7 +205,7 @@ Marie's filing status is married filing separately. If your spouse died during t
 
 ---
 
-9. Question ID: 95405078 (Topic: Taxpayer Filing Status)
+**Question ID: 95405078 (Topic: Taxpayer Filing Status)**
 
 Jennie's husband, Odin, died on January 30, 2022 (last year). Jennie filed jointly with her deceased husband in 2022, the year of his death. Jennie has one dependent son, age 15. Jennie did not remarry in 2023. What is her most beneficial filing status in 2023?
 
@@ -230,7 +230,7 @@ See the IRS tutorial page on filing status.
 
 ---
 
-11. Question ID: 94816005 (Topic: Taxpayer Filing Status)
+**Question ID: 94816005 (Topic: Taxpayer Filing Status)**
 
 Anabelle's husband moved out of their home on January 30, 2023 and has not returned to the marital home. Anabelle provides all the cost of keeping up the home for herself and her son, who is 11 years old and her dependent. Anabelle refuses to file a joint return with her estranged husband. What filing status should she use?
 
@@ -247,7 +247,7 @@ Anabelle has a qualifying dependent, and qualifies for Head of Household filing 
 
 ---
 
-12. Question ID: 94850173 (Topic: Taxpayer Filing Status)
+**Question ID: 94850173 (Topic: Taxpayer Filing Status)**
 
 Patsy and Owen live in Texas, which is common-law state and a community property state. The couple lives together, own a house together, and tell family and friends that they are married. They have two children together. They do not have a formal marriage license, however. What is their filing status?
 
@@ -264,7 +264,7 @@ Since Texas is a common-law state, they are likely considered married under stat
 
 ---
 
-15. Question ID: 94815895 (Topic: Taxpayer Filing Status)
+**Question ID: 94815895 (Topic: Taxpayer Filing Status)**
 
 Married Filing Jointly means that the spouses _____.
 
@@ -278,5 +278,3 @@ Study Unit 2: Determining Filing Status and Residency covers the information for
 Correct Answer Explanation for B:
 
 Married Filing Jointly means that both spouses complete and sign the same tax return and are both responsible for any tax owed on the return.
-
-

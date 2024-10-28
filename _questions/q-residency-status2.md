@@ -3,7 +3,7 @@ title: Q - Residency Tax Status
 layout: post
 ---
 
-Question ID: 94815986 (Topic: Residency Status and/or Citizenship)
+**Question ID: 94815986 (Topic: Residency Status and/or Citizenship)**
 
 Danika, an international student from Bolivia, received a $6,000 scholarship from Sacramento State University. She is present in the U.S. on a student visa and classifies as a nonresident alien for U.S. tax purposes. The university applied $4,700 of it for tuition, fees, and books. The other $1,300 was used for living expenses at the on-campus dorms. How much must Danika report on her Form 1040-NR as taxable income?
 

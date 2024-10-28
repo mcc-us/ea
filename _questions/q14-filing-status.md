@@ -4,7 +4,7 @@ layout: post
 ---
 
 
-- Question ID: 94815910 (Topic: Taxpayer Filing Status)
+**Question ID: 94815910 (Topic: Taxpayer Filing Status)**
 
 Francine is divorced and lived with her 21-year-old unmarried son, Barron, all year. Francine paid for all their housing costs and food. Francine provided more than half of her son's total support. Barron earned $5,000 in wages and is not a student. What filing status can Francine use?
 
@@ -22,7 +22,7 @@ Correct Answer Explanation for C:
 
 ---
 
-- Question ID: 94815918 (Topic: Taxpayer Filing Status)
+**Question ID: 94815918 (Topic: Taxpayer Filing Status)**
 
 Sarah and Daria are registered domestic partners (RDPs) living in California. What is their filing status for federal tax purposes?
 
@@ -37,7 +37,7 @@ For federal tax purposes, civil unions and registered domestic partnerships are 
 
 ---
 
-- Question ID: 94815911 (Topic: Taxpayer Filing Status)
+**Question ID: 94815911 (Topic: Taxpayer Filing Status)**
 
 Wyatt, age 32, is divorced and has no children. He lived with his girlfriend, Florinda, age 31, all year, and was the sole source of her support. Wyatt should file as:
 
@@ -52,7 +52,7 @@ Even though Wyatt provided all of Florinda's financial support and she lived wit
 
 ---
 
-- Question ID: 94816044 (Topic: Taxpayer Filing Status)
+**Question ID: 94816044 (Topic: Taxpayer Filing Status)**
 
 Ginny is age 48 and legally divorced. Ginny's unmarried 21-year-old son, Denny, lived with her all year. Denny is not a student and worked a part time job, earning $5,400 in wages, but he did not provide more than one half of his own support. What is Ginny's most favorable filing status?
 
@@ -67,7 +67,7 @@ Ginny can only file Single. Denny is 21 and was not a full-time student during t
 
 ---
 
-- Question ID: 94816023 (Topic: Taxpayer Filing Status)
+**Question ID: 94816023 (Topic: Taxpayer Filing Status)**
 
 Manny is recently divorced. He provided all the costs of keeping up his home for the year. Manny's son, Franklin, lived with him the entire year. Franklin is 23 years old and was not a full-time student during the tax year. Franklin earned $5,600 from a part-time job during the year. Based on these facts, what is the BEST filing status for Manny?
 
@@ -82,7 +82,7 @@ Manny must file "Single". He cannot file as Head of Household and claim his son,
 
 ---
 
-- Question ID: 94815819 (Topic: Taxpayer Filing Status)
+**Question ID: 94815819 (Topic: Taxpayer Filing Status)**
 
 Which of the following is not a valid expense used to calculate whether a taxpayer is paying more than half the cost of maintaining a home to qualify for the Head of Household filing status?
 
@@ -97,7 +97,7 @@ To qualify for head of household filing status, a taxpayer must have paid more t
 
 ---
 
-- Question ID: 94816017 (Topic: Taxpayer Filing Status)
+**Question ID: 94816017 (Topic: Taxpayer Filing Status)**
 
 Which of the following is not a requirement a taxpayer must meet in order to claim head of household filing status?
 
@@ -112,7 +112,7 @@ In order to claim head of household, the taxpayer must have a qualifying depende
 
 ---
 
-- Question ID: 94815995 (Topic: Taxpayer Filing Status)
+**Question ID: 94815995 (Topic: Taxpayer Filing Status)**
 
 Ruth and Peter were married on January 9, 2023. Peter died suddenly on November 10, 2023. Ruth did not remarry during the year. She has no dependents. What filing status is available to her?
 
@@ -127,7 +127,7 @@ Ruth may choose to file as either Married Filing Jointly or Married Filing Separ
 
 ---
 
-- Question ID: 94850001 (Topic: Taxpayer Filing Status)
+**Question ID: 94850001 (Topic: Taxpayer Filing Status)**
 
 Rhett and Molly are married, but they separated on December 20, 2023. They do not have any dependents. Molly was planning to file for divorce, but Rhett dies on January 13, 2024, before Molly can file any legal paperwork. What is Molly's filing status for 2023?
 
@@ -142,7 +142,7 @@ Since Rhett was still alive in 2023 and they were married for the entire taxable
 
 ---
 
-- Question ID: 94816007 (Topic: Taxpayer Filing Status)
+**Question ID: 94816007 (Topic: Taxpayer Filing Status)**
 
 Angie and Gregory divorced on December 20, 2023. They have no children or other dependents and neither of them has remarried. Their filing status should be:
 
@@ -157,7 +157,7 @@ Since Angie and Gregory were legally divorced before the end of the tax year, th
 
 ---
 
-- Question ID: 94815918 (Topic: Taxpayer Filing Status)
+**Question ID: 94815918 (Topic: Taxpayer Filing Status)**
 
 Sarah and Daria are registered domestic partners (RDPs) living in California. What is their filing status for federal tax purposes?
 
@@ -170,7 +170,7 @@ Correct Answer Explanation for D:
 
 For federal tax purposes, civil unions and registered domestic partnerships are not recognized as legal marriages. The taxpayers must file as single. If Sarah and Daria were to get married at a later date, they would be required to file MFS or MFJ. To see more information about how Registered Domestic Partnerships and Civil Unions are treated for federal tax purposes, see the official IRS FAQ page. 
 
-- Question ID: 94816035 (Topic: Taxpayer Filing Status)
+**Question ID: 94816035 (Topic: Taxpayer Filing Status)**
 
 Greta and Johnny are married. Greta is 70 and had a gross income of $12,000 in wages for the tax year. Johnny is 75, and his gross income was $4,000 for the year, and it was all Social Security. Johnny is also legally blind. They plan to file separate tax returns (MFS). Do they have a filing requirement?
 
@@ -183,7 +183,9 @@ Correct Answer Explanation for D:
 
 Both taxpayers must file a return, because they have chosen to file MFS, and the filing threshold for MFS filers is only $5. Married filing separately is a tax status for couples who choose to record their incomes, exemptions, and deductions on separate tax returns.
 
-- Question ID: 94815823 (Topic: Taxpayer Filing Status)
+---
+
+**Question ID: 94815823 (Topic: Taxpayer Filing Status)**
 
 Ceasar and Helga were married and their divorce was finalized on March 2, 2023. Neither of them has any dependents. What filing status is available to them for 2023?
 
@@ -198,7 +200,7 @@ Both must file as Single. No other status is available, because they are both un
 
 ---
 
-Question ID: 94815918 (Topic: Taxpayer Filing Status)
+**Question ID: 94815918 (Topic: Taxpayer Filing Status)**
 
 Sarah and Daria are registered domestic partners (RDPs) living in California. What is their filing status for federal tax purposes?
 
