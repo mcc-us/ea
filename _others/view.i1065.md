@@ -4,6 +4,6 @@ title: i1065
 ---
 
 <div class="pdf-container">
-<iframe src="/assets/pdfs/i1065.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
+<iframe src="/ea/assets/pdfs/i1065.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
 </div>
 
