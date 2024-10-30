@@ -8,7 +8,7 @@ title: IRS Documents
 
 | Doc # | Title |
 |:--|:--|
-| [f1040es](/others/view.f1040es) | Form 1040-ES, Estimated Tax for Individuals |
+| [f1040es](/ea/others/view.f1040es) | Form 1040-ES, Estimated Tax for Individuals |
 | [f1040nr](/ea/others/view.f1040nr) | US Nonresident Alien Income Tax Return |
 | [f1040s1](/ea/others/view.f1040s1) | Additional Income and Adjustments to Income |
 | [f1040s2](/ea/others/view.f1040s2) | Additional Taxes |
