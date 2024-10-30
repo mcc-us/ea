@@ -60,10 +60,10 @@ title: IRS Documents
 | [fw7](/ea/others/view.fw7) | Application for IRS Individual Taxpayer Identification Number |
 | [fw9](/ea/others/view.fw9) | Request for Taxpayer Identification Number and Certification |
 | [i1040gi](/ea/others/view.i1040gi) | 1040, Instructions |
-| [i1040tt](/ea/others/view.i1040tt) | 1040 TAX AND EARNED INCOME CREDIT TABLES |
+| [i1040tt](/ea/others/view.i1040tt) | 1040 TAX AND EARNED INCOME CREDIT TABLES,  |
 | [i1040x](/ea/others/view.i1040x) | Instructions:Form 1040-X, Amended US Individual Income Tax Return (Use With the February 2024 Revision of Form 1040-X) |
 | [i1041](/ea/others/view.i1041) | Instructions:Form 1041 and Schedules A, B, G, J, and K-1 , US Income Tax Return for Estates and Trusts |
-| [i1065](/ea/others/view.i1065) | Instructions:Form 1065 , US Return of Partnership Income |
+| [i1065](/ea/others/view.i1065) | Instructions:Form 1065 , US Return of Partnership Income  |
 | [i1099ac](/ea/others/view.i1099ac) | Instructions:Forms 1099-A and 1099-C, Acquisition or Abandonment of Secured Property and Cancellation of Debt |
 | [i1099mec](/ea/others/view.i1099mec) | Instructions:Forms 1099-MISC and 1099-NEC, Miscellaneous Information and Nonemployee Compensation |
 | [i1116](/ea/others/view.i1116) | Instructions:Form 1116, Foreign Tax Credit  (Individual, Estate, or Trust) |
@@ -77,7 +77,7 @@ title: IRS Documents
 | [i709](/ea/others/view.i709) | Instructions:Form 709, United States Gift (and Generation-Skipping Transfer) Tax Return |
 | [i720](/ea/others/view.i720) | Instructions:Form 720, Quarterly Federal Excise Tax Return |
 | [i843](/ea/others/view.i843) | Instructions:Form 843, Claim for Refund and Request for Abatement |
-| [i8606](/ea/others/view.i8606) | Instructions:Form 8606, Nondeductible IRAs |
+| [i8606](/ea/others/view.i8606) | Instructions:Form 8606, Nondeductible IRAs  |
 | [i8814](/ea/others/view.i8814) | Instructions:Form 8814, Parents’ Election To Report Child’s Interest and Dividends |
 | [i8821](/ea/others/view.i8821) | Instructions:Form 8821,  Tax Information Authorization |
 | [i8857](/ea/others/view.i8857) | Instructions:Form 8857,  Request for Innocent Spouse Relief |
@@ -105,7 +105,7 @@ title: IRS Documents
 | [p4491](/ea/others/view.p4491) | VITA/TCE Training Guide |
 | [p4491x](/ea/others/view.p4491x) | VITA/TCE Training Guide |
 | [p463](/ea/others/view.p463) |  Travel, Gift, and Car Expenses |
-| [p4961](/ea/others/view.p4961) | VITA/TCE Volunteer Standards of Conduct - Ethics Training |
+| [p4961](/ea/others/view.p4961) | VITA/TCE Volunteer Standards of Conduct – Ethics Training |
 | [p501](/ea/others/view.p501) | Dependents, Standard Deduction, and Filing Information |
 | [p505](/ea/others/view.p505) | Tax  Withholding  and Estimated  Tax |
 | [p5101](/ea/others/view.p5101) | VITA/TCE INTAKE/INTERVIEW AND QUALITY REVIEW TRAINING |
