@@ -15,16 +15,16 @@ function button5() { window.open("https://www.irs.gov/pub/irs-pdf/p17.pdf"); }
 | <button onclick="button2()">Open: irs-pubs</button> &nbsp;&nbsp;&nbsp; Find IRS Pubs & Forms|
 | <button onclick="button5()">Pub17</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tax Guide Pub. 17 |
 | <button onclick="button1()">Open: EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
-| https://www.irs.gov/help/ita |
-| https://www.govinfo.gov/content/pkg/USCODE-2021-title26/html/USCODE-2021-title26-subtitleA-chap1-subchapN.htm |
-|https://www.prometric.com/test-takers/search/irs |
-|https://www.youtube.com/@irsvideos |
-|https://www.score.org |
-| https://passkeyonline.com |
-| https://www.taxpayeradvocate.irs.gov/ |
+| [irs.gov/help/ita](https://www.irs.gov/help/ita) |
+| [Title26-subtitleA](https://www.govinfo.gov/content/pkg/USCODE-2021-title26/html/USCODE-2021-title26-subtitleA-chap1-subchapN.htm) |
+| [prometric.com/test-takers/search/irs](https://www.prometric.com/test-takers/search/irs) |
+| [youtube.com/@irsvideos](https://www.youtube.com/@irsvideos) |
+| [score.org](https://www.score.org) |
+| [passkeyonline.com](https://passkeyonline.com) |
+| [taxpayeradvocate.irs.gov](https://www.taxpayeradvocate.irs.gov/) |
 | [Hock FB](https://www.facebook.com/groups/789554445715835/user/100064721014975/) |
-| https://www.facebook.com/groups/789554445715835 |
-|https://www.facebook.com/groups/eastudygroup |
+| [facebook.com/groups/789554445715835](https://www.facebook.com/groups/789554445715835) |
+| [facebook.com/groups/eastudygroup](https://www.facebook.com/groups/eastudygroup) |
 
 ---
 
