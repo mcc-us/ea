@@ -148,7 +148,7 @@ A taxpayer cannot claim a person as a dependent unless that person is a qualifyi
 Yussef is 42 and single. He provided all the costs of keeping up his home for the year. Yussef's 25-year-old son, Mohamed, lived with him the entire year. Mohamed worked part-time and earned only $7,100 in wages. Yussef provided more than one-half of his son's support. Can Yussef claim his son as a dependent?
 
 A. Yes, he can claim his son as a dependent and also file as head of household. 
-B. No, he cannot claim his son as a dependent. correct
+B. No, he cannot claim his son as a dependent.
 C. He can claim his son as a qualifying relative, but he cannot claim head of household. 
 D. He can claim his son only if his son is a full-time student. 
 

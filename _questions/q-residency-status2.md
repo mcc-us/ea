@@ -7,7 +7,7 @@ layout: post
 
 Danika, an international student from Bolivia, received a $6,000 scholarship from Sacramento State University. She is present in the U.S. on a student visa and classifies as a nonresident alien for U.S. tax purposes. The university applied $4,700 of it for tuition, fees, and books. The other $1,300 was used for living expenses at the on-campus dorms. How much must Danika report on her Form 1040-NR as taxable income?
 
-A. $1,300 correct  
+A. $1,300   
 B. $0  
 C. $6,000 wrong  
 D. $4,700  
@@ -20,7 +20,7 @@ Different rules apply to nonresident aliens. The University will issue Form 1042
 
 Which filing status is NOT available to nonresident aliens on Form 1040-NR in 2023?
 
-A. Married Filing Jointly  correct  
+A. Married Filing Jointly    
 B. Married filing separately (MFS)  
 C. Single  
 D. Qualifying surviving spouse (QSS) wrong  
@@ -33,7 +33,7 @@ The only filing statuses available to nonresident aliens are Single, Married Fil
 
 Minjun is a citizen of China, working as foreign embassy employee in the U.S. He is treated as a nonresident alien for tax purposes. Which of the following can he deduct when he files his Form 1040NR?
 
-A. Donations to a qualified charity in the United States. correct  
+A. Donations to a qualified charity in the United States.   
 B. Donations to a charity in his home country of China.  
 C. A $25,000 mortgage interest deduction on his residence in Washington.  
 D. The standard deduction.  wrong
@@ -54,7 +54,7 @@ Itemized deductions related to mortgage interest are not allowed; nor are charit
 U.S. citizens and resident aliens must report and pay applicable U.S. taxes on:
 
 A. Only their foreign source income  
-B. All of their income (both U.S. and foreign source) regardless of where they live correct  
+B. All of their income (both U.S. and foreign source) regardless of where they live   
 C. Only their U.S. source income  
 D. All of their income (both U.S. and foreign source) if living in the U.S.wrong  
 
@@ -80,7 +80,7 @@ U.S. citizens and resident aliens must report and pay applicable U.S. taxes on a
 Which of the following is an "exempt individual" for purposes of the substantial presence test?
 
 A. A U.S. citizen that was born overseas and lives primarily in a foreign country.  
-B. An individual present in the U.S. as a foreign government-related individual under an “A” or “G” visa. correct  
+B. An individual present in the U.S. as a foreign government-related individual under an “A” or “G” visa.   
 C. A dual-status alien that arrived in the United States for the first time in the current year. wrong  
 D. A green card holder that has lived continuously overseas for over one year.  
 
@@ -98,7 +98,7 @@ A foreign professional athlete temporarily in the U.S. to compete in a charitabl
 Anna, a citizen of Greece, is temporarily in the U.S. as a graduate student in F-1 immigration status. She has resided continuously in the U.S. since arriving on August 15, 2018. Her immigration status has not changed. When did she become a resident alien for federal income tax purposes?
 
 A. 2022
-B. 2023 correct  
+B. 2023   
 C. 2021
 D. 2018 wrong  
 
@@ -127,7 +127,7 @@ Mai-Lin is a citizen of China and classifies as a nonresident alien for U.S. tax
 
 A. Rental income earned from U.S. rental properties.  
 B. Passive income from a U.S. partnership interest.  
-C. Income from foreign sources. correct  
+C. Income from foreign sources.   
 D. Prize winnings from a U.S. lottery ticket. 
 
 Correct Answer Explanation for C:
@@ -140,7 +140,7 @@ Nian Zhen is a citizen of China and a nonresident alien. Nian Zhen owns a commer
 
 A. Interest income earned on U.S. investments.  
 B. Dividend income earned on U.S. stock.  
-C. Foreign source income that was earned in China.  correct  
+C. Foreign source income that was earned in China.    
 D. Rental income earned on the U.S. commercial property.  
  
 Correct Answer Explanation for C:
@@ -154,7 +154,7 @@ What filing statuses are available to U.S. green card holders?
 A. Green Card holders can only choose between “Married Filing Separately” or “Single”.  
 B. Green Card holders use the same filing statuses as U.S. citizens, unless they live outside the United States for more than one year.   
 C. Green Card holders can opt to be treated as unmarried nonresidents if they choose.   
-D. Green Card holders are U.S. residents by default, and can use all the same filing statuses available to U.S. citizens. correct  
+D. Green Card holders are U.S. residents by default, and can use all the same filing statuses available to U.S. citizens.   
 
 Correct Answer Explanation for D:
 

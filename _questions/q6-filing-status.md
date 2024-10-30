@@ -11,7 +11,7 @@ Sometimes, a taxpayer is required to file a tax return, even if their income doe
 A. The taxpayer receives interest income of $2,000. wrong  
 B. The taxpayer receives prize winnings from a sweepstakes.  
 C. The taxpayer has a health savings account through their employer.  
-D. **The taxpayer received advance payments of the Premium Tax Credit. correct**  
+D. The taxpayer received advance payments of the Premium Tax Credit.     
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -43,7 +43,7 @@ Kylie files her tax return and requests a direct deposit of her refund, which is
 A. The IRS will withhold the balance due from Kylie's refund and send a paper check for the balance.  
 B. The IRS will not direct deposit her refund until Kylie pays the full balance from the prior year.   
 C. Kylie must request a formal abatement before receiving her refund.   
-D. **The IRS will withhold the balance due from Kylie's refund and adjust her direct deposit accordingly.correct**  
+D. The IRS will withhold the balance due from Kylie's refund and adjust her direct deposit accordingly.   
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
 
@@ -59,7 +59,7 @@ The IRS will withhold the balance due from Kylie's refund and adjust her direct 
 
 Jianyu is a Chinese citizen who is a foreign student on an F-1 Student Visa. Jianyu is allowed to work part-time on campus as a teaching assistant. He had Social Security and Medicare taxes withheld on his wages in error. Jianyu is a nonresident alien to tax purposes and must file Form 1040NR. What form can he file to request a refund of these taxes?
 
-A. **Jianyu may file Form 843, Claim for Refund and Request for Abatement, along with his Form 1040NR to request a refund. correct**  
+A. Jianyu may file Form 843, Claim for Refund and Request for Abatement, along with his Form 1040NR to request a refund.     
 B. Jianyu may deduct the taxes that were erroneously withheld as an adjustment to income on his Form 1040NR.  
 C. Social Security and Medicare taxes cannot be refunded.  
 D. Jianyu may request a refund by filing a formal protest with his Form 1040NR.  
@@ -78,7 +78,7 @@ Jianyu may file Form 843, Claim for Refund and Request for Abatement, along with
 
 Under which of the following scenarios will a taxpayer be required to file a tax return, even if their gross income is below the filing threshold?
 
-A. **If they earned $400 or more from self-employment. correct**  
+A. If they earned $400 or more from self-employment.     
 B. The taxpayer is a full-time student who receives a scholarship.  
 C. A dependent who has $100 of interest income.  
 D. The taxpayer receives only Social Security income.  
@@ -112,7 +112,7 @@ Harlan is a taxpayer who has a filing requirement. Harlan's regular tax preparer
 
 A. No, Harlan must still file his returns on time.  
 B. Yes, disaster relief provisions apply and no further action is needed.  
-C. **Yes, disaster relief provisions apply, but Harlan may have to contact the IRS to request relief. correct**  
+C. Yes, disaster relief provisions apply, but Harlan may have to contact the IRS to request relief.     
 D. None of the answers are correct.  
 
 Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
@@ -136,7 +136,7 @@ To learn more about this topic, see the dedicated IRS page about Tax Relief for 
 A taxpayer who files Form 4868 is requesting:
 
 A. An abatement of collection activity.  
-B. **An extension of time to file an individual tax return. correct**  
+B. An extension of time to file an individual tax return.     
 C. An extension of time to pay income tax due.  
 D. An installment agreement to pay overdue income tax.  
 

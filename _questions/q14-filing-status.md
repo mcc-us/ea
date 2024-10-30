@@ -29,7 +29,7 @@ Sarah and Daria are registered domestic partners (RDPs) living in California. Wh
 A. Married filing jointly or married filing separately.  
 B. Married filing jointly.  
 C. Single, married filing jointly, or married filing separately.  
-D. Single. correct  
+D. Single.    
 
 Correct Answer Explanation for D:
 
@@ -43,7 +43,7 @@ Wyatt, age 32, is divorced and has no children. He lived with his girlfriend, Fl
 
 A. Married filing separately.  
 B. Either single or head of household.  
-C. Single. correct   
+C. Single.     
 D. Head of household.
 
 Correct Answer Explanation for C:
@@ -74,7 +74,7 @@ Manny is recently divorced. He provided all the costs of keeping up his home for
 A. Married Filing Jointly.  
 B. Married Filing Separately.  
 C. Head of Household.  
-D. Single. correct  
+D. Single.    
 
 Correct Answer Explanation for D:
 
@@ -86,7 +86,7 @@ Manny must file "Single". He cannot file as Head of Household and claim his son,
 
 Which of the following is not a valid expense used to calculate whether a taxpayer is paying more than half the cost of maintaining a home to qualify for the Head of Household filing status?
 
-A. Medical treatments paid for a dependent. correct  
+A. Medical treatments paid for a dependent.    
 B. Property taxes.  
 C. Food eaten in the home.  
 D. Home mortgage payment.  
@@ -103,7 +103,7 @@ Which of the following is not a requirement a taxpayer must meet in order to cla
 
 A. The taxpayer paid more than half of the cost of keeping up the home for the entire year.  
 B. The taxpayer's spouse did not live in the home during the last 6 months of the tax year.  
-C. The taxpayer's home was the main home of a foster child for more than half the year. correct  
+C. The taxpayer's home was the main home of a foster child for more than half the year.    
 D. The taxpayer is unmarried or considered unmarried on the last day of the year.  
 
 Correct Answer Explanation for C:
@@ -164,7 +164,7 @@ Sarah and Daria are registered domestic partners (RDPs) living in California. Wh
 A. Married filing jointly or married filing separately.  
 B. Married filing jointly.  
 C. Single, married filing jointly, or married filing separately.  
-D. Single. correct  
+D. Single.    
 
 Correct Answer Explanation for D:
 
@@ -177,7 +177,7 @@ Greta and Johnny are married. Greta is 70 and had a gross income of $12,000 in w
 A. Only Johnny must file a return. Greta is not required to file, because her only income is from wages.  
 B. Neither has to file a return, because they are both senior citizens.  
 C. Only Greta must file a return. Johnny is not required to file.   
-D. Yes, both must file, because they have chosen to file separate returns (MFS). correct  
+D. Yes, both must file, because they have chosen to file separate returns (MFS).    
 
 Correct Answer Explanation for D:
 
@@ -189,7 +189,7 @@ Both taxpayers must file a return, because they have chosen to file MFS, and the
 
 Ceasar and Helga were married and their divorce was finalized on March 2, 2023. Neither of them has any dependents. What filing status is available to them for 2023?
 
-A. Single. correct  
+A. Single.    
 B. Married Filing Separately.  
 C. Married Filing Jointly.  
 D. They can choose to file Married Filing Jointly OR Married Filing Separately.  
@@ -207,7 +207,7 @@ Sarah and Daria are registered domestic partners (RDPs) living in California. Wh
 A. Married filing jointly or married filing separately. wrong  
 B. Single, married filing jointly, or married filing separately.  
 C. Married filing jointly.  
-D. Single. correct
+D. Single.  
 
 Correct Answer Explanation for D:
 

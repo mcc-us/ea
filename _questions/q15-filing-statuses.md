@@ -7,10 +7,10 @@ layout: post
 
 Francine is divorced and lived with her 21-year-old unmarried son, Barron, all year. Francine paid for all their housing costs and food. Francine provided more than half of her son's total support. Barron earned $5,000 in wages and is not a student. What filing status can Francine use?
 
-A. Single **correct**   
+A. Single    
 B. Married Filing Jointly  
 C. Married Filing Separately  
-D. Head of Household **wrong**  
+D. Head of Household    
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -27,8 +27,8 @@ Correct Answer Explanation for A:
 
 Manny is recently divorced. He provided all the costs of keeping up his home for the year. Manny's son, Franklin, lived with him the entire year. Franklin is 23 years old and was not a full-time student during the tax year. Franklin earned $5,600 from a part-time job during the year. Based on these facts, what is the BEST filing status for Manny?
 
-A. Head of Household. **wrong**  
-B. Single. **correct**   
+A. Head of Household.    
+B. Single.    
 C. Married Filing Jointly.  
 D. Married Filing Separately.  
 
@@ -45,9 +45,9 @@ Manny must file "Single". He cannot file as Head of Household and claim his son,
 Ginny is age 48 and legally divorced. Ginny's unmarried 21-year-old son, Denny, lived with her all year. Denny is not a student and worked a part time job, earning $5,400 in wages, but he did not provide more than one half of his own support. What is Ginny's most favorable filing status?
 
 A. Married Filing Jointly  
-B. Head of Household **wrong**    
+B. Head of Household      
 C. Married Filing Separately  
-D. Single **correct**    
+D. Single     
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -63,8 +63,8 @@ Wyatt, age 32, is divorced and has no children. He lived with his girlfriend, Fl
 
 A. Either single or head of household.  
 B. Married filing separately.  
-C. Single. **correct**   
-D. Head of household. **wrong**  
+C. Single.    
+D. Head of household.    
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -78,9 +78,9 @@ Even though Wyatt provided all of Florinda's financial support and she lived wit
 
 Sarah and Daria are registered domestic partners (RDPs) living in California. What is their filing status for federal tax purposes?
 
-A. Single. **correct**   
+A. Single.    
 B. Single, married filing jointly, or married filing separately.  
-C. Married filing jointly or married filing separately. **wrong**  
+C. Married filing jointly or married filing separately.    
 D. Married filing jointly.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
@@ -95,9 +95,9 @@ For federal tax purposes, civil unions and registered domestic partnerships are 
 
 Since her husband died four years ago, Juniper has lived with her best friend, Marnie, who is also a widow. Juniper is a U.S. citizen and lived with Marnie all year. Juniper had no income and received all of her support from Marnie. Juniper is Marnie's dependent because she lived with Marnie all year as a member of her household. Marnie earned $47,000 in wages during the year. What is Marnie's filing status?
 
-A. Single **correct**   
+A. Single    
 B. Married Filing Jointly  
-C. Head of Household **wrong**  
+C. Head of Household    
 D. Qualifying Surviving Spouse  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
@@ -112,8 +112,8 @@ Marnie can only file Single. Juniper is Marnie's qualifying relative dependent, 
 
 Dominique's divorce became final on November 7, 2023. She has sole custody of her two children, who lived with her the entire year. The children are both under the age of 18. She provided more than half of the cost of keeping up the home. What is the best filing status for her for tax year 2023?
 
-A. Married filing separately.  **wrong**  
-B. Head of household. **correct**   
+A. Married filing separately.     
+B. Head of household.    
 C. Single.  
 D. Married filing jointly.  
 
@@ -130,9 +130,9 @@ The most advantageous filing status for Dominique is Head of Household. Because 
 Elise's husband died on May 1, 2023. She has one dependent son, aged 18. What is the most beneficial filing status for Elise in 2023, assuming she does not remarry before year-end?
 
 A. Qualifying surviving spouse (QSS)  
-B. Head of Household **wrong**  
+B. Head of Household    
 C. Married Filing Separate  
-D. Married Filing Jointly **correct**   
+D. Married Filing Jointly    
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -147,7 +147,7 @@ In this scenario, Elise’s best filing status would be "Married Filing Jointly"
 Edgar's wife moved out of their home on November 1, 2023. She has not returned to the marital home. Edgar provides all the cost of keeping up the home for himself, and his dependent child, who is 6 years old. Edgar's wife is noncommunicative and does not respond to his calls. He cannot obtain a signature from her or any of her income information. He has not filed for divorce. What filing status should Edgar use?
 
 A. Head of household  
-B. Married filing separately **correct**   
+B. Married filing separately    
 C. Single  
 D. Married filing jointly (with a disclosure)
 
@@ -166,7 +166,7 @@ Dinah is legally married but has lived apart from her husband since May 1. She h
 A. She must file as married filing separately or married filing jointly.  
 B. She must file as married filing separately.  
 C. She must file as married filing jointly.  
-D. She qualifies for head of household filing status. **correct**   
+D. She qualifies for head of household filing status.    
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -193,7 +193,7 @@ Be able to claim an exemption for the child (although there is an exception for 
 Anthony is 62. His wife, Marie, died on January 3. Anthony meets someone new and remarries on December 31, to Donatella, age 61. Anthony plans to file a joint return with his new wife, Donatella. What is the filing status for Marie (the deceased spouse)?
 
 A. Married filing jointly  
-B. Married filing separately **correct**   
+B. Married filing separately    
 C. Single  
 D. Qualifying Surviving Spouse (QSS)  
 
@@ -212,7 +212,7 @@ Jennie's husband, Odin, died on January 30, 2022 (last year). Jennie filed joint
 A. Married Filing Separate
 B. Head of Household
 C. Single 
-D. Qualifying Surviving Spouse (QSS) **correct**   
+D. Qualifying Surviving Spouse (QSS)    
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -237,7 +237,7 @@ Anabelle's husband moved out of their home on January 30, 2023 and has not retur
 A. Married filing jointly.  
 B. Single.  
 C. Married filing separate.  
-D. Head of household. **correct**   
+D. Head of household.    
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -254,7 +254,7 @@ Patsy and Owen live in Texas, which is common-law state and a community property
 A. Since they do not have a formal marriage license, they are each considered "single" for tax purposes.   
 B. They are considered unmarried, and each would be able to file as "head of household" by claiming one of their children.  
 C. They are considered to be partners in a civil union.   
-D. Since Texas is a common-law state, they are likely considered married under state law, and must file either MFJ or MFS.  **correct**   
+D. Since Texas is a common-law state, they are likely considered married under state law, and must file either MFJ or MFS.     
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -269,7 +269,7 @@ Since Texas is a common-law state, they are likely considered married under stat
 Married Filing Jointly means that the spouses _____.
 
 A. Report their own incomes and deductions on separate returns.  
-B. Combine their income and deductions on the same return. **correct**   
+B. Combine their income and deductions on the same return.    
 C. Combine their assets and liabilities on the same return.  
 D. Combine their income (but not their deductions) on a joint return.  
 

@@ -9,12 +9,28 @@ The average score on this set of questions is 75%.
 
 ---
 
+**Question 14815921 (Topic: Filing Requirements and Due Date)**
+
+Which of the following taxpayers must file an individual tax return?
+
+A. A single taxpayer with self-employment net earnings of $400 or more.   
+B. A single taxpayer with $900 in dividends.  
+C. A single taxpayer with $2,000 in wage income.  
+D. A single taxpayer with $1,000 in interest earnings.
+
+Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question
+
+Correct Answer Explanation for A:
+
+A taxpayer with self-employment earnings of $400 or more is required to file a tax return. In that case, filing would not be optional, it would he mandatory.
+
+---
 
 **Question ID: 94815954 (Topic: Taxpayer Filing Status)**
 
 Elise's husband died on May 1, 2023. She has one dependent son, aged 18. What is the most beneficial filing status for Elise in 2023, assuming she does not remarry before year-end?
 
-A. Married Filing Jointly. correct 
+A. Married Filing Jointly.  
 B. Qualifying surviving spouse (QSS)  
 C. Head of Household  
 D. Married Filing Separate  
@@ -30,7 +46,7 @@ Wyatt, age 32, is divorced and has no children. He lived with his girlfriend, Fl
 A. Married filing separately.  
 B. Either single or head of household. wrong  
 C. Head of household.  
-D. Single. correct  
+D. Single.  
 
 Correct Answer Explanation for D:
 
@@ -40,7 +56,7 @@ Even though Wyatt provided all of Florinda's financial support and she lived wit
 
 Ginny is age 48 and legally divorced. Ginny's unmarried 21-year-old son, Denny, lived with her all year. Denny is not a student and worked a part time job, earning $5,400 in wages, but he did not provide more than one half of his own support. What is Ginny's most favorable filing status?
 
-A. Single. correct  
+A. Single.  
 B. Head of Household    
 C. Married Filing Jointly  
 D. Married Filing Separately  
@@ -53,7 +69,7 @@ Ginny can only file Single. Denny is 21 and was not a full-time student during t
 
 Jackie and Keoni are divorced and their 10-year-old daughter lives with Jackie. Keoni pays child support to Jackie. Jackie is trying to decide if she qualifies to file as Head of Household. What expense should she NOT include when calculating if she pays more than half the cost of keeping up the home?
 
-A. The cost of textbooks for her daughter. correct   
+A. The cost of textbooks for her daughter.   
 B. Property taxes on the home.  
 C. Mortgage interest.  
 D. Food eaten at home.   
@@ -66,7 +82,7 @@ Jackie cannot include the cost of textbooks for her daughter's education as part
 
 Which of the following is not a requirement a taxpayer must meet in order to claim head of household filing status?
 
-A. The taxpayer's home was the main home of a foster child for more than half the year. correct
+A. The taxpayer's home was the main home of a foster child for more than half the year.
 B. The taxpayer is unmarried or considered unmarried on the last day of the year. wrong  
 C. The taxpayer paid more than half of the cost of keeping up the home for the entire year.  
 D. The taxpayer's spouse did not live in the home during the last 6 months of the tax year.  
@@ -93,7 +109,7 @@ Francine is not married, and she cannot claim her son as a dependent or use him 
 Which of the following is not a valid expense used to calculate whether a taxpayer is paying more than half the cost of maintaining a home to qualify for the Head of Household filing status?
 
 A. Property taxes.  
-B. Medical treatments paid for a dependent. correct   
+B. Medical treatments paid for a dependent.   
 C. Food eaten in the home. wrong  
 D. Home mortgage payment.  
 
@@ -105,7 +121,7 @@ To qualify for head of household filing status, a taxpayer must have paid more t
 
 Manny is recently divorced. He provided all the costs of keeping up his home for the year. Manny's son, Franklin, lived with him the entire year. Franklin is 23 years old and was not a full-time student during the tax year. Franklin earned $5,600 from a part-time job during the year. Based on these facts, what is the BEST filing status for Manny?
 
-A. Single. correct
+A. Single.
 B. Married Filing Jointly.  
 C. Married Filing Separately.  
 D. Head of Household.   
@@ -120,7 +136,7 @@ Since her husband died four years ago, Juniper has lived with her best friend, M
 
 A. Married Filing Jointly  
 B. Head of Household  
-C. Single. correct  
+C. Single.  
 D. Qualifying Surviving Spouse  
 
 Correct Answer Explanation for C:
@@ -131,7 +147,7 @@ Marnie can only file Single. Juniper is Marnie's qualifying relative dependent, 
 
 Tammy and Hector are married and have always filed jointly. They have no children or other dependents. Tammy dies on March 4. Hector remarries on November 30, to Jennifer. Jennifer and Hector plan to file jointly. Before Tammy's death on March 4, she had earned $27,000 in wages. What is Tammy's filing status (the deceased spouse) on her final Form 1040?
 
-A. Married Filing Separate. correct  
+A. Married Filing Separate.  
 B. Qualifying Surviving Spouse  
 C. Married Filing Jointly wrong  
 D. Single  
@@ -147,7 +163,7 @@ For the purpose of determining filing status, which of the following taxpayers w
 
 A. Thomas, whose spouse died in March of the tax year. wrong  
 B. Halle, who is married and lives apart from her spouse.  
-C. Opal, whose marriage was annulled, but not until January 1 of the following tax year. correct  
+C. Opal, whose marriage was annulled, but not until January 1 of the following tax year.  
 D. Paula, who got married to Danny on December 31 of the current tax year. 
 
 Correct Answer Explanation for C:
@@ -164,7 +180,7 @@ The taxpayer is still legally married, but was "considered unmarried" for the pu
 
 Sarah and Daria are registered domestic partners (RDPs) living in California. What is their filing status for federal tax purposes?
 
-A. Single. correct  
+A. Single.  
 B. Married filing jointly or married filing separately. wrong  
 C. Single, married filing jointly, or married filing separately.  
 D. Married filing jointly.  
@@ -179,7 +195,7 @@ Ruth and Peter were married on January 9, 2023. Peter died suddenly on November 
 
 A. She can choose to file Single or as a Qualifying surviving spouse (QSS) wrong  
 B. Qualifying surviving spouse (QSS)   
-C. She can choose to file Married Filing Jointly OR Married Filing Separately. correct  
+C. She can choose to file Married Filing Jointly OR Married Filing Separately.  
 D. Married Filing Jointly.  
 
 Correct Answer Explanation for C:
@@ -191,7 +207,7 @@ Ruth may choose to file as either Married Filing Jointly or Married Filing Separ
 Ceasar and Helga were married and their divorce was finalized on March 2, 2023. Neither of them has any dependents. What filing status is available to them for 2023?
 
 A. Married Filing Jointly.  
-B. Single. correct  
+B. Single.  
 C. They can choose to file Married Filing Jointly OR Married Filing Separately.  
 D. Married Filing Separately.  
 
@@ -229,7 +245,7 @@ There are five filing statuses: Single, Married filing jointly, Married filing s
 
 Alexander is married but has lived apart from his wife, Angela, for two years. He is not legally separated or divorced from his wife. Angela refuses to file jointly with him. Alexander pays all the costs of keeping up his home for himself and his dependent 14-year-old son, who lives with him. Does his marital status prevent him from using the Head of Household filing status?
 
-A. No, he may file as head of household. correct  
+A. No, he may file as head of household.  
 B. Yes, he may file only as MFS or MFJ.   
 C. He may not file as head of household, but he can file Single.   
 D. He can only file MFS.   
@@ -247,7 +263,7 @@ A U.S. citizen who is married to a nonresident alien can file a joint return so 
 
 A. Have valid Social Security numbers.  
 B. Are physically outside the United States, with a tax home in a foreign country.  
-C. Sign the return and agree to be taxed on their worldwide income. correct  
+C. Sign the return and agree to be taxed on their worldwide income.  
 D. Are living overseas.  
 
 Correct Answer Explanation for C:
@@ -312,7 +328,7 @@ Josephine is single and has no children. Her elderly step-father, Harold, is wid
 
 A. Qualifying surviving spouse (QSS)   
 B. Head of Household.  
-C. She may choose to file either Single or Head of Household. correct  
+C. She may choose to file either Single or Head of Household.  
 D. Single.  
 
 Correct Answer Explanation for C:
@@ -339,7 +355,7 @@ Anabelle's husband moved out of their home on January 30, 2023 and has not retur
 A. Married filing separate.   
 B. Single.  
 C. Married filing jointly.  
-D. Head of household. correct  
+D. Head of household.  
 
 Correct Answer Explanation for D:
 
@@ -349,7 +365,7 @@ Anabelle has a qualifying dependent, and qualifies for Head of Household filing 
 
 Patsy and Owen live in Texas, which is common-law state and a community property state. The couple lives together, own a house together, and tell family and friends that they are married. They have two children together. They do not have a formal marriage license, however. What is their filing status?
 
-A. Since Texas is a common-law state, they are likely considered married under state law, and must file either MFJ or MFS. correct  
+A. Since Texas is a common-law state, they are likely considered married under state law, and must file either MFJ or MFS.  
 B. Since they do not have a formal marriage license, they are each considered "single" for tax purposes.   
 C. They are considered unmarried, and each would be able to file as "head of household" by claiming one of their children.  
 D. They are considered to be partners in a civil union.  
@@ -362,7 +378,7 @@ Since Texas is a common-law state, they are likely considered married under stat
 
 Rhett and Molly are married, but they separated on December 20, 2023. They do not have any dependents. Molly was planning to file for divorce, but Rhett dies on January 13, 2024, before Molly can file any legal paperwork. What is Molly's filing status for 2023?
 
-A. Married filing joint or Married filing separately. correct  
+A. Married filing joint or Married filing separately.  
 B. Married filing joint or Single  
 C. Qualifying Surviving Spouse  
 D. Single   
@@ -377,7 +393,7 @@ Married Filing Jointly means that the spouses _____.
 
 A. Report their own incomes and deductions on separate returns.  
 B. Combine their income (but not their deductions) on a joint return.  
-C. Combine their income and deductions on the same return. correct  
+C. Combine their income and deductions on the same return.  
 D. Combine their assets and liabilities on the same return.  
 
 Correct Answer Explanation for C:
@@ -390,7 +406,7 @@ Gilberto and Astrid are married and currently live together. They are experienci
 
 A. Gilberto can use Head of Household and Astrid can use Single  
 B. They should file Married filing jointly  
-C. They can each file Married filing separately. correct  
+C. They can each file Married filing separately.  
 D. Both can file Single  
 
 Correct Answer Explanation for C:
@@ -402,7 +418,7 @@ A married taxpayer who does not want to be responsible for his or her spouse's t
 Jillian and Olden were married on February 20, 2023 and lived together all year. On January 2, 2024, Jillian moves out of the marital home and files for an annulment on the basis of fraud. Her annulment is granted on February 28, 2024. Neither taxpayer has any dependents. What is Jillian’s filing status for 2023?
 
 A. Head of household.  
-B. Single. correct  
+B. Single.  
 C. Married filing jointly.  
 D. Married filing separately.  
 
@@ -415,7 +431,7 @@ Jillian must file as single. Unlike a divorce, an annulment is retroactive. A co
 Dinah is legally married but has lived apart from her husband since May 1. She has not filed for divorce or legal separation. She provided 80% of the support for her three children who lived with her all year. Which of the following statements is correct?
 
 A. She must file as married filing separately or married filing jointly.  
-B. She qualifies for head of household filing status. correct  
+B. She qualifies for head of household filing status.  
 C. She must file as married filing separately.  
 D. She must file as married filing jointly.  
 
@@ -439,7 +455,7 @@ Be able to claim an exemption for the child (although there is an exception for 
 
 Dominique's divorce became final on November 7, 2023. She has sole custody of her two children, who lived with her the entire year. The children are both under the age of 18. She provided more than half of the cost of keeping up the home. What is the best filing status for her for tax year 2023?
 
-A. Head of household. correct  
+A. Head of household.  
 B. Single.  
 C. Married filing separately.   
 D. Married filing jointly.  
@@ -452,7 +468,7 @@ The most advantageous filing status for Dominique is Head of Household. Because 
 
 Greta and Johnny are married. Greta is 70 and had a gross income of $12,000 in wages for the tax year. Johnny is 75, and his gross income was $4,000 for the year, and it was all Social Security. Johnny is also legally blind. They plan to file separate tax returns (MFS). Do they have a filing requirement?
 
-A. Yes, both must file, because they have chosen to file separate returns (MFS). correct  
+A. Yes, both must file, because they have chosen to file separate returns (MFS).  
 B. Only Johnny must file a return. Greta is not required to file, because her only income is from wages.  
 C. Neither has to file a return, because they are both senior citizens.  
 D. Only Greta must file a return. Johnny is not required to file.   
@@ -468,7 +484,7 @@ For the purpose of determining filing status, which of the following taxpayers w
 A. Gregory, who got married on June 1, 2023 to a nonresident alien.  
 B. Terrance, whose spouse died on February 1, 2023.  
 C. Crystal, who got married on December 25, 2023.  
-D. Halton, whose annulment was finalized on January 10, 2024. correct  
+D. Halton, whose annulment was finalized on January 10, 2024.  
 
 Correct Answer Explanation for D:
 
@@ -478,7 +494,7 @@ Halton, whose annulment was finalized on January 10, 2024 would be considered UN
 
 Daniel is divorced and earns $70,000 in wages. He has several relatives which he supports. These relatives do not all live with him, but none earn any income. Which dependent relative may qualify Daniel for head of household filing status?
 
-A. A parent who lives in a retirement home, and not with Daniel. correct  
+A. A parent who lives in a retirement home, and not with Daniel.  
 B. A cousin who lives with Daniel all year.  
 C. An adult stepdaughter who lives in her own apartment who is supported by Daniel.  
 D. A foster child who lived with Daniel for 3 months of the tax year.  
@@ -491,7 +507,7 @@ A parent is the only dependent relative who does not have to live with Daniel fo
 
 Camilla and Ryan are married. Ryan leaves Camilla on March 5, 2023, and moves out. Camilla pays all of the expenses relating to their 5-year-old son, who lives with her all year. Ryan refuses to file jointly with Camilla but also refuses to file for divorce or legal separation. What filing status is available to Camilla?
 
-A. She can choose to file Head of Household or Married Filing Separately. correct  
+A. She can choose to file Head of Household or Married Filing Separately.  
 B. She can choose to file Married Filing Jointly or Head of household.  
 C. She can choose Married Filing Jointly or Single.  
 D. She can choose Single or Married Filing Separately.  
@@ -506,7 +522,7 @@ To be "considered unmarried" at the end of a tax year, the taxpayer's spouse may
 
 Pavlo's wife died in 2021. He has not remarried. During 2023, he continued to keep up a home for himself and his seven-year-old son, Barron, who lives with him and for whom he can claim as a dependent. What is Pavlo's most advantageous filing status for the year?
 
-A. Qualifying surviving spouse (QSS). correct  
+A. Qualifying surviving spouse (QSS).  
 B. Married Filing Jointly.  
 C. Head of Household.  
 D. Single.  
@@ -522,7 +538,7 @@ Jennie's husband, Odin, died on January 30, 2022 (last year). Jennie filed joint
 A. Head of Household  
 B. Single   
 C. Married Filing Separate  
-D. Qualifying Surviving Spouse (QSS). correct  
+D. Qualifying Surviving Spouse (QSS).  
 
 Correct Answer Explanation for D:
 
@@ -541,7 +557,7 @@ Lacie and Grant are married and live together all year. They have no dependents.
 
 A. Lacie must use the standard deduction; she cannot itemize her deductions.  
 B. Lacie may use the standard deduction or she may itemize her deductions.  
-C. Lacie cannot use the standard deduction; she must itemize her deductions. correct  
+C. Lacie cannot use the standard deduction; she must itemize her deductions.  
 D. Lacie's itemized deductions must be zero.  
 
 Correct Answer Explanation for C:
@@ -553,7 +569,7 @@ Lacie cannot use the standard deduction; she must itemize her deductions. This i
 Torie's husband died on January 5, 2022. She has not remarried during 2023, but she has a 15-year-old dependent daughter. Torie's filing status in 2023 should be:
 
 A. Single  
-B. Qualifying surviving spouse (QSS). correct  
+B. Qualifying surviving spouse (QSS).  
 C. Head of household  
 D. Married filing jointly  
 

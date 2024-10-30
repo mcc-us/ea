@@ -9,8 +9,8 @@ layout: post
 Which of the following can never be claimed as a dependent?
 
 A. A taxpayer's adult child. 
-B. A taxpayer's cousin. wrong
-C. A taxpayer's spouse. correct
+B. A taxpayer's cousin.  
+C. A taxpayer's spouse.  
 D. A taxpayer's parent. 
 
 Correct Answer Explanation for C:
@@ -23,7 +23,7 @@ Larry has been divorced from his wife, Angela, for several years. Angela has pri
 
 A. Singlecorrect
 B. Married filing jointly
-C. Head of Householdwrong
+C. Head of Household  
 D. Married filing separate
 
 Correct Answer Explanation for A:
@@ -37,7 +37,7 @@ Note: If a custodial parent releases a claim to exemption for a child, the noncu
 Which of the following would not meet the "relationship test” to be considered a dependent?
 
 A. Cousin.correct
-B. Foster child.wrong
+B. Foster child.  
 C. Father-in-law.
 D. Step-daughter.
 
@@ -46,7 +46,7 @@ Correct Answer Explanation for A:
 For the relationship test, “family members” do not include cousins, who are treated as unrelated persons. A cousin must live with the taxpayer for the entire year and also meet the gross income test in order to qualify as a dependent. A family member who is related to the taxpayer in any of the following ways does not have to live with the taxpayer to meet the relationship test to be a qualifying relative:
 
 A child, stepchild, foster child, or descendant of any of them (for example, a grandchild).
-A sibling, stepsibling, or half-sibling.
+A sibling, step-sibling, or half-sibling.
 A parent, grandparent, stepparent, or other direct ancestor (but not a foster parent).
 A niece or nephew, son-in-law, daughter-in-law, father-in-law, mother-in-law, brother-in-law, or sister-in-law.
 
@@ -57,8 +57,8 @@ Any relationship that was established by marriage is not ended by death or divor
 Which of the following is NOT one of the tests for a qualifying child?
 
 A. Relationship test.
-B. Residency test.wrong
-C. Disability test.correct
+B. Residency test.  
+C. Disability test.  
 D. Age test.
 
 Correct Answer Explanation for C:
@@ -91,7 +91,7 @@ They can claim the child as a qualifying child on their tax return, even if they
 Cecily is in the process of adopting an infant boy. She qualifies to claim the child as a dependent, but she cannot obtain a Social Security number for him yet. If you were preparing Cecily’s income tax return, what would you advise her to do?
 
 A. Not claim the child until the adoption is final.
-B. Apply for an ATIN in order to claim the child.correct
+B. Apply for an ATIN in order to claim the child.   
 C. File a tax return on paper and write “adopted” in the line for the SSN.
 D. Wait until a valid Social Security number is issued in order to claim the child.
 
@@ -104,7 +104,7 @@ Cecily can request an ATIN and claim the child. An ATIN is an adoption taxpayer 
 With respect to the determination of the “residency test” for dependent children, which of the following does not qualify as a “temporary absence”?
 
 A. A long illness that results in long-term hospitalization.
-B. A year-long sabbatical outside the country.correct
+B. A year-long sabbatical outside the country.  
 C. A dependent child who is away at college all year.
 D. Military service.
 
@@ -124,7 +124,7 @@ It must be reasonable to assume that the absent person will return to the home a
 
 In most cases, a child of divorced or separated parents is the qualifying child of the custodial parent. However, the child may be treated as the qualifying child of the noncustodial parent if:
 
-A. The custodial parent provides the noncustodial parent with Form 8332 to release the exemption for the child.correct
+A. The custodial parent provides the noncustodial parent with Form 8332 to release the exemption for the child.  
 B. If the noncustodial parent has a court order allowing him or her to claim the child.
 C. If the custodial parent gives verbal consent to the noncustodial parent to claim the child.
 D. None of the answers is correct.
@@ -140,7 +140,7 @@ Melanie is 65 and unmarried. Melanie works full time and earned $56,000 in wages
 A. Melanie can file "Head of Household". She can claim Anna as her qualifying child.
 B. Melanie must file "Single". She can claim Anna as her qualifying child.
 C. Melanie can file "Head of Household". She can claim Anna as her qualifying relative and claim EITC.
-D. Melanie must file "Single". She can claim Anna as her qualifying relative. **correct**
+D. Melanie must file "Single". She can claim Anna as her qualifying relative.    
 
 Correct Answer Explanation for D:
 
@@ -153,7 +153,7 @@ Matthew is 32 years old and works full time. Matthew's 19-year old cousin, Bruno
 A. Bruno must be a full-time student in order to be claimed as a dependent
 B. Bruno cannot be claimed by anyone because he is a legal adult
 C. No, because cousins are not considered "family members" for the purpose of this rule.
-D. Bruno would meet the tests to be Matthew's Qualifying Relative **correct**
+D. Bruno would meet the tests to be Matthew's Qualifying Relative.  
 
 Correct Answer Explanation for D:
 

@@ -9,7 +9,7 @@ An individual is considered to be a "U.S. resident" for tax purposes if he or sh
 
 A. The International Student Test or U.S. Resident Test.
 B. Substantial Presence Test or Legal Residency Test. wrong
-C. The Green Card Test or the Substantial Presence Test. **correct**
+C. The Green Card Test or the Substantial Presence Test.  
 D. Legal Visa Test.
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
@@ -28,7 +28,7 @@ Each of the following individuals are automatically taxed as residents of the Un
 
 A. A person with a U.S. green card that lives outside the U.S.
 B. An individual physically present in the United States for 365 days, but does not have a valid visa.
-C. A nonresident alien that marries a U.S. citizen during the year. **correct**
+C. A nonresident alien that marries a U.S. citizen during the year.  
 D. A green card holder who returns to his home country before the end of the tax year.
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
@@ -66,7 +66,7 @@ An individual claimed as a dependent must be a citizen, national, or resident of
 
 If a taxpayer is not a U.S. citizen or a legal resident alien (i.e. a green card holder), a tax preparer must determine how the taxpayer should be treated for tax purposes. In order to meet the "substantial presence‚Äù test, the taxpayer must be physically present in the United States for at least ______ days over a three-year period, assuming that the days are counted according to the requirements of the test.
 
-    A. 183correct
+    A. 183   
     B. 60
     C. 180
     D. 365
@@ -83,7 +83,7 @@ Individuals who have been physically present in the U.S. for at least 31 days in
 
 If a taxpayer receives their permanent resident card (green card) while they are living abroad, then their official residency starting date for tax purposes is:
 
-    A. The taxpayer's first day of physical presence in the United States after receiving their green card.correct
+    A. The taxpayer's first day of physical presence in the United States after receiving their green card.   
     B. The day the taxpayer receives his green card.
     C. The first day the taxpayer's lawful residency is approved.
     D. None of the above.
@@ -102,7 +102,7 @@ The Substantial Presence Test is a test based on counting a nonimmigrant alien‚Ä
 
     A. Five years. 
     B. Two years.
-    C. Three years.correct
+    C. Three years..     
     D. Six years. 
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
@@ -122,7 +122,7 @@ With regards to determining residency for tax purposes under the Substantial Pre
     A. Any day that an individual is in the United States as an official crew member of a foreign vessel.
     B. Any day that an individual regularly commutes from Canada or Mexico to work in the United States from a residence in Canada or Mexico.
     C. Any day that an individual is in transit between two places outside the United States, such as waiting in an airport for a connecting flight.
-    D. Presence in the territorial waters of the United States.correct
+    D. Presence in the territorial waters of the United States.
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -150,7 +150,7 @@ For details on days excluded from the substantial presence test, see the dedicat
 Ramon is a Mexican citizen and the owner of an import-export trade business located in Juarez, Mexico, near the Texas border. He frequently enters the United States on an E-1 visa, but he does not live in the United States and never remains in Texas overnight. He only comes into the U.S. for business. The days on which Ramon commutes for work into the United States from his residence in Mexico is not counted in the ________________.
 
     A. Working Period.
-    B. Substantial Presence Test.correct
+    B. Substantial Presence Test.   
     C. Residency Test.
     D. Green Card Test.
 
@@ -171,7 +171,7 @@ Hwan is a full-time international student studying at a U.S. college. She is a c
     A. One year.
     B. International students are not exempt from the Substantial Presence Test.
     C. Two years.
-    D. Five years.correct
+    D. Five years.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -185,7 +185,7 @@ Students on an F-1 visa are exempt from the Substantial Presence Test for 5 cale
 
 Darren is a citizen of Canada who entered the U.S. on March 4, 2023 on a valid scholar visa. He is doing research inside the U.S. for Yale University. He earns $59,000 in wages from the university in 2023. How should this income be reported?
 
-    A. On Form 1040-NRcorrect
+    A. On Form 1040   
     B. On Form 1040
     C. It does not need to be reported in the U.S., instead, it should be reported on his Canadian tax returns. 
     D. On Form 1040-SR

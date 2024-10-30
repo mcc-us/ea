@@ -64,11 +64,8 @@ Jay is a Chinese citizen who is a foreign student on an F-1 Student Visa. Jay is
 A. Social Security and Medicare taxes cannot be refunded.  
 B. Jay may request a refund by filing a formal protest with his Form 1040NR. wrong  
 C. Jay may deduct the taxes that were erroneously withheld as an adjustment to income on his Form 1040NR.  
-D. Jay may file Form 843, Claim for Refund and Request for Abatement, along with his Form 1040NR to request a refund. correct  
+D. Jay may file Form 843, Claim for Refund and Request for Abatement, along with his Form 1040NR to request a refund.  
 
-Study Unit 1: Preliminary Work with Taxpayer Data covers the information for this question.
-
-This question is answered correctly on the first attempt by 68% of students.
 
 Correct Answer Explanation for D:
 
