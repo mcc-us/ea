@@ -6,7 +6,7 @@ permalink: /
 
 <script>
 function button1() { window.open("https://www.irs.gov/tax-professionals/enrolled-agents"); }
-function button2() { window.open("https://www.irs.gov/forms-pubs"); }
+function button2() { window.open("https://www.irs.gov/forms-instructions"); }
 function button5() { window.open("https://www.irs.gov/pub/irs-pdf/p17.pdf"); }
 </script>
 
@@ -25,6 +25,7 @@ function button5() { window.open("https://www.irs.gov/pub/irs-pdf/p17.pdf"); }
 | [Hock FB](https://www.facebook.com/groups/789554445715835/user/100064721014975/) |
 | [facebook.com/groups/789554445715835](https://www.facebook.com/groups/789554445715835) |
 | [facebook.com/groups/eastudygroup](https://www.facebook.com/groups/eastudygroup) |
+| [natptax.com](https://blog.natptax.com/article?articleId=6IvWK0askHrRjWvN7BP7oC) |
 
 ---
 
