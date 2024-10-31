@@ -49,10 +49,10 @@ Correct Answer Explanation for C:
 
 Angelo is the sole support of his mother, Rosalie. To claim her as a dependent on his Form 1040, Rosalie must be a citizen or resident of which of the following countries?
 
-    A. United States, Mexico, or India
-    B. United States, Mexico, or Canadacorrect
-    C. United States
-    D. United States or Canada
+A. United States, Mexico, or India
+B. United States, Mexico, or Canadacorrect
+C. United States
+D. United States or Canada
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -66,10 +66,10 @@ An individual claimed as a dependent must be a citizen, national, or resident of
 
 If a taxpayer is not a U.S. citizen or a legal resident alien (i.e. a green card holder), a tax preparer must determine how the taxpayer should be treated for tax purposes. In order to meet the "substantial presence” test, the taxpayer must be physically present in the United States for at least ______ days over a three-year period, assuming that the days are counted according to the requirements of the test.
 
-    A. 183   
-    B. 60
-    C. 180
-    D. 365
+A. 183   
+B. 60
+C. 180
+D. 365
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -83,10 +83,10 @@ Individuals who have been physically present in the U.S. for at least 31 days in
 
 If a taxpayer receives their permanent resident card (green card) while they are living abroad, then their official residency starting date for tax purposes is:
 
-    A. The taxpayer's first day of physical presence in the United States after receiving their green card.   
-    B. The day the taxpayer receives his green card.
-    C. The first day the taxpayer's lawful residency is approved.
-    D. None of the above.
+A. The taxpayer's first day of physical presence in the United States after receiving their green card.   
+B. The day the taxpayer receives his green card.
+C. The first day the taxpayer's lawful residency is approved.
+D. None of the above.
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -100,10 +100,10 @@ If a taxpayer receives their permanent resident card (green card) while they are
 
 The Substantial Presence Test is a test based on counting a nonimmigrant alien’s days of physical presence in the United States using a lookback period. How many years is this lookback period?
 
-    A. Five years. 
-    B. Two years.
-    C. Three years..     
-    D. Six years. 
+A. Five years. 
+B. Two years.
+C. Three years.. 
+D. Six years. 
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -119,10 +119,10 @@ To learn more about this topic, see the dedicated IRS page about the Substantial
 
 With regards to determining residency for tax purposes under the Substantial Presence Test, which of the following days would be counted as an "official day" within the United States?
 
-    A. Any day that an individual is in the United States as an official crew member of a foreign vessel.
-    B. Any day that an individual regularly commutes from Canada or Mexico to work in the United States from a residence in Canada or Mexico.
-    C. Any day that an individual is in transit between two places outside the United States, such as waiting in an airport for a connecting flight.
-    D. Presence in the territorial waters of the United States.
+A. Any day that an individual is in the United States as an official crew member of a foreign vessel.
+B. Any day that an individual regularly commutes from Canada or Mexico to work in the United States from a residence in Canada or Mexico.
+C. Any day that an individual is in transit between two places outside the United States, such as waiting in an airport for a connecting flight.
+D. Presence in the territorial waters of the United States.
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -132,16 +132,16 @@ Correct Answer Explanation for D:
 
 Presence in the territorial waters of the United States would count as “physical presence” in the U.S. for the purposes of determining tax residency. A taxpayer is treated as “physically present” in the U.S. on any day you are physically present in the country, at any time during the day. This includes the following:
 
-    Days present in all 50 states and the District of Columbia (Washington, DC).
-    Presence in the territorial waters of the United States.
-    The seabed and subsoil of those submarine areas that are adjacent to U.S. territorial waters and over which the United States has exclusive rights under international law to explore and exploit natural resources.
+Days present in all 50 states and the District of Columbia (Washington, DC).
+Presence in the territorial waters of the United States.
+The seabed and subsoil of those submarine areas that are adjacent to U.S. territorial waters and over which the United States has exclusive rights under international law to explore and exploit natural resources.
 
 However, there are exceptions to this rule. Do not count the following as days of presence in the U.S. for the substantial presence test.
 
-    Days you commute to work in the U.S. from a residence in Canada or Mexico, if you regularly commute from Canada or Mexico.
-    Days you are in the U.S. for less than 24 hours, when you are in transit between two places outside the United States.
-    Days you are in the U.S. as a crew member of a foreign vessel.
-    Days you are unable to leave the U.S. because of a medical condition that develops while you are in the United States.
+Days you commute to work in the U.S. from a residence in Canada or Mexico, if you regularly commute from Canada or Mexico.
+Days you are in the U.S. for less than 24 hours, when you are in transit between two places outside the United States.
+Days you are in the U.S. as a crew member of a foreign vessel.
+Days you are unable to leave the U.S. because of a medical condition that develops while you are in the United States.
 
 For details on days excluded from the substantial presence test, see the dedicated IRS page about the Substantial Presence Test.
 
@@ -149,10 +149,10 @@ For details on days excluded from the substantial presence test, see the dedicat
 
 Ramon is a Mexican citizen and the owner of an import-export trade business located in Juarez, Mexico, near the Texas border. He frequently enters the United States on an E-1 visa, but he does not live in the United States and never remains in Texas overnight. He only comes into the U.S. for business. The days on which Ramon commutes for work into the United States from his residence in Mexico is not counted in the ________________.
 
-    A. Working Period.
-    B. Substantial Presence Test.   
-    C. Residency Test.
-    D. Green Card Test.
+A. Working Period.
+B. Substantial Presence Test.   
+C. Residency Test.
+D. Green Card Test.
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -168,10 +168,10 @@ Note: An E-1 visa allows foreign nationals to come to the U.S. and participate i
 
 Hwan is a full-time international student studying at a U.S. college. She is a citizen of South Korea and she is legally present in the United States on an F-1 Visa (Academic Student). Hwan is exempt from the “Substantial Presence Test” for how many years?
 
-    A. One year.
-    B. International students are not exempt from the Substantial Presence Test.
-    C. Two years.
-    D. Five years.  
+A. One year.
+B. International students are not exempt from the Substantial Presence Test.
+C. Two years.
+D. Five years.  
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 
@@ -185,10 +185,10 @@ Students on an F-1 visa are exempt from the Substantial Presence Test for 5 cale
 
 Darren is a citizen of Canada who entered the U.S. on March 4, 2023 on a valid scholar visa. He is doing research inside the U.S. for Yale University. He earns $59,000 in wages from the university in 2023. How should this income be reported?
 
-    A. On Form 1040   
-    B. On Form 1040
-    C. It does not need to be reported in the U.S., instead, it should be reported on his Canadian tax returns. 
-    D. On Form 1040-SR
+A. On Form 1040   
+B. On Form 1040
+C. It does not need to be reported in the U.S., instead, it should be reported on his Canadian tax returns. 
+D. On Form 1040-SR
 
 Study Unit 2: Determining Filing Status and Residency covers the information for this question.
 

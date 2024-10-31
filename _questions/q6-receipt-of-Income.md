@@ -7,10 +7,10 @@ Question ID: 95850121 (Topic: Receipt of Income)
 
 Under which accounting method does the "doctrine of constructive receipt" primarily apply?
 
-    A. The crop method
-    B. The accrual method
-    C. The cash method
-    D. The alternate method
+A. The crop method
+B. The accrual method
+C. The cash method
+D. The alternate method
 
 Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
 
@@ -37,10 +37,10 @@ Question ID: 95850124 (Topic: Receipt of Income)
 
 Which situation does not constitute constructive receipt of income?
 
-    A. The taxpayer wins a raffle, but declines to accept a prize.
-    B. Interest earned on a bank deposit that is not withdrawn.
-    C. A taxpayer receives payment for services but agrees to accept property rather than cash.
-    D. Wages that are directly deposited in an employee's bank account, but the employee does not withdraw the money until the following week.
+A. The taxpayer wins a raffle, but declines to accept a prize.
+B. Interest earned on a bank deposit that is not withdrawn.
+C. A taxpayer receives payment for services but agrees to accept property rather than cash.
+D. Wages that are directly deposited in an employee's bank account, but the employee does not withdraw the money until the following week.
 
 Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
 
@@ -67,10 +67,10 @@ Question ID: 94849550 (Topic: Receipt of Income)
 
 Income is also not considered to have been “constructively received” in which of the following scenarios?
 
-    A. An employee receives a bonus in late December but chooses not to deposit it until the following year.
-    B. The taxpayer declines to accept an award.
-    C. Dividends earned that are automatically reinvested in additional shares in a mutual fund.
-    D. A landlord receives a rent payment in late December but doesn't deposit the check until the following year.
+A. An employee receives a bonus in late December but chooses not to deposit it until the following year.
+B. The taxpayer declines to accept an award.
+C. Dividends earned that are automatically reinvested in additional shares in a mutual fund.
+D. A landlord receives a rent payment in late December but doesn't deposit the check until the following year.
 
 Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
 
@@ -84,10 +84,10 @@ Question ID: 94849634 (Topic: Receipt of Income)
 
 How is bartering income determined for tax purposes?
 
-    A. The taxpayer exchanging the higher cost good or service determines the value of the item being bartered.
-    B. The taxpayer exchanging the lower cost good or service determines the value of the item being bartered.
-    C. The fair market value of the goods and services exchanged is included in gross income.correct
-    D. The IRS publishes a table showing the value of various types of goods and services that must be used when taxpayers barter. The table is updated annually for inflation.
+A. The taxpayer exchanging the higher cost good or service determines the value of the item being bartered.
+B. The taxpayer exchanging the lower cost good or service determines the value of the item being bartered.
+C. The fair market value of the goods and services exchanged is included in gross income.correct
+D. The IRS publishes a table showing the value of various types of goods and services that must be used when taxpayers barter. The table is updated annually for inflation.
 
 Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
 
@@ -101,10 +101,10 @@ Question ID: 95820122 (Topic: Receipt of Income)
 
 What happens if income is deemed "constructively received" by a taxpayer?
 
-    A. The income can usually be deferred to a later tax year, depending on the facts and circumstances.
-    B. The income must be reported in the tax year it becomes available.
-    C. It depends on the taxpayer's age and filing status.
-    D. It has no effect on the income tax owed.
+A. The income can usually be deferred to a later tax year, depending on the facts and circumstances.
+B. The income must be reported in the tax year it becomes available.
+C. It depends on the taxpayer's age and filing status.
+D. It has no effect on the income tax owed.
 
 Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
 
@@ -131,10 +131,10 @@ Question ID: 95850123 (Topic: Receipt of Income)
 
 Orson owns a rental property. Orson asks his sister, Betty, to pick up a check from one of his tenants while he is out of town on vacation. Betty picks up the check on December 31, but Orson doesn't cash the check until a few months later. In this scenario, when is income "constructively received" by Orson if he authorizes his sister to receive the rental income on his behalf?
 
-    A. The rental income is taxable on December 31, when his sister, Betty, receives the check. 
-    B. The rental income is taxable when Orson returns from his vacation.
-    C. The rental income is taxable to Betty, because she is the one who actually accepted the check.
-    D. The rental income is taxable when Orson cashes the check.
+A. The rental income is taxable on December 31, when his sister, Betty, receives the check. 
+B. The rental income is taxable when Orson returns from his vacation.
+C. The rental income is taxable to Betty, because she is the one who actually accepted the check.
+D. The rental income is taxable when Orson cashes the check.
 
 Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
 
