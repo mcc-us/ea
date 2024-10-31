@@ -56,7 +56,7 @@ collections:
   others:
     output: true
     permalink: /:collection/:path/
-  posts:
+  notes:
     output: true
     permalink: /:collection/:path/
   questions:
@@ -65,7 +65,7 @@ collections:
 
 ordered_collections:
   - pages
-  - posts
+  - notes
 #  - others
   - questions
 
