@@ -3,27 +3,26 @@ title: Q - Schedule C, F vs SE
 layout: post
 ---
 
-Q. What is the difference in Schedule C and Schedule SE?
+Q. What is the difference in *Schedule C* and *Schedule SE*?
 
-A. They have to be separate forms, because there are some business activities that are not subject to self-employment tax, such as licensed notary income, plus, there are caps to the Social Security portion of the SE tax
-   1. Self-employment income (and loss) is reported on Schedule C. 
-   2. Schedule F is used by farmers. 
-   3. Schedule SE is used specifically for calculating self-employment tax.
+A. 
+- *Schedule C* is for a business's Profit or Loss. 
+- *Schedule SE* is used to calculate and report the **self-employment tax** individuals (sole proprietors, freelancers, and farmers) must pay.
 
-<hr class="red">
+---
 
-Are there other Schedule forms?
+### Schedule forms?
 
-### 1. **Schedule C (Profit or Loss from Business)**
-   - **Purpose**: Schedule C is used to report income and expenses from a **sole proprietorship** or single-member LLC (Limited Liability Company) that operates a business.
-   - **Who Files It**: Self-employed individuals (such as freelancers, contractors, or business owners) who have earned income from their business.
+#### 1. **Schedule C - Profit or Loss from Business**
+   - Schedule C reports income and expenses from a sole proprietorship or single-member LLC (Limited Liability Company) that operates a business.
+   - **Who Files It**: Self-employed individuals who have earned income from their business (such as freelancers, contractors, or business owners).
    - **What It Reports**: 
      - Gross income from the business.
      - Business expenses, such as rent, supplies, travel, etc.
-     - Net profit or loss (income after expenses) is transferred to **Form 1040** and added to your total income.
+     - Net profit or loss is transferred to **Form 1040** and added to your total income.
    - **Example**: A freelance graphic designer would use Schedule C to report their earnings and any business expenses like software costs, equipment, or marketing expenses.
 
-### 2. **Schedule F (Profit or Loss from Farming)**
+#### 2. **Schedule F (Profit or Loss from Farming)**
    - **Purpose**: Schedule F is used to report income and expenses specifically related to **farming activities**.
    - **Who Files It**: Farmers or ranchers who earn income from producing agricultural goods, such as crops, livestock, dairy, or other farm-related income.
    - **What It Reports**: 
@@ -32,7 +31,7 @@ Are there other Schedule forms?
      - The net profit or loss from the farming activity is transferred to Form 1040.
    - **Example**: A farmer who sells wheat and cattle would report their sales on Schedule F, along with expenses like feed and equipment maintenance.
 
-### 3. **Schedule SE (Self-Employment Tax)**
+#### 3. **Schedule SE (Self-Employment Tax)**
    - **Purpose**: Schedule SE is used to calculate and report the **self-employment tax** that self-employed individuals (including sole proprietors, freelancers, and farmers) must pay for **Social Security and Medicare**.
    - **Who Files It**: Anyone who is self-employed and earns more than $400 in net earnings must file Schedule SE.
    - **What It Reports**:
@@ -40,7 +39,7 @@ Are there other Schedule forms?
      - Self-employment tax includes both the employer and employee portions of Social Security and Medicare taxes.
    - **Example**: A freelance photographer who reports income on Schedule C and has net earnings of $10,000 would use Schedule SE to calculate and pay their self-employment tax on that income.
 
-### Other Common IRS Schedule Forms:
+#### Other Common IRS Schedule Forms:
 
 1. **Schedule A (Itemized Deductions)**:
    - Used to report **itemized deductions** such as medical expenses, mortgage interest, charitable contributions, and state/local taxes.
