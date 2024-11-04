@@ -5,7 +5,7 @@ layout: post
 
 Example:
 
-William, unmarried, earns $60,000. His 22-year-old cousin, Jimmy, lives with him. Jimmy attends college and earns $3,100.
+William, unmarried, earns \$60,000. His 22-year-old cousin, Jimmy, lives with him. Jimmy attends college and earns $3,100.
 
 #### Why can't William file as Head of Household (HOH)?
 
