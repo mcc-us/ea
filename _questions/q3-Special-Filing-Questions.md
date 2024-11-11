@@ -4,7 +4,7 @@ layout: post
 ---
 
 
-**Question ID: 94815993** (Topic: Special Filing Requirements)**
+Question ID: 94815993 (Topic: Special Filing Requirements)
 
 Kylie files her tax return and requests a direct deposit of her refund, which is $3,100 for the current year. 
 She also owes $500 in delinquent back taxes from the prior year. How will the IRS allocate her refund in this scenario?
