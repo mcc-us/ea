@@ -75,7 +75,7 @@ sed -i "s/$old_string/$new_string/g" "$file"
 # Replace TEXT Phrases
 sed -i "s/"U.S."/"US"/g" "$file"
 sed -i "s/"United States"/"US"/g" "$file"
-#sed -i "s/"_Internal.Revenue.Service"/""/g" "$file"
+#sed -i "s/"_Internal.Revenue.Service"/"IRS"/g" "$file"
 #sed -i "s/" and "/" & "/g" "$file"
 sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
 
