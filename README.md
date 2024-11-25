@@ -1,6 +1,6 @@
 ---
 layout: home
-title: EA Notes Homepage
+title: MCC's EA Links & Homepage
 permalink: /
 ---
 
@@ -9,16 +9,16 @@ function button1() { window.open("https://www.irs.gov/tax-professionals/enrolled
 function button2() { window.open("https://www.irs.gov/forms-instructions"); }
 function button3() { window.open("https://www.reddit.com/r/enrolledagent/"); }
 function button4() { window.open("https://www.facebook.com/groups/eastudygroup"); }
+function button5() { window.open("https://www.prometric.com/test-takers/search/irs"); }
 </script>
 
-| **Misc EA Information** |
-|:-|
+
 | <button onclick="button2()">IRS-Pubs</button> &nbsp; Find IRS Pubs & Forms|
+|:-|
 | <button onclick="button1()">EA Info</button> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS EA Info |
 | <button onclick="button3()">EA-Reddit Info</button> |
 | <button onclick="button4()">Facebook EA Study Group</button> |
-| [prometric.com/test-takers/search/irs](https://www.prometric.com/test-takers/search/irs) |
-||
+| <button onclick="button5()">Prometrics test-takers</button> |
 | [irs.gov/help/ita](https://www.irs.gov/help/ita) |
 | [youtube.com/@irsvideos](https://www.youtube.com/@irsvideos) |
 | [score.org](https://www.score.org) |
