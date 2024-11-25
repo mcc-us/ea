@@ -3,7 +3,7 @@
 # 1. PRODUCE PDF/Name markdown file
 
 # Define the output filename
-output_file="1.pdf2table.md"
+output_file="001-pdf2table.md"
 
 # Create the empty markdown file
 touch "$output_file"
@@ -42,7 +42,7 @@ echo "CREATED TABLE"
 #-----------------------------------
 
 # Define the filename
-file="1.pdf2table.md"
+file=$output_file
 
 # Check if the file exists
 if [ ! -f "$file" ]; then
@@ -54,7 +54,6 @@ fi
 
 # 2. REPLACE STRINGS
 
-# Replace: "Subject:         "
 old_string="Subject:         "
 new_string=""  # null string
 
@@ -63,7 +62,6 @@ sed -i "s/$old_string/$new_string/g" "$file"
 
 #---------------------------------------------
 
-# Replace: "Instructions for "
 old_string="Instructions for "
 new_string="Instructions:"
 
@@ -72,12 +70,11 @@ sed -i "s/$old_string/$new_string/g" "$file"
 
 #---------------------------------------------
 
-# Replace TEXT Phrases
+# Replace TEXT Strings
 sed -i "s/"U.S."/"US"/g" "$file"
 sed -i "s/"United States"/"US"/g" "$file"
-#sed -i "s/"_Internal.Revenue.Service"/"IRS"/g" "$file"
+#sed -i "s/"_Internal.Revenue.Service"/""/g" "$file"
 #sed -i "s/" and "/" & "/g" "$file"
 sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
-
 
 echo "FINI"

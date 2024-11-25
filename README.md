@@ -1,6 +1,6 @@
 ---
 layout: home
-title: IRS EA Notes Homepage
+title: EA Notes Homepage
 permalink: /
 ---
 
