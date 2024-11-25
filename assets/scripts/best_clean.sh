@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file="interest.txt"
+file="dividend.ques.txt"
 
 # Remove lines that start with"
 sed -i '/^Study Unit/d' "$file"
