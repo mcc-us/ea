@@ -19,13 +19,12 @@ function button5() { window.open("https://www.prometric.com/test-takers/search/i
 | <button onclick="button3()">EA-Reddit Info</button> |
 | <button onclick="button4()">Facebook EA Study Group</button> |
 | <button onclick="button5()">Prometrics test-takers</button> |
-| [irs.gov/help/ita](https://www.irs.gov/help/ita) |
 | [youtube.com/@irsvideos](https://www.youtube.com/@irsvideos) |
 | [score.org](https://www.score.org) |
 | [passkeyonline.com](https://passkeyonline.com) |
 | [taxpayeradvocate.irs.gov](https://www.taxpayeradvocate.irs.gov/) |
-| [Hock FB](https://www.facebook.com/groups/789554445715835/user/100064721014975/) |
-| [facebook.com/groups/789554445715835](https://www.facebook.com/groups/789554445715835) |
+| [Hock FB](https://www.facebook.com/groups/789554445715835/user/100064721014975/) meh! |
+| [facebook.com/groups/789554445715835](https://www.facebook.com/groups/789554445715835) meh! |
 | [natptax.com](https://blog.natptax.com/article?articleId=6IvWK0askHrRjWvN7BP7oC) |
 
 ---
