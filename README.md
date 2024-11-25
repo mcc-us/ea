@@ -1,6 +1,6 @@
 ---
 layout: home
-title: MCC's EA Links & Homepage
+title: Matt's EA Links & Homepage
 permalink: /
 ---
 
