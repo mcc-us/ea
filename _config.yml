@@ -59,15 +59,13 @@ collections:
   notes:
     output: true
     permalink: /:collection/:path/
-  questions:
-    output: true
-    permalink: /:collection/:path/
+
 
 ordered_collections:
   - pages
   - notes
 #  - others
-  - questions
+#  - questions
 
 page_width: 1200px
 
