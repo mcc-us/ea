@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file="dividend.ques.txt"
+file="basis.inher.txt"
 
 # Remove lines that start with"
 sed -i '/^Study Unit/d' "$file"

@@ -13,7 +13,7 @@ title: IRS Documents
 | [f1040s1](/ea/others/view.f1040s1) | Additional Income and Adjustments to Income |
 | [f1040s2](/ea/others/view.f1040s2) | Additional Taxes |
 | [f1040s3](/ea/others/view.f1040s3) | Additional Credits and Payments |
-| [f1040s](/ea/others/view.f1040s) | US Tax Return for Seniors |
+| [f1040sr](/ea/others/view.f1040s) | US Tax Return for Seniors |
 | [f1040x](/ea/others/view.f1040x) | Amended US Individual Income Tax Return |
 | [f1041](/ea/others/view.f1041) | US Income Tax Return for Estates and Trusts |
 | [f1065](/ea/others/view.f1065) | US Return of Partnership Income |
@@ -65,7 +65,7 @@ title: IRS Documents
 | [i1041](/ea/others/view.i1041) | Instructions:Form 1041 and Schedules A, B, G, J, and K-1 , US Income Tax Return for Estates and Trusts |
 | [i1065](/ea/others/view.i1065) | Instructions:Form 1065 , US Return of Partnership Income  |
 | [i1099ac](/ea/others/view.i1099ac) | Instructions:Forms 1099-A and 1099-C, Acquisition or Abandonment of Secured Property and Cancellation of Debt |
-| [i1099mec](/ea/others/view.i1099mec) | Instructions:Forms 1099-MISC and 1099-NEC, Miscellaneous Information and Nonemployee Compensation |
+| [i1099misc-nec](/ea/others/view.i1099mec) | Instructions:Forms 1099-MISC and 1099-NEC, Miscellaneous Information and Nonemployee Compensation |
 | [i1116](/ea/others/view.i1116) | Instructions:Form 1116, Foreign Tax Credit  (Individual, Estate, or Trust) |
 | [i1120](/ea/others/view.i1120) | Instructions:Form 1120, US Corporation Income Tax Return |
 | [i1120s](/ea/others/view.i1120s) | Instructions:Form 1120-S, US Income Tax Return for an S Corporation |
@@ -122,6 +122,6 @@ title: IRS Documents
 | [p970](/ea/others/view.p970) | Tax Benefits for Education |
 | [p971](/ea/others/view.p971) | Innocent Spouse Relief |
 | [pcir230](/ea/others/view.pcir230) | Regulations Governing Practice before the Internal Revenue Service |
-| [PTIN.Application.Checklist](/ea/others/view.PTIN.Application.Checklist_Internal.Revenue.Service) |  |
-| [regulation_1_6011_4](/ea/others/view.regulation_1_6011_4) |  |
+| [PTIN.Application.Checklist](/ea/others/view.PTIN.Application.Checklist_Internal.Revenue.Service) | PTIN.Application.Checklist |
+| [regulation_1_6011_4](/ea/others/view.regulation_1_6011_4) | Regulation_1_6011_4 |
 
