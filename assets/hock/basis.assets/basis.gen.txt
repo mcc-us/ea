@@ -1,0 +1,22 @@
+To correctly calculate gains and losses, you must also understand the
+concept of “basis.” The initial basis of an asset is usually its cost.
+However, there are instances in which basis is determined based upon
+the fair market value of the asset when acquired by the taxpayer, rather
+than its cost, typically when property is acquired by inheritance and
+sometimes by gift. The basis of an asset may include:
+
+Sales taxes charged during the purchase
+
+Freight-in charges and shipping fees
+
+Installation costs and testing fees
+
+Delinquent real estate taxes that are paid by the buyer of a property
+The cost of any major improvements to the property
+
+Legal and accounting fees for transferring an asset
+
+Legal fees for obtaining title to a property
+
+All of these costs will an asset's basis. The result of these
+adjustments to the basis is the “adjusted” basis.
