@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VITA Documents
+title: VITA Docs
 ---
 
 <script> function button1() { window.open(https://www.irs.gov/forms-pubs); } </script>
