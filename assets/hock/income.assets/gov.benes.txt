@@ -1,0 +1,166 @@
+
+
+1. Question ID: 94815860 (Topic: Taxable Government Benefits)
+
+Edgar is a forklift operator. He suffered severe injuries while working when a heavy pallet fell on top of him. As a result of his injuries, he received the following payments in the current year:
+
+    Worker's compensation: $85,000
+    Reimbursement from his employer’s accident and health plan for medical expenses not deducted by him: $6,500
+    Damages for personal injuries: $28,000
+
+Edgar must include _______________ of the payments in gross income:
+
+    A. $34,500
+    B. $119,500
+    C. $0correct
+    D. $28,000wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 66% of students.
+
+Correct Answer Explanation for C:
+
+None of the payments is taxable income. Compensation for physical injuries or sickness is always excluded from income, regardless of the form of payment. Workers' compensation benefits are not taxable, because they are treated as non-taxable benefits paid to workers injured or disabled on the job.
+
+2. Question ID: 94849632 (Topic: Taxable Government Benefits)
+
+Which of the following statements regarding unemployment compensation is true?
+
+    A. Unemployment compensation is taxable unless the taxpayer is disabled.
+    B. Unemployment compensation must be included in a taxpayer's gross income.correct
+    C. Unemployment compensation is taxable to the state, but not to federal.
+    D. Unemployment compensation is not taxable.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 78% of students.
+
+Correct Answer Explanation for B:
+
+Any unemployment compensation received must be included in a taxpayer's gross income. Unemployment compensation is always taxable, regardless of the taxpayer's situation. Unemployment compensation generally includes any amounts received under the unemployment compensation laws of the United States or of a state. It includes state unemployment insurance benefits and benefits paid to you by a state or the District of Columbia from the Federal Unemployment Trust Fund. It also includes railroad unemployment compensation benefits, but NOT worker's compensation. Worker's compensation (often called "worker's comp") is not taxable to the recipient.
+
+3. Question ID: 94849650 (Topic: Taxable Government Benefits)
+
+Vitally fell ill after a chemical accident that occurred at his work. After the accident, he left his job and received several types of benefit payments during the year. Which of the following would be taxable to Vitally?
+
+    A. $12,700 in unemployment compensation.correct
+    B. $10,000 in worker's compensation.
+    C. $500 monthly payments received under an accident insurance policy (Vitally paid the premiums on the policy).
+    D. A $32,000 legal settlement for physical sickness from his former employer.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 89% of students.
+
+Correct Answer Explanation for A:
+
+Vitally must report the $12,700 in unemployment compensation, because unemployment compensation is always taxable. Worker's compensation is not taxable. Legal settlements for personal physical injuries or physical sickness are non-taxable. If a taxpayer pays the premiums on an accident or health insurance policy, the benefits later received under the policy aren’t taxable. See IRS Publication 525, Taxable and Nontaxable Income, for more information.
+
+4. Question ID: 94849542 (Topic: Taxable Government Benefits)
+
+Which of the following types of employee compensation are exempt from federal income tax?
+
+    A. Garnished wages.
+    B. Vacation pay.
+    C. Worker's compensation.correct
+    D. Severance pay.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 89% of students.
+
+Correct Answer Explanation for C:
+
+Of the types of income listed, only worker's compensation is exempt from federal taxation. Garnished wages, which may occur when an employee owes child support, back taxes, or other debts, are fully taxable to the employee, even though he does not receive them in his paycheck.
+
+5. Question ID: 94849625 (Topic: Taxable Government Benefits)
+
+Which of the following would NOT be a type of taxable compensation to an employee?
+
+    A. Sick pay.
+    B. Vacation pay.
+    C. Worker's compensation.correct
+    D. Strike benefits.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 89% of students.
+
+Correct Answer Explanation for C:
+
+Workers' compensation benefits are not taxable income at the state or federal level. All of the other choices would be taxable forms of compensation (types of supplemental wages) and would be taxable in the year the compensation is received.
+
+7. Question ID: 94815822 (Topic: Taxable Government Benefits)
+
+Which of the following payments are generally taxable?
+
+    A. Unemployment compensation.correct
+    B. Qualified disaster relief payments.
+    C. Combat pay. 
+    D. VA disability benefits.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 92% of students.
+
+Correct Answer Explanation for A:
+
+Unemployment compensation is taxable and must be reported on a taxpayer's federal income tax return. The other items listed are not taxable.
+
+8. Question ID: 94849602 (Topic: Taxable Government Benefits)
+
+Trina cares for her disabled son in her home. She receives Qualified Medicaid waiver payments from the government totaling $17,000 during the year. She received a Form 1099-NEC reporting these payments as non-employee compensation. She does not care for anyone else, other than her son, and does not have any other employment. How should these amounts be reported on Trina's tax return?
+
+    A. She should report the amounts as "other income" on Form 1040. 
+    B. The amounts are not taxable. In order to offset the income that was reported to her on 1099-NEC, Trina should report the amount of those payments as income on Schedule C and also report the excludable amount as a Schedule C expense.correct
+    C. She should report the amounts on Schedule C and deduct any related business expenses. 
+    D. She should report the amounts as royalty payments on Schedule E. wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 64% of students.
+
+Correct Answer Explanation for B:
+
+The amounts are not taxable. Qualified Medicaid waiver payments are treated as "difficulty of care" payments and are excludable from gross income. These are payments generally issued by the state.
+
+If the taxpayer received Qualified Medicaid waiver payments as described in IRS Notice 2014-7, they may receive a Form 1099-MISC, 1099-NEC, or even a Form W-2 reporting the payments as non-employee compensation. 
+
+IRS Notice 2014-7 addresses the income tax treatment of certain payments to an individual care provider under a state Home and Community-Based Services Waiver (Medicaid waiver) program. The notice provides that "qualified Medicaid waiver payments" as difficulty-of-care payments are excludable from gross income. If the taxpayer chooses to exclude the payments received from gross income, the IRS suggests reporting the amount of those payments as income on Schedule C and also report the excludable amount as a Schedule C expense (this question is based on an example in the IRS' VITA courseware). Most software programs now have an override to ease reporting for this type of income. 
+
+6. Question ID: 94849711 (Topic: Taxable Government Benefits)
+
+Supplemental wages are compensation paid in addition to an employee’s regular wages. They do not include payments for:
+
+    A. Payments for non-deductible moving expenses.
+    B. Retroactive wage increases.
+    C. Accumulated sick leave.
+    D. Worker's compensation.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 73% of students.
+
+Correct Answer Explanation for D:
+
+Supplemental wages are compensation paid to an employee in addition to regular wages and include, but are not limited to, bonuses, commissions, overtime pay, accumulated sick leave, severance pay, retroactive wage increases, and payments for non-deductible moving expenses. Worker's compensation is not taxable to the recipient at the state or federal level.
+
+9. Question ID: 94849508 (Topic: Taxable Government Benefits)
+
+Herschel was unemployed during the entire year and received $14,200 in state unemployment compensation. He also received $200 per month in food stamps and $500 in emergency utility bill assistance from the government. What is the taxable status of the assistance that he received?
+
+    A. Only the utility bill assistance is taxable; the food stamps are not.
+    B. The unemployment compensation and utility bill assistance are fully taxable.
+    C. The food stamps and utility bill assistance are non-taxable, but only if Herschel provides receipts as proof that they were used for food and utilities.
+    D. The food stamps and utility bill assistance are non-taxable. The unemployment compensation is taxable.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 80% of students.
+
+Correct Answer Explanation for D:
+
+Both the food stamps and utility bill assistance are considered non-taxable. Unemployment compensation is taxable for IRS purposes.
+
+

@@ -1,0 +1,168 @@
+
+1. Question ID: 94815908 (Topic: Taxable Recoveries)
+
+Boldo received a state tax refund related to his prior-year return. He itemized deductions on Schedule A in the previous year and plans to itemize again in the current year. How does Boldo's state tax refund affect his current year tax return?
+
+    A. Boldo must report his state tax refund as a reduction of his itemized deduction for state income taxes paid on his current year tax return.
+    B. It does not. State tax refunds do not affect federal income taxes.
+    C. Boldo must report his prior year state tax refund as income on his federal tax return in the current year.correct
+    D. None of the above.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 60% of students.
+
+Correct Answer Explanation for C:
+
+Boldo must report his prior year state tax refund as income on his federal tax return in the current year. A state refund is included in federal gross income in the year it is received, but only if the taxpayer itemized deductions in the year to which the refund relates. If the taxpayer had claimed the standard deduction in the prior year, and thus received no benefit from the state income taxes paid, the related refund would not be taxable.
+
+2. Question ID: 98939105 (Topic: Taxable Recoveries)
+
+Are income tax refunds from state governments always taxable?
+
+    A. No, they are never taxable.
+    B. Only if the taxpayer itemized deductions in the year they overpaid those taxes.correct
+    C. Yes, regardless of whether the taxpayer itemized deductions.
+    D. Only if the taxpayer received a Form 1099-G from the state. wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 72% of students.
+
+Incorrect Answer Explanation for D:
+
+Income tax refunds from state and local governments are not always taxable, but they can be. State tax refunds are only taxable if the taxpayer itemized deductions in the year they overpaid those taxes and only to the extent the amount paid in the previous year reduced their tax liability.
+
+Correct Answer Explanation for B:
+
+Income tax refunds from state and local governments are not always taxable, but they can be. State tax refunds are only taxable if the taxpayer itemized deductions in the year they overpaid those taxes and only to the extent the amount paid in the previous year reduced their tax liability.
+Show Other Explanations
+
+Explanation for A:
+
+Income tax refunds from state and local governments are not always taxable, but they can be. State tax refunds are only taxable if the taxpayer itemized deductions in the year they overpaid those taxes and only to the extent the amount paid in the previous year reduced their tax liability.
+
+Explanation for C:
+
+Income tax refunds from state and local governments are not always taxable, but they can be. State tax refunds are only taxable if the taxpayer itemized deductions in the year they overpaid those taxes and only to the extent the amount paid in the previous year reduced their tax liability.
+
+3. Question ID: 94849704 (Topic: Taxable Recoveries)
+
+State income tax refunds are reported to the taxpayer on the Form ________.
+
+    A. Form W2.
+    B. Form W2-G.
+    C. Form 1099-G.correct
+    D. Form 1099-Misc.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 76% of students.
+
+Correct Answer Explanation for C:
+
+State and local income tax refunds are reported to the taxpayer on the Form 1099-G.
+
+4. Question ID: 94850060 (Topic: Taxable Recoveries)
+
+What is a taxable recovery?
+
+    A. A return of income a taxpayer deducted or claimed as a credit in an earlier year.correct
+    B. A type of income averaging.
+    C. Another name for a federal tax refund.
+    D. The amount deducted as a casualty or theft loss.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 85% of students.
+
+Correct Answer Explanation for A:
+
+A taxable recovery is a return of an amount a taxpayer deducted or claimed as a credit in an earlier year. The most common recoveries are refunds, reimbursements, and rebates of deductions itemized on Schedule A of Form 1040. A taxpayer may also have recoveries of non-itemized deductions (such as payments on previously deducted bad debts) and recoveries of items for which he previously claimed a tax credit. A taxpayer must include a recovery in income in the year he receives it, to the extent the deduction or credit reduced his tax in the earlier year.
+
+5. Question ID: 98939104 (Topic: Taxable Recoveries)
+
+Which of the following is a common type of taxable recovery?
+
+    A. State tax refund.correct
+    B. Gifts from family members.
+    C. Federal income tax refunds.
+    D. Life insurance proceeds. wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 76% of students.
+
+Incorrect Answer Explanation for D:
+
+A state tax refund is a common type of taxable recovery. The other answer choices are not taxable. 
+
+A “recovery” is a return of an amount a taxpayer deducted or took a credit for in an earlier year. The most common recoveries are state tax refunds, medical reimbursements, and rebates of deductions that were previously reported on Schedule A. Taxpayers must include a recovery in income in the year they receive it, but only to the extent the deduction or credit reduced income tax in the prior year. Income tax refunds from state and local governments are only taxable if the taxpayer itemized deductions in the year they overpaid those taxes and only to the extent the amount paid in the previous year reduced their tax liability. The entity issuing the refund will provide a Form 1099-G, Certain Government Payments, to the taxpayer and send a copy to the Internal Revenue Service by January 31st.
+
+Correct Answer Explanation for A:
+
+A state tax refund is a common type of taxable recovery. The other answer choices are not taxable. 
+
+A “recovery” is a return of an amount a taxpayer deducted or took a credit for in an earlier year. The most common recoveries are state tax refunds, medical reimbursements, and rebates of deductions that were previously reported on Schedule A. Taxpayers must include a recovery in income in the year they receive it, but only to the extent the deduction or credit reduced income tax in the prior year. Income tax refunds from state and local governments are only taxable if the taxpayer itemized deductions in the year they overpaid those taxes and only to the extent the amount paid in the previous year reduced their tax liability. The entity issuing the refund will provide a Form 1099-G, Certain Government Payments, to the taxpayer and send a copy to the Internal Revenue Service by January 31st.
+Show Other Explanations
+
+Explanation for B:
+
+A state tax refund is a common type of taxable recovery. The other answer choices are not taxable. 
+
+A “recovery” is a return of an amount a taxpayer deducted or took a credit for in an earlier year. The most common recoveries are state tax refunds, medical reimbursements, and rebates of deductions that were previously reported on Schedule A. Taxpayers must include a recovery in income in the year they receive it, but only to the extent the deduction or credit reduced income tax in the prior year. Income tax refunds from state and local governments are only taxable if the taxpayer itemized deductions in the year they overpaid those taxes and only to the extent the amount paid in the previous year reduced their tax liability. The entity issuing the refund will provide a Form 1099-G, Certain Government Payments, to the taxpayer and send a copy to the Internal Revenue Service by January 31st.
+
+Explanation for C:
+
+A state tax refund is a common type of taxable recovery. The other answer choices are not taxable. 
+
+A “recovery” is a return of an amount a taxpayer deducted or took a credit for in an earlier year. The most common recoveries are state tax refunds, medical reimbursements, and rebates of deductions that were previously reported on Schedule A. Taxpayers must include a recovery in income in the year they receive it, but only to the extent the deduction or credit reduced income tax in the prior year. Income tax refunds from state and local governments are only taxable if the taxpayer itemized deductions in the year they overpaid those taxes and only to the extent the amount paid in the previous year reduced their tax liability. The entity issuing the refund will provide a Form 1099-G, Certain Government Payments, to the taxpayer and send a copy to the Internal Revenue Service by January 31st.
+
+6. Question ID: 94815869 (Topic: Taxable Recoveries)
+
+Gerry receives a 1099-G from the State of California indicating that he received a state tax refund of $2,900 for the prior tax year. He did not itemize deductions on his prior-year tax return. How will this Form 1099-G impact his Federal tax return in the current tax year?
+
+    A. There is no impact on his tax return, and he does not need to report the state tax refund.correct
+    B. He is required to amend his prior year tax return to report the taxable refund.
+    C. A portion of the state tax refund may be taxable.
+    D. The state tax refund will be fully taxable, and must be included on his tax return.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 70% of students.
+
+Correct Answer Explanation for A:
+
+There is no impact on his tax return, and he does not need to report the state tax refund. In general, if a taxpayer didn’t itemize their deductions and didn't deduct their state and local income taxes in the prior year, they don’t need to pay taxes on their refunds in the following year.
+
+7. Question ID: 98939103 (Topic: Taxable Recoveries)
+
+A federal tax refund is a type of recovery, but it is never taxable. Why are federal income tax refunds (IRS tax refunds) never included in a taxpayer's income?
+
+    A. Because they are reported on Schedule B.
+    B. Because they are reported on Schedule A.
+    C. Because they are never allowed as a deduction.correct
+    D. Because they are considered gifts from the government.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 82% of students.
+
+Incorrect Answer Explanation for D:
+
+Federal income tax refunds (i.e., IRS tax refunds) are not included in a taxpayer's income because they are never allowed as a deduction.
+
+Correct Answer Explanation for C:
+
+Federal income tax refunds (i.e., IRS tax refunds) are not included in a taxpayer's income because they are never allowed as a deduction.
+Show Other Explanations
+
+Explanation for A:
+
+Federal income tax refunds (i.e., IRS tax refunds) are not included in a taxpayer’s income because they are never allowed as a deduction.
+
+Explanation for B:
+
+Federal income tax refunds (i.e., IRS tax refunds) are not included in a taxpayer’s income because they are never allowed as a deduction.
+
+

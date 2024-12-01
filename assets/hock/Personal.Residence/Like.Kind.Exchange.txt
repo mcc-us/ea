@@ -1,0 +1,233 @@
+
+3. Question ID: 94849538 (Topic: Like-Kind Exchange)
+
+Penny wishes to exchange her rental duplex in Miami, Florida with a triplex in Las Vegas, Nevada. Penny's duplex has an existing mortgage of $500,000 and a basis of $500,000. The triplex in Las Vegas has an existing mortgage of $900,000 which Penny assumes. Penny also adds $100,000 of her own cash to the deal in order to close the sale. The buyer assumes the $500,000 existing mortgage on Penny's Miami Duplex. The  Section1031 exchange is completed within 60 days, and Penny takes possession of the triplex in Las Vegas. What is Penny's basis in the new rental property (the Nevada triplex)?
+
+    A. $1,000,000correct
+    B. $600,000
+    C. $500,000
+    D. $900,000wrong
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 36% of students.
+
+Correct Answer Explanation for A:
+
+The answer is $1,000,000. Her basis in the Las Vegas triplex is calculated as follows:
+Basis of Relinquished Property (Miami duplex) $500,000
+ADD: Mortgage liability assumed by Penny +$900,000
+Plus: Amount of cash boot paid by Penny +$100,000
+Less: Liabilities assumed by other party ($500,000)
+Equals: Penny's basis in the Las Vegas property = $1,000,000
+
+4. Question ID: 94849579 (Topic: Like-Kind Exchange)
+
+Franklin owns a strip mall that he rents out to business tenants. His sister, Maribel, owns a residential rental property. Franklin exchanged his strip mall, plus $15,000, for his sister's property. At that time, the fair market value of his strip mall was $200,000 and its adjusted basis was $65,000. The fair market value of his sister's rental property was $215,000 and its adjusted basis was $70,000. What is Franklin's basis in the real property he received in this Section 1031 exchange?
+
+    A. $70,000
+    B. $80,000correct
+    C. $185,000
+    D. $65,000wrong
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 65% of students.
+
+Correct Answer Explanation for B:
+
+Because this is a like-kind exchange and Franklin received no cash or non-like-kind property in the exchange, he will recognize no gain on the exchange. Franklin's basis in the real property he received is $80,000 (the $65,000 adjusted basis of the real property given up (the strip mall) plus the $15,000 cash he paid). His sister recognizes gain only to the extent of the money she received, $15,000. Her basis in the real property she received was $70,000 (the $70,000 adjusted basis of the real property she exchanged minus the $15,000 received, plus the $15,000 gain she recognized).
+
+This MCQ is based directly on an example in IRS Publication 544, Sales and Other Dispositions of Assets.
+
+5. Question ID: 95850164 (Topic: Like-Kind Exchange)
+
+When might a like-kind exchange be partially taxable?
+
+    A. When the taxpayer receives boot.correct
+    B. When the taxpayer acquires undeveloped land.
+    C. When the taxpayer incurs expenses.
+    D. When the taxpayer exchanges land for a building.wrong
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 86% of students.
+
+Incorrect Answer Explanation for D:
+
+A like-kind exchange may be partially taxable when a taxpayer receives boot. The term "boot" refers to non-like-kind property received in an exchange that does not qualify for like-kind treatment. Boot is usually in the form of cash but can also include property.
+
+Correct Answer Explanation for A:
+
+A like-kind exchange may be partially taxable when a taxpayer receives boot. The term "boot" refers to non-like-kind property received in an exchange that does not qualify for like-kind treatment. Boot is usually in the form of cash but can also include property.
+Show Other Explanations
+
+Explanation for B:
+
+A like-kind exchange may be partially taxable when a taxpayer receives boot. The term “boot” refers to non-like-kind property received in an exchange that does not qualify for like-kind treatment. Boot is usually in the form of cash but can also include property.
+
+Explanation for C:
+
+A like-kind exchange may be partially taxable when a taxpayer receives boot. The term “boot” refers to non-like-kind property received in an exchange that does not qualify for like-kind treatment. Boot is usually in the form of cash but can also include property.
+
+6. Question ID: 95850162 (Topic: Like-Kind Exchange)
+
+What types of property qualify for a like-kind exchange?
+
+    A. Both real and personal property.
+    B. Real property held in a trade or business or for investment, including land, buildings, and certain unsevered natural products of land.correct
+    C. Only undeveloped land.
+    D. Personal property such as vacation homes, vehicles, furniture, and equipment.wrong
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 85% of students.
+
+Incorrect Answer Explanation for D:
+
+Only real property held in a trade or business or for investment qualifies for like-kind exchange treatment; including land, buildings, and certain unsevered natural products of land (such as natural mineral deposits, mines, and wells).
+
+Correct Answer Explanation for B:
+
+Only real property held in a trade or business or for investment qualifies for like-kind exchange treatment; including land, buildings, and certain unsevered natural products of land (such as natural mineral deposits, mines, and wells).
+Show Other Explanations
+
+Explanation for A:
+
+Only real property held in a trade or business or for investment qualifies for like-kind exchange treatment; including land, buildings, and certain unsevered natural products of land (such as natural mineral deposits, mines, and wells).
+
+Explanation for C:
+
+Only real property held in a trade or business or for investment qualifies for like-kind exchange treatment; including land, buildings, and certain unsevered natural products of land (such as natural mineral deposits, mines, and wells).
+
+7. Question ID: 958501806 (Topic: Like-Kind Exchange)
+
+Under which section of the Internal Revenue Code can a business exchange property without recognizing immediate gain or loss?
+
+    A. Section 1250
+    B. Section 1231
+    C. Section 1031correct
+    D. Section 1245wrong
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 84% of students.
+
+Incorrect Answer Explanation for D:
+
+Section 1031 of the Internal Revenue Code allows businesses to exchange property for like-kind property without recognizing immediate gain or loss, provided certain conditions are met.
+
+Correct Answer Explanation for C:
+
+Section 1031 of the Internal Revenue Code allows businesses to exchange property for like-kind property without recognizing immediate gain or loss, provided certain conditions are met.
+Show Other Explanations
+
+Explanation for A:
+
+Section 1031 of the Internal Revenue Code allows businesses to exchange property for like-kind property without recognizing immediate gain or loss, provided certain conditions are met.
+
+Explanation for B:
+
+Section 1031 of the Internal Revenue Code allows businesses to exchange property for like-kind property without recognizing immediate gain or loss, provided certain conditions are met.
+
+8. Question ID: 94849609 (Topic: Like-Kind Exchange)
+
+Noelle exchanged a residential rental property with her brother, Randall, who owned a commercial building. The FMV of both properties was similar, and no cash was exchanged between them. Both properties were used for business purposes. How should this transaction be reported?
+
+    A. This is a prohibited transaction. 
+    B. This is a Section 1031 exchange, both parties should report the exchange on Form 8824, Like-Kind Exchanges.correct
+    C. Since Noelle and her brother are related parties, this transaction is treated as an involuntary conversion. 
+    D. Since Noelle and her brother are related parties, this transaction is treated as a taxable event. wrong
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 80% of students.
+
+Correct Answer Explanation for B:
+
+This is a Section 1031 exchange, both parties should report the exchange on Form 8824, Like-Kind Exchanges. Exchanges between related parties are permitted, as long as both parties hold the replacement property for a minimum of two years following the exchange. 
+
+9. Question ID: 95850163 (Topic: Like-Kind Exchange)
+
+What is “boot” in a like-kind exchange?
+
+    A. When the taxpayer acquires undeveloped land.
+    B. Property that does not qualify for like-kind treatment.correct
+    C. The expenses associated with the exchange.
+    D. Any real property received by the taxpayer.wrong
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 53% of students.
+
+Incorrect Answer Explanation for D:
+
+The term "boot" refers to non-like-kind property received in an exchange, and does not qualify for like-kind treatment. Usually, boot is in the form of cash, but can also include property.
+
+Correct Answer Explanation for B:
+
+The term "boot" refers to non-like-kind property received in an exchange, and does not qualify for like-kind treatment. Usually, boot is in the form of cash, but can also include property.
+Show Other Explanations
+
+Explanation for A:
+
+The term “boot” refers to non-like-kind property received in an exchange, and does not qualify for like-kind treatment. Usually, boot is in the form of cash, but can also include property.
+
+Explanation for C:
+
+The term “boot” refers to non-like-kind property received in an exchange, and does not qualify for like-kind treatment. Usually, boot is in the form of cash, but can also include property.
+
+1. Question ID: 94849539 (Topic: Like-Kind Exchange)
+
+All of the assets listed below are used for business or investment purposes. Which of the following types of assets would NOT qualify for a like-kind exchange?
+
+    A. Farmland
+    B. Commercial office building
+    C. Undeveloped land 
+    D. A piece of factory equipmentcorrect
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 78% of students.
+
+Correct Answer Explanation for D:
+
+A piece of factory equipment would not be qualifying property for a Section 1031 exchange (a like-kind exchange). All types of real properties (real estate) generally qualify, regardless of whether they’re improved or unimproved. Due to changes in the Tax Cuts and Jobs Act, exchanges of machinery, equipment, vehicles, artwork, collectibles, patents and other intellectual property and intangible business assets generally do not qualify as like-kind exchanges. 
+
+2. Question ID: 94849636 (Topic: Like-Kind Exchange)
+
+Nhan exchanged a rental duplex in Boise, Idaho for an apartment four-plex in Houston, Texas; both are investment properties. The exchange is a qualified Section 1031 exchange. Nhan’s original purchase cost for the duplex was $65,000, and he had made $20,000 of capital improvements prior to the exchange. The apartment four-plex’s fair market value at the time of the exchange was $110,000. After the exchange is completed, what is Nhan's basis in the new Houston four-plex?
+
+    A. $65,000
+    B. $20,000
+    C. $110,000
+    D. $85,000correct
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 80% of students.
+
+Correct Answer Explanation for D:
+
+This is a Section 1031 exchange. Nhan does not recognize any gain from the like-kind exchange on his individual tax return. Nhan’s adjusted basis in the Boise duplex was $85,000 ($65,000 purchase cost + $20,000 capital improvements), so this is also the basis of the apartment four-plex he received in the exchange.
+
+Note: A section 1031 like-kind exchange occurs when a taxpayer exchanges business or investment property for similar property. If the exchange qualifies under section 1031, he does not pay tax on a resulting gain and cannot deduct a loss until he disposes of the property. The basis of the property received is generally the adjusted basis of the property transferred. (Note: Because of the Tax Cuts and Jobs Act, now only exchanges of real property (i.e., real estate) qualifies for like-kind exchange treatment).
+
+10. Question ID: 94849586 (Topic: Like-Kind Exchange)
+
+Smitty and Jaime own competing farm businesses. Smitty has decided to focus exclusively on growing flowers and Jaime exclusively grows vegetables. In 2023, they agree to swap Smitty's inventory of flowers for Jamie's inventory of vegetables. The Fair Market Value of the vegetables equals approximately the Fair Market Value of the flowers. How should this transaction be treated?
+
+    A. This transaction should be treated as a gift for both parties. 
+    B. This transaction is a like-kind exchange, and not a taxable event.
+    C. This transaction is an involuntary conversion, and it is not a taxable event. 
+    D. This transaction is not a like-kind exchange. It is a taxable event. correct
+
+Study Unit 8: Nonrecognition Property Transactions covers the information for this question.
+
+This question is answered correctly on the first attempt by 53% of students.
+
+Correct Answer Explanation for D:
+
+This is not a like-kind exchange, because inventory can never be exchanged under the rules for Section 1031 exchanges. This is a taxable event, and would likely be treated as a barter transaction. Under the Tax Cuts and Jobs Act, Section 1031 now applies only to exchanges of real property and not to exchanges of personal property or intangible property. (This question is based on a prior-year EA exam question). 
+
+

@@ -1,0 +1,328 @@
+1. Question ID: 94815857 (Topic: Other Itemized Deductions)
+
+Paulina is married but uses the Married Filing Separately (MFS) status. She did not live with her husband all year. However, they are not legally separated or divorced. Which of the following deductions would Paulina be ineligible to claim due to her filing status?
+
+    A. Traditional IRA deduction.
+    B. Student Loan interest deduction. correct
+    C. Deduction for casualty and theft loss(es) from a federally declared disaster.
+    D. Medical expense deduction. wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 62% of students.
+
+Correct Answer Explanation for B:
+
+The student loan interest deduction cannot be claimed by married taxpayers who file as Married Filing Separately. All of the other deductions listed could potentially be claimed by a taxpayer filing MFS.
+
+3. Question ID: 94849811 (Topic: Other Itemized Deductions)
+
+Which of the following examples would be considered a deductible non-business bad debt?
+
+    A. Loans to clients and suppliers.
+    B. A loan to a friend to put in a new bathroom in their main home. The loan becomes uncollectible in the current year.correct
+    C. Business loan guarantees.
+    D. Credit sales to customers.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 79% of students.
+
+Correct Answer Explanation for B:
+
+The loan to a friend would not be business-related, so it would be treated as a non-business bad debt. A taxpayer may report a non-business bad debt as a short-term capital loss (subject to limitations) on Form 8949, Sales and Other Dispositions of Capital Assets.
+
+To learn more about deductible bad debts, see IRS Topic No. 453 Bad Debt Deduction.
+
+4. Question ID: 94849978 (Topic: Other Itemized Deductions)
+
+Which of the following expenses is no longer deductible as an itemized deduction on Schedule A?
+
+    A. Union dues.correct
+    B. Casualty and theft losses incurred in a federally declared disaster area.
+    C. Investment interest expense.
+    D. Gambling losses.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 82% of students.
+
+Correct Answer Explanation for A:
+
+Due to the Tax Cuts and Jobs Act, union dues are no longer deductible as a miscellaneous itemized deduction. Certain other itemized deductions are still allowable, including:
+
+    Certain casualty and theft losses incurred in a federal disaster area.
+    Gambling losses up to the amount of gambling winnings.
+    Investment interest (limited to the amount of taxable investment income).
+    Impairment related work expenses of a disabled employee.
+
+6. Question ID: 94849713 (Topic: Other Itemized Deductions)
+
+Finnegan owns a duplex and lives in one half while renting the other half to a tenant. Both units have the same square footage. Last year, Finnegan paid a total of $18,000 in mortgage interest and $1,000 in real estate taxes for the entire property. How should this be reported on his tax return?
+
+    A. He can deduct $9,000 in mortgage interest and $500 in real estate taxes on Schedule E (Form 1040). If he itemizes his deductions, he can deduct the other $9,000 in mortgage interest and $500 in real estate taxes on Schedule A (Form 1040).correct
+    B. He should deduct $18,000 in mortgage interest and $1,000 in real estate taxes on Schedule A (Form 1040).
+    C. He can deduct $18,000 in mortgage interest and $1,000 in real estate taxes on Schedule E (Form 1040).
+    D. He can deduct $9,000 in mortgage interest on Schedule E (Form 1040). If he itemizes his deductions, he can deduct the other $9,000 in mortgage interest and $1,000 in real estate taxes on Schedule A (Form 1040).wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 77% of students.
+
+Correct Answer Explanation for A:
+
+Finnegan can deduct $9,000 in mortgage interest and $500 in real estate taxes on Schedule E. If he itemizes his deductions, he can deduct the other $9,000 in mortgage interest and $500 in real estate taxes on Schedule A (Form 1040). If an expense is for both rental use and personal use, such as mortgage interest or heat for the entire house, a taxpayer must divide the expense between rental use and personal use.
+
+Note: This is a common rental scenario where a taxpayer who owns a duplex lives in one unit and rents out the other side. Certain expenses apply to the entire property, such as mortgage interest and real estate taxes, and must be split to determine rental and personal expenses.
+
+8. Question ID: 94849895 (Topic: Other Itemized Deductions)
+
+Which of the following is not allowed as an itemized deduction on Schedule A?
+
+    A. Losses from the sale of stock.correct
+    B. Gambling losses up to the extent of gambling winnings.
+    C. Impairment-related work expenses of persons with disabilities.
+    D. Charitable gifts made to qualifying charities.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 81% of students.
+
+Correct Answer Explanation for A:
+
+Losses from the sale of stock (capital losses) are not reported on Schedule A. Capital losses from the sale of stock are reported on Schedule D.
+
+10. Question ID: 94849958 (Topic: Other Itemized Deductions)
+
+Which of the following investment expenses is still allowable in 2023 as an itemized deduction on Schedule A?
+
+    A. Legal fees to form a grantor trust to hold a primary residence
+    B. Investment interest expensecorrect
+    C. Advisory fees paid to a financial planner
+    D. The cost of a safe deposit box in a bankwrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for B:
+
+The Tax Cuts and Jobs Act suspended certain “miscellaneous itemized deductions,” which included investment fees and most investment expenses (i.e., tax prep fees, advisory expenses, safe deposit box fees). However, investment interest expense is still deductible. Investment interest expense is the interest paid on money borrowed to purchase taxable investments.
+
+11. Question ID: 94849833 (Topic: Other Itemized Deductions)
+
+Caesar itemizes deductions. The California Department of Motor Vehicles sent him an annual vehicle registration renewal notice for his car that had the following fees:
+
+    License fee: $124 (based on the value of the vehicle).
+    Weight fee: $65 (based on the weight of the vehicle).
+    Smog abatement fee: $20.
+
+What portion of the DMV fees is Caesar allowed to deduct on his Schedule A?
+
+    A. $124correct
+    B. $65
+    C. $189
+    D. $209wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 55% of students.
+
+Correct Answer Explanation for A:
+
+Caesar can deduct the portion of the registration fee that is based on the value of his vehicle, $124. Personal property taxes are deductible if they are:
+
+    Charged on personal property, including cars, boats, or items used in a business such as equipment and furniture;
+    Based on the value of the property; and
+    Charged on a yearly basis, even if collected more or less frequently than once a year.
+
+12. Question ID: 94849882 (Topic: Other Itemized Deductions)
+
+How long can investment interest expense in excess of investment income be carried forward?
+
+    A. The carryforward period is 20 years.
+    B. The carryforward period is 5 years, with a carryback of 2 years.
+    C. Investment interest expense can be carried forward indefinitely.correct
+    D. You cannot carry forward investment interest expense.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 45% of students.
+
+Correct Answer Explanation for C:
+
+Investment interest expense in excess of investment income can be carried forward indefinitely (until the taxpayer's death). For more information, see Publication 550, Investment Income and Expenses.
+
+13. Question ID: 94849578 (Topic: Other Itemized Deductions)
+
+Royce is having money troubles and agrees to sell his home to Janie, his friend. Janie agrees to pay all of the delinquent real estate taxes on the residence, totaling $2,000. How must Janie treat the property tax payment of $2,000?
+
+    A. Janie can deduct the taxes as an itemized deduction on her Schedule A.
+    B. Janie can deduct the taxes paid as an adjustment to income.
+    C. Janie cannot deduct the taxes. She must add the taxes paid to her basis in the property.correct
+    D. The taxes can be prorated and deducted over the life of her loan.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 64% of students.
+
+Correct Answer Explanation for C:
+
+Janie can only deduct property taxes that are legally imposed on her. She cannot deduct the delinquent property taxes because she was not the owner of the property when the taxes were imposed. Property taxes paid in connection with a purchase may be added to the buyer’s basis if the taxes are for the time period the property was owned by the seller.
+
+14. Question ID: 95042145 (Topic: Other Itemized Deductions)
+
+All of the following are deductible as business expenses on Schedule C except _____.
+
+    A. Interest paid on business loans.
+    B. Charitable gifts to a qualified organization.correct
+    C. Business-related travel.
+    D. Expenses for business use of the taxpayer's home (home office expenses).wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 84% of students.
+
+Correct Answer Explanation for B:
+
+Charitable gifts to a qualified organization are not deductible on Schedule C. They would be deductible on Schedule A if the taxpayer itemizes deductions.
+
+15. Question ID: 94850017 (Topic: Other Itemized Deductions)
+
+Which of the following expenses is deductible for individual taxpayers on Form 1040? (Choose the best answer)
+
+    A. Life insurance premiums paid by a self-employed taxpayer.
+    B. Health insurance premiums paid by a self-employed taxpayer.correct
+    C. Rental and utility payments on a personal home.
+    D. Payments for tuition at a private elementary school.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 77% of students.
+
+Correct Answer Explanation for B:
+
+Health insurance premiums paid by a self-employed taxpayer are deductible as an adjustment to income on Form 1040. Since it is an adjustment to income, self-employed taxpayers can claim this deduction regardless if they choose to claim the standard deduction or itemize their deductions.
+
+16. Question ID: 94849973 (Topic: Other Itemized Deductions)
+
+Harinder is a self-employed therapist who sees clients in his home. He has a qualified home office. This year, he decides to use the simplified method to calculate his home office expenses. His home office is 210 square feet. What is the maximum amount that he is allowed to deduct?
+
+    A. A deduction of $1 per square foot, with a maximum allowable square footage of 400 square feet, for a maximum deduction of $400.
+    B. A deduction of $1 per square foot, with a maximum allowable square footage of 210 square feet, for a maximum deduction of $210.
+    C. A deduction of $5 per square foot, with a maximum allowable square footage of 210 square feet, for a maximum deduction of $1,050.correct
+    D. A deduction of $5 per square foot, with a maximum allowable square footage of 350 square feet, for a maximum deduction of $1,750.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 61% of students.
+
+Correct Answer Explanation for C:
+
+Using the simplified method, he would be allowed a deduction of $5 per square foot, with his office’s square footage of 210 square feet, for a maximum deduction of $1,050.
+
+Highlights of the simplified home office deduction:
+
+    Standard deduction of $5 per square foot of home used for business (maximum 300 square feet).
+    Allowable home-related itemized deductions claimed in full on Schedule A. (For example: Mortgage interest, real estate taxes).
+    No home depreciation deduction or later recapture of depreciation for the years the simplified option is used.
+
+Learn more about the Simplified Home Office Deduction. 
+
+17. Question ID: 94849822 (Topic: Other Itemized Deductions)
+
+Kathy paid DMV fees on three different vehicles during the year. She also pays a renewal fee for vanity plates. All of the vehicles were personal-use. Which of the following is correct?
+
+    A. She can deduct DMV fees only if she itemizes deductions. The amounts would be deductible on Schedule A as personal property taxes.correct
+    B. DMV fees are not deductible.
+    C. The DMV fees are deductible, as well as the fees for her vanity plates, because the fees are all paid to the DMV. 
+    D. She cannot take a deduction for fees paid on personal-use vehicles. Property taxes are deductible only if they are related to real property.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 73% of students.
+
+Correct Answer Explanation for A:
+
+Kathy can deduct DMV fees and other personal property taxes only if she itemizes deductions. The deduction is claimed on Schedule A. The cost of the vanity plates would not be a deductible expense. 
+
+ 
+
+2. Question ID: 94849927 (Topic: Other Itemized Deductions)
+
+Galilea is employed as a full-time saleswoman and travels occasionally on behalf of her employer. Her employer does not have a reimbursement policy. Her adjusted gross income in the current year is $80,000. She has the following miscellaneous expenses, including business expenses for which she was not reimbursed:
+
+    Meals with clients: $500.
+    Home office expenses: $1,100.
+    Personal tax return preparation: $200.
+    Gambling losses: $9,000.
+
+Galilea had $2,000 of gambling winnings during the year. Based on the information above, what is her allowable deduction for miscellaneous itemized deductions on her Schedule A?
+
+    A. $9,000
+    B. $2,600
+    C. $1,100
+    D. $2,000correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 74% of students.
+
+Correct Answer Explanation for D:
+
+Of Galilea's deductions, only gambling losses are deductible, and then, the deduction is limited to the amount of her gambling winnings ($2,000). None of her work-related expenses would be deductible.
+
+Note: The Tax Cuts and Jobs Act suspended a large number of miscellaneous deductions lumped together in a category called “miscellaneous itemized deductions” that were deductible to the extent they exceeded 2% of a taxpayer's AGI. One of these was the deduction for employee business expenses (for most employees, although there are some narrow exceptions). Some miscellaneous itemized deductions are still allowable, however, including the deduction for gambling losses (but only to the extent of gambling winnings).
+
+5. Question ID: 94849911 (Topic: Other Itemized Deductions)
+
+Which of the following taxes are deductible on Schedule A as an itemized deduction?
+
+    A. Federal income taxes.
+    B. State inheritance tax.
+    C. Self-Employment taxes.
+    D. State and local income taxes.correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 89% of students.
+
+Correct Answer Explanation for D:
+
+State and local income taxes are an allowable deduction on Schedule A. None of the other taxes listed are deductible on Schedule A.
+
+7. Question ID: 94850004 (Topic: Other Itemized Deductions)
+
+Which of the following theft losses are deductible in 2023?
+
+    A. Theft of a car stereo from a personal-use vehicle. 
+    B. Theft of cash from a personal savings account from wire fraud. 
+    C. Theft of a diamond ring from a home safe. 
+    D. Theft losses from Ponzi-type investment schemes.correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 79% of students.
+
+Correct Answer Explanation for D:
+
+A theft loss from a Ponzi investment scheme is subject to special rules. The loss is not subject to the normal capital loss limits on investments. The loss is deductible in the year of discovery. For more information, see the Instructions for Form 4684. Additionally, review Help for Victims of Ponzi Investment Schemes and Publication 547. The other losses listed would be personal losses and not deductible. 
+
+9. Question ID: 94849814 (Topic: Other Itemized Deductions)
+
+Odell pays a variety of fees during the year. Which of the following are deductible on Schedule A if he itemizes his deductions?
+
+    A. Home Owners Association landscaping fees of $500 on his personal residence.
+    B. Fees for paying a parking ticket late.
+    C. A flat $2 "DMV modernization fee" when he pays his vehicle registration.
+    D. DMV fees.correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 81% of students.
+
+Correct Answer Explanation for D:
+
+The DMV fees would be the only allowable expense on Schedule A. None of the other items listed are deductible.
+
+

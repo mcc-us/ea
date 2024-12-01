@@ -1,0 +1,163 @@
+
+
+1. Question ID: 98939108 (Topic: Taxable Alimony)
+
+Regardless of what is outlined in the divorce decree, when do alimony payments cease to be considered "alimony" for federal tax purposes?
+
+    A. When the payor becomes disabled.
+    B. When the payor itemizes deductions.
+    C. When the receiving spouse dies.correct
+    D. When the payor makes the payments in cash. wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 86% of students.
+
+Incorrect Answer Explanation for D:
+
+Regardless of what is outlined in the divorce decree, alimony payments cease to be considered "alimony" after the death of the receiving spouse. Any payments made after death (by the estate) will not be considered alimony for federal tax purposes.
+
+Correct Answer Explanation for C:
+
+Regardless of what is outlined in the divorce decree, alimony payments cease to be considered "alimony" after the death of the receiving spouse. Any payments made after death (by the estate) will not be considered alimony for federal tax purposes.
+Show Other Explanations
+
+Explanation for A:
+
+Regardless of what is outlined in the divorce decree, alimony payments cease to be considered “alimony” after the death of the receiving spouse. Any payments made after death (by the estate) will not be considered alimony for federal tax purposes.
+
+Explanation for B:
+
+Regardless of what is outlined in the divorce decree, alimony payments cease to be considered “alimony” after the death of the receiving spouse. Any payments made after death (by the estate) will not be considered alimony for federal tax purposes.
+
+2. Question ID: 98939106 (Topic: Taxable Alimony)
+
+Which of the following payments is never subject to income tax?
+
+    A. Alimony payments.
+    B. Payments received from an ex-spouse.
+    C. Child support payments.correct
+    D. Payments made to a third party pursuant to a divorce decree. wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 87% of students.
+
+Incorrect Answer Explanation for D:
+
+Child support payments are never subject to income tax, and they are not deductible by the payor.
+
+Alimony payments can be taxable, if the divorce decree is considered "grandfathered." Divorce and separation agreements entered into before 2019 are; grandfathered, so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+Payments made to a third party can be considered alimony in some cases. 
+
+Correct Answer Explanation for C:
+
+Child support payments are never subject to income tax, and they are not deductible by the payor.
+
+Alimony payments can be taxable, if the divorce decree is considered "grandfathered." Divorce and separation agreements entered into before 2019 are; grandfathered, so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+Payments made to a third party can be considered alimony in some cases. 
+Show Other Explanations
+
+Explanation for A:
+
+Child support payments are never subject to income tax, and they are not deductible by the payor.
+
+Alimony payments can be taxable, if the divorce decree is considered “grandfathered.” Divorce and separation agreements entered into before 2019 are; grandfathered, so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+Payments made to a third party can be considered alimony in some cases. 
+
+Explanation for B:
+
+Child support payments are never subject to income tax, and they are not deductible by the payor.
+
+Alimony payments can be taxable, if the divorce decree is considered “grandfathered.” Divorce and separation agreements entered into before 2019 are; grandfathered, so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+Payments made to a third party can be considered alimony in some cases. 
+
+4. Question ID: 98939109 (Topic: Taxable Alimony)
+
+For which type of divorce agreements will there continue to be alimony deductions and taxable alimony income?
+
+    A. Divorce agreements with significant noncash property settlements included.
+    B. Divorce agreements finalized after 2019.
+    C. Divorce agreements executed before 2019.correct
+    D. Divorce agreements with a repayment of a loan clause.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 91% of students.
+
+Incorrect Answer Explanation for D:
+
+Alimony payments can be taxable to the recipient and deductible by the payor, if the divorce decree is considered "grandfathered." Divorce and separation agreements entered into before 2019 are grandfathered, so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+Correct Answer Explanation for C:
+
+Alimony payments can be taxable to the recipient and deductible by the payor, if the divorce decree is considered "grandfathered." Divorce and separation agreements entered into before 2019 are grandfathered, so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+Show Other Explanations
+
+Explanation for A:
+
+Alimony payments can be taxable to the recipient and deductible by the payor, if the divorce decree is considered “grandfathered.” Divorce and separation agreements entered into before 2019 are grandfathered, so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+Explanation for B:
+
+Alimony payments can be taxable to the recipient and deductible by the payor, if the divorce decree is considered “grandfathered.” Divorce and separation agreements entered into before 2019 are grandfathered, so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+3. Question ID: 94815858 (Topic: Taxable Alimony)
+
+Belinda is married to Jesse. They are both U.S. citizens and live in Montana, a non-community property state. They have no children. Because of financial problems caused by her first husband, Belinda refuses to file a joint return with anyone, including Jesse. Belinda files her own tax return separately. Belinda receives her W-2 from her employer. She earned $83,000 from her job. She also receives Form 1099-INT from her credit union, reporting $357 in interest earned on her savings account. She also paid $5,000 in alimony to her ex-husband, who she divorced in 2015. She has no other income or adjustments. Based on this information, what is her AGI?
+
+    A. $78,000
+    B. $83,000
+    C. $83,357
+    D. $78,357correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 82% of students.
+
+Correct Answer Explanation for D:
+
+Her AGI (adjusted gross income) is $78,357, figured as follows:
+$83,000 Wages +
+$357 Interest income
+$83,357 (this is Belinda's "gross income")
+-$5,000 Alimony paid (this is an adjustment to income)
+=$78,357 AGI
+
+Note: Belinda's gross income includes her wages, interest, capital gains, income from retirement accounts. This total is then adjusted downward by specific deductions (including alimony paid) to arrive at AGI, or "adjusted gross income." Under the TCJA, an individual whose divorce was finalized in 2019 and pays alimony to an ex-spouse will no longer be able to deduct those payments. However, any divorce decree that was finalized before 2019 is considered “grandfathered” which means that those alimony payments remain deductible to the payor. Since Belinda's divorce was finalized in 2015, her decree is considered "grandfathered" and her alimony payments are still deductible. 
+
+5. Question ID: 98939107 (Topic: Taxable Alimony)
+
+What law changed the tax treatment of alimony starting in 2019?
+
+    A. The Payor's Liability Bill.
+    B. The Grandfather Clause.
+    C. The Divorce Engagement Act.
+    D. The Tax Cuts and Jobs Act.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 81% of students.
+
+Correct Answer Explanation for D:
+
+The Tax Cuts and Jobs Act changed the treatment of alimony starting in 2019, making it nondeductible to the payor and nontaxable to the recipient. Divorce and separation agreements entered before 2019 are "grandfathered," so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+Show Other Explanations
+
+Explanation for A:
+
+The Tax Cuts and Jobs Act changed the treatment of alimony starting in 2019, making it nondeductible to the payor and nontaxable to the recipient. Divorce and separation agreements entered before 2019 are “grandfathered,” so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+Explanation for B:
+
+The Tax Cuts and Jobs Act changed the treatment of alimony starting in 2019, making it nondeductible to the payor and nontaxable to the recipient. Divorce and separation agreements entered before 2019 are “grandfathered,” so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+Explanation for C:
+
+The Tax Cuts and Jobs Act changed the treatment of alimony starting in 2019, making it nondeductible to the payor and nontaxable to the recipient. Divorce and separation agreements entered before 2019 are “grandfathered,” so there will continue to be alimony deductions and taxable alimony income for individuals with divorce agreements that were finalized prior to 2019.
+
+

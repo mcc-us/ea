@@ -1,0 +1,232 @@
+
+1. Question ID: 758501785 (Topic: Social Security Income)
+
+Jamal turned 65 during the year and has started collecting Social Security benefits. He has a filing requirement, because he is also still working and has wages from a part-time job. Jamal wants to know, which form should he look for at tax time, that he should use to report the Social Security income he has received?
+
+    A. Form SSA-1099 correct
+    B. Form W-2G
+    C. Form 1099-R
+    D. Form W-2wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 86% of students.
+
+Incorrect Answer Explanation for D:
+
+Social Security income is reported to taxpayers on Form SSA-1099, Social Security Benefit Statement.
+
+Correct Answer Explanation for A:
+
+Social Security income is reported to taxpayers on Form SSA-1099, Social Security Benefit Statement.
+Show Other Explanations
+
+Explanation for B:
+
+Social Security income is reported to taxpayers on Form SSA-1099, Social Security Benefit Statement.
+
+Explanation for C:
+
+Social Security income is reported to taxpayers on Form SSA-1099, Social Security Benefit Statement.
+
+2. Question ID: 94849496 (Topic: Social Security Income)
+
+Clarence is 67 and unmarried. He has no dependents and lives alone. During the year, he sold investments and realized a taxable capital gain of $96,050. He also received $11,500 of Social Security benefits. He has no other taxable income for the year. What is the maximum taxable amount of his Social Security benefits?
+
+    A. $9,775, a maximum of 85% of his benefits would be taxable. correct
+    B. Insufficient information to determine the answer.
+    C. $11,500, all of his benefits would be taxable. 
+    D. $0, none of his benefits would be taxable. wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 76% of students.
+
+Correct Answer Explanation for A:
+
+Regardless of a taxpayer’s other taxable income, the maximum amount that can ever be taxable on net Social Security benefits is 85%. Therefore, the answer is $9,775 ($11,500 × 85%). This is the maximum amount of his Social Security that would be taxed.
+
+3. Question ID: 94849611 (Topic: Social Security Income)
+
+Which of the following is not taxable as "earned income"?
+
+    A. Union strike benefits.
+    B. Social security and railroad retirement benefitscorrect
+    C. Self-employment income of a statutory employee.
+    D. Long-term disability benefits received prior to minimum retirement age.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 44% of students.
+
+Correct Answer Explanation for B:
+
+Social security and railroad retirement benefits are not considered "earned income". Earned income includes all the taxable income and wages a taxpayer receives from working. Taxable earned income includes:
+
+    Wages, salaries, tips, and other taxable employee pay.
+    Union strike benefits.
+    Long-term disability benefits received prior to minimum retirement age.
+    Net earnings from self-employment.
+
+Most government welfare benefits including food stamps, heating assistance programs, and non-federal assistance benefits from states or local agencies are exempt from federal taxation and not treated as "earned income." Worker’s compensation, which provides wage replacement and medical benefits to injured workers, is also not taxable.
+
+5. Question ID: 94815828 (Topic: Social Security Income)
+
+Toby switched jobs in the middle of the year and ends up working for two different employers. He earns $200,000 in total wages. Social Security taxes are collected on the entire amount. What is true about Toby's situation?
+
+    A. Toby can claim a refund of the excess Social Security taxes on his Form 1040.correct
+    B. Toby needs to speak with his employers so that they refund excess Social Security taxes to him.
+    C. Both, Toby and his employers are entitled to a refund of excess Social Security taxes.
+    D. There is no refund for excess Social Security taxes in this case.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 62% of students.
+
+Correct Answer Explanation for A:
+
+Toby has the option to claim a refund on the excess Social Security taxes, since he worked for more than one employer during the year. In this type of scenario, the overpaid Social Security tax will be refunded when Toby files his individual return and claims the excess Social Security withholding as a credit. 
+
+Overpayments of Social Security tax are discussed in IRS Tax Topic 608, Excess Social Security and RRTA Tax Withheld. 
+
+6. Question ID: 758501787 (Topic: Social Security Income)
+
+Which of the following is included in the calculation to determine the taxability of Social Security benefits?
+
+    A. One-half of Social Security benefits plus all other income, including tax-exempt interestcorrect
+    B. Only earned income
+    C. One-half of Social Security benefits plus all other income, excluding tax-exempt interest
+    D. Only unearned incomewrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 65% of students.
+
+Incorrect Answer Explanation for D:
+
+To determine the taxability of Social Security benefits, a taxpayer must add one-half of their Social Security benefits to all other income, including tax-exempt interest.
+
+Correct Answer Explanation for A:
+
+To determine the taxability of Social Security benefits, a taxpayer must add one-half of their Social Security benefits to all other income, including tax-exempt interest.
+Show Other Explanations
+
+Explanation for B:
+
+To determine the taxability of Social Security benefits, a taxpayer must add one-half of their Social Security benefits to all other income, including tax-exempt interest.
+
+Explanation for C:
+
+To determine the taxability of Social Security benefits, a taxpayer must add one-half of their Social Security benefits to all other income, including tax-exempt interest.
+
+7. Question ID: 94849501 (Topic: Social Security Income)
+
+What is the maximum percentage of taxable Social Security benefits?
+
+    A. 85%correct
+    B. 100%
+    C. 50%
+    D. 0%wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for A:
+
+Up to 85% of Social Security benefits may be taxable. No taxpayer pays taxes on more than 85% of their benefits, regardless of their income.
+
+8. Question ID: 758501788 (Topic: Social Security Income)
+
+Bishakha is age 66 and separated from her husband in the middle of the year. They are not "legally" separated and they have not filed for divorce. Bishakha doesn't have any dependents, and plans to file MFS (married filing separately). She is still working, and also collects Social Security. What is the base amount that Bishakha must use to calculate the taxable portion of her Social Security?
+
+    A. $0correct
+    B. $32,000
+    C. $25,000
+    D. $50,000wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 51% of students.
+
+Incorrect Answer Explanation for D:
+
+Bishakha is filing MFS, and separated from her spouse in the middle of the year, which means her base amount is zero.
+
+Note: For a taxpayer who is married filing separately and lived with their spouse at any time during the year, the base amount for calculating the taxability of Social Security benefits is $0, meaning that Bishakha's Social Security benefits are likely to be at least partially taxable.
+
+Correct Answer Explanation for A:
+
+Bishakha is filing MFS, and separated from her spouse in the middle of the year, which means her base amount is zero.
+
+Note: For a taxpayer who is married filing separately and lived with their spouse at any time during the year, the base amount for calculating the taxability of Social Security benefits is $0, meaning that Bishakha's Social Security benefits are likely to be at least partially taxable.
+Show Other Explanations
+
+Explanation for B:
+
+Bishakha is filing MFS, and separated from her spouse in the middle of the year, which means her base amount is zero.
+
+Note: For a taxpayer who is married filing separately and lived with their spouse at any time during the year, the base amount for calculating the taxability of Social Security benefits is $0, meaning that Bishakha’s Social Security benefits are likely to be at least partially taxable.
+
+Explanation for C:
+
+Bishakha is filing MFS, and separated from her spouse in the middle of the year, which means her base amount is zero.
+
+Note: For a taxpayer who is married filing separately and lived with their spouse at any time during the year, the base amount for calculating the taxability of Social Security benefits is $0, meaning that Bishakha’s Social Security benefits are likely to be at least partially taxable.
+
+9. Question ID: 94849503 (Topic: Social Security Income)
+
+Willie is 62-years-old and married. He files Married Filing Separately, and lives apart from his wife for the entire year. What is Willie's “base amount” for computing the taxable portion of his Social Security benefits?
+
+    A. $25,000correct
+    B. $0
+    C. $50,000
+    D. $32,000wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 65% of students.
+
+Correct Answer Explanation for A:
+
+There are two relevant base amounts for figuring the taxable portion of Social Security. The lower base is $25,000 if the taxpayer is single or MFS (but lives apart from their spouse), and $32,000 if married filing jointly. The base amount is zero for married persons filing separately who lived together at any time during the year. (This question is based on an actual EA exam question released by the IRS).
+
+4. Question ID: 758501786 (Topic: Social Security Income)
+
+Hrithika is unmarried and does not have any dependents. She turned 65 this year and has started collecting Social Security. She has other income sources, as well, including a rental property that she manages herself, so she has a filing requirement. What is the base amount that Hrithika must use for calculating the taxability of her Social Security benefits?
+
+    A. $32,000
+    B. $250,000
+    C. $0
+    D. $25,000correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 82% of students.
+
+Correct Answer Explanation for D:
+
+Hrithika is single, so her base amount is $25,000. 
+
+Note: The base amount for calculating the taxability of Social Security benefits for a taxpayer filing as single, head of household, qualifying surviving spouse, or married filing separately (and lived apart from their spouse all year) is $25,000. For married couples, it is $32,000.
+Show Other Explanations
+
+Explanation for A:
+
+Hrithika is single, so her base amount is $25,000. 
+
+Note: The base amount for calculating the taxability of Social Security benefits for a taxpayer filing as single, head of household, qualifying surviving spouse, or married filing separately (and lived apart from their spouse all year) is $25,000. For married couples, it is $32,000.
+
+Explanation for B:
+
+Hrithika is single, so her base amount is $25,000. 
+
+Note: The base amount for calculating the taxability of Social Security benefits for a taxpayer filing as single, head of household, qualifying surviving spouse, or married filing separately (and lived apart from their spouse all year) is $25,000. For married couples, it is $32,000.
+
+Explanation for C:
+
+Hrithika is single, so her base amount is $25,000. 
+
+Note: The base amount for calculating the taxability of Social Security benefits for a taxpayer filing as single, head of household, qualifying surviving spouse, or married filing separately (and lived apart from their spouse all year) is $25,000. For married couples, it is $32,000.
+
+

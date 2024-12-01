@@ -1,0 +1,235 @@
+
+1. Question ID: 94850381 (Topic: Hobby Income)
+
+A key feature of a business is that people do it to make a profit. People engage in a hobby for sport or recreation, not to make a profit. The IRS presumes that an activity is carried on for profit if it:
+
+    A. Makes a profit during at least 3 of the last 7 tax years, including the previous year.
+    B. Makes a profit during at least 3 of the last 5 tax years, including the current year.correct
+    C. Makes a profit during at least 3 of the last 10 tax years, including the current year.
+    D. Makes a profit during at least 2 of the last 5 tax years, including the previous year.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 77% of students.
+
+Correct Answer Explanation for B:
+
+The IRS presumes that an activity is “carried on for profit” if it makes a profit during at least 3 of the last 5 tax years, including the current year. The general rule is 2 of the last 7 years for activities that consist primarily of breeding, showing, training or racing horses. The hobby loss rules apply to individuals, S corporations, trusts, estates, and partnerships but not to C corporations. 
+
+2. Question ID: 94850408 (Topic: Hobby Income)
+
+The hobby loss rules do not apply to which of the following entity types?
+
+    A. Trusts.
+    B. C Corporations.correct
+    C. S Corporations.
+    D. Individuals.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 49% of students.
+
+Correct Answer Explanation for B:
+
+The hobby loss rules apply to individuals, partners in a partnership, estates, trusts, and shareholders of S corporations. The hobby loss rules do not apply to C corporations. In other words, the "hobby loss" rules of the Internal Revenue Code (IRC) §183 attempt to curb perceived loss deduction abuses by activities that are not entered into for profit.
+
+4. Question ID: 758501777 (Topic: Hobby Income)
+
+What is one benefit of hobby income, compared to self-employment income?
+
+    A. Hobby income is not taxable
+    B. Hobby income can be reported on Schedule F
+    C. Hobby income is not subject to self-employment taxcorrect
+    D. Hobby income is not subject to income taxwrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 90% of students.
+
+Incorrect Answer Explanation for D:
+
+Although expenses related to a hobby activity are not deductible, one benefit is that hobby income is not subject to self-employment tax, unlike other types of business income.
+
+Correct Answer Explanation for C:
+
+Although expenses related to a hobby activity are not deductible, one benefit is that hobby income is not subject to self-employment tax, unlike other types of business income.
+Show Other Explanations
+
+Explanation for A:
+
+Although expenses related to a hobby activity are not deductible, one benefit is that hobby income is not subject to self-employment tax, unlike other types of business income.
+
+Explanation for B:
+
+Although expenses related to a hobby activity are not deductible, one benefit is that hobby income is not subject to self-employment tax, unlike other types of business income.
+
+6. Question ID: 94849502 (Topic: Hobby Income)
+
+The IRS presumes that an activity is "carried on for profit" if it makes a profit for:
+
+    A. Two years in a row.
+    B. Three of the last five tax years, including the current year.correct
+    C. Three years in a row.
+    D. Two of the last three tax years, including the current year.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 79% of students.
+
+Correct Answer Explanation for B:
+
+The IRS presumes that an activity is carried on for profit if it makes a profit during at least three of the last five tax years, including the current year. In the case of breeding, showing, training, or racing horses, at least two of the last seven years must show a profit. If an activity is later determined to not be for profit, the losses from that activity may be disallowed. This happens when the IRS reclassifies a business as a hobby.
+
+See the IRS detail page on how to distinguish between a business and a hobby.
+
+7. Question ID: 94850351 (Topic: Hobby Income)
+
+Which of the following activities would be classified as a hobby activity (rather than a business)?
+
+    A. A rental activity that is profitable but one in which the taxpayer does not materially participate. 
+    B. An activity that is carried on primarily for pleasure and recreation and occasionally turns a profit. correct
+    C. A new business activity that incurs a net operating loss in the current year. 
+    D. A business activity that is carried on to make a profit but incurs losses for multiple years. wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 90% of students.
+
+Correct Answer Explanation for B:
+
+An activity must have a profit motive in order to be considered a business. A key feature of a business is that people do it to make a profit. People engage in a hobby for sport or recreation, not to make a profit. See the IRS detail page on hobby activities for more information. 
+
+3. Question ID: 94849577 (Topic: Hobby Income)
+
+Morty works full-time as a lifeguard. He is also a competitive surfer and has regularly participated in surfing competitions for the past six years with the intent to earn prize winnings. He has devoted significant time and effort to developing expertise in surfing, and he keeps good records that track his income and expenses associated with the surfing competitions. Morty has not yet earned a profit through the surfing competitions. As his tax preparer, what would you advise Morty?
+
+    A. The surfing competitions constitute a business activity, so he can report his income and deduct his expenses on Schedule C.
+    B. Morty does not have to claim any of the surfing competition income, but he is allowed to capitalize the expenses to a future year, for when he starts to make a profit. 
+    C. Morty can choose to forego claiming the income and the expenses, since the activity is just a hobby.
+    D. Morty is likely engaging in a hobby. His hobby-related expenses are not deductible, but his hobby income is taxable. correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 59% of students.
+
+Correct Answer Explanation for D:
+
+The IRS is likely to determine that Morty is engaging in a hobby and the surfing competitions are not a true business activity engaged in for profit. Although he maintains adequate records and enters surf competitions with the intent to earn money, he continues to enter competitions despite sustaining losses over several years, suggesting the lack of a true profit motive. A hobby is an activity typically undertaken primarily for pleasure. The IRS presumes that an activity is “carried on for a profit” if it makes a profit during at least three of the last five tax years, including the current year. Income from a hobby is taxable and reported on Form 1040 as “other income”. Expenses related to a hobby activity are no longer deductible due to changes implemented by the Tax Cuts and Jobs Act.
+
+See the IRS detail page on how to distinguish between a business and a hobby.
+
+5. Question ID: 758501776 (Topic: Hobby Income)
+
+Aishwarya has a hobby making baskets out of yarn and other crafting materials. She sells the baskets for $35 each at craft fairs sometimes, but mostly she just gives them out to family and friends as gifts. This year, she earned $1,200 from selling her baskets, and she spent $250 on materials to make the baskets. How much net income should she report from her hobby activity, and how should the income be reported?
+
+    A. She should report $950 on Schedule C of her individual tax return.
+    B. She should report the full amount of $1,200 on Schedule C. None of her expenses are deductible, because it is a hobby.
+    C. She should report the full amount of $1,200 as "other income" on Schedule 1 of her individual tax return.
+    D. She should report $950 as "other income" on Schedule 1 of her individual tax return. correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 50% of students.
+
+Correct Answer Explanation for D:
+
+Aishwarya should report $950 ($1,200 - $250) as "other income" on Schedule 1 of her individual tax return. Income earned from a hobby must be reported on Form 1040, Schedule 1. This form is used to report additional income, such as hobby income, that is not reported on other forms.
+
+Note: Expenses related to a hobby are not deductible, however, a taxpayer can deduct Cost of Goods Sold from gross receipts to calculate hobby income. Since Aishwarya spent $250 on supplies to actually build her baskets, these would be classified as COGS, and therefore deductible from her gross receipts to arrive at her taxable hobby income.
+Show Other Explanations
+
+Explanation for A:
+
+Aishwarya should report $950 ($1,200 – $250) as “other income” on Schedule 1 of her individual tax return. Income earned from a hobby must be reported on Form 1040, Schedule 1. This form is used to report additional income, such as hobby income, that is not reported on other forms.
+
+Note: Expenses related to a hobby are not deductible, however, a taxpayer can deduct Cost of Goods Sold from gross receipts to calculate hobby income. Since Aishwarya spent $250 on supplies to actually build her baskets, these would be classified as COGS, and therefore deductible from her gross receipts to arrive at her taxable hobby income.
+
+Explanation for B:
+
+Aishwarya should report $950 ($1,200 – $250) as “other income” on Schedule 1 of her individual tax return. Income earned from a hobby must be reported on Form 1040, Schedule 1. This form is used to report additional income, such as hobby income, that is not reported on other forms.
+
+Note: Expenses related to a hobby are not deductible, however, a taxpayer can deduct Cost of Goods Sold from gross receipts to calculate hobby income. Since Aishwarya spent $250 on supplies to actually build her baskets, these would be classified as COGS, and therefore deductible from her gross receipts to arrive at her taxable hobby income.
+
+Explanation for C:
+
+Aishwarya should report $950 ($1,200 – $250) as “other income” on Schedule 1 of her individual tax return. Income earned from a hobby must be reported on Form 1040, Schedule 1. This form is used to report additional income, such as hobby income, that is not reported on other forms.
+
+Note: Expenses related to a hobby are not deductible, however, a taxpayer can deduct Cost of Goods Sold from gross receipts to calculate hobby income. Since Aishwarya spent $250 on supplies to actually build her baskets, these would be classified as COGS, and therefore deductible from her gross receipts to arrive at her taxable hobby income.
+
+8. Question ID: 758501779 (Topic: Hobby Income)
+
+Prisha works full-time as a cashier, but she also has a hobby as a landscape artist. She sells her paintings mostly at county fairs. Sometimes she gives them to friends and family, but she mostly paints for pleasure and would continue painting, even if she did not make any money selling her paintings. She had various expenses related to her hobby, such as travel and meals to the county fairs where she would display her artwork for sale. Prisha’s hobby generates some income, but her expenses exceed her income this year. What can Prisha do with her hobby losses?
+
+    A. She can carry the hobby loss forward to future years, for when her hobby earns more revenue.
+    B. She can deduct the hobby loss against capital gains income.
+    C. She can deduct the hobby loss from other income, but only if the income is from passive sources.
+    D. Her hobby loss cannot be deducted. correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 86% of students.
+
+Correct Answer Explanation for D:
+
+Her hobby loss cannot be deducted, because hobby losses are not deductible. If expenses related to the hobby exceed the income generated, the taxpayer will have a loss from the activity. However, this loss cannot be deducted from other forms of income.
+
+Note: Expenses related to a hobby are not deductible, however, a taxpayer can deduct Cost of Goods Sold from gross receipts to calculate hobby income. See the IRS page on Hobby Activities.
+Show Other Explanations
+
+Explanation for A:
+
+Her hobby loss cannot be deducted, because hobby losses are not deductible. If expenses related to the hobby exceed the income generated, the taxpayer will have a loss from the activity. However, this loss cannot be deducted from other forms of income.
+
+Note: Expenses related to a hobby are not deductible, however, a taxpayer can deduct Cost of Goods Sold from gross receipts to calculate hobby income. See the IRS page on Hobby Activities
+
+Explanation for B:
+
+Her hobby loss cannot be deducted, because hobby losses are not deductible. If expenses related to the hobby exceed the income generated, the taxpayer will have a loss from the activity. However, this loss cannot be deducted from other forms of income.
+
+Note: Expenses related to a hobby are not deductible, however, a taxpayer can deduct Cost of Goods Sold from gross receipts to calculate hobby income. See the IRS page on Hobby Activities
+
+Explanation for C:
+
+Her hobby loss cannot be deducted, because hobby losses are not deductible. If expenses related to the hobby exceed the income generated, the taxpayer will have a loss from the activity. However, this loss cannot be deducted from other forms of income.
+
+Note: Expenses related to a hobby are not deductible, however, a taxpayer can deduct Cost of Goods Sold from gross receipts to calculate hobby income. See the IRS page on Hobby Activities
+
+9. Question ID: 758501778 (Topic: Hobby Income)
+
+What is the primary factor that distinguishes an activity as a hobby or a business?
+
+    A. Whether the taxpayer has attempted similar activities in the past
+    B. Whether the taxpayer depends on income from the activity for their livelihood
+    C. Whether the taxpayer enjoys the activity
+    D. Whether the taxpayer has a bona fide intent to make a profitcorrect
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 80% of students.
+
+Correct Answer Explanation for D:
+
+IRS guidance indicates that the most important distinguishing factor between a business and a hobby is the taxpayer's profit intent. A hobby is classified as any activity that a person pursues because they enjoy it and with no intention of making a profit. Other factors, such as businesslike conduct and past profitability can also be considered.
+
+See the IRS page on Hobby Activities. 
+Show Other Explanations
+
+Explanation for A:
+
+IRS guidance indicates that the most important distinguishing factor between a business and a hobby is the taxpayer’s profit intent. A hobby is classified as any activity that a person pursues because they enjoy it and with no intention of making a profit. Other factors, such as businesslike conduct and past profitability can also be considered.
+
+See the IRS page on Hobby Activities. 
+
+Explanation for B:
+
+IRS guidance indicates that the most important distinguishing factor between a business and a hobby is the taxpayer’s profit intent. A hobby is classified as any activity that a person pursues because they enjoy it and with no intention of making a profit. Other factors, such as businesslike conduct and past profitability can also be considered.
+
+See the IRS page on Hobby Activities. 
+
+Explanation for C:
+
+IRS guidance indicates that the most important distinguishing factor between a business and a hobby is the taxpayer’s profit intent. A hobby is classified as any activity that a person pursues because they enjoy it and with no intention of making a profit. Other factors, such as businesslike conduct and past profitability can also be considered.
+
+See the IRS page on Hobby Activities. 
+
+

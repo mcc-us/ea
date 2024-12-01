@@ -1,0 +1,546 @@
+1. Question ID: 94849939 (Topic: Interest Expense)
+
+Alexa and Randy are married and file jointly. Their combined AGI is $109,000. During the year, they paid the following interest expenses:
+
+    $24,200 in home mortgage interest on their primary residence.
+    $12,200 in interest on their vacation home in Maui.
+    $55 in late fees for paying their main home mortgage late.
+    $1,158 in credit card interest, the amounts were used to install a deck on their vacation home.
+    $500 in interest on a car loan
+    $2,200 in student loan interest.
+    $5,000 of investment interest expense. They have $4,000 of net investment income.
+
+They plan to itemize their deductions. Based on these figures, what is the amount of deductible interest that they can claim on their Schedule A?
+
+    A. $40,455correct
+    B. $36,400
+    C. $36,455
+    D. $42,655wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 63% of students.
+
+Correct Answer Explanation for A:
+
+Alexa and Randy can deduct $40,455 in total interest on Schedule A. The answer is figured as follows:
+
+    They can deduct $36,455 in mortgage interest ($24,200 + $12,200 + $55 in late fees)
+    They can also deduct $4,000 in investment interest expense (they incurred $5,000 of investment interest expense but only have $4,000 of net investment income, so their deduction for interest expense is limited to $4,000. The $1,000 excess can be carried over to succeeding tax years).
+
+The auto and credit card interest are personal interest expenses and are not deductible. The student loan interest would be deductible, but not on Schedule A. Student loan interest is deducted as an adjustment to Income on Form 1040.
+
+For more information on deductible interest expenses, see Topic 505, Interest Expense. 
+
+2. Question ID: 94849874 (Topic: Interest Expense)
+
+Faena pays off her home mortgage early. She pays a prepayment penalty of $1,200 to her lender. Is this penalty deductible?
+
+    A. The penalty increases the basis of the property.
+    B. Yes, the penalty is deductible as mortgage interest on Schedule A.correct
+    C. The penalty is only deductible if the taxpayer still owes a balance on the mortgage debt.
+    D. No, the penalty is not deductible.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 75% of students.
+
+Correct Answer Explanation for B:
+
+If a taxpayer pays off their home mortgage early, the taxpayer may have to pay a mortgage prepayment penalty. A taxpayer can deduct that penalty as home mortgage interest on Schedule A. See Publication 530, Tax Information for Homeowners for more information.
+
+3. Question ID: 94849576 (Topic: Interest Expense)
+
+Jenny is liable for multiple loans on which she pays interest. How much of the following interest expense is deductible on Jenny's Schedule A, before any income limitations?
+
+    $1,200 interest paid on a loan used to purchase taxable investments.
+    $750 interest paid on a qualifying student loan.
+    $2,700 credit card interest on an advance used to make a down payment on a new home.
+    $625 interest on a loan used to invest in tax-free municipal bonds
+
+Jenny is reporting $1,500 in investment income this year.
+
+    A. $0, investment interest is not deductible.
+    B. $1,200 correct
+    C.  $1,950
+    D. $3,900wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 52% of students.
+
+Correct Answer Explanation for B:
+
+Only the $1,200 interest paid on a loan used to purchase taxable investments would be deductible. All of the other items listed would not be deductible on Schedule A as investment interest. The student loan interest may be deductible, but not on Schedule A. Instead, it would be an adjustment to income on her Form 1040. 
+
+Note: Investment interest is paid on a loan that was used to purchase an investment property or other dividends, interest, royalties, or annuities. The deduction for investment interest expense is limited to a taxpayer's net investment income. Since she had investment income, she is permitted to deduct her investment interest expense.
+
+4. Question ID: 94849990 (Topic: Interest Expense)
+
+During the year, Roland paid the following expenses:
+
+    Home mortgage interest: $4,180.
+    Credit card interest: $1,400.
+    Appraisal fee for his personal residence: $500.
+    Interest on a car loan: $2,000.
+    Late payment fees on his mortgage loan: $120.
+
+What amount can Roland deduct on Schedule A?
+
+    A. $4,300correct
+    B. $5,800
+    C. $4,800
+    D. $4,180wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 79% of students.
+
+Correct Answer Explanation for A:
+
+Roland can deduct a total of $4,300 as mortgage interest. The home mortgage interest ($4,180) is deductible. The late fees paid on a mortgage loan ($120) can also be deducted as mortgage interest. All the other charges are considered personal expenses and are not deductible.
+
+6. Question ID: 94849853 (Topic: Interest Expense)
+
+Kendra and Richard are married and file jointly. During the year, they paid the following amounts related to their main home:
+
+    $4,280 home mortgage interest that was reported on Form 1098
+    $40 late fee for paying the mortgage late one month
+    $600 in credit card interest. They used the credit card to pay for a new roof on their home.
+    $1,500 paid for hazard insurance on the property
+    $1,700 in property taxes on the home
+    $450 in appraisal fees
+
+How much can they report as deductible mortgage interest on Schedule A?
+
+    A. $4,320correct
+    B. $6,520
+    C. $7,970
+    D. $4,280wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 72% of students.
+
+Correct Answer Explanation for A:
+
+They can deduct $4,320 as mortgage interest ($4,280 + $40 late fee) on Schedule A. The property tax is deductible, but not as mortgage interest. Instead, it would be deductible as taxes, and subject to the SALT cap. The other choices would not be deductible on Schedule A.
+
+7. Question ID: 94849597 (Topic: Interest Expense)
+
+Brett borrowed $550,000 from a bank to purchase a rental property on Jan 1. He immediately finds a tenant and the house was rented for the entire year. He paid $11,000 of interest on the mortgage for the rental property, and an additional $13,000 in property taxes during the year. He is not a real estate professional. How much of the expenses can he deduct, and where should he deduct them?
+
+    A. The mortgage interest and property taxes are deductible on Schedule C.
+    B. All of the mortgage interest and property taxes are deductible on Schedule E.correct
+    C. All of the mortgage interest and property taxes are deductible on Schedule A.
+    D. All of the mortgage interest and up to $10,000 of the property taxes are deductible on Schedule A.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 60% of students.
+
+Correct Answer Explanation for B:
+
+Since it is a rental property, and not a personal residence, all of the mortgage interest and property taxes are deductible on Schedule E.
+
+8. Question ID: 94849936 (Topic: Interest Expense)
+
+Nathan and Nicole are married and file jointly. Their combined AGI is $79,000. During the year, they paid the following interest expenses:
+
+    $14,200 in home mortgage interest.
+    $2,200 in loan interest on their personal vehicle.
+    $75 in late fees for paying their home mortgage late.
+    $158 in credit card interest.
+    $1,200 in student loan interest.
+
+They plan to itemize their deductions. Based on these figures, what is the amount of deductible interest that they can claim on their Schedule A?
+
+    A. $14,275correct
+    B. $15,475
+    C. $14,200
+    D. $16,475wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 70% of students.
+
+Correct Answer Explanation for A:
+
+The answer is $14,275, calculated as follows: ($14,200 in home mortgage interest +$75 in late fees) = $14,275. Late fees on a mortgage loan are deductible as mortgage interest. The auto and credit card interest are personal interest expenses and are not deductible. The student loan interest would be deductible, but not on Schedule A. Student loan interest is deducted as an adjustment to Income on Form 1040.
+
+For more information on deductible interest expenses, see Topic 505, Interest Expense. 
+
+9. Question ID: 94849896 (Topic: Interest Expense)
+
+Which of the following statements is correct about the mortgage interest deduction?
+
+    A. A taxpayer can deduct mortgage interest on up to three homes.
+    B. A taxpayer can deduct mortgage interest on a main home and a second home.correct
+    C. A taxpayer can deduct mortgage interest only on a primary residence.
+    D. A taxpayer can deduct mortgage interest and homeowner dues on a main home and a second home.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for B:
+
+A taxpayer can deduct mortgage interest on a main home and a second home as an itemized deduction. A home can be a house, cooperative apartment, condominium, mobile home, house trailer, or houseboat that has sleeping, cooking, and toilet facilities. Homeowner dues are not deductible.
+
+10. Question ID: 94849940 (Topic: Interest Expense)
+
+Ginny is unmarried and has one dependent parent. She plans to file as Head of Household. Her AGI is $99,000. During the year, she paid the following interest expenses:
+
+    $24,000 in home mortgage interest on her primary residence.
+    $8,200 in interest on a second house, where her mother lives, and whom Ginny claims as a dependent. 
+    $15 in late fees for paying her own home mortgage late.
+    $2,500 in student loan interest.
+    $3,000 of investment interest expense. They have $1,000 of net investment income.
+    $1,010 in credit card interest, which was used for medical expenses
+
+Ginny plans to itemize her deductions. Based on these figures, what is the amount of deductible interest that she can claim on her Schedule A?
+
+    A. $33,215 correct
+    B. $24,000
+    C. $32,215
+    D. $24,015wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 67% of students.
+
+Correct Answer Explanation for A:
+
+Ginny can deduct $33,215 in total interest on Schedule A. The answer is figured as follows:
+
+    She can deduct $32,215 in mortgage interest ($24,000 + $8,200 + $15 in late fees). She can deduct interest on up to two personal homes. 
+    She can also deduct $1,000 in investment interest expense (she incurred $3,000 of investment interest expense but only has $1,000 of net investment income, so her deduction for interest expense is limited to $1,000. The excess can be carried over to succeeding tax years).
+
+The credit card interest is treated as personal interest and is not deductible. The student loan interest would be deductible, but not on Schedule A. Student loan interest is deducted as an adjustment to Income on Form 1040. For more information on deductible interest expenses, see Topic 505, Interest Expense. 
+
+11. Question ID: 94849716 (Topic: Interest Expense)
+
+Joseph purchased a new home on May 3 and financed the purchase with a mortgage loan. During the year, Joseph made mortgage payments that included $4,480 in deductible interest. The settlement sheet (HUD-1) for the purchase of the home included interest of $620 for 29 days in May. Joseph also made one late payment on the mortgage in December and had to pay $15 in late fees. Joseph plans to itemize this year. What is his allowable mortgage interest deduction on Schedule A?
+
+    A. $5,115correct
+    B. $5,100
+    C. $4,480
+    D. $0wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 86% of students.
+
+Correct Answer Explanation for A:
+
+All of the amounts are deductible as mortgage interest, including the late fee. Joseph's qualifying mortgage interest of $5,115 ($4,480 + $620 +$15), can be deducted on Schedule A. 
+
+12. Question ID: 94849932 (Topic: Interest Expense)
+
+Elena paid the following costs during the year:
+
+    $15,000 of mortgage interest and $2,000 property taxes on her primary residence.
+    $9,900 of mortgage interest on her vacation home in Hawaii
+    $6,700 of loan interest on a cabin in Lake Tahoe that she uses occasionally when she wants to visit her family.
+
+None of the homes are rentals. She is single and her AGI is $90,000. What is Selena’s maximum mortgage interest deduction on Schedule A?
+
+    A. $33,600
+    B. $24,900correct
+    C. $31,600
+    D. $15,000wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 82% of students.
+
+Correct Answer Explanation for B:
+
+A taxpayer can deduct the mortgage interest on up to two personal homes. Therefore, Elena should claim the mortgage interest on her primary residence and her second home, since it gives her a larger deduction ($15,000 + $9,900 = $24,900). A taxpayer cannot deduct mortgage interest for more than two homes, so the interest she pays on the third home would not be deductible. The property taxes of $2,000 would be deductible, but not as mortgage interest.
+
+14. Question ID: 97515841 (Topic: Interest Expense)
+
+Larry owns three homes. Two of them are vacation properties and he does not rent any of them out. He has an AGI of $89,000 for the year. His primary residence is in Miami, FL, where he works as a firefighter. He also owns a home in New Orleans and a condo in Hawaii. He hasn't used the Hawaii condo this year, and it sat empty all year. He pays the following amounts in property tax and mortgage interest on all three properties. All of the mortgage debt is qualifying acquisition debt. He does not have any more itemized deductions for the year. Based on the information below, how much can he deduct in mortgage interest and property tax on his Schedule A?
+Home 	Mortgage interest 	Property tax
+Main home in Miami 	$14,000 	$7,500
+New Orleans home 	$11,000 	$5,000
+Hawaii condo 	$6,000 	$4,900
+
+    A. He can deduct $25,000 in mortgage interest and $17,400 in property tax. 
+    B. He can deduct $14,000 in mortgage interest and $17,400 in property tax. 
+    C. He can deduct $25,000 in mortgage interest and $10,000 in property tax. correct
+    D. He can deduct $31,000 in mortgage interest and $10,000 in property tax. wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 67% of students.
+
+Correct Answer Explanation for C:
+
+He can deduct $25,000 in mortgage interest and $10,000 in property tax. A taxpayer can deduct mortgage interest on up to two personal homes on Schedule A. So the interest on the third home is disallowed. Property tax is not limited by the number of homes, but it is limited by the SALT CAP, which is $10,000. The answer is calculated as follows:
+Home 	Mortgage interest 	Property tax
+Main home in Miami 	$14,000 	$7,500
+New Orleans home 	$11,000 	$5,000
+Hawaii condo 	$6,000  NO 	$4,900
+Allowable deduction 	$25,000 	Limited to $10,000 by the SALT CAP
+
+15. Question ID: 95399969 (Topic: Interest Expense)
+
+Cindy paid the following amounts during the year:
+
+    $9,000 in mortgage interest on a primary residence
+    $1,500 mortgage interest on a vacation home
+    $1,000 in loan interest on a recreational vehicle with sleeping, cooking, and toilet facilities (an RV)
+    $50 late fee on her primary mortgage for paying one month late
+
+Cindy plans to itemize her deductions. What is Cindy's maximum mortgage interest deduction on Schedule A?
+
+    A. $9,000
+    B. $11,500wrong
+    C. $10,500
+    D. $10,550correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 86% of students.
+
+Correct Answer Explanation for D:
+
+Cindy can deduct the mortgage interest on a maximum of two personal homes. She can also deduct the late fee as mortgage interest. Therefore, her mortgage interest deduction is $10,550 ($9,000 1st home + $1,500 2nd home + $50 late fee). To see more information about deductible mortgage interest, see IRS Tax Topic 505, Interest Expense.
+
+16. Question ID: 95003069 (Topic: Interest Expense)
+
+Which of the following is not deductible as mortgage interest on Schedule A?
+
+    A. Interest paid on a loan incurred for purchasing an empty lot.correct
+    B. Points paid on a second home.
+    C. Mortgage interest paid on a second home.
+    D. Mortgage interest paid on a main home.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 77% of students.
+
+Correct Answer Explanation for A:
+
+Interest paid on a loan incurred for purchasing an empty lot would not be deductible as mortgage interest on Schedule A. Deductible mortgage interest is any interest paid on a loan secured by a main home or second home that was used to buy, build, or substantially improve the home. Mortgage points represent interest paid in advance, and may be deducted on Schedule A. See Publication 936, Home Mortgage Interest Deduction, to understand more about the types of mortgage interest that are deductible.
+
+18. Question ID: 94849992 (Topic: Interest Expense)
+
+Henry and Monique are married and own a home together. They sold their home on August 15. Up until the date of the sale, they made home mortgage interest payments of $14,300. The settlement sheet (HUD-1) for the sale of the home showed an additional $150 of interest for the 15-day period in August up to, but not including, the date of sale. They also had a mortgage prepayment penalty of $5,000. In March and April, they paid $220 in late payment fees to their mortgage lender due to missed payments. Based on these facts, how much can they deduct for mortgage interest on Schedule A?
+
+    A. $19,450
+    B. $19,670correct
+    C. $19,300wrong
+    D. $14,300
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 78% of students.
+
+Correct Answer Explanation for B:
+
+All of the charges are deductible as mortgage interest on their tax return. Their mortgage interest deduction is $19,670 ($14,300 + $150 + $5,000 + $220). Taxpayers can deduct a late charge on a mortgage loan as mortgage interest. The taxpayers can deduct a prepayment penalty as home mortgage interest. When taxpayers sell their home, they can deduct home mortgage interest paid up to, but not including, the date of the sale.
+
+19. Question ID: 94849894 (Topic: Interest Expense)
+
+Which of the following expenses is NOT allowable as an itemized deduction on Schedule A?
+
+    A. Funeral expenses.correct
+    B. Investment interest expenses.
+    C. Mortgage interest on a primary residence.
+    D. DMV fees.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 77% of students.
+
+Correct Answer Explanation for A:
+
+Funeral expenses are never deductible on an individual tax return. All of the other expenses listed are allowable as an itemized deduction on Schedule A.
+
+21. Question ID: 94849836 (Topic: Interest Expense)
+
+Gina pays the following costs during the year: 
+
+    $17,000 in mortgage interest on her primary residence.
+    $12,000 in mortgage interest on her vacation home in Las Vegas.
+    $400 in HOA fees on her Las Vegas residence.
+
+In November, she forgot to pay the monthly bill on her primary residence on time. Her mortgage lender assessed a late penalty of $45. She does not rent either home, they are both personal residences. Her AGI is $80,000. How much of these costs can she deduct as mortgage interest on her Schedule A?
+
+    A. $29,045correct
+    B. $10,000wrong
+    C. $17,000
+    D. $29,400
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for A:
+
+Gina may deduct the mortgage interest incurred on both homes ($17,000 + $12,000), as well as the amounts she paid for the late fee to her mortgage lender ($45), for a total deduction of $29,045. The HOA fees are not deductible on a personal residence. A taxpayer can take the mortgage interest deduction on up to two homes, as well as late fees paid to a mortgage lender. To learn more about deductible mortgage interest, see Publication 936, Home Mortgage Interest Deduction.
+
+22. Question ID: 94849873 (Topic: Interest Expense)
+
+In order to be deductible on Schedule A, mortgage interest must be paid on a loan secured by the taxpayer's ________________.
+
+    A. Primary residence only.
+    B. Mortgage interest does not have to be secured debt in order to be deductible.
+    C. Main home or a second home.correct
+    D. Business property.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 87% of students.
+
+Correct Answer Explanation for C:
+
+In order for mortgage interest to be deductible on Schedule A (Form 1040), the interest paid must be incurred on a loan secured by a taxpayer's main home or a second home. See Publication 530, Tax Information for Homeowners for more information.
+
+23. Question ID: 94849984 (Topic: Interest Expense)
+
+Juanito and Winnie are married and file jointly. They refinanced their mortgage and obtained a home equity loan totaling $65,000, which they used to pay off overdue credit card payments. The fair market value of their home is $230,000, and they still have $30,000 of outstanding acquisition mortgage debt on the home. For which loan(s) can they deduct the related interest costs?
+
+    A. They can deduct the mortgage interest on the acquisition debt only, but they can deduct a portion of the home equity loan interest if their combined AGI is less than 100K.
+    B. They can only deduct the mortgage interest on the home equity loan.
+    C. They can deduct only the mortgage interest on the acquisition debt. The interest paid on the home equity loan is not deductible.correct
+    D. They cannot deduct the mortgage interest on either loan.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 61% of students.
+
+Correct Answer Explanation for C:
+
+Taxpayers are only allowed to deduct the mortgage interest on acquisition debt. The interest on the HELOC (home equity loan) is not deductible mortgage interest, because they used the funds to pay off credit cards. If they had used the HELOC for home improvement, they would have been able to deduct the interest.
+
+5. Question ID: 94849950 (Topic: Interest Expense)
+
+Maria is unmarried and has one dependent son, age 18, who is a full-time student. She plans to file as Head of Household. Her AGI is $79,000. During the year, she paid the following expenses:
+
+    $12,000 in home mortgage interest on her primary residence
+    $2,200 in interest on a second home
+    $2,500 in student loan interest
+    $30 in late fees for paying her own home mortgage late
+    $4,000 of investment interest expense. She has $5,000 of net investment income
+    $600 in credit card interest, which was used for her son's college tuition
+
+She plans to itemize her deductions. Based on these figures, what is the amount of deductible interest that she can claim on her Schedule A?
+
+    A. $14,230
+    B. $12,030
+    C. $19,130
+    D. $18,230correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 70% of students.
+
+Correct Answer Explanation for D:
+
+She can deduct $18,230 in total interest on Schedule A. The answer is figured as follows:
+
+    She can deduct $14,230 in mortgage interest ($12,000 + $2,200 + $30 in late fees). She can deduct interest on up to two personal homes.
+    She can also deduct $4,000 in investment interest expense (she earned $5,000 of net investment income, so her deduction for interest expense is not limited).
+
+The credit card interest is treated as personal interest and is not deductible on Schedule A. The student loan interest would be deductible, but not on Schedule A. Student loan interest is deducted as an adjustment to Income on Form 1040. For more information on deductible interest expenses, see Topic 505, Interest Expense. 
+
+13. Question ID: 94849912 (Topic: Interest Expense)
+
+Brandy has $4,000 of investment income in the current year. She also earned $50,000 in wages. She has the following interest expense:
+
+    Interest paid on a margin loan used to purchase stocks: $1,500.
+    Credit card interest: $850.
+    Interest incurred on an auto loan for her personal vehicle: $3,000
+    Interest on a loan used to invest in tax-exempt muni-bonds: $475.
+
+What amount of this interest expense can she deduct on Schedule A?
+
+    A. $0, investment interest is not deductible. 
+    B. $4,000
+    C. $1,975
+    D. $1,500correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 58% of students.
+
+Correct Answer Explanation for D:
+
+She can deduct $1,500 as investment interest expense. Investment interest is interest paid or incurred on debt to purchase taxable investments. It is deductible on Schedule A but is limited to the amount of a taxpayer’s net investment income for the year. However, no deduction is permitted for interest on debt incurred to purchase tax-exempt muni-bonds. Credit card interest and the interest paid on her personal auto loan are not deductible.
+
+17. Question ID: 94849893 (Topic: Interest Expense)
+
+Sarah and Emmitt are married and file jointly.  Sarah earns $13,000 in wages working as a cashier. Emmitt earns $60,000 in wages working as a salesman. Neither is self-employed. They are itemizing the following Schedule A expenses on their current year tax return:
+
+    Emmitt’s employee-related business expenses: $6,000.
+    Mortgage interest paid: $7,000 (all acquisition debt, mortgage loan amount is $375,000).
+    Real estate taxes on a primary residence: $3,000.
+    State income taxes: $13,000.
+    Gambling winnings: $1,000.
+    Gambling losses: ($8,000).
+
+What is the total amount of itemized deductions that they can deduct on their Schedule A?
+
+    A. $30,150
+    B. $23,300
+    C. $24,150
+    D. $18,000correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 58% of students.
+
+Correct Answer Explanation for D:
+
+Only the mortgage interest is fully deductible. The real estate taxes and state taxes are subject to a $10,000 cap (also called the “SALT CAP”). The gambling losses are only deductible to the extent of gambling winnings. Thus, the answer is calculated as follows: $7,000 mortgage interest paid + $10,000 SALT CAP [$3,000 real estate taxes + $7,000 state income taxes (capped)]+ $1,000 allowable gambling losses = $18,000.
+
+Under the Tax Cuts and Jobs Act, most employee business expenses are no longer deductible on Schedule A (with the exception of work-related expenses of an Armed Forces reservist, qualified performing artist, fee-basis state or local government official, or employee with impairment-related work expenses.)
+
+20. Question ID: 94849924 (Topic: Interest Expense)
+
+Henrietta paid the following amounts in 2023:
+
+    $7,500 mortgage interest on her main home.
+    $50 in late fees for paying her primary mortgage late.
+    $5,000 mortgage interest on her vacation home.
+    $400 in mortgage interest on a timeshare. 
+    $495 in HOA fees on her main home. 
+
+Her AGI is $50,000 for the year. Based on these facts, what amount can she claim as a mortgage interest deduction on Schedule A?
+
+    A. $12,950
+    B. $12,550correct
+    C. $13,445
+    D. $7,500
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 76% of students.
+
+Correct Answer Explanation for B:
+
+The following amounts are deductible. ($7,500 + $5,000 +$50) = $12,550
+
+A taxpayer can deduct mortgage interest on up to two homes. A second home can include any other residence a taxpayer owns and treats as a home, but the taxpayer does not have to actually use the second home during the year in order to deduct the mortgage interest paid on the related loan. The late fees on her primary mortgage are also treated as mortgage interest for tax purposes. The HOA fees are not deductible on a personal residence. The interest on the timeshare is not deductible because she has already deducted the mortgage interest on two personal homes. 
+
+24. Question ID: 94849900 (Topic: Interest Expense)
+
+Kristal purchased her first home this year and incurred the following expenses. Which is deductible as an itemized expense on Schedule A?
+
+    A. Appraisal fees.
+    B. VA funding fees.
+    C. Notary fees.
+    D. Loan points.correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 78% of students.
+
+Correct Answer Explanation for D:
+
+Only the loan points are deductible. Points paid for the use of money are considered mortgage interest and can be deducted on Schedule A. Other charges paid for specific services, such as appraisal fees, preparation fees, VA funding fees, or notary fees, are not deductible.
+
+

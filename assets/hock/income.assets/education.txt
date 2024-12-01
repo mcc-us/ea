@@ -1,0 +1,210 @@
+1. Question ID: 94850002 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+Angela, age 25, is a full-time student who earns $29,000 in wages during the year. She paid $6,000 in college tuition during the year. She also receives a Form 1099-Q reflecting $4,000 was paid to her. What type of income does a 1099-Q represent?
+
+    A. Angela received a distribution from a qualified retirement plan.
+    B. Angela received a distribution from a qualified tuition program.correct
+    C. Angela received a taxable grant from the government.
+    D. Angela received a distribution from a Health Savings Account.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 89% of students.
+
+Correct Answer Explanation for B:
+
+Angela received a distribution from a qualified tuition program. Form 1099-Q is used to report distributions from qualified education programs, including 529 plans and Coverdell Education Savings Accounts (ESAs). Distributions from 529 plans and Coverdell ESAs are not taxable if used for qualified educational expenses, but the amounts may be taxable if used for non-qualified expenses. In other words, if Angela used the amounts to pay for her college tuition and required books and materials, she would not have to report the amounts as taxable income. Learn more about Form 1099-Q, Payments from Qualified Education Programs.
+
+4. Question ID: 94850169 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+Which of the following statements is not correct about a Coverdell education savings account (ESA)?
+
+    A. Total annual contributions to a beneficiary’s account cannot exceed $2,000 per year.
+    B. Contributions to a Coverdell ESA are deductible.correct
+    C. A Coverdell ESA is a custodial account set up to pay qualified education expenses for a designated beneficiary.
+    D. The beneficiary of an ESA can receive distributions to pay qualified education expenses. The distributions are tax-free if the amount does not exceed the beneficiary’s adjusted qualified education expenses.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 70% of students.
+
+Correct Answer Explanation for B:
+
+Contributions to a Coverdell ESA are not deductible. An ESA is a trust or custodial account set up to pay qualified education expenses for a designated beneficiary who must be under age 18 or a special needs beneficiary when the account is first established. Qualified education expenses are those required for the enrollment or attendance of the beneficiary at an eligible educational institution, which may include either qualified higher education expenses or qualified elementary and secondary education expenses. For more information, see IRS Topic No. 310 Coverdell Education Savings Accounts.
+
+7. Question ID: 94849706 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+When are scholarships excluded from taxable income?
+
+    A. When the scholarship is used for college tuition, required fees and books.correct
+    B. When the scholarship is used for tuition and room and board.
+    C. When the scholarship is used for tuition or emergency health care costs.
+    D. When the scholarship is used for tuition, books, and college dorm costs.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for A:
+
+Scholarships are not taxable when they are used for tuition, required fees, and books. Scholarships for room and board or other living expenses are taxable and must be included in taxable income. 
+
+8. Question ID: 94850161 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+Russo is 26 and a full-time college student. He lives on campus. He received a $25,000 scholarship during the year. The scholarship was specially designated that $10,000 was for tuition and $15,000 was for room and board. Russo's tuition costs for the year is a total of $10,000. His costs for room and board totaled $18,000. He paid the remaining $3,000 owed for the room and board out of his own personal savings. How much of his scholarship is taxable?
+
+    A. $10,000 of the scholarship is taxable.
+    B. $18,000 of the scholarship is taxable.
+    C. $15,000 of the scholarship is taxable.correct
+    D. None of the scholarship is taxable.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 69% of students.
+
+Correct Answer Explanation for C:
+
+Russo has a partially-taxable scholarship; $10,000 of the scholarship is not taxable, because it was used for tuition, which is a qualifying educational expense. The remaining $15,000, which was designated for room and board, must be included in income, because room and board is not a qualifying educational expense. For more information and to see similar examples, see Publication 970, Tax Benefits for Education.
+
+9. Question ID: 94850136 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+A Coverdell ESA is a type of educational savings account set up for the purpose of paying qualified education expenses for a designated beneficiary. The balance in a Coverdell ESA is required to be distributed in which of the following scenarios?
+
+    A. When the individual for whom the account was established reaches age 30, or dies, whichever is earlier.correct
+    B. When the individual for whom the account was established reaches age 65, or dies, whichever is earlier.
+    C. When the individual for whom the account was established dies.
+    D. When the individual for whom the account was established reaches age 24, or dies, whichever is earlier.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 67% of students.
+
+Correct Answer Explanation for A:
+
+Coverdell ESA is a type of educational savings account set up exclusively for the purpose of paying qualified education expenses for the designated beneficiary. However, the funds in a Coverdell cannot remain in the account forever. Generally, the balance in a Coverdell ESA must be distributed within 30 days after the individual for whom the account was established reaches age 30, or dies, whichever is earlier. The treatment of the Coverdell ESA at the death of an individual under age 30 depends on who acquires the interest in the account. The age 30 limitation doesn't apply if the individual for whom the account was established is an individual with special needs. See IRS Topic No. 310 Coverdell Education Savings Accounts.
+
+10. Question ID: 94850056 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+When Lonnie was born, three separate Coverdell Education Savings Accounts were set up for him: one by his parents, one by his grandmother, and one by his uncle. In 2023, what is the maximum amount of contributions that can be made to Lonnie’s Coverdell ESA accounts?
+
+    A. $1,000 per each account.
+    B. $2,000 total in all three accounts combined.correct
+    C. $2,000 per each account.
+    D. $6,000 total in all three accounts combined.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 67% of students.
+
+Correct Answer Explanation for B:
+
+In 2023, the total amount of contributions to all Coverdell ESA’s for one designated beneficiary cannot be more than $2,000. So, for instance, if Lonnie’s parents contribute $1,000 to his account and his grandmother contributes $800, his uncle could contribute no more than $200, for a combined total of $2,000. If more than $2,000 is contributed to the accounts, it is considered an excess contribution. If an excess contribution is made, then the penalty is imposed on the beneficiary (the child). The beneficiary must pay a 6% excise tax each year on excess contributions that are in a Coverdell ESA at the end of the year if the amount is not corrected or withdrawn. 
+
+ See IRS Topic No. 310 Coverdell Education Savings Accounts.
+
+2. Question ID: 94849671 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+Which of the following statements is correct about Series EE savings bonds?
+
+    A. The interest only becomes taxable when the bonds are sold to another taxpayer.
+    B. Their interest is nontaxable and does not have to be reported on a tax return.
+    C. Their interest is nontaxable, but must be reported on a tax return.
+    D. Their interest is taxable and must be reported on Schedule B. However, the interest may be excluded if used to pay qualified higher education expenses.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 67% of students.
+
+Correct Answer Explanation for D:
+
+Generally, the interest earned on U.S. savings bonds is taxable. If a taxpayer does not include the interest in income in the years it is earned, he must include it in his income in the year in which he cashes in the bonds. However, when a taxpayer cashes in qualified Series EE savings bonds, he does not have to include in his income some or all of the interest earned on the bonds if he meets the following conditions:
+
+    He pays qualified education expenses for himself, his spouse, or a dependent for which he can claim an exemption on his tax return.
+    His MAGI is less than the amount specified for his filing status.
+    His filing status is not married filing separately.
+
+A qualified U.S. savings bond is a series EE bond issued after 1989 or a series I bond. The bond must be issued in the taxpayer’s name (as the sole owner) or in the names of he and his spouse (as co-owners). The owner must be at least 24 years old before the bond’s issue date.
+
+3. Question ID: 94850059 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+Distributions from a Coverdell ESA are tax-free if they are used for: 
+
+    A. College tuition and required textbooks only.
+    B. Medical expenses only.
+    C. Higher education expenses as well as qualifying medical expenses.
+    D. Higher education expenses as well as elementary and secondary education expenses.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 62% of students.
+
+Correct Answer Explanation for D:
+
+Distributions from a Coverdell ESA are tax-free if they are used for higher education expenses as well as elementary and secondary education expenses. Contributions to Coverdell ESAs are not deductible. The contribution is treated as a gift to the beneficiary. See IRS Topic No. 310 Coverdell Education Savings Accounts.
+
+5. Question ID: 95003636 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+Kimberly is an 18 year old student who is claimed as a dependent by her parents. She is the designated beneficiary of a 529 plan set up for her by her grandparents. She withdraws $10,000 from the 529 plan during the year. Which of the following would not be an allowable expense with the distribution, causing it to become a taxable event?
+
+    A. Kimberly uses the $10,000 for tuition and books at a Florida State University.
+    B. Kimberly uses the $10,000 for tuition and fees at a private Christian University.
+    C. Kimberly uses the $10,000 for an apprenticeship program to be a dental technician.
+    D. Kimberly uses the $10,000 for travel and expenses of being a missionary in a qualified religious organization.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for D:
+
+The $10,000 for travel and expenses of being a missionary in a qualified religious organization would not be a qualifying expense. A 529 plan is also called a Qualified Tuition Program. It is an investment account that offers tax benefits when used to pay for qualified education expenses for a designated beneficiary. Withdrawals from education savings plan accounts can generally be used at any college or university. Education savings plans can also be used to pay up to $10,000 per year per beneficiary for tuition at any public, private or religious elementary or secondary school (K-12). In 2019, student loan payments and costs of apprenticeship programs were added as qualified education expenses.
+
+However, if 529 account withdrawals are not used for qualified education expenses, they will be subject to state and federal income taxes and an additional 10% federal tax penalty on earnings. Learn more about 529 plans, see IRS Topic No. 313 Qualified Tuition Programs (QTPs).
+
+6. Question ID: 94850074 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+When can a designated beneficiary start taking distributions from an educational savings account, like a Coverdell or a 529 Plan?
+
+    A. When they turn 21.
+    B. When they turn 18.
+    C. Only when they begin attending a qualified educational institution.
+    D. Anytime.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 22% of students.
+
+Correct Answer Explanation for D:
+
+A designated beneficiary of a Coverdell ESA or a 529 Plan (also called a "QTP" or a "Qualified Tuition Program") can take a distribution at any time. However, in order for the distribution to be tax-free, distributions from the plan must not exceed qualified educational expenses. 
+
+See IRS Topic 313 for Qualified Tuition Programs (QTPs). For Coverdell accounts, see IRS Topic No. 310 Coverdell Education Savings Accounts.
+
+11. Question ID: 94849666 (Topic: Tax-Free Education Assistance (including Coverdell))
+
+Vinita is a 28-year old graduate student at a university pursuing a doctoral degree in biochemistry. During the current year, she received the following:
+
+    $8,000 research fellowship.
+    $5,500 scholarship that requires her to teach two undergraduate courses a year, of which $3,000 is designated as income for teaching.
+
+Her qualified educational expenses for tuition, required books, and required laboratory fees were $12,000. What amount is excluded from Vinita’s taxable income?
+
+    A. $0
+    B. $16,500
+    C. $8,000
+    D. $10,500correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 72% of students.
+
+Correct Answer Explanation for D:
+
+Vinita can exclude the full $8,000 of the fellowship and $2,500 of the scholarship. The $3,000 portion of the scholarship that is designated for her teaching is taxable income, because it is compensation for teaching two classes. A scholarship or fellowship is tax-free only if it meets all of the following requirements:
+
+    The taxpayer must be a degree candidate at an eligible educational institution that has been nationally accredited.
+    It does not exceed qualified educational expenses.
+    It is not designated for other purposes, such as room and board.
+    It does not represent payment for teaching, research, or other services.
+
+

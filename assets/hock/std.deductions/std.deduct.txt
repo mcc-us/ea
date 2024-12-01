@@ -1,0 +1,266 @@
+
+3. Question ID: 94850104 (Topic: Standard Deduction)
+
+Which of the following most accurately states the rules regarding use of the standard deduction vs. itemizing deductions?
+
+    A. Taxpayers do not have a choice between the standard deduction and itemizing deductions. The choice is mandated by the IRS.
+    B. When taxpayers have a choice between the standard deduction and itemizing deductions, they should use the type of deduction that results in the alternative minimum tax.
+    C. When taxpayers have a choice between the standard deduction and itemizing deductions, they should use the method that results in the lowest tax.correct
+    D. When taxpayers have a choice between the standard deduction and itemizing deductions, they are required to use the method that results in the higher tax.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 92% of students.
+
+Correct Answer Explanation for C:
+
+Most taxpayers are allowed to choose between the standard deduction and itemized deductions. When taxpayers have a choice, they should use the type of deduction that results in the lowest tax. Deductions are subtractions from a taxpayer's adjusted gross income (AGI) and reduce the amount of income that is taxed.
+
+5. Question ID: 94849953 (Topic: Standard Deduction)
+
+Rodney is age 66 and blind. He is unmarried and files Single. What is his standard deduction amount in 2023?
+
+    A. $13,850
+    B. $17,550correct
+    C. $15,700
+    D. $16,850wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 66% of students.
+
+Correct Answer Explanation for B:
+
+Rodney is over the age of 65 and blind, so he would be entitled to a basic standard deduction and an additional standard deduction equal to the sum of the additional amounts for both age and blindness. In 2023, the additional Standard Deduction for Age 65 and Over and/or Blindness is $1,850 for single filers. So his standard deduction would be $13,850 + $1,850 + $1,850 = $17,550.
+2023 Standard Deduction Amounts
+
+For 2023 federal income tax returns, the standard deduction amounts are as follows:
+Filing Status 	2023 Standard Deduction
+Single; MFS 	$13,850
+MFJ; QSS 	$27,700
+Head of Household 	$20,800
+
+If you're at least 65 years old or blind, you can claim an additional 2023 standard deduction of $1,500 ($1,850 if using the single or HOH filing status). If you're both 65 and blind, the additional deduction amount is doubled. To review more information on the standard deduction, see IRS Topic No. 551 Standard Deduction.
+
+6. Question ID: 94849983 (Topic: Standard Deduction)
+
+Olga is 61 and unmarried. She will file as single. She is a U.S. citizen with a valid SSN. She is also blind. What is her standard deduction in 2023?
+
+    A. $14,700
+    B. $13,000
+    C. $15,700correct
+    D. $13,850wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 77% of students.
+
+Correct Answer Explanation for C:
+
+Olga can claim a standard deduction of $15,700 in 2023, ($13,850 + $1,850) which is the standard deduction for taxpayers who are single, plus an additional standard deduction amount for taxpayers who are 65 and older/or blind. The standard deduction amounts for 2023 are:
+
+Filing Status
+	
+
+2023 Standard Deduction
+
+Single; MFS
+	
+
+$13,850
+
+MFJ; QSS
+	
+
+$27,700
+
+Head of Household
+	
+
+$20,800
+
+The "additional" standard deduction: For taxpayers who are 65 years old or blind, they can claim an "additional" 2023 standard deduction of $1,500 ($1,850 if using the single or HOH filing status). To review more information on the standard deduction, see IRS Topic No. 551 Standard Deduction.
+
+8. Question ID: 94850007 (Topic: Standard Deduction)
+
+Which of the following taxpayers cannot take the standard deduction (they are forced to itemize)?
+
+    A. A deceased taxpayer. 
+    B. A nonresident alien.correct
+    C. A child with a filing requirement that is also a dependent. 
+    D. A U.S. citizen who lives outside the U.S. for an entire taxable year. wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 86% of students.
+
+Correct Answer Explanation for B:
+
+Nonresident aliens cannot take the standard deduction. All the other individuals listed are permitted to take the standard deduction or itemize (they can choose). Certain taxpayers aren't entitled to the standard deduction:
+
+    A married individual filing as married filing separately whose spouse itemizes deductions
+    An individual who was a nonresident alien or dual status alien during the year
+    An individual who files a return for a period of less than 12 months due to a change in his or her annual accounting period (extremely rare)
+
+To review more information on the standard deduction, see IRS Topic No. 551 Standard Deduction.
+
+9. Question ID: 94815982 (Topic: Standard Deduction)
+
+Anouk is an international faculty member who is teaching for a single semester at Stanford University as a visiting scholar on a J-1 Visa. Anouk is a citizen of the Netherlands and does not have a U.S. green card. She files a Form 1040NR to report her U.S.-source income. Which of the following deductions is she not allowed to claim?
+
+    A. Casualty and theft losses from a federally declared disaster.
+    B. Standard deduction.correct
+    C. State and local income taxes.
+    D. Charitable gifts to U.S. charities.wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 80% of students.
+
+Correct Answer Explanation for B:
+
+Form 1040NR is used by nonresident aliens, who are limited as to which deductions and credits they can claim. The standard deduction is not allowed. Nonresident aliens are allowed the following deductions:
+
+    State and local income taxes.
+    Casualty and theft losses from a federally declared disaster.
+    Qualifying charitable contributions to U.S. nonprofit organizations.
+
+Some very limited miscellaneous itemized deductions are also allowed to nonresident aliens. See the instructions for Form 1040NR, U.S. Nonresident Alien Income Tax Return, for more information.
+
+10. Question ID: 94849980 (Topic: Standard Deduction)
+
+Lanie and Donald are married and file jointly. On April 1, 2023, Lanie dies.  Donald is 62, and Lanie was 64 when she died. Lanie would have turned 65 in 2023, but she did not live until her birthday, which would have been September 1, 2023. Donald plans to file jointly with his deceased wife. What is the standard deduction that Donald can take on his 2023 return?
+
+    A. $30,700
+    B. $27,700correct
+    C. $31,050
+    D.  $13,850 wrong
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 80% of students.
+
+Correct Answer Explanation for B:
+
+Donald can claim a standard deduction of $27,700 in 2023, which is the normal standard deduction for taxpayers who are Married Filing Jointly. He cannot claim an additional standard deduction amount for Lanie, because she did not turn 65 (she did not make it to her 65th birthday). The standard deduction amounts for 2023 are:
+
+Filing Status
+	
+
+2023 Standard Deduction
+
+Single; MFS
+	
+
+$13,850
+
+MFJ; QSS
+	
+
+$27,700
+
+Head of Household
+	
+
+$20,800
+
+The "additional" standard deduction: If you're at least 65 years old or blind, you can claim an additional 2023 standard deduction of $1,500 ($1,850 if using the single or HOH filing status). If you're both 65 and blind, the additional deduction amount is doubled. To review more information on the standard deduction, see IRS Topic No. 551 Standard Deduction.
+
+1. Question ID: 94815919 (Topic: Standard Deduction)
+
+Vernon and Rita are married and file separately. Vernon chooses to itemize deductions on his return. Rita does not have any itemized deductions to claim. What is the amount of Rita’s standard deduction on her separate return?
+
+    A. $3,950
+    B. $13,850
+    C. $6,350
+    D. $0correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 81% of students.
+
+Correct Answer Explanation for D:
+
+If married taxpayers file separately and one spouse itemizes deductions, the other spouse must either itemize deductions or claim a standard deduction amount of “0.” Since Rita does not have any deductions to itemize, she must claim “0” as her standard deduction amount.
+
+2. Question ID: 94815859 (Topic: Standard Deduction)
+
+What is the taxpayer's standard deduction primarily based on?
+
+    A. The taxpayer's age.
+    B. The taxpayer's employment status.
+    C. The taxpayer's income level.
+    D. The taxpayer's filing status.correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 90% of students.
+
+Correct Answer Explanation for D:
+
+The standard deduction is based primarily on filing status. The standard deduction is a specific dollar amount that reduces your taxable income. For the 2023 tax year, the standard deduction is $27,700 for joint filers, $20,800for heads of household, and $13,850 for single filers and those married filing separately. For more information, see IRS Topic No. 551 Standard Deduction.
+
+4. Question ID: 94849989 (Topic: Standard Deduction)
+
+Sabine is age 67 and also blind. She plans to file single in 2023, and she does not plan to itemize. What is her allowable Standard Deduction?
+
+    A. $13,850
+    B. $28,900
+    C. $27,700
+    D. $17,550correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for D:
+
+Sabine is over the age of 65 and blind, so she would be entitled to a basic standard deduction and an additional standard deduction equal to the sum of the additional amounts for both age and blindness. In 2023, the additional Standard Deduction for Age 65 and Over and/or Blindness is $1,850 for single filers. So her standard deduction would be: $13,850 + $1,850 + $1,850 = $17,550.
+
+The standard deduction amounts for 2023 are:
+
+Filing Status
+	
+
+2023 Standard Deduction
+
+Single; MFS
+	
+
+$13,850
+
+MFJ; QSS
+	
+
+$27,700
+
+Head of Household
+	
+
+$20,800
+
+The "additional" standard deduction: For taxpayers who are 65 years old or blind, they can claim an "additional" 2023 standard deduction of $1,500 ($1,850 if using the single or HOH filing status). To review more information on the standard deduction, see IRS Topic No. 551 Standard Deduction.
+
+7. Question ID: 94849987 (Topic: Standard Deduction)
+
+Which of the following taxpayers is allowed to take an additional Standard Deduction?
+
+    A. Gina, who is age 62 and disabled. 
+    B. Karen, who is 32 and widowed. 
+    C. Harold, who is age 60 and retired. 
+    D. Teddy, who is age 26 and blind. correct
+
+Study Unit 12: Standard Deduction and Itemized Deductions covers the information for this question.
+
+This question is answered correctly on the first attempt by 85% of students.
+
+Correct Answer Explanation for D:
+
+Teddy, who is age 26 and blind, would be allowed to claim an "additional" standard deduction. Taxpayers who are over the age of 65 and/or blind qualify for an additional standard deduction amount. For 2023, the additional standard deduction amounts for taxpayers who are 65 and older or blind are:
+
+    Single or Head of Household – $1,850 
+    Married taxpayers or Qualifying Surviving Spouse (QSS) – $1,500 
+
+To review more information on the standard deduction, see IRS Topic No. 551 Standard Deduction.
+
+

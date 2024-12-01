@@ -1,0 +1,376 @@
+
+1. Question ID: 94849607 (Topic: Cancellation of Debt Income)
+
+Kendra bought a new car for $30,000. She made a $5,000 down payment and borrowed the remaining $25,000 from her bank via a recourse loan. After she stopped making payments, the bank repossessed the car. The balance due on the loan at the time of the repossession was $15,000. The FMV of the car when repossessed was $12,000. She later receives a 1099-C for the canceled debt. She was not insolvent when the debt was canceled, because she has $40,000 in a traditional IRA account. What amount is Kendra’s loss and what amount must she report as cancellation of debt income?
+
+    A. $15,000 nondeductible loss; $12,000 COD.
+    B. $13,000 deductible loss; $0 COD.
+    C. $18,000 nondeductible loss; $3,000 COD.correct
+    D. $13,000 nondeductible loss; $3,000 COD.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 38% of students.
+
+Correct Answer Explanation for C:
+
+A taxpayer is personally liable for a recourse loan. Since a repossession is treated as a sale, the gain or loss must be computed. Kendra compares the amount realized ($12,000) with her adjusted basis ($30,000) in the vehicle to determine that she has an $18,000 nondeductible loss. She also has ordinary income from cancellation of debt. That income is $3,000 ($15,000 canceled debt − $12,000 FMV). Kendra must report the canceled debt as income on her Form 1040.
+
+2. Question ID: 758501774 (Topic: Cancellation of Debt Income)
+
+Under which of the following circumstances would canceled debt not be taxable?
+
+    A. The debt is secured by real property
+    B. The taxpayer is insolvent immediately before the debt is canceledcorrect
+    C. The amount of the canceled debt is less than $600
+    D. The debt is unsecured credit card debt wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 85% of students.
+
+Incorrect Answer Explanation for D:
+
+Canceled debt is not taxable if the taxpayer is insolvent immediately before the cancellation of the debt. If a taxpayer can exclude their canceled debt due to insolvency, they must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness to their individual return and check the appropriate box. See IRS Topic no. 431, Canceled debt.
+
+Correct Answer Explanation for B:
+
+Canceled debt is not taxable if the taxpayer is insolvent immediately before the cancellation of the debt. If a taxpayer can exclude their canceled debt due to insolvency, they must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness to their individual return and check the appropriate box. See IRS Topic no. 431, Canceled debt.
+Show Other Explanations
+
+Explanation for A:
+
+Canceled debt is not taxable if the taxpayer is insolvent immediately before the cancellation of the debt. If a taxpayer can exclude their canceled debt due to insolvency, they must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness to their individual return and check the appropriate box. See IRS Topic no. 431, Canceled debt.
+
+Explanation for C:
+
+Canceled debt is not taxable if the taxpayer is insolvent immediately before the cancellation of the debt. If a taxpayer can exclude their canceled debt due to insolvency, they must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness to their individual return and check the appropriate box. See IRS Topic no. 431, Canceled debt.
+
+3. Question ID: EA P1 933 (Topic: Cancellation of Debt Income)
+
+Gary is having severe financial difficulties and his main home is being lost to foreclosure. He owes the bank more than the house is currently worth. The bank sends Gary a Form 1099-C reporting canceled debt from the foreclosure. Gary believes that he can exclude this canceled debt from his income. What form would should he attach to his individual return, in order to properly exclude the canceled debt? 
+
+    A. Schedule J
+    B. Form 982correct
+    C. Form 2210
+    D. Form 843wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 82% of students.
+
+Incorrect Answer Explanation for D:
+
+Gary must attach Form 982 to his individual return. Qualified principal residence indebtedness can be excluded from income in some circumstances. Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, is used to determine the amount of discharged indebtedness that can be excluded from gross income. This includes canceled debt from a main home. 
+
+Correct Answer Explanation for B:
+
+Gary must attach Form 982 to his individual return. Qualified principal residence indebtedness can be excluded from income in some circumstances. Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, is used to determine the amount of discharged indebtedness that can be excluded from gross income. This includes canceled debt from a main home. 
+Show Other Explanations
+
+Explanation for A:
+
+Gary must attach Form 982 to his individual return. Qualified principal residence indebtedness can be excluded from income in some circumstances. Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, is used to determine the amount of discharged indebtedness that can be excluded from gross income. This includes canceled debt from a main home. 
+
+Explanation for C:
+
+Gary must attach Form 982 to his individual return. Qualified principal residence indebtedness can be excluded from income in some circumstances. Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, is used to determine the amount of discharged indebtedness that can be excluded from gross income. This includes canceled debt from a main home. 
+
+4. Question ID: 94849601 (Topic: Cancellation of Debt Income)
+
+What type of loan holds that the borrower is NOT personally liable, and therefore, any debt cancellation is not taxable to the borrower?
+
+    A. Nonrecourse loanscorrect
+    B. Mortgage loans
+    C. Recourse loans
+    D. Credit card debt wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 32% of students.
+
+Correct Answer Explanation for A:
+
+Nonrecourse loans are not taxable and are treated differently from recourse loans. In the case of nonrecourse debt, there will be no ordinary income due to debt cancellation. See IRS Topic no. 431, Canceled debt.
+
+5. Question ID: 94850120 (Topic: Cancellation of Debt Income)
+
+Isaac has canceled debt from a foreclosure on his vacation home. The mortgage on the property was a recourse debt. What does this mean?
+
+    A. A recourse debt means that the debt is unsecured.
+    B. It means that the lender cannot pursue anything other than the collateral.
+    C. A recourse debt means that Isaac is personally liable for the loan.correct
+    D. A recourse debt means that Issac must file a civil action.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 80% of students.
+
+Correct Answer Explanation for C:
+
+A recourse debt holds the borrower personally liable. This means that Isaac is personally liable for the mortgage. All other debt is considered nonrecourse. A nonrecourse debt (loan) does not allow the lender to pursue anything other than the collateral. For example, if a borrower defaults on a nonrecourse home loan, the bank can only foreclose on the home. The bank generally cannot take further legal action to collect the money owed on the debt. Whether a debt is recourse or nonrecourse may depend on state law.
+
+6. Question ID: 94849728 (Topic: Cancellation of Debt Income)
+
+Joel’s primary residence is subject to a $320,000 mortgage debt. His basis in the home is $340,000. Joel loses his job and is unable to make his mortgage payments, so his bank forecloses on the home on January 10, 2023. Due to declining real estate values in his city, Joel's former residence is sold for $280,000 on December 15, 2023, as a short-sale. The debt was canceled by the mortgage lender and Joel receives a Form 1099-C reporting the cancellation. Joel was not insolvent at the time. What amount of taxable income from cancellation of debt must Joel report on his tax return?
+
+    A. $0correct
+    B. $60,000
+    C. $40,000
+    D. $30,000wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 46% of students.
+
+Correct Answer Explanation for A:
+
+Joel has $40,000 of cancelled debt from the discharge of indebtedness. However, none of the canceled debt is taxable to Joel because it is excluded from income because it is primary residence indebtedness. Qualified principal residence indebtedness can be excluded from income. Generally, if a taxpayer excludes canceled debt from income, the taxpayer must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, to report the amount of debt qualifying for exclusion. To learn more about cancellation of debt, see IRS Topic No. 431, Canceled Debt.
+
+7. Question ID: 94849571 (Topic: Cancellation of Debt Income)
+
+A taxpayer whose debt is canceled, forgiven, or discharged generally will receive from the creditor:
+
+    A. Form 1099-C.correct
+    B. Form 1099-MISC.
+    C. Form 8606.
+    D. Form W-2G.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 91% of students.
+
+Correct Answer Explanation for A:
+
+A taxpayer whose debt is canceled, forgiven, or discharged will generally receive a Form 1099-C, Cancellation of Debt, from the creditor. The canceled amount must be included in gross income, unless it qualifies for a specific exclusion (such as debt canceled during insolvency or a Title 11 bankruptcy case), or an exception to inclusion (such as cancellation of certain qualified student loans). None of the other answers are correct. The Form 1099-MISC reports miscellaneous income to a taxpayer. The Form W-2G reports gambling winnings. Form 8606 reports nondeductible contributions to an IRA.
+
+8. Question ID: 94849548 (Topic: Cancellation of Debt Income)
+
+Rhonda had to give up her main home to foreclosure. She has a Form 1099-C, which shows the cancellation of her mortgage loan. Despite facing financial difficulties, she did not declare bankruptcy. She is also not insolvent because she has a retirement plan at work, but she does not want to withdraw from her retirement account. Rhonda confirmed that the entirety of the mortgage loan was used to buy the house. According to her Form 1099-C, $60,000 worth of debt was forgiven. How should this cancelled debt be reported on Rhonda's tax return?
+
+    A. The cancellation of debt is fully taxable and must be reported as "other income" because she is not insolvent or in bankruptcy.
+    B. No income or loss to report.
+    C. The cancelled debt is not taxable. She must report the amount qualifying for exclusion on Form 982 and attach the form to her tax return. correct
+    D. The cancellation of debt may be taxable, but only if she is required to file a tax return. wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 62% of students.
+
+Correct Answer Explanation for C:
+
+Rhonda's debt is a cancellation of "qualified principal residence indebtedness," and is therefore not taxable. Rhonda should report the full amount as qualifying for the principal residence exclusion on Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, and attach the form to her tax return. 
+
+9. Question ID: EA P1 932 (Topic: Cancellation of Debt Income)
+
+What is Form 982 used for?
+
+    A. Form 982 is used to determine the amount of discharged indebtedness that can be excluded from gross income.correct
+    B. Form 982 is used to determine the amount of taxable scholarships a student may have.
+    C. Form 982 is used to report passive income earned from rental activities.
+    D. Form 982 is used to request a penalty abatement for late payment of self-employment tax.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for A:
+
+Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, is used to determine the amount of discharged indebtedness that can be excluded from gross income. 
+
+Generally, debt is considered canceled when the lender either forgives or discharges the debt for less than the full amount owed. If the taxpayer can exclude the income, they should file Form 982 along with their Form 1040 to report the exclusion. 
+
+10. Question ID: 94849617 (Topic: Cancellation of Debt Income)
+
+When Danny and June married five years ago, June's parents loaned them $30,000 for a down payment on their first house. Danny and June made regular payments on the loan until June's parents were killed in an accident in 2023. When they died, Danny and June still owed $17,500 on the balance of the loan. One of the terms of June's parents’ will was that any balance remaining on the loan would be forgiven at their death and would be considered a gift. How should this be reported on Danny and June's joint tax return?
+
+    A. Danny and June do not have to recognize income due to the forgiveness of the debt. No reporting is required.correct
+    B. Danny and June do not have to recognize income due to the forgiveness of the debt, but they are required to file a gift tax return.
+    C. Danny and June have to recognize income due to the forgiveness of the debt, but only the amount above the gift limit.
+    D. Danny and June have to recognize $17,500 in income due to the forgiveness of the debt.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 34% of students.
+
+Correct Answer Explanation for A:
+
+Danny and June do not have to recognize income due to the forgiveness of the debt. No reporting is required. Loans forgiven as gifts are not taxed. If a debt is canceled by a private lender, such as a relative or friend, and the cancellation is intended as a gift, there is no income that has to be reported. Danny and June are not required to file gift tax returns, because any gift tax reporting is always done by the donor (not the donee, or the recipient of the gift).
+
+12. Question ID: 94849513 (Topic: Cancellation of Debt Income)
+
+Janine had $5,000 of credit card debt, which she did not pay. She received a Form 1099-C from her credit card company showing canceled debt of $5,000 at the end of the year. Immediately before the cancellation, her total liabilities from all sources were $15,000 and the FMV of her total assets was $7,000. How much of the canceled debt is taxable to Janine?
+
+    A. $2,000
+    B. $0correct
+    C. $5,000
+    D. $7,000wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 64% of students.
+
+Correct Answer Explanation for B:
+
+At the time the debt was canceled, Janine was insolvent to the extent of $8,000 ($15,000 total debt minus $7,000 FMV of her total assets). She can exclude the entire $5,000 canceled debt from income. She must file Form 982 to report the canceled debt, and she should mark the box for insolvency.
+
+13. Question ID: 94815960 (Topic: Cancellation of Debt Income)
+
+Canceled debt is generally taxable, but there are several exclusions from the general rule for reporting canceled debt as income. Which of the following types of canceled debt would NOT qualify for exclusion in 2023?
+
+    A. Discharge of debt through bankruptcy.
+    B. Discharge of qualified principal residence indebtedness.
+    C. Recourse debt on a car that was repossessed by a lender.correct
+    D. Discharge of debt of insolvent taxpayer.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 79% of students.
+
+Correct Answer Explanation for C:
+
+The recourse debt on a vehicle would likely be taxable canceled debt. If a lender forecloses on property subject to a recourse debt and cancels the portion of the debt in excess of the fair market value (FMV) of the property, the canceled portion of the debt is treated as ordinary income from cancellation of indebtedness. This amount must be included in gross income unless it qualifies for an exception or exclusion. The exclusions are:
+
+    Discharge of debt through bankruptcy.
+    Discharge of debt of insolvent taxpayer.
+    Discharge of qualified farm indebtedness.
+    Discharge of qualified real property business indebtedness.
+    Discharge of qualified principal residence indebtedness.
+
+To learn more about this topic, see IRS Topic No. 431, Canceled Debt. 
+
+14. Question ID: 758501775 (Topic: Cancellation of Debt Income)
+
+Which form must a taxpayer attach to their federal income tax return to exclude canceled debt from income due to bankruptcy?
+
+    A. Schedule B
+    B. Form 982correct
+    C. Form 1099-C
+    D. Form 4681wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 72% of students.
+
+Incorrect Answer Explanation for D:
+
+Taxpayers must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, to their federal income tax return to exclude any debt canceled in bankruptcy. See IRSTopic no. 431, Canceled debt.
+
+Correct Answer Explanation for B:
+
+Taxpayers must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, to their federal income tax return to exclude any debt canceled in bankruptcy. See IRSTopic no. 431, Canceled debt.
+Show Other Explanations
+
+Explanation for A:
+
+Taxpayers must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, to their federal income tax return to exclude any debt canceled in bankruptcy. See IRSTopic no. 431, Canceled debt.
+
+Explanation for C:
+
+Taxpayers must attach Form 982, Reduction of Tax Attributes Due to Discharge of Indebtedness, to their federal income tax return to exclude any debt canceled in bankruptcy. See IRSTopic no. 431, Canceled debt.
+
+16. Question ID: EA P1 944 (Topic: Cancellation of Debt Income)
+
+If a taxpayer defaults on a credit card debt or some other loan, what form will the taxpayer typically receive when the debt is canceled by the lender?
+
+    A. Form 982
+    B. Form 1099-MISC
+    C. Form 1099-Ccorrect
+    D. Form 1099-NECwrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 86% of students.
+
+Correct Answer Explanation for C:
+
+Any creditors and lenders must send a Form 1099-C to borrowers and the IRS if $600 or above in debt was forgiven or canceled.
+
+17. Question ID: 94850179 (Topic: Cancellation of Debt Income)
+
+A nonrecourse debt (loan) does not allow the lender to pursue anything other than:
+
+    A. The collateral on the loan.correct
+    B. Personal and business assets.
+    C. Wages or bank accounts.
+    D. Personal assets only.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 85% of students.
+
+Correct Answer Explanation for A:
+
+A nonrecourse debt (loan) does not allow the lender to pursue anything other than the collateral. For example, if a borrower defaults on a nonrecourse home loan, the bank can only foreclose on the home. The bank generally cannot take further legal action to collect the money owed on the debt. If a lender cancels a debt and issues Form 1099-C to the taxpayer, the lender will indicate on the form if the borrower was personally liable (recourse) for repayment of the debt. The tax impact depends on the type of debt - recourse or nonrecourse. See IRS Tax Topic No. 431, Canceled Debt.
+
+18. Question ID: 94849736 (Topic: Cancellation of Debt Income)
+
+Pandora stopped paying on several credit cards last year. This year, she received a 1099-C showing $5,430 in canceled credit card debt. Pandora is not insolvent or in bankruptcy. How should she report this income?
+
+    A. The canceled debt must be included on Form 1040 as "other income".correct
+    B. The canceled debt is not taxable because credit card debt is unsecured debt.
+    C. The canceled debt must be included on Schedule E as passive income.
+    D. The canceled debt must be included on Schedule C as self-employment income.wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 91% of students.
+
+Correct Answer Explanation for A:
+
+If a taxpayer receives Form 1099-C for canceled credit card debt and was not insolvent or in bankruptcy, all the canceled debt will be taxable as "other income" and must be included on Form 1040.
+
+To learn more about this topic, see IRS Topic No. 431, Canceled Debt.
+
+19. Question ID: 94849729 (Topic: Cancellation of Debt Income)
+
+Jurek owed $23,000 to his credit card company, which agreed to accept $14,000 as payment in full to settle the debt. Jurek was not insolvent and not in bankruptcy when the credit card debt was canceled. What amount should he report as "canceled debt income” on his return?
+
+    A. $0
+    B. $23,000
+    C. $9,000correct
+    D. $14,000wrong
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 84% of students.
+
+Correct Answer Explanation for C:
+
+Jurek must report $9,000 ($23,000 - $14,000) on his Form 1040 as cancellation of debt income. The amount is fully taxable because he does not qualify for an exclusion. To learn more about cancellation of debt, see IRS Topic No. 431, Canceled Debt.
+
+11. Question ID: 94849756 (Topic: Cancellation of Debt Income)
+
+Ambrose made a deal with his credit card company to pay $2,000 on his $7,000 balance, and the company agreed to take it as payment in full. In January of the current year, he received a Form 1099-C from his credit card company reporting the amount of debt canceled. Ambrose was solvent immediately before the debt was canceled. How much should Ambrose report on his Form 1040 as taxable income?
+
+    A. Ambrose must include $2,000 as "other income" on his tax return.
+    B. Ambrose must include $7,000 as "other income" on his tax return.
+    C. Ambrose does not have to include the cancelled debt on his tax return.
+    D. Ambrose must include $5,000 as "other income" on his tax return.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 72% of students.
+
+Correct Answer Explanation for D:
+
+Ambrose has $5,000 in cancellation of debt income ($7,000 - $2,000). Since Ambrose was not insolvent at the time of the cancellation, he must include the entire $5,000 as "other income" on his tax return (example from Publication 4491).
+
+15. Question ID: 95003697 (Topic: Cancellation of Debt Income)
+
+Shane fell on hard times and stopped paying his mortgage in the prior year. His home was later foreclosed. At the time of foreclosure, he owed a balance of $190,000 to the lender and the FMV of the property was $150,000 at the time of the foreclosure. For tax purposes, the foreclosure is treated as a sale. Shane's mortgage loan was nonrecourse. Based on this information, what would the "sale price" be for reporting this transaction?
+
+    A. The sale price would be $0.
+    B. The sale price would be $150,000.
+    C. The sale price would be $40,000.
+    D. The sale price would be $190,000.correct
+
+Study Unit 10: Other Taxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 29% of students.
+
+Correct Answer Explanation for D:
+
+Since Shane is not personally liable for the debt (a nonrecourse loan), the "selling price" would be $190,000. Nonrecourse debt is satisfied by the surrender of the secured property regardless of the FMV at the time of surrender, and the borrower is not personally liable for the debt. If property that is subject to nonrecourse debt is abandoned, foreclosed upon, subject of a short sale, or repossessed by the lender, the circumstances are treated as a sale of the property by the taxpayer. In determining the gain or loss on the disposition of the property, the balance of the non-recourse debt at the time of the disposition of the property is included in the amount realized (generally the selling price). Since Shane is not personally liable for the debt, the difference between the FMV of the property and the balance of the loan is not included in his gross income (see detailed example in Publication 4491).
+
+

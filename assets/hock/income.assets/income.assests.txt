@@ -1,0 +1,674 @@
+
+You scored 8 correct out of 34 (24%) questions in Section 2 - Income and Assets.
+
+The average score on this set of questions is 71%.
+
+Chart
+Bar chart with 1 bar.
+The chart has 1 X axis displaying categories.
+The chart has 1 Y axis displaying Percent Correct. Data ranges from 23 to 23.
+End of interactive chart.
+
+Below is a review of your answers, with the incorrectly answered questions first, followed by the correctly answered questions:
+
+1. Question ID: 94849629 (Topic: Rental Property and Income)
+
+Which of the following would be considered "passive activity" income?
+
+    A. Portfolio income.
+    B. Alaska Permanent Fund dividends.
+    C. Rental income received by a taxpayer who is not a real estate professional.correct
+    D. Cancellation of debt income.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 80% of students.
+
+Correct Answer Explanation for C:
+
+Generally, a passive activity is any rental activity OR any business in which the taxpayer does not materially participate. Nonpassive activities are businesses in which the taxpayer works on a regular, continuous, and substantial basis. Passive activity income also does NOT include:
+
+    Portfolio income, such as interest, dividends, annuities, and royalties not derived in the ordinary course of a trade or business, or gain or loss from the disposition of property that produces these types of income or that is held for investment.
+    Personal service income. This includes salaries, wages, commissions, self-employment income from trade or business activities in which the taxpayer materially participated, deferred compensation, taxable Social Security and other retirement benefits, and payments from partnerships to partners for personal services.
+    Any income from intangible property, such as a patent, copyright, or literary, musical, or artistic composition, if the taxpayer’s personal efforts significantly contributed to the creation of the property.
+    State, local, and foreign income tax refunds.
+    Income from a covenant not to compete.
+    Alaska Permanent Fund dividends.
+    Cancellation of debt income, if at the time the debt is discharged, the debt is not allocated to passive activities.
+
+To learn more about passive activity income, refer to Publication 925, Passive Activities and At-Risk Rules.
+
+2. Question ID: 94849567 (Topic: Rental Property and Income)
+
+Serenity owns a condo in Hawaii. She lives in the home most of the year and uses it as her primary residence. While she was away visiting friends, she rented her condo for 13 days, charging $100 per day for a total of $1,300. She also had $320 of expenses during that time. How should this rental income be reported?
+
+    A. She should report the income as ordinary income on Form 1040. The expenses are deductible as a miscellaneous itemized deduction on Schedule A, if she itemizes deductions.
+    B. She should report all the rental income. She can deduct $320 of expenses on Schedule E.
+    C. The income is not taxable and does not need to be reported. The expenses are not deductible. correct
+    D. She can deduct the expenses. The rental income is not taxable.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 85% of students.
+
+Correct Answer Explanation for C:
+
+She does not report any of the income or expenses based on the exception for minimal rental use. If a taxpayer rents a main home or vacation home for fewer than 15 days, she does not have to recognize any of the income as taxable. She also cannot deduct any rental expenses. This is called the “15-day rule” or “minimal rental use”. For more examples, refer to Publication 527, Residential Rental Property.
+
+3. Question ID: 95033973 (Topic: Rental Property and Income)
+
+Roque, who is single, owns a rental duplex. He actively participates in the rental activity by collecting rent and performing repairs, but he is not a real estate professional. In the current year, Roque had a loss of $29,000 on this rental activity on Schedule E. He had no other passive income. His income from wages was $90,000. How much of the rental loss can Roque deduct on his current year tax return?
+
+    A. $4,000
+    B. $29,000
+    C. $25,000correct
+    D. $0wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 82% of students.
+
+Correct Answer Explanation for C:
+
+Roque can deduct $25,000 of rental losses. The remaining amount, $4,000 ($29,000 - $25,000), can be carried over to the following year. A special rule allows taxpayers deduct up to $25,000 of rental losses from rental real estate activities in which they actively participate. This “special allowance” is an exception to the general rule disallowing losses in excess of income from passive activities. The $25,000 deduction is phased out when a taxpayer’s MAGI is from $100,000 to $150,000 and phased out completely when a taxpayer's MAGI is over $150,000.
+
+5. Question ID: 94849517 (Topic: Rental Property and Income)
+
+Fantine owns a residential rental property in addition to her primary residence. She pays mortgage interest and property taxes on both properties and receives a separate Form 1098 for each. How should this mortgage interest be reported on her individual tax return?
+
+    A. The mortgage interest and taxes for both properties should be listed as an adjustment to income on Form 1040.
+    B. The mortgage interest and taxes for the rental property should be listed as rental expenses on Schedule E, and the mortgage interest and taxes for the primary residence should be listed on Schedule A as itemized deductions.correct
+    C. The mortgage interest and taxes for both properties should be listed as itemized deductions on Schedule A.
+    D. The mortgage interest for the rental property should be listed on Schedule E. The mortgage interest for the primary residence and the property taxes for both properties should be listed on Schedule A.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 79% of students.
+
+Correct Answer Explanation for B:
+
+Fantine needs to report the mortgage interest and taxes that she paid on two separate schedules. The mortgage interest and taxes for the rental property should be listed on Schedule E. Rental income is reported on Schedule E and is offset by various deductions, including mortgage interest and property taxes paid. The mortgage interest and taxes for the primary residence should be listed on Schedule A as an itemized deduction.
+
+6. Question ID: 98939195 (Topic: Rental Property and Income)
+
+Eduardo owns an interest in three limited partnerships. He is only an investor (a limited partner) and has no involvement in the running of the business. One of the partnerships is profitable, and the other two are not profitable. Eduardo also earned $36,000 in wages from a part-time job. Based on these figures, calculate Eduardo's passive loss carryover on his individual return.
+
+    Oil and Gas Partnership #1: $4,000 profit
+    Medical Research Partnership #2: ($9,000 loss)
+    Wind Energy Partnership #3: ($16,000 loss)
+
+    A. $6,000 carryover loss.
+    B. $0 carryover loss. He can offset his wages. 
+    C. $21,000 carryover losscorrect
+    D. $15,000 carryover losswrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 63% of students.
+
+Correct Answer Explanation for C:
+
+Eduardo has a $21,000 carryover loss. Net loss = ($9,000)+ ($16,000) + $4,000 = ($21,000). The full $21,000 passive activity loss for the taxable year is disallowed, and cannot offset his wages (it is not a rental activity, and therefore not eligible for the special $25,000 "rental loss allowance"). All the losses must be carried forward to a following year to offset future passive income, or until the taxpayer disposes of the activity. Based on an example from Publication 925, Passive Activity and At-Risk Rules. 
+
+7. Question ID: 94849526 (Topic: Rental Property and Income)
+
+Stephen, a landlord, made several repairs and improvements to his rental house. He spent $13,500 to install permanent tile in all of the bedrooms, $1,200 to repaint the exterior of the home, $170 to replace the broken faucet in the bathroom, and $590 to replace several damaged shingles on the roof. How much of these costs must he depreciate?
+
+    A. $14,200
+    B. $14,960
+    C. $13,500correct
+    D. $14,790wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 84% of students.
+
+Correct Answer Explanation for C:
+
+Only the cost of the flooring would have to be depreciated, and it would be depreciated over 27.5 years. The rest of the costs can be expensed as repairs, including the painting of the exterior. Most flooring is considered to be permanently affixed. These types of flooring include hardwood, tile, vinyl and glued-down carpet. Per Publication 527 Residential Rental Property, permanent flooring such as tile or hardwood is depreciated over a period of 27.5 years. However, flooring subject to more wear and tear, such as carpeting, can be depreciated over 5 years.
+
+9. Question ID: 94849541 (Topic: Rental Property and Income)
+
+Antwan is single. He has the following income and losses during the year:
+
+    Wages: $55,000
+    Passive activity income from a limited partnership: $4,000
+    Passive loss from a rental real estate activity (in which he actively participated): $6,000
+
+Which of the following statements is correct?
+
+    A. The first $4,000 of Antwan’s $6,000 passive loss offsets his passive income. He can deduct the remaining $2,000 to reduce taxation of his wages.correct
+    B. He cannot deduct the passive loss to reduce taxation of his wages.
+    C. He must carry over his loss to the next tax year.
+    D. He cannot offset the rental loss against the passive income from the partnership because it is not the same type of passive activity.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 74% of students.
+
+Correct Answer Explanation for A:
+
+Antwan can use $4,000 of his rental loss to offset the passive activity income from the limited partnership. The remaining $2,000 loss can be deducted to reduce taxation of his wages.
+
+Note: A taxpayer can deduct up to $25,000 per year of losses for rental real estate activities in which he actively participates. This special allowance is an exception to the general rule of disallowing losses from passive activities in excess of passive activity income. This $25,000 allowance is only allowed for rental activities. However, there are income limitations. If modified adjusted gross income (MAGI) exceeds $100,000 ($50,000 if MFS), the allowance is limited to 50% of the difference between $150,000 ($75,000 if MFS) and MAGI. If MAGI is $150,000 or more ($75,000 or more if MFS), the losses are disallowed and must be carried forward.
+
+10. Question ID: 94855000 (Topic: Rental Property and Income)
+
+Peter owns a lake cottage that he bought last year, intending to use the home as a vacation property for himself. In the current year, he rented the cottage for 10 days to a stranger, and Peter used the cottage for 20 days for his own personal use. The cottage was not used the rest of the year, and sat empty. Peter had rental income of $1,000 and he paid $450 for repairs because his renter broke a window. How should he report these activities on his tax return?
+
+    A. $1,000 income, $450 expense on Schedule C
+    B. $0 income, $0 expense (it does not have to be reported)correct
+    C. $1,000 reported as "other income" and no rental expenses would be permitted.
+    D. $1,000 income, $450 expense on Schedule Ewrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 76% of students.
+
+Correct Answer Explanation for B:
+
+Peter would report $0 income, and $0 expenses (i.e., this rental activity does not have to be reported). If you rent out a personal dwelling for less than 15 days during the tax year, this is considered "Minimal Rental Use." This is a special rule that applies, if the property qualifies as a residence and is rented for less than 15 days during the year, then the rental income is not taxable, and no expenses would be deductible.
+
+(For more information, see  Publication 527, Residential Rental Property) 
+
+11. Question ID: 94850305 (Topic: Rental Property and Income)
+
+Joshua is unmarried and works full time as a college professor. He is not a real estate professional, but he does own a residential rental that he manages himself. Joshua earned $120,000 in salary at his job, and a ($31,000) loss from his rental real estate activities in which he actively participated. He reports the rental on Schedule E. He had no other income or loss for the year. Based on this information, figure out his passive loss carryover.
+
+    A. $16,000correct
+    B. $15,000
+    C. $31,000
+    D. $6,000wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 24% of students.
+
+Correct Answer Explanation for A:
+
+When Joshua files his return, he can deduct only $15,000 of his passive activity loss. He must carry over the remaining $16,000 passive activity loss to the following year. He must figure his deduction and carryover as follows:
+Adjusted gross income 	$120,000
+Minus amount not subject to phaseout 	($100,000)
+Amount subject to phaseout rule 	$20,000
+Multiply by 50% 	X 50% 
+Reduction to "special allowance" 	$10,000
+Maximum "special allowance" 	$25,000
+Minus reduction 	$10,000
+Adjusted "Special allowance" 	$15,000
+Passive loss from rental activity 	$31,000
+Deduction allowable in the current year 	($15,000)
+Amount of losses that must be carried forward 	$16,000
+
+Based directly on an example in Publication 925. 
+
+12. Question ID: 94849631 (Topic: Rental Property and Income)
+
+Ivan buys an apartment building for $160,000 on January 10. He plans to rent it out to long-term tenants. The latest real estate tax assessment on the property allocates 85% of the value to the building and 15% to the land. What is his basis for depreciation on Schedule E?
+
+    A. $24,000
+    B. $160,000
+    C. $136,000correct
+    D. $0.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 91% of students.
+
+Correct Answer Explanation for C:
+
+Ivan's basis for depreciation is $136,000 (85% × $160,000). When determining the basis for calculating depreciation, the cost basis of the land and building need to be calculated separately. The basis of the land is not subject to depreciation.
+
+14. Question ID: 95033971 (Topic: Rental Property and Income)
+
+What type of rental property is never depreciated?
+
+    A. Undeveloped land.correct
+    B. Commercial buildings.
+    C. Residential rentals.
+    D. Land improvements.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for A:
+
+The cost of land is never depreciated, even if it is used in rental activity (for example, rented farmland, or undeveloped land that is used as an overflow parking lot). Land improvements, such as fencing, paved parking areas, and outdoor lighting, may be depreciated.
+
+15. Question ID: 94850304 (Topic: Rental Property and Income)
+
+Angelo, an unmarried taxpayer, owns a rental property that he actively manages himself. He collects the rents and chooses the tenants. He also works full-time as a math tutor. Angelo had the following income and loss during the tax year.
+Salary from his tutoring job 	$42,300
+Dividends 	300
+Interest from a CD 	1,400
+Rental loss 	(5,000)
+
+The rental loss came from the house, which he owns. Although he actively participated in the rental activity, he is not a real estate professional. Based on this information, how much of the rental loss is Angelo permitted to deduct against his other taxable income in the current year?
+
+    A. Up to $3,000 in losses, the maximum capital loss limit for an individual taxpayer. 
+    B. He may not deduct any of the losses in the current year, because he has no passive activity income to offset. The full amount must be carried over to future years. 
+    C. He may deduct the full amount of his losses ($5,000) against his wages. correct
+    D. Up to $1,700 in losses, to offset the amount of his dividends and interest ($300 + $1,400)wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 76% of students.
+
+Correct Answer Explanation for C:
+
+He may deduct the full amount of his losses ($5,000) against his wages. The rental loss came from a house he owned. He advertised and rented the house to the current tenant himself. He also collected the rents and did the repairs or hired someone to do them. Even though the rental loss is a loss from a passive activity, he can use the entire loss to offset his other income because he "actively participated" in the activity. This example is based directly on a scenario in Publication 925. 
+
+Note: Special $25,000 allowance: If you or your spouse actively participated in a passive rental real estate activity, the amount of the passive activity loss that’s disallowed is decreased and you therefore can deduct up to $25,000 of loss from the activity from your nonpassive income. This special allowance is an exception to the general rule disallowing the passive activity loss. Similarly, you can offset credits from the activity against the tax on up to $25,000 of nonpassive income after taking into account any losses allowed under this exception. 
+
+18. Question ID: 98939168 (Topic: Rental Property and Income)
+
+Jenny and Blaze are married and file jointly. Jenny earns $80,000 as a registered nurse. Blaze earns $92,000 as a school administrator. They co-own and manage a residential rental together. They actively participate in the rental activity, but neither is a real estate professional. The rental activity is not profitable, and Jenny and Blaze incur a ($29,000) loss on Schedule E. Based on these facts, what is the maximum amount of rental losses that Jenny and Blaze can deduct from their nonpassive income (their wages)?
+
+    A. $12,500
+    B. $25,000
+    C. $0correct
+    D. $29,000wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 52% of students.
+
+Correct Answer Explanation for C:
+
+They cannot deduct any of their rental losses. Under the passive activity rules, you can deduct up to $25,000 in passive losses against your ordinary income (W-2 wages) if your modified adjusted gross income (MAGI) is $100,000 or less. This deduction phases out $1 for every $2 of MAGI above $100,000 until $150,000 when it is completely phased out. Blaze and Jenny's wages exceed the maximum threshold ($80,000 wages + $92,000 wages = $172,000). Their passive loss must be carried forward to future tax years to offset any passive income.
+
+Note: If their income drops below the threshold in future years, (for example, if one of them stops working) or, if they decide to dispose of the activity (they sell the rental) then the carryover losses will be released at that time. Learn more about the special rules for rental losses in Publication 925, Passive Activity and At-Risk Rules. 
+
+20. Question ID: 94849651 (Topic: Rental Property and Income)
+
+Norbert purchased his home six years ago for $250,000. The purchase price was allocatable to fair market values of (1) $50,000 for the underlying land and (2) $200,000 for the house. Norbert paid an additional $18,000 for adding an additional bathroom to the home. Norbert moves out of the home on June 1, because of a job transfer. Instead of selling the home, he decides to rent it out. A tenant moved in on October 1, 2023. The FMV of the property on October 1 was $310,000, comprised of $65,000 for the land and $245,000 for the house. He paid $2,400 for plumbing repairs during November after his tenant discovered a water leak in the garage. Based upon the information listed, what is the basis on which depreciation should be calculated during the rental period?
+
+    A. $270,400
+    B. $245,000wrong
+    C. $250,000
+    D. $218,000correct
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 59% of students.
+
+Correct Answer Explanation for D:
+
+The basis for depreciation is the lesser of fair market value or the taxpayer’s adjusted basis on the date the property was converted to rental use. The adjusted basis on October 1 was $218,000 (original cost of $200,000 + improvements of $18,000). Since this amount was lower than the FMV of the home ($245,000) on the same date, the lower figure must be used as the basis for depreciation on the property. The basis of the land is not subject to depreciation (land is never depreciated). The plumbing repairs are deductible as a current expense and are not depreciated. Instead, the repairs would simply be deductible as an expense on Schedule E.
+
+21. Question ID: 94815927 (Topic: Rental Property and Income)
+
+Antonio is unmarried and owns a residential rental property. He is not a real estate professional. He reports his rental income on Schedule E. In the current year, his wage income was $82,000, and his losses from the rental property were $27,000. He actively participated in the rental activity. How much of the rental loss can he deduct on his individual tax return?
+
+    A. $27,000
+    B. $0, the losses are completely disallowed by the passive activity rules.
+    C. $25,000, with a $2,000 loss carryover.correct
+    D. $25,000 with no carryover.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 85% of students.
+
+Correct Answer Explanation for C:
+
+Antonio can deduct up to $25,000 of his rental losses from his active income. The disallowed amount ($2,000) can be carried over to the next year. If a taxpayer actively participates in a passive rental real estate activity that produces a loss, the taxpayer can deduct the loss from non-passive income, up to $25,000. This $25,000 allowance is only allowed for rental activities. However, there are income limitations. If modified adjusted gross income (MAGI) exceeds $100,000 ($50,000 if MFS), the allowance is limited to 50% of the difference between $150,000 ($75,000 if MFS) and MAGI. If MAGI is $150,000 or more ($75,000 or more if MFS), the losses are disallowed and must be carried forward. To learn more about rental losses and passive loss limits, refer to Publication 925, Passive Activities and At-Risk Rules.
+
+22. Question ID: 94849596 (Topic: Rental Property and Income)
+
+Tony lives near a popular football arena. He rents his main home during sporting events for 12 days during the tax year and earns $2,500. During the time he rents his home, he stays across town with his parents. Tony does not rent his home at any other time during the year. How should this income be reported?
+
+    A. The income is taxed as rental income and should be reported on Schedule E.
+    B. The income is not taxable and does not need to be reported.correct
+    C. The income is taxed as ordinary income and should be reported as “other income” on Form 1040. The income is not subject to self-employment tax.
+    D. The income is taxed as ordinary income and is subject to self-employment tax.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 84% of students.
+
+Correct Answer Explanation for B:
+
+The income is not taxable and does not need to be reported. There is an exception when a taxpayer rents his primary residence for fewer than 15 days during the year. That period is not treated as rental activity. This is also called the “15 day rule” or the exception for “Minimal Rental Use”. The taxpayer is not required to report the income and is not allowed to deduct the rental expenses.
+
+23. Question ID: 94849726 (Topic: Rental Property and Income)
+
+Rajeev lives in a community where there is a large music festival for two weeks during August every year. He usually rents out his home for these 14 days and goes to visit his sister. In the current year, he had $6,000 of rental income and $700 of expenses from the 14 rental days. How should Rajeev report this income and expense on his tax return?
+
+    A. $6,000 of rental income and $700 of expenses on Schedule E.
+    B. No reporting is required of either the rental income or rental expenses.correct
+    C. $6,000 of rental income added to his other income on Form 1040; $700 of expenses deducted on Schedule A.
+    D. $6,000 of rental income added to his other income on Form 1040; $28 (4% of 365 days) of expenses deducted on Schedule A.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 85% of students.
+
+Correct Answer Explanation for B:
+
+The primary function of a home that is rented for less than 15 days during the year is not considered to be rental, and it should not be reported on Schedule E. This is called the "15-day rule" or "minimal rental use". Rajeev is not required to report the rental income and expenses from this activity. Any regular expenses such as mortgage interest and property taxes are reported as normally allowed for a home on Schedule A, but no expenses related to the rental activity can be deducted.
+
+24. Question ID: 94849675 (Topic: Rental Property and Income)
+
+Deandre owns a residential rental tri-plex and actively participates in the rental activity. The cost basis of the building is $164,000. According to the property tax rolls, the value of the property is allocated as follows:
+
+    $124,000 allocated to the building.
+    $40,000 allocated to the land.
+
+The building was placed into service four years ago. Deandre chose to depreciate the building using MACRS straight-line depreciation. Residential rental property is always depreciated over 27.5 years. Based on this information, how much depreciation expense can Deandre claim per year?
+
+    A. $4,509correct
+    B. $5,964wrong
+    C. $0
+    D. $1,456
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for A:
+
+The depreciable basis for the building is limited to the value of the building ($124,000). The basis of land is never depreciated. Since residential rental property is depreciated over 27.5 years, a basis of $124,000 would generate depreciation of $4,509 per year ($124,000/27.5 years). Rental activity is reported on Schedule E, Supplemental Income and Loss. The depreciation of rentals is reported on Form 4562, Depreciation and Amortization.
+
+25. Question ID: 94850303 (Topic: Rental Property and Income)
+
+Thomas owns a rental property in Miami, Florida, that he rents out to short-term tenants. Thomas provides services like fresh linens, fresh towels daily, and a complimentary breakfast for his guests. What form should he report this income?
+
+    A. Schedule D
+    B. Schedule E
+    C. Schedule Ccorrect
+    D. Schedule Fwrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 63% of students.
+
+Correct Answer Explanation for C:
+
+Thomas should report the rental income on Schedule C. If a property owner provides “substantial services” to short-term renters, the IRS says that the rental activity should be reported on Schedule C. The IRS defines substantial services as services generally provided to guests that are primarily for their convenience and not normally provided with a rental. For example, meals, daily laundry, and maid services.
+
+26. Question ID: 97473769 (Topic: Rental Property and Income)
+
+Gary and Betty are married but have lived apart for 5 years. They both file MFS returns. Gary owns a residential rental that he manages himself. His wages for the year were $38,000, and he had no other taxable income. He incurred a ($5,000) loss on his rental property. How much of his rental loss is he allowed to deduct on his tax return?
+
+    A. $0, because he is filing MFS
+    B. $3,000
+    C. $5,000correct
+    D. $2,500wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 69% of students.
+
+Correct Answer Explanation for C:
+
+Gary can deduct the entire rental loss against his wages. This is because, even though he files MFS, he is allowed to take the full rental loss because (1) he did not live with his spouse, (2) his MAGI was under $50,000, and (3) his rental losses were less than $12,500 (one-half of the “special allowance”).
+
+27. Question ID: 98939161 (Topic: Rental Property and Income)
+
+Thomas is unmarried and works full-time as a bank manager, earning $82,000 a year. He also owns a residential rental which he reports on Schedule E. He actively participates in the rental activity, but he is not a real estate professional. This year, he was forced to evict his tenants from his rental, which ended up costing him thousands of dollars in legal fees. Thomas ends up incurring a ($32,000) loss on Schedule E. Based on these facts, what is the maximum amount of rental losses that Thomas can deduct from his nonpassive income?
+
+    A. $0
+    B. $12,500
+    C. $25,000correct
+    D. $32,000wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 82% of students.
+
+Correct Answer Explanation for C:
+
+The maximum amount of rental losses that he can deduct from nonpassive income would be $25,000. Under the passive activity rules you can deduct up to $25,000 in passive losses against your ordinary income (W-2 wages) if your modified adjusted gross income (MAGI) is $100,000 or less. Since Thomas earned less than $100,000 in wages and had no other income sources for the year, he is permitted to deduct up to $25,000 of his rental losses in the current year. The remaining rental losses would be carried to the following year, where the same rules and limits would apply. Learn more about the special rules for rental losses in Publication 925, Passive Activity and At-Risk Rules. 
+
+28. Question ID: 94849524 (Topic: Rental Property and Income)
+
+Which of the following is not rental income in the year received?
+
+    A. Refundable security deposit correct
+    B. One year of pre-paid rent, paid in advance by the tenant
+    C. Repairs paid by the tenant in lieu of rent
+    D. Payment to cancel the remaining leasewrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 71% of students.
+
+Correct Answer Explanation for A:
+
+A security deposit is not rental income if the deposit is meant to be returned to a tenant at the end of the lease agreement. 
+
+30. Question ID: 94849700 (Topic: Rental Property and Income)
+
+Ignatius owns one-half of a residential rental house. His cousin, Marina, owns the other half. The house is rented out all year to long-term tenants. Last year, Ignatius paid $968 out of pocket for repairing a broken water pipe on the property. How should this expense be treated on his tax return?
+
+    A. He can deduct $484 (50% × $968) as a rental expense on Schedule E. He is entitled to reimbursement for the remaining half from the co-owner.correct
+    B. He can deduct $484 (50% × $968) as a rental expense on Schedule E. The other 50% he can claim as an adjustment to income on his Form 1040.
+    C. He can deduct $968 as a rental expense on Schedule E.
+    D. He can deduct $968 as a business expense on Schedule C.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 53% of students.
+
+Correct Answer Explanation for A:
+
+If you own a part interest in rental property, you can deduct expenses you paid according to your percentage of ownership. Therefore, Ignatius can deduct $484 (50% X $968) as a rental expense. He is also entitled to reimbursement for the remaining half from the co-owner. See Publication 527, Residential Rental Property, for more information and to see similar examples. 
+
+31. Question ID: 97473768 (Topic: Rental Property and Income)
+
+Frank owns a residential rental property that he actively manages himself. He collects rental income of $20,600 during the year. The rental expenses total $16,000, plus $12,000 of depreciation. He earns $98,500 in wages during the year, and has no other activity for the year. He files as single. What is his allowable rental loss on Schedule E?
+
+    A. $7,400correct
+    B. $28,000
+    C. $0
+    D. $10,600wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 70% of students.
+
+Correct Answer Explanation for A:
+
+Frank has a net loss on his rental of $7,400 ($20,600 rental income - $28,000 ($16,000 rental expenses + $12,000 depreciation). The loss is permitted because he actively participates in the activity, and his income is below the threshold for the special loss allowance. He also can deduct the $7,400 loss from his other income (i.e., his wages).
+
+32. Question ID: 94849531 (Topic: Rental Property and Income)
+
+Yahir and Taliyah are married and file jointly. Yahir earned $85,000 of wages and Taliyah had net income of $4,000 on her Schedule F, from selling eggs and chickens that she raised herself. They had interest income of $700. Taliyah also had a $32,000 loss from a rental real estate activity in which she actively participated. She is not a real estate professional. Based on this information, how much of the rental loss can they deduct on their joint tax return?
+
+    A. $0
+    B. $25,000correct
+    C. $32,000
+    D. $4,000wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 81% of students.
+
+Correct Answer Explanation for B:
+
+Since Taliyah actively participated in the rental activity and their adjusted gross income is less than $100,000, they are allowed to deduct $25,000 of rental losses against other income. A special rule allows taxpayers deduct up to $25,000 of losses from rental real estate in which you actively participate. This is often called the "$25,000 rental loss allowance". The $25,000 allowance is phased out when modified adjusted gross income is from $100,000 to $150,000, resulting in no deduction if the taxpayer's AGI is above $150,000. They can carry forward the remainder of the rental losses to the following tax year, subject to the same limitation.
+
+34. Question ID: 94815999 (Topic: Rental Property and Income)
+
+Marcas is a Canadian resident and citizen who owns a profitable rental property in the United States that nets $50,000 in rental income per year. He is not currently a citizen or resident of the United States, but he has a Social Security number because he worked in the United States decades ago. How should Marcas report his rental income?
+
+    A. Marcas should file Form 1040-NR.correct
+    B. Since he has a valid SSN, Marcas can choose whether to file Form 1040-NR or Form 1040.
+    C. Marcas does not need to file any U.S. tax return.
+    D. Marcas should file Form 1040.wrong
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 72% of students.
+
+Correct Answer Explanation for A:
+
+In order to report his income, Marcas will need to file Form 1040-NR. Just because someone has an SSN, doesn't mean they are a resident of the U.S. for tax purposes. Many nonresident aliens have a Social Security number for various reasons. 
+
+4. Question ID: 94849691 (Topic: Rental Property and Income)
+
+Samuel owns a ten-unit apartment building and charges $800 rent per month for each unit. Nine units were rented for the entire year. A tenant occupied the tenth unit from January 1 to June 30. The tenant did considerable damage to the apartment so the tenant’s security deposit of $500 was not refunded to her when she moved out. Another tenant rented the apartment for $800 a month with a one-year lease, beginning September 1, 2023. The new tenant paid the first and last months’ rent and a refundable security deposit of $500. Disregarding any allowable expenses, how much gross rental income must Samuel report on Schedule E for the year?
+
+    A. $94,400
+    B. $96,200
+    C. $95,700correct
+    D. $95,200
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 45% of students.
+
+Correct Answer Explanation for C:
+
+Samuel must include all the rental income, including the forfeited security deposit he retains for the damage to the unit. The refundable security deposit from the new tenant is not included in Samuel’s income because it is refundable. The answer is calculated as follows:
+
+    $800 rent × 12 months × 9 units: $86,400.
+    $800 rent × 6 months for tenant from Jan through June: $4,800.
+    Security deposit retained for tenant who moved out: $500.
+    $800 rent × 4 months for new tenant from September through December: $3,200.
+    Advance rent paid by new tenant: $800.
+    Total Rental Income $95,700
+
+This question is based directly on an example in Publication 527, Residential Rental Property
+
+8. Question ID: 94849536 (Topic: Rental Property and Income)
+
+Which of the following rental activities would be listed on Schedule C, rather than Schedule E?
+
+    A. Rental of an office building to business tenants. 
+    B. Rental of an empty lot for parking overflow. 
+    C. Rental of a rental home to long-term tenants. 
+    D. Rental of personal property, such as vehicles and equipment. correct
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 69% of students.
+
+Correct Answer Explanation for D:
+
+Taxpayers generally use Schedule E, to report income and expenses related to real estate rentals. "Real estate" can mean a residential rental home, an office building, or an empty lot. The rental of personal property (such as vehicles, equipment, etc.) is reported differently, however.
+
+    Taxpayers should report income and expenses related to personal property rentals on Schedule C, (if they are in the business of renting personal property).
+    Taxpayers should report income and expenses on Schedule 1 (as "other income"), if they are not in the business of renting personal property (this might include someone who rented their own vehicle, RV, or a boat for a short time).
+
+Study Tip: "Personal property" is an accounting term that is commonly defined as any property that is not attached to the land or to structures on real estate. The main characteristic of personal property is that it is movable, unlike real property or real estate. To see more information about personal property rentals, see IRS Topic No. 414 Rental Income and Expenses.
+
+13. Question ID: 94849626 (Topic: Rental Property and Income)
+
+LuAnn rents a room in her home to a college student for nine months of the year. The student pays $600 a month in rent. The home has five rooms in the house. Each room is approximately the same size. LuAnn paid the following expenses in the current year:
+
+    Mortgage interest: $9,000
+    Homeowner’s insurance: $1,000
+    Property taxes: $2,000
+    Utilities: $1,000
+
+What amounts should LuAnn report as rental income and deduct as rental expenses on her Schedule E?
+
+    A. Rental income: $3,450; deduction: $0.
+    B. Rental income: $5,400; deduction: $13,000.
+    C. Rental income: $5,400; deduction: $2,600.
+    D. Rental income: $5,400; deduction: $1,950.correct
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 28% of students.
+
+Correct Answer Explanation for D:
+
+LuAnn must report the full amount of rental income collected: (9 × $600 =$5,400). Her expenses total $13,000. Because the student uses one-fifth (20%) of her house, she can deduct 20% of the expenses ($13,000 × .20 = $2,600), but only for the nine months during which the student rented the room. Thus, the expenses must be further allocated for the period of occupancy (9/12 months = 75% × $2,600 = $1,950).
+
+A taxpayer who rents part of a property must divide certain expenses between the part of the property used for rental purposes and the part used for personal purposes, as though there were actually two separate pieces of property. Expenses related to the part of the property used for rental purposes can be deducted as rental expenses on Schedule E. This includes a portion of expenses that normally are nondeductible personal expenses, such as painting the outside of a house. If an expense applies to both rental use and personal use, such as a heating bill for the entire house, the taxpayer must allocate the expense between the two. The two most common methods for allocating such expenses are based on:
+
+    The number of rooms in the house, and
+    The square footage of the house.
+
+ 
+
+16. Question ID: 94849516 (Topic: Rental Property and Income)
+
+Geraldine owns three rental properties, which all have long-term tenants. She also has a full-time job as a teacher. Which form would she use to report her rental income and losses?
+
+    A. Schedule A
+    B. Schedule D
+    C. Schedule C
+    D. Schedule Ecorrect
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 93% of students.
+
+Correct Answer Explanation for D:
+
+Rental income and expenses are reported on Schedule E, which is then attached to the taxpayer's Form 1040. Rental income is any payment received for the use or occupation of property, and is generally passive activity income.
+
+17. Question ID: 94849637 (Topic: Rental Property and Income)
+
+Athene has a cabin in Lake Tahoe that she uses as a vacation home to go skiing, and also a rental. She rented out her ski home for 80 days during the year and used it personally for 20 days. She paid $2,000 for repairs and $4,000 for utilities. She received rental income of $16,000. What was Athene’s net rental income, after applying her allowable expenses?
+
+    A. $16,000
+    B. $0
+    C. $10,000
+    D. $11,200correct
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 54% of students.
+
+Correct Answer Explanation for D:
+
+Athene's property is subject to special tax treatment because it is not strictly a rental, it is also a personal home. When a taxpayer has a residence (whether a main home or a second home) that is used personally at certain times and rented out at other times, she must divide her expenses between rental use and personal use. Rental expenses generally will be no more than a taxpayer’s total expenses multiplied by the following fraction: the denominator is the total number of days the dwelling is used and the numerator is the total number of days actually rented at a fair rental price. In this case, the home was used a total of 100 days and was rented for 80 days (80%). Only 80% ($6,000 × .80 = $4,800) of the expenses are deductible, so Athene’s net rental income after applying her allowable expenses is $11,200.
+
+19. Question ID: 94849701 (Topic: Rental Property and Income)
+
+Kaitlin owns a residential rental property. The sewage and water bill is in Kaitlin's name because she is the owner of the property. Her tenant pays the sewage bill for her rental property and deducts the amount from the normal rent payment. Under the terms of the lease, her tenant doesn’t have to pay this bill. How should Kaitlin treat this transaction on her Schedule E?
+
+    A. No reporting is required, since the amounts paid by the tenant are a "wash".
+    B. The property owner can deduct the utility payment made by the tenant as a rental expense on Schedule E.
+    C. The property owner must report the utility payment made by the tenant as rental income on Schedule E. No amounts are deductible in this scenario.
+    D. She must include the utility bill paid by the tenant as a rental payment in her rental income. She can deduct the utility payment made by the tenant as a rental expense.correct
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 71% of students.
+
+Correct Answer Explanation for D:
+
+If your tenant pays any of your expenses, those payments are rental income. Because you must include this amount in income, you can also deduct the expenses if they are deductible rental expenses. If a tenant pays the water and sewage bill for a rental property, the taxpayer (i.e., the property owner) must include the utility bill paid by the tenant and any amount received as a rent payment in their rental income. The property owner can deduct the utility payment made by the tenant as a rental expense on Schedule E. See Publication 527, Residential Rental Property, for more information and to see similar examples. 
+
+29. Question ID: 94815968 (Topic: Rental Property and Income)
+
+Cecile is a limited partner in two different partnerships. Cecile also owns a residential rental that she manages herself, but she is not a real estate professional. All the activities generated a profit for the year. Where should Cecile report the income she receives from these activities?
+
+    A. The pass-through income from the partnership would be reported on Schedule D. The rental would be reported on Schedule E.
+    B. The pass-through income from the partnership would be reported on Schedule C. The rental would be reported on Schedule E.
+    C. All the income should be reported on Schedule C.
+    D. All the income should be reported on Schedule E.correct
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 49% of students.
+
+Correct Answer Explanation for D:
+
+All the income should be reported on Schedule E (Form 1040). Taxpayers use Schedule E to report income (or loss) from rental real estate, royalties, partnerships, S corporations, estates, trusts, and residual interests in REMICs.
+
+33. Question ID: 94849599 (Topic: Rental Property and Income)
+
+Which of the following is NOT rental income in the year received?
+
+    A. Payment to cancel the remaining lease.
+    B. Pre-paid rent (rent paid in advance)
+    C. Repairs paid by the tenant in lieu of rent.
+    D. Security deposit, equal to one month’s rent, to be refunded at the end of the lease if the building passes inspection.correct
+
+Study Unit 9: Rental and Royalty Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 88% of students.
+
+Correct Answer Explanation for D:
+
+A refundable security deposit received from a tenant is not rental income. A security deposit is money that is given to a lender, seller, or landlord as proof of intent and may be used to pay for damages caused by a renter. A landlord should not include a security deposit in their income on Schedule E, if they may be required to return it to the tenant at the end of the lease. 
+
+(For more information, see  Publication 527, Residential Rental Property) 
+
+
