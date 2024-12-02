@@ -3,9 +3,9 @@ title: Filing Qualifying Surviving Spouse
 layout: post
 ---
 
-Filing Status: Qualifying Surviving Spouse (Qualifying Widow(er))
+Filing Status: QSS (Qualifying Widow(er))
 
-**Overview**:
+- **Overview**
 The Qualifying Surviving Spouse status allows widowers to continue using Married Filing Jointly tax rates for up to two years after their spouse's death, providing tax benefits similar to those for married couples. To file as a Qualifying Surviving Spouse, **you must meet all the following conditions**:
 
 1. You were eligible to file a joint return with your spouse in the year of their death.
