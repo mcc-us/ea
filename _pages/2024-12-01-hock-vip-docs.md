@@ -1,5 +1,5 @@
 ---
-title: Hock VIP(ublications)
+title: Hock Recommended Pubs
 layout: post
 ---
 
