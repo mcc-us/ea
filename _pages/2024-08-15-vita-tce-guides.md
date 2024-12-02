@@ -12,9 +12,6 @@ layout: post
 <script> function button3() { window.open("https://mcc-us.github.io/ea/others/view.p4012"); } </script>
 - <button onclick="button3()">Pub 4012, Volunteer Resource Guide</button>
 
-<script> function button4() { window.open("https://mcc-us.github.io/ea/others/view.p17"); } </script>
-- <button onclick="button4()">Pub 17, US TAx Guide</button>
-
 <script> function button5() { window.open("https://mcc-us.github.io/ea/others/view.p4961"); } </script>
 - <button onclick="button5()">Pub 4961, VITA/TCE Volunteer Standards of Conduct – Ethics Training</button>
 
