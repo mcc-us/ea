@@ -16,7 +16,6 @@ See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 <script> function button1() { window.open("Address"); } </script>
 <button onclick="button1()">ButtonText</button>
 
-
 ```
 <script> function button1() { window.open("Address"); } </script>
 <button onclick="button1()">ButtonText</button>
