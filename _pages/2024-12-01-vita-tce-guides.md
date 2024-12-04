@@ -3,6 +3,8 @@ title: VITA & TCE Guides
 layout: post
 ---
 
+
+
 <script> function button1() { window.open("/ea/assets/pdfs/vita/p4491.pdf"); } </script>
 - <button onclick="button1()">P4491, VITA/TCE Training Guide</button>
 
