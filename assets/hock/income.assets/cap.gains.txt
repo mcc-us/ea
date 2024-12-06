@@ -1,0 +1,97 @@
+4. Question ID: 95003068 (Topic: Capital Gains and Losses)
+
+Alain purchased 1,000 shares of ABC Company stock for $15,000, including a commission, thirteen months ago. On March 26, 2023, Alain sold 600 shares of the ABC stock. Form 1099-B, reports a sales price less commission (net proceeds) of $7,900. How much is his gain or loss on the sale, and what is the nature of his gain or loss?
+
+A. $1,100 long-term capital loss.correct
+B. $1,100 short-term capital loss.wrong
+C. $7,100 short-term capital gain.
+D. $7,100 long-term capital loss.
+
+Study Unit 7: Capital Gains and Losses covers the information for this question.
+
+This question is answered correctly on the first attempt by 75% of students.
+
+Correct Answer Explanation for A:
+
+The price Alain paid per share was $15,000 divided by 1,000 shares, or $15. The basis for the shares he sold was $15 × 600 = $9,000. He held the shares for 13 months (over one year). Therefore, he has a long-term capital loss of $1,100 ($9,000 - $7,900).
+
+5. Question ID: 94849598 (Topic: Capital Gains and Losses)
+
+Jason has a full-time job as a software programmer and earns a salary of $72,000 during the current year. He also has an investment in a limited partnership that reports the following items on his Schedule K-1: $6,000 of ordinary income and long-term capital gain of $4,000. He also sells stock during the year and has an $11,500 loss on its sale. Jason and his wife file jointly and have no other items of income or loss during the year. Based on this information, what is their capital loss carryover to the next year?
+
+A. $0 carryover.
+B. $11,500 capital loss carryover.wrong
+C. $7,400 capital loss carryover.
+D. $4,500 capital loss carryover.correct
+
+Study Unit 7: Capital Gains and Losses covers the information for this question.
+
+This question is answered correctly on the first attempt by 73% of students.
+
+Correct Answer Explanation for D:
+
+Jason and his wife have a $4,500 capital loss carryover.  The capital loss of $11,500 on the stock sale is offset by the $4,000 capital gain passed through from the limited partnership investment, resulting in a net capital loss of $7,500. Jason and his wife can claim $3,000 of the loss on their current year return. The remaining $4,500 of capital loss must be carried over to the next year. The deduction for capital losses is limited to $3,000 ($1,500 for MFS) per year, with a carryforward of excess loss to future years. To read more about how to report Capital Gains and Losses, see IRS Topic No. 409 Capital Gains and Losses.
+
+1. Question ID: 94849970 (Topic: Capital Gains and Losses)
+
+Hung owns several valuable collectibles, which he holds for investment purposes. On May 1, he sells an antique vase for $65,000 which he purchased for $40,000 over ten years ago. On November 15, he sells a painting for $12,000 which he purchased for $20,000 two years ago. What is the nature of his gain or loss for the year?
+
+A. Net ordinary gain of $17,000
+B. Net capital gain of $17,000correct
+C. Net capital gain of $25,000
+D. Net ordinary gain of $25,000
+
+Study Unit 7: Capital Gains and Losses covers the information for this question.
+
+This question is answered correctly on the first attempt by 83% of students.
+
+Correct Answer Explanation for B:
+
+His net capital gain is $17,000. He realizes a $25,000 ($65,000 - $40,000) capital gain on the sale of the vase, which is offset by the capital loss of $8,000 ($20,000 - $12,000.) He may offset the gains with the losses from the sale of both collectibles. The gain is long-term, because he held the collectibles for more than one year. A "collectible" is defined by the IRS as:
+
+Artwork, rugs or antiques,
+Precious metals or gemstones,
+Stamps, comic books, collectible cards, like baseball cards
+Alcoholic beverages (like premium wines),
+Gold and silver coins, and antique coins
+
+He will be subject to a long-term capital gains tax rate of up to 28%. To learn more about this topic, see Topic No. 409 Capital Gains and Losses. 
+
+2. Question ID: 94849568 (Topic: Capital Gains and Losses)
+
+On January 1, Geneva paid $10,000 for 100 shares of stock in Agri-Barn, Inc. a start-up company. Six months after she bought it, she sold the stock to her brother, Henry, for $8,000, which was its current market value. Two months later, the stock suddenly shoots up in value, and on December 31, Henry sells all the stock to an unrelated party for $16,000. What gain or loss should Geneva and Henry recognize on their tax returns in the year of sale?
+
+A. Geneva recognizes $0 capital loss; Henry recognizes $6,000 capital gain.correct
+B. Geneva recognizes $0 capital loss; Henry recognizes $8,000 capital gain.
+C. Geneva recognizes $2,000 capital loss; Henry recognizes $7,000 capital gain.
+D. Geneva recognizes $2,000 capital loss; Henry recognizes $8,000 capital gain.
+
+Study Unit 7: Capital Gains and Losses covers the information for this question.
+
+This question is answered correctly on the first attempt by 47% of students.
+
+Correct Answer Explanation for A:
+
+This is a related party transaction, and special rules apply. Geneva recognizes $0 capital loss; Henry recognizes $6,000 capital gain. This is because Geneva cannot claim a loss on the sale of stock to her own brother. Losses from sale or exchange of property, directly or indirectly, are disallowed between related parties. When the property is later sold to an unrelated party, any previously disallowed loss may be used to offset gain on that transaction. However, since Henry sold the stock at a profit, he would be able to use the basis of the original seller (his sister's basis was $10,000, this is called a "transferred basis") in order to calculate his own gain on the sale. 
+
+3. Question ID: 94849667 (Topic: Capital Gains and Losses)
+
+Jalal bought 600 shares of Herringbone Corporation stock for $1,500, including a broker's commission. Five years later, the corporation distributed a nontaxable stock dividend of 10 shares to Jalal. A few days after the stock dividend was distributed, Jalal sold all his Herringbone stock for $2,030. What is the amount and nature of his gain or loss?
+
+A. Long-term capital gain of $530.correct
+B. Long-term capital gain of $500, Short-term capital gain of $30.
+C. Short-term capital gain of $530.
+D. Long-term capital gain of $2,030.
+
+Study Unit 7: Capital Gains and Losses covers the information for this question.
+
+This question is answered correctly on the first attempt by 83% of students.
+
+Correct Answer Explanation for A:
+
+Although the taxpayer owned the 10 shares he received as a nontaxable stock dividend for only a few days, all the stock has a long-term holding period. Stock acquired as a stock dividend has the same holding period as the original stock owned. Because he bought the stock for $1,500 and then sold it for $2,030 more than a year later, he has a long-term capital gain of $530 on the sale of the 610 shares.
+
+Site Menu
+Log Out
+
+

@@ -1,0 +1,110 @@
+"Joselyn received 500 shares of restricted stock from her employer on March 1, 2023, with the condition that she would forfeit the stock unless she completed five years of service. On March 1, the fair market value of the stock was $15,000. What amount should Joselyn include in income in 2023, and what is her basis in the stock?A. Income of $15,000; basis of $0.B. Income of $15,000; basis of $15,000.C. Income of $0; basis of $15,000.D. Joselyn would not report any income or have any basis in the stock until she completes five years of service.","D:This would not be a taxable event in the current year, because there is a 'substantial limitation' on the stock since Joselyn would forfeit the shares if she does not complete five years of service. Therefore, she does not have constructive receipt of the stock. She does not need to report any income and she has no basis in the stock until she has completed five years of service and actually receives the stock and has control and ownership over the shares."
+
+"Floris purchased her first home this year. Which of the following costs would be added to the basis of the home?A. Fire insurance premiums.B. Cost of a credit report.C. Rental costs for occupying the home before closing.D. Legal fees for the title search and preparation of the sales contract and deed.","D:A taxpayer can include in a home's basis the settlement fees and closing costs paid for buying the home. The following are some of the settlement fees and closing costs that can be included in the original basis of a taxpayer's home.Abstract fees (abstract of title fees).Charges for installing utility services.Legal fees (including fees for the title search and preparation of the sales contract and deed).Recording fees and land surveys.Transfer or stamp taxes.Owner's title insurance.Any amount the seller owes that the buyer agrees to pay, such as back taxes or interest, recording or mortgage fees, cost for improvements or repairs, and sales commissions.These items are NOT added to a home's basis and are also not deductible:Fire insurance premiums.
+Charges for using utilities or other services related to occupancy of the home before closing.Rent for occupying the home before closing.Charges connected with getting or refinancing a mortgage loan, such as: Loan assumption fees, Cost of a credit report, and Fee for an appraisal required by a lender.See Publication 530, Tax Information for Homeowners"
+
+"Elizabeth owns 450 shares of Hess Corporation stock. Her cost basis is $15 per share. At the end of the year, Hess Corporation issues a 2-for-1 stock split. What is Elizabeth’s new basis per share after the stock split?A. $15B. $8C. $30D. $7.50","D:Elizabeth's new basis per share is $7.50. She has 900 shares after the stock split. 450 original shares x 2 = 900 shares.Her basis per share is figured as follows:450 original number of shares x $15 = $6,750 cost basis,$6,750 ÷ 900 shares after the split = $7.50 new basis per share.A stock split is an increase in the number of shares outstanding. When an investor is granted stock in a 2 for 1 stock split, the cost basis stays the same, but it is 'spread over' double the number of shares. In other words, the basis of the overall stock remains the same; it is only the per-share basis that is reduced."
+
+"Daniel buys shares of ABC stock. On January 1, 2023, he bought 100 shares at $10 per share. On April 1, he bought another 100 shares at $12 per share. ABC Corp. announces a 2 for 1 stock split in May and issues Daniel additional shares. Daniel updates his records. The first lot that he purchased, of 100 shares, is now 200 shares. His total basis in the 200 new shares is the same $1,000 basis he had in the 100 shares before the split. The new per-share basis in the first lot is $5 ($1,000/200 = $5). Similarly, his second lot of 100 shares is now 200 shares. What is his basis per-share in the SECOND lot of stock after the stock split?First Lot purchased in Jan: 100 shares/$10 per share,Second Lot purchased in Apr: 100 shares/$12 per share,A. $7 per shareB. $10 per shareC. $12 per shareD. $6 per share","D:His basis in the second lot of 200 new shares is $1,200, the same as his basis in the 100 shares before the split. The new per share basis in the second lot is $6 per share ($1,200/200 = $6).CALCULATIONS:FIRST LOT: 100 shares at $10 per share ($1,000 total).SECOND LOT: 100 shares at $12 per share ($1,200 total).After the split, the first lot is now 200 shares. The new per share basis is $5 ($1,000/200 = $5).After the split, the second lot is now 200 shares. The new per share basis is $6 ($1,200/200 = $6).A stock split occurs when a company creates additional shares, thus reducing the price per share. If you own stock that has split and now own additional shares, you must adjust your basis per share or per the lots of the stock you own. If the old shares of stock and the new shares are uniform and identical: Allocate the basis of the old shares to the old and new shares. You must determine the per-share basis by dividing the adjusted basis of the old stock by the number of shares of old and new stock. See: Publication 550, Investment Income and Expenses."
+
+9. Question ID: 94849563 (Topic: Basis of Assets - General)
+
+"On January 3, Barry bought 200 shares of Abbot Inc. stock at $9 per share for a total cost of $1,800. On May 1, he bought 300 shares of Adobe, Inc. at $12 per share for a total of $3,600.On December 1, the stock in both companies split 3 for 1. What is Barry's basis per share in each company's stock after the 3-for-1 split?"A. Abbot: 600 shares at $9, Adobe: 900 shares at $9B. Abbot: 200 shares at $9, Adobe: 300 shares at $12C. Abbot: 600 shares at $3, Adobe: 900 shares at $4D. Abbot: 200 shares at $3, Adobe: 300 shares at $4","C:The resulting stock split means that Barry owns the following shares at the end of the year:Abbot: 600 shares at $3,Adobe: 900 shares at $4.Starting with 200 shares of Abbot stock at $9 per share for a total cost of $1,800 (the 3-for-1 split: 3 x 200 original shares = 600 shares, then divide the total basis $1,800 by 600, which equals $3 per share).Starting with 300 shares of Adobe stock at $12 per share for a total of $3,600 (the 3-for-1 split: 3 x 300 original shares = 900 shares, then divide the total basis $3,600 by 900, which equals $4 per share).(This question is based on a prior-year EA exam question)"
+
+"During the current year, Ishmael purchased a new utility van for his package delivery business. The van is used 100% for business. He reports his income and loss on Schedule C. His costs were as follows:Cost of the van: $64,000.Sales tax on the van: $3,850.Title transfer charges: $700.Installation of special equipment: $1,500.Personal property taxes on the van: $2,000 (DMV registration fees).Q. What is Ishmael’s depreciable basis in this utility van?A. $72,050B. $66,200C. $68,550D. $70,050","D:The answer is calculated as follows: $64,000 cost of van + $3,850 sales tax + $700 transfer charges + $1,500 installation charges = $70,050.The basis of property is generally its cost. Sales tax paid in acquisition of property is treated as a cost of the property. Delivery charges, installation, and testing also are included as part of the cost of property. Personal property taxes, however, are not treated as a cost of the property. The DMV fees would be deductible as a current business expense on Schedule C, and not included in the basis of the van.
+
+11. Question ID: 94849694 (Topic: Basis of Assets - General)
+
+"On May 11, 2023, the Barberry Corporation granted 800 incentive stock options to their top sales executive, Julie, with an option price of $15. On December 31, 2023, Julie exercised all of her stock options when the market price per share was $23. Once she exercised her options, she decided to hold onto the stock for investment purposes. What is the basis of her stock and how much should be included on Julie's Form W-2 as income for the year?
+
+A. Basis $0; income $0.
+B. Basis $12,000; income $6,400.
+C. Basis $12,000; income $0.
+D. Basis $12,000; income $12,000.
+
+
+
+C:
+
+For incentive stock options, (ISOs) the basis in the stock is the actual price per share paid upon exercise of the options. In this case, the executive’s basis is 800 × $15 = $12,000. The bargain element attributable to the difference between the exercise price and the value at the date of exercise ([$23 - $15] × 800 shares = $6,400) is not recognized until the stock is sold. However, the taxpayer may need to make an adjustment for alternative minimum tax (AMT) purposes for the bargain element. When the stock is later sold, she will recognize gain equal to the difference between her basis and the net proceeds of the sale.
+
+For more information on how to report taxable stock options, see IRS Topic No. 427 Stock Options.
+
+15. Question ID: 94849641 (Topic: Basis of Assets - General)
+
+"On March 3, Gary buys 100 shares of Grunge Inc. stock at $3 per share. On October 1, he bought 200 shares of Handy Caddy, Inc. at $18 per share. On December 31, the stock in both companies split 3 for 1. What are Gary's total shares and his basis per share in each company's stock after the 3-for-1 split?
+
+A. Grunge Inc: 150 shares at $1.50 per share; Handy Caddy: 300 shares at $12 per share
+B. Grunge Inc: 300 shares at $3 per share; Handy Caddy: 600 shares at $12 per share
+C. Grunge Inc: 200 shares at $1.50 per share; Handy Caddy: 300 shares at $18 per share
+D. Grunge Inc: 300 shares at $1 per share; Handy Caddy: 600 shares at $6 per share
+
+
+
+D:
+
+On March 3, Gary buys 100 shares of Grunge Inc. stock at $3 per share. On October 1, he bought 200 shares of Handy Caddy, Inc. at $18 per share. The resulting 3-for-1 stock split means that Gary owns the following shares at the end of the year:
+
+Grunge Inc: 300 shares at $1 per share (the 3-for-1 split: 3 x 100 original shares = 300 shares, then divide the total basis (100 x $3 = $300 original basis) by 300, which equals $1 per share)
+Handy Caddy: 600 shares at $6 per share (the 3-for-1 split: 3 x 200 original shares = 600 shares, then divide the total basis (200 x $18 = $3,600 original basis) by 600, which equals $6 per share)
+
+
+
+16. Question ID: 94849662 (Topic: Basis of Assets - General)
+
+"Hyun purchases an empty parking lot for $90,000 at a county property auction. He plans to use the property for investment purposes. He pays $20,000 in cash and finances the remaining $70,000 with a bank loan. The lot has a $12,000 lien against it for unpaid property taxes that were owed by the previous owner. Hyun agrees to pay the delinquent property taxes as a condition of the sale. Which of the following statements is correct?
+
+A. His basis in the property is $90,000, and he can deduct the property taxes on his Schedule A as property taxes paid.
+B. His basis in the property is $78,000.
+C. His basis in the property is $32,000.
+D. His basis in the property is $102,000.
+
+
+
+D:
+
+Hyun's basis in the property is determined as follows: ($90,000 + $12,000 = $102,000). Hyun cannot deduct the delinquent property taxes as a current expense, because the property taxes were not his liability (they were assessed on the previous owner and owed by the previous owner). Any obligations of the seller that are assumed by the buyer increase the basis of the asset, and are not currently deductible. Since Hyun did not own the property when the taxes accrued but agreed to pay them as a condition of the sale, he should add the property tax payment to his basis in the property.
+
+17. Question ID: 94849633 (Topic: Basis of Assets - General)
+
+"Which of the following items does not decrease an asset’s basis?
+
+A. A casualty loss.
+B. Section 179 deductions.
+C. A manufacturer’s rebate.
+D. The cost of defending a title to the property.
+
+
+
+D:
+
+The cost of defending or perfecting a title increases an asset’s basis. Each of the other answers decreases an asset’s basis.
+
+2. Question ID: 94849644 (Topic: Basis of Assets - General)
+
+"Maura was granted 50 nonqualified stock options by her employer, Yancey Corporation, on June 8, 2023, to purchase stock in the company. At the date of the grant, the company was privately-held and the FMV of the stock was not readily determinable. The option price was $10 a share. Yancey Corporation completed an initial public offering (IPO) on November 1, and Maura exercised her options on December 15, 2023. The stock’s FMV on the exercise date was $32 a share. Maura immediately sold the stock upon exercise and received gross proceeds of $1,600. How should Maura report this transaction on her tax return?
+
+A. Ordinary income of $1,100
+B. Dividend income of $1,600
+C. Capital gain of $1,600
+D. Capital gain of $1,100
+
+
+
+A:
+
+The difference between the option price ($10/share) and the FMV ($32/share) is included in Maura’s taxable compensation ($22 × 50 shares = $1,100) and thus is taxable as ordinary income. For more information and examples of stock options, see IRS Tax Topic 427, Stock Options.
+
+3. Question ID: 94849575 (Topic: Basis of Assets - General)
+
+"When calculating the basis of stock or other securities held for investment, which of the following costs would NOT be included in a stock's basis?A. Interest paid on a margin loan.B. Broker's commissions.C. Recording fees.D. Direct costs of purchase.","A:The basis of stocks or bonds is generally the purchase price plus the costs of purchase, such as broker's commissions and recording or transfer fees. In most cases, the cost basis of an investment is the original purchase price upon acquisition. However, interest incurred on a margin loan would not be included in the basis of securities. Instead, investment interest expense is a tax deduction.Note: Investment interest expense is the interest paid on money borrowed to purchase taxable investments. This includes interest incurred on margin loans for buying stock in a brokerage account. This deduction is limited to the amount of net investment income."
+
+"During the year, Jennifer received a 2-for-1 stock split on her Apple stock. She held 100 shares of stock before the split. After the split, she had 200 shares. What are the taxable repercussions of this event? Does she need to pay taxes on the additional stock that she received as the result of a stock split?A. This is not a taxable event, but Jennifer must reallocate her basis between the original shares and the shares newly acquired in the stock split.B. This is a taxable event, and Jennifer must pay estimated taxes on the newly acquired shares.C. This is not a taxable event, but Jennifer must report the stock split on Schedule D.D. This is a taxable event, and Jennifer must pay tax on the value of the additional shares.","A:In general, a stock split is not a taxable event, but Jennifer must reallocate her basis between the original shares and the shares newly acquired in the stock split. In a stock split, the corporation issues additional shares to current shareholders, but the shareholder's total basis doesn't change. Following a stock split, a taxpayer must reallocate their basis between the original shares and the shares newly acquired in the stock split. For additional information, see Publication 550, Investment Income and Expenses."
+
+"Leonardo sets up a computer system and designs a custom website for Lindsay’s restaurant business. In return, Lindsay gives Leonardo a delivery van that he plans to use for his own business and depreciate. The fair market value of both Leonardo’s services and the delivery van is $70,000. Lindsay’s basis in the delivery van was $45,000. What amount of income should Leonardo report for this bartering transaction and what is his depreciable basis in the delivery van?A. $70,000 income; $70,000 depreciable basis.B. $70,000 income; $45,000 depreciable basis.C. $0 income and no depreciable basis.D. $45,000 income; $70,000 depreciable basis.","A:If compensation for personal services is paid in property, its fair market value at the time of receipt is gross income, which becomes the basis in the property. Since the delivery van’s FMV at the time of the barter exchange is $70,000, Leonardo must recognize $70,000 of income and the property’s depreciable basis is also $70,000."
+
+"Jaxton bought 4 shares of common stock in Alter Corporation for $200. Later in the same year, the corporation distributed additional shares in a 2-for-1 stock split. At the date of the split, the common stock had a fair market value of $40 per share. What is Jaxton basis in each share after this stock dividend?A. $25B. $50C. $100D. $20","A:His basis in each share of stock after the stock dividend is $25 per share ($200 original basis ÷ 8 shares). His original cost basis was $50 per share ($200 ÷ 4 shares), which was spread out over 4 shares of common stock. Later, the corporation issued a 2-for-1 stock split, which doubled his shares. The fair market value of the stock at the time of the stock split is irrelevant in this scenario. To find the basis after a stock split, you take the original investment amount and divide it by the new number of shares to arrive at the new per-share cost basis."
+
+"Benny purchased 1,000 shares of Grundel Manufacturing, Inc. for $10,000 three years ago. The corporation did a 2-for-1 stock split during the year. What is Benny's basis per share AFTER the stock split?A. $5 per shareB. $10 per shareC. $1 per shareD. $20 per share","A:A 2-for-1 stock split doubles the amount of the taxpayer's shares. In other words, a 2-for-1 stock split means that for every one share held by an investor, there will now be two. After a stock split, the way to calculate the basis per share is to take the taxpayer's original investment amount ($10,000) and divide it by the new number of shares (2,000) to arrive at the new per-share cost basis ($10,000/2,000 = $5 per share)."
+
+"Vikki purchased a rental property for $200,000. She made a cash down payment of $50,000 and financed $150,000 of the purchase price. Closing costs were $8,000 and loan points were $7,000. What is Vikki’s basis in the rental property?A. $208,000B. $65,000C. $200,000D. $215,000","A:The answer is calculated as follows: $200,000 sales price + $8,000 closing costs = $208,000 basis. The basis of real estate may include a number of costs in addition to the purchase price. If a taxpayer purchases real property, certain fees and other expenses are included in the cost basis. They may include real estate taxes the seller owed at the time of the purchase, if the real estate taxes were paid by the buyer. Generally, a taxpayer must also include settlement costs for the purchase of property in his basis. The following fees are some of the closing costs that can be included in a property’s basis:Abstract fees,Charges for installing utilities,Legal fees (including title search and preparation of the deed),Recording fees,Land surveys,Transfer taxes and owner’s title insurance.Also included in a property’s basis are any amounts the seller legally owes that the buyer agrees to pay, such as recording or mortgage fees, charges for improvements or repairs, and sales commissions. However, fees and costs for obtaining a loan on the property (points) are not included in a property’s basis. Points can be deducted as mortgage interest expense on Schedule E, (if the property is a rental). See IRS Publication 551, Basis of Assets, for more information."

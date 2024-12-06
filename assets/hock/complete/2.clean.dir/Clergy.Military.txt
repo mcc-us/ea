@@ -1,0 +1,323 @@
+
+4. Question ID: 94815940 (Topic: Taxation for Clergy and Military)
+
+Which type of income is generally NOT reported on an Armed Forces member's Form W-2?
+
+    A. Combat pay.wrong
+    B. Overseas extension bonus.
+    C. Enlistment and reenlistment bonuses.
+    D. VA disability benefitscorrect
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 50% of students.
+
+Correct Answer Explanation for D:
+
+VA disability compensation for disabilities paid either to veterans or their families are not reported on Form W-2 and are not taxable. Combat pay, overseas extension bonus, and enlistment or reenlistment bonuses are all included on the W-2 for a member of the Armed Forces. For more on this topic, see the page about Special Tax Considerations for Veterans on the IRS website.
+
+7. Question ID: 95394520 (Topic: Taxation for Clergy and Military)
+
+Todd is an ordained minister that wants to request an exemption from Social Security and Medicare Taxes. How is this done?
+
+    A. Todd must make a formal vow of poverty.
+    B. Todd must file a Form 8275 with each tax return and disclose his position.wrong
+    C. Todd cannot get an exemption from paying these taxes, even if he is a minister.
+    D. Todd must file Form 4029.correct
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 36% of students.
+
+Correct Answer Explanation for D:
+
+Todd must file Form 4029, Application for Exemption From Social Security and Medicare Taxes and Waiver of Benefits. To be exempt from Social Security and Medicare taxes, a minister, priest, or other clergy, must obtain a Social Security number and file Form 4029, Application for Exemption from Social Security and Medicare Taxes and Waiver of Benefits. The exemption from Social Security and Medicare taxes is applicable for self‐employment income and wages.
+
+10. Question ID: 94850097 (Topic: Taxation for Clergy and Military)
+
+Renart is an ordained minister in the Blessed Church of Portland. He owns his own home and his monthly house payment is $1,900. His monthly utilities are an additional $450. Fair rental value in his neighborhood is $2,000. He receives a housing allowance from his church in the amount of $1,950 per month. How much of his housing allowance is subject to income tax?
+
+    A. $1,900
+    B. $2,000
+    C. $100wrong
+    D. $0correct
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 74% of students.
+
+Correct Answer Explanation for D:
+
+Ministers may exclude from gross income the rental value of a home or a rental allowance to the extent the allowance is used to provide a home, even if deductions are taken for home expenses paid with the allowance. Since the allowance did not exceed his costs, it is excludable from income tax (but not excludable from self-employment tax). For more information about the special rules that apply to clergy, see IRS Publication 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+13. Question ID: 94815952 (Topic: Taxation for Clergy and Military)
+
+Barnard is in the U.S. armed services, fighting in a combat zone. He forgot to file an extension. Is he allowed an automatic extension of time to file?
+
+    A. Yes, he is allowed an automatic extension of 180 days from the normal filing deadline.wrong
+    B. Yes, he is allowed an automatic extension from the normal filing deadline, but only until June 15.
+    C. No, he must file an extension request, just like every other taxpayer. However, the extension request will be given special consideration because he is in a combat zone.
+    D. Yes, he is allowed an automatic extension of 180 days after the last day he is in a combat zone.correct
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 73% of students.
+
+Correct Answer Explanation for D:
+
+A U.S. taxpayer serving in a combat zone is granted an automatic extension, Barnard is given extra time to file his tax return, pay his taxes, and file a claim for refund. The 180-day extension also applies to other service members performing active duty services in support of combat zone operations. In addition, a taxpayer serving in a combat zone qualifies for relief from IRS compliance actions, such as audits or collections, until 180 days after he has left the zone. See the IRS detail page on the Extension of Deadlines for Combat Zone Service.
+
+1. Question ID: 94816009 (Topic: Taxation for Clergy and Military)
+
+Which income is not subject to federal income tax?
+
+    A. Combat pay.correct
+    B. Interest income.
+    C. Wage income.
+    D. Social Security Income
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 90% of students.
+
+Correct Answer Explanation for A:
+
+Combat pay is excluded from federal income tax, for every month that a military servicemember is present in a combat zone (however, it is still subject to Social Security tax and Medicare tax). Combat pay must still be reported on the taxpayer's return, but it is not taxable.
+
+2. Question ID: 94850144 (Topic: Taxation for Clergy and Military)
+
+Perry is an ordained minister of the Holy Revival Church in Florida. In the current year, he receives the following:
+
+    W-2 salary from the church: $50,000
+    Housing allowance for rent and utilities: $20,000
+    Fees for performing weddings and funerals: $5,000
+
+How are these amounts taxed under the special rules for members of the clergy?
+
+    A. Because he is an ordained minister, Perry's salary and housing allowance are not subject to income tax. However, he must pay self-employment tax on both his salary and the housing allowance.
+    B. Perry must claim the salary, housing allowance, and fees as income on his tax return. The salary and fees are subject to income tax and self-employment tax. However, the housing allowance is subject to income tax only.
+    C. Perry has to pay both income tax and self-employment tax on his salary and the fees for performing weddings and funerals. He has to pay self-employment tax for the housing allowance, but it is not subject to income tax.correct
+    D. Because his church is tax-exempt, Perry does not have to report any wages received from the church. However, the fees for performing weddings and funerals are taxable income.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 61% of students.
+
+Correct Answer Explanation for C:
+
+All the income received by Perry is taxable income. However, only the wages and fees are subject to both income tax and self-employment tax. The housing allowance is exempt from income tax, but subject to self-employment tax. The exclusion for housing is limited to the lesser of:
+
+    Fair market rental value (including utilities), or
+    The actual cost to provide the home.
+
+For more information about the special rules that apply to clergy, see IRS Publication 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+3. Question ID: 94850145 (Topic: Taxation for Clergy and Military)
+
+Gerald is an ordained minister for the Presbyterian Church. He owns his own home. In addition, he receives a monthly housing allowance from his church that isn’t subject to income tax. He pays regular mortgage interest and property taxes on the home. Which of the following is true regarding the deductibility of these expenses?
+
+    A. Gerald can still deduct his real estate taxes and home mortgage interest, but the housing allowance becomes taxable by the amount of deductible expenses that are reportable on Schedule A.
+    B. Gerald can still deduct his real estate taxes and home mortgage interest. The minister does not have to reduce their deductions by the nontaxable amount of the housing allowance.correct
+    C. Gerald can still deduct his real estate taxes and home mortgage interest. However, he must reduce his allowable deductions by the nontaxable amount of the housing allowance.
+    D. The mortgage interest and property taxes are not deductible by Gerald, because he receives a nontaxable housing allowance.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 28% of students.
+
+Correct Answer Explanation for B:
+
+If a minister receives a housing allowance that isn’t taxable, the minister can still deduct their real estate taxes and home mortgage interest. The minister does not have to reduce their deductions by the nontaxable amount of the housing allowance. For more information about the special rules that apply to clergy, see Publication 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+5. Question ID: 94815834 (Topic: Taxation for Clergy and Military)
+
+Combat pay earned by military servicemembers is generally nontaxable. Which type of pay is never classified as "combat pay"?
+
+    A. Active duty pay earned in any month the taxpayer served in a combat zone.
+    B. Pay for accrued leave earned in any month the taxpayer served in a combat zone.
+    C. Retirement pay of armed forces personnel.correct
+    D. Imminent danger pay.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 83% of students.
+
+Correct Answer Explanation for C:
+
+Retirement pay and pensions of armed forces personnel are not considered combat pay, they are merely treated as retirement income. Nontaxable combat pay will usually be shown on Form W-2, Box 12 with code Q. Examples of nontaxable military pay include; combat pay, the Basic Allowance for Housing (BAH), and the Basic Allowance for Subsistence (BAS). An example of a Form W-2 from a military servicemember with nontaxable combat pay is shown below:
+
+6. Question ID: 94815839 (Topic: Taxation for Clergy and Military)
+
+On February 1, 2023, Declan , a commissioned officer, served five months in the combat zone of Afghanistan. In June he was injured and transferred to an Armed Forces medical site outside the combat zone and entitled him to hostile fire/imminent danger pay. He stayed at the medical site until November, when he finally received orders to return home. He actually returns home on November 25, 2023. He received his last two combat zone payments in December. Which months of combat pay will be excluded from Declan's gross income?
+
+    A. February through Novembercorrect
+    B. February through June
+    C. February through September
+    D. February through December
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 60% of students.
+
+Correct Answer Explanation for A:
+
+From February through November, Declan was considered to be serving in a combat zone. Any part of a month spent in a combat zone will exclude the entire month's pay. To see a handy cheatsheet of the different types of military pay and how they are treated for tax purposes, see this IRS Chart on Armed Forces Income.
+
+8. Question ID: 95394566 (Topic: Taxation for Clergy and Military)
+
+Reverend Gerald Jones is a full-time minister for Kensington Church, a qualified religious organization. The church allows Gerald to use a home that has an annual fair rental value of $24,000. The church also pays him an annual salary of $67,000, of which $7,500 is designated for utility costs. Gerald's actual utility costs during the year were $7,000, for which he has receipts. What is Gerald's income for income tax purposes? And what is his income for self-employment tax purposes?
+
+    A. For income tax purposes, Gerald will report $60,000. His income for SE tax purposes, is $74,000.
+    B. For income tax purposes, Gerald will report $66,500. His income for SE tax purposes, is $84,000.
+    C. For income tax purposes, Gerald will report $60,000. His income for SE tax purposes, is $91,000.correct
+    D. For income tax purposes, Gerald will report $67,000. His income for SE tax purposes, is $91,500.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 45% of students.
+
+Correct Answer Explanation for C:
+
+For income tax purposes, Reverend Gerald Jones excludes $31,000 from gross income ($24,000 fair rental value of the parsonage plus $7,000 from the allowance for utility costs). Therefore, for income tax purposes, Gerald will report $60,000 ($59,500 salary plus $500 of his unused utility allowance). His income for SE tax purposes, is $91,000 ($67,000 salary + $24,000 fair rental value of the parsonage). This example is taken directly from Publication 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+9. Question ID: 94815849 (Topic: Taxation for Clergy and Military)
+
+Franklin is an ordained minister with the United Episcopal Church, and he receives various types of income from the church. Which of the following types of income would be subject to self-employment tax for Franklin?
+
+    A. Reimbursements for mileage made under an accountable plan. 
+    B. Group plan medical insurance benefits.
+    C. Commuter transit passes provided by the minister's employer.
+    D. Minister's housing allowance. correct
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 66% of students.
+
+Correct Answer Explanation for D:
+
+Ministers or other members of a religious order may have net earnings from self-employment. The rental value of a home or a housing allowance provided to a minister as part of the minister's pay generally is not subject to income tax but is included in net earnings from self-employment. For more information, refer to Publication 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+11. Question ID: 94850147 (Topic: Taxation for Clergy and Military)
+
+Father Lucian is a Catholic priest who receives a salary plus a housing allowance for rent and utilities. He has not taken a vow of poverty. Which of the following statements is correct?
+
+    A. He must report his entire salary and housing allowance on his tax return. The salary is subject to income tax and self-employment tax, but his housing allowance is subject to income tax only.
+    B. He must pay both income tax and self-employment tax on his salary, but only self-employment tax for the housing allowance. The housing allowance is not subject to income tax.correct
+    C. He must pay self-employment tax on both his salary and the housing allowance. Neither is subject to income tax.
+    D. He does not have to report any income received from the church because the Catholic Church is a tax-exempt organization.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 63% of students.
+
+Correct Answer Explanation for B:
+
+Father Lucian must pay both income tax and self-employment tax on his salary, but only self-employment tax for the housing allowance. The housing allowance is not subject to income tax. A clergy member’s salary is reported on Form W-2 and is taxable. Offerings and fees received for performing marriages, baptisms, and funerals must also be reported as self-employment income on Schedule C. For purposes of determining self-employment tax for a clergy member, salary, other fees, and housing allowances are included. However, housing allowances are not subject to income tax.
+
+For more information about the special rules that apply to clergy, see Publication 517, Social Security and Other Information for Members of the Clergy and Religious Workers.
+
+12. Question ID: 94850162 (Topic: Taxation for Clergy and Military)
+
+Which of the following taxpayers may contribute to a Roth IRA in 2023?
+
+    A. Bobby, who is 32 and has $52,000 in passive rental income during the tax year.
+    B. Harold, who is 30 and has $34,000 in nontaxable combat pay.correct
+    C. Randall, who is 75 and has $19,000 in Social Security income for the year.
+    D. Pauline, who is 42 and has $15,000 in capital gains for the year, and $3,000 in interest income.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 67% of students.
+
+Correct Answer Explanation for B:
+
+Only Harold is allowed to contribute because he has qualifying compensation for the year. Members of the military are allowed to count tax-free combat pay when figuring how much they can contribute to a Roth or traditional IRA. See IRS Topic No. 451, Individual Retirement Arrangements (IRAs) for more information.
+
+14. Question ID: 94815893 (Topic: Taxation for Clergy and Military)
+
+Levar is on extended active duty in the U.S. Air Force. He is currently stationed overseas in Portugal. He is not in a Combat Zone. For U.S. tax purposes, where is Levar deemed to have his official "tax home"?
+
+    A. Levar's tax home is deemed to be his last official change of station.
+    B. Levar's tax home is deemed to be in Portugal.
+    C. Levar's tax home is deemed to be suspended.
+    D. Levar's tax home is deemed to be in the United States.correct
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 78% of students.
+
+Correct Answer Explanation for D:
+
+Levar's tax home is deemed to be in the United States. Members of the military on extended active duty outside the United States are considered to have their main home in the United States for tax purposes.
+
+15. Question ID: 94850188 (Topic: Taxation for Clergy and Military)
+
+Combat pay is exempt from income taxes, but is subject to:
+
+    A. Capital gains taxes.
+    B. Payroll taxes.correct
+    C. Net investment income tax.
+    D. Excise taxes.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 75% of students.
+
+Correct Answer Explanation for B:
+
+Combat pay is generally not subject to federal income tax. However, the recipient must still pay Social Security and Medicare taxes (payroll taxes) on the combat pay. To learn more about this topic, see the IRS page for Tax Exclusions for Combat Pay.
+
+16. Question ID: 94849624 (Topic: Taxation for Clergy and Military)
+
+Pedro and Yesenia are married, and both are active-duty military. Pedro is a soldier in the U.S. Army and served in a combat zone from January 1 through October 2, 2023, before being transferred to an active-duty post in Virginia. Pedro earned $30,000 in total wages during the year ($2,500 per month). Yesenia served as a U.S. Navy nurse stationed in Norfolk, Virginia. She earned $40,000 for the entire year. They plan to file jointly. What amount of income can they exclude (as combat pay) from gross income on their jointly-filed return?
+
+    A. $25,000correct
+    B. $70,000
+    C. $0, all their income is taxable.
+    D. $30,000
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 74% of students.
+
+Correct Answer Explanation for A:
+
+For any part of a month that enlisted personnel or warrant officers in the U.S. military serve in a combat zone, their military pay is excluded from gross income. Pedro served in a combat zone for ten months (January through October), so he and Yesenia can exclude $25,000 of his income only ($30,000 ÷ 12 = $2,500 × 10 months). None of Yesenia's income is excludible.
+
+To learn more about this topic, see the IRS page for Tax Exclusions for Combat Pay.
+
+17. Question ID: 94849946 (Topic: Taxation for Clergy and Military)
+
+Which of the following taxpayers is allowed to take a deduction for moving expenses in 2023?
+
+    A. Franklin, an ordained priest, who is moving to a diocese in a different state.
+    B. Paula, a police officer who is being transferred to a different precinct over 100 miles away.
+    C. Darnell, a member of the Armed Forces moving under orders to a permanent change of station.correct
+    D. Brandy, a taxpayer who is a U.S. citizen moving permanently overseas.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 89% of students.
+
+Correct Answer Explanation for C:
+
+Darnell may deduct his moving expenses, because he is a member of the Armed Forces moving under orders to a permanent change of station. Under the Tax Cuts and Jobs Act, most taxpayers cannot claim a deduction for moving expenses, but an exception exists for Armed Services personnel. For more information, see IRS Tax Topic No. 455 Moving Expenses for Members of the Armed Forces.
+
+18. Question ID: 94815970 (Topic: Taxation for Clergy and Military)
+
+For members of the Armed Forces, which of the following items is not taxable income?
+
+    A. Reenlistment bonuses.
+    B. Severance pay.
+    C. Basic Allowance for Housing (BAH).correct
+    D. Military wages.
+
+Study Unit 4: Taxable and Nontaxable Income covers the information for this question.
+
+This question is answered correctly on the first attempt by 67% of students.
+
+Correct Answer Explanation for C:
+
+Basic Allowance for Housing (BAH) is not considered taxable income for members of the Armed Forces. It does not need to be included in gross income on the taxpayer’s Form 1040.
+
+
