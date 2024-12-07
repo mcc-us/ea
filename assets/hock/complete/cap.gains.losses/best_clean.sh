@@ -15,7 +15,7 @@ sed -i 's/\(correct\|wrong\)$//' "$file"
 sed -i "s/United States/US/g" "$file"
 sed -i "s/U\.S\./US/g" "$file"
 
-sed -i 's/^[0-9]\{1,2\}\.*/\"  "/' "$file"
+sed -i 's/^[0-9]\{1,2\}\.*/"  "/' "$file"
 
 sed -i '/^$/d' "$file"  # Remove empty lines
 echo "Complete"
