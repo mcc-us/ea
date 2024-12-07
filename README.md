@@ -5,22 +5,20 @@ permalink: /
 ---
 
 <script>
-function button1() { window.open("https://www.irs.gov/tax-professionals/enrolled-agents"); }
-function button2() { window.open("https://www.irs.gov/forms-instructions"); }
-function button3() { window.open("https://www.reddit.com/r/enrolledagent/"); }
-function button4() { window.open("https://www.facebook.com/groups/eastudygroup"); }
-function button5() { window.open("https://www.prometric.com/test-takers/search/irs"); }
+function buttonEA() { window.open("https://www.irs.gov/tax-professionals/enrolled-agents"); }
+function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
+function buttonReddit() { window.open("https://www.reddit.com/r/enrolledagent/"); }
+function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup"); }
+function buttonPM() { window.open("https://www.prometric.com/test-takers/search/irs"); }
 </script>
 
 
-https://www.youtube.com/@TheTaxGeek/videos
 
-| <button onclick="button2()">Find IRS Pubs & Forms</button> | <button onclick="button3()">EA-Reddit Info</button> |
+| <button onclick="buttonForms()">Find IRS Pubs & Forms</button> | <button onclick="buttonReddit()">EA-Reddit Info</button> |
 |:-|:-|
-|  <button onclick="button4()">Facebook EA Study Group</button> | <button onclick="button1()">IRS EA Info</button> |
-|||
-| <button onclick="button5()">Prometrics test-takers</button> | [youtube.com/@irsvideos](https://www.youtube.com/@irsvideos) |
-|||
+|  <button onclick="buttonFB()">Facebook EA Study Group</button> | <button onclick="buttonEA()">IRS EA Info</button> |
+| <button onclick="buttonPM()">Prometrics test-takers</button> |  |
+|[youtube.com/@irsvideos](https://www.youtube.com/@irsvideos)||
 | https://www.youtube.com/@TheTaxGeek/videos ||
 | [score.org](https://www.score.org) | [passkeyonline.com](https://passkeyonline.com) |
 | [taxpayeradvocate.irs.gov](https://www.taxpayeradvocate.irs.gov/) | [Hock FB](https://www.facebook.com/groups/789554445715835/user/100064721014975/) |
