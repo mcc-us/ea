@@ -3,7 +3,6 @@ title: Tax Refund Extensions
 layout: post
 ---
 
-
 Sometimes, **a late-filed tax return and claiming a tax refund beyond the deadline will be honored**. The IRS will consider reasons with a reasonable cause for failing to file a tax return, or make a deposit, or pay tax when due. Including:
 
 - Fire, casualty, natural disaster or other disturbances

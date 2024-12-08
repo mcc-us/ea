@@ -13,12 +13,10 @@ See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 
 - **Buttons**
 
-<script> function button1() { window.open("Address"); } </script>
-<button onclick="button1()">ButtonText</button>
+<button class="button" onClick="window.open('address');"> <span class="icon">Open</span> </button>
 
 ```
-<script> function button1() { window.open("Address"); } </script>
-<button onclick="button1()">ButtonText</button>
+<button class="button" onClick="window.open('address');"> <span class="icon">Open</span> </button>
 ```
 
 
