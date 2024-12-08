@@ -11,8 +11,8 @@ Download the program here: <button onclick="button()">Ankiweb.net</button>
 
 ---
 
-<a href="/ea/assets/images/lion.png" download>
-  <img src="/ea/assets/anki-flash-cards/Best.Flashcards.colpkg" alt="Download Flashcards" width="100" height="100">
+<a href="/ea/assets/anki-flash-cards/Best.Flashcards.colpkg" download>
+  <img src="/ea/assets/images/lion.png" alt="Link to Flashcards" width="100" height="100">
 </a>
 
 ---
