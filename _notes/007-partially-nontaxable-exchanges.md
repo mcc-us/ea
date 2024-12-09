@@ -3,6 +3,7 @@ title: Partially Nontaxable Exchange
 layout: post
 ---
 
+Publication 551, page 8
 
 **A partially nontaxable exchange is an exchange in which you receive unlike property or money in addition to like property.** 
 
