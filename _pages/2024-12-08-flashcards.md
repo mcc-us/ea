@@ -9,10 +9,6 @@ layout: post
 
 Download the program here: <button onclick="button()">Ankiweb.net</button> 
 
----
+- **USE Save as...**
 
-<a href="/ea/assets/anki-flash-cards/Best.Flashcards.colpkg" download>
-  <img src="/ea/assets/images/lion.png" alt="Link to Flashcards" width="100" height="100">
-</a>
-
----
+   - <a href="/ea/assets/anki-flash-cards/Best.Flashcards.colpkg" download> <img src="/ea/assets/images/lion.png" alt="Link to Flashcards" width="60" height="60"> </a>
