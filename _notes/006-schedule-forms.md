@@ -1,10 +1,10 @@
 ---
-title: Schedule Descriptions
+title: Schedule Forms
 layout: post
 ---
 
 | Schedule | Purpose |
-|:--|:--|
+|:-----:|:--|
 | **A** | Itemized Deductions |
 | **B** | Interest and Ordinary Dividends |
 | **C** | Profit or Loss From Business |
