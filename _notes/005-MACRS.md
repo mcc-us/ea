@@ -3,22 +3,22 @@ title: MACRS
 layout: post
 ---
 
-**Modified Accelerated Cost Recovery System** is a depreciation method thqt allows you can deduct a larger portion of the cost in the earlier years of the asset's life. 
+**Modified Accelerated Cost Recovery System** is a depreciation method that allows you can deduct a **LARGER** portion of the cost in the **EARLIER** years of the asset's life. 
 
 **How it Works:**
 
 * **Assets are Classified** e.g. as 5-year, 7-year, or 27.5-year property.
 
-    1. **Current Assets** such as:
-    * Cash & cash equivalents
-    * Accounts receivable
-    * Inventory
-    * Short-term investments
-    * Prepaid expenses
-    2. **Long-Term Assets** including:
-    * Property, plant, and equipment (PP&E): Land, buildings, machinery, equipment, vehicles, etc.
-    * Intangible assets: Patents, trademarks, copyrights, goodwill, etc.
-    * Long-term investments: Stocks, bonds, and other investments held for more than a year.
+  1. **Current Assets** such as:
+     * Cash & cash equivalents
+     * Accounts receivable
+     * Inventory
+     * Short-term investments
+     * Prepaid expenses
+  1. **Long-Term Assets** including:
+     * *Property, plant, and equipment* (PP&E): *Land, buildings, machinery, equipment, vehicles*.
+     * *Intangible assets*: Patents, trademarks, copyrights, goodwill, etc.
+     * *Long-term investments*: Stocks, bonds, and other investments held for more than a year.
 
 * **Depreciation Schedule:** Each class has a specific depreciation schedule that determines how much of the asset's cost can be deducted each year.
 * **Accelerated Depreciation:** MACRS allows for accelerated depreciation, meaning you can deduct a larger portion of the cost in the earlier years of the asset's life. 
