@@ -5,7 +5,7 @@ layout: post
 
 A "de minimis" benefit is a **small, occasional or infrequent and that is not disguised compensation benefit that is impractical to account for due to its small value**. De minimis benefits are excluded from taxpayer income (under IRC Section 132(a)(4)) unless otherwise addressed in the Code.
 
-### How to determine a "de minimis" benefit. 
+- **How to determine a "de minimis" benefit.**
 
 1. The IRS has ruled that **benefits over $100 generally don't qualify as de minimis benefits even in unusual cases.**
 2. It must be small, occasional or infrequent. 

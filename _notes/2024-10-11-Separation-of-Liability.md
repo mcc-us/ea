@@ -9,7 +9,7 @@ It is designed for individuals who filed a joint tax return with a spouse (or fo
 
 This relief is typically available to those who are **divorced, legally separated, widowed, or no longer living with their spouse**.
 
-#### Key Points:
+- **Key Points**:
 - **Separation of Liability Relief** helps one if they are no longer married or living with the spouse they filed the joint return with. They want to limit your liability for additional taxes due to your spouse's actions.
 - This relief is distinct from general **Innocent Spouse Relief**, where complete relief from liability may be available regardless of marital status if other criteria are met.
 
@@ -21,23 +21,23 @@ This relief is typically available to those who are **divorced, legally separate
 #### How to Request Separation of Liability Relief:
 - You must file **Form 8857 (Request for Innocent Spouse Relief)** to apply for Separation of Liability Relief, provided you meet the qualifications.
 
-#### Who Qualifies for Separation of Liability Relief?
+- **Who Qualifies**?
 You may qualify if:
 1. You are **divorced or legally separated** from the spouse with whom you filed the joint return.
 2. You have **not lived with your spouse** during the 12 months before filing Form 8857.
 3. You are **widowed** from the spouse with whom you filed the joint return.
 
-#### How Does Separation of Liability Work?
+- **How Does Separation of Liability Work**?
 - The IRS will allocate responsibility for taxes, penalties, and interest based on each spouse's individual income and deductions. This applies only to **understatements of income or incorrect deductions/credits** on a joint return.
 - If approved, the IRS will assign the tax liabilities accordingly, based on your and your spouse's contributions to the income or deductions on the return.
 
-#### Who CANNOT Qualify for Separation of Liability?
+- **Who CANNOT Qualify**?
 You cannot qualify if:
 - You **knew** about the items causing the understatement of tax when you signed the joint return.
 - You transferred property to your spouse or ex-spouse as part of a scheme to avoid taxes.
 - The IRS determines your request is part of a fraudulent scheme.
 
-#### Differences Between Separation of Liability and Innocent Spouse Relief:
+- **Differences Between Separation of Liability and Innocent Spouse Relief**:
 1. **Innocent Spouse Relief** may fully relieve you from liability for unpaid taxes due to your spouse's actions. In contrast, **Separation of Liability** divides the liability based on each spouse's income and deductions.
 2. **Innocent Spouse Relief** can be granted even if you are still married, whereas **Separation of Liability Relief** requires that you be divorced, legally separated, or not living together for the past year.
 
