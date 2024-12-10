@@ -6,13 +6,7 @@ title: Hock Docs
 <script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>
 <button onclick="button1()">Goto IRS Pubs</button>
 
-<script>
-function buttonEA() { window.open("https://www.irs.gov/tax-professionals/enrolled-agents"); }
-function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
-function buttonReddit() { window.open("https://www.reddit.com/r/enrolledagent/"); }
-function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup"); }
-function buttonPM() { window.open("https://www.prometric.com/test-takers/search/irs"); }
-</script>
+<embed src="https://sumanbogati.github.io/tiny.pdf" width="600px" height="500px" />
 
 
 
