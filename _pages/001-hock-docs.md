@@ -23,10 +23,10 @@ title: Hock Docs
 | [p551](/ea/others/view.p551) | Basis of Assets |
 | [p554](/ea/others/view.p554) |  Tax Guide for Seniors |
 |**Extras**||
-| [dependency_exemptions_4012](/ea/others/view.dependency_exemptions_4012) |  |
+| [Dependency Exemptions](/ea/others/view.dependency_exemptions_4012) |  |
 | [f2120](/ea/others/view.f2120) | Multiple Support Declaration |
 | [f843](/ea/others/view.f843) | Claim for Refund and Request for Abatement |
-| [filing_status_4012](/ea/others/view.filing_status_4012) | VITA/TCE Volunteer Resource Guide |
+| [Filing Status](/ea/others/view.filing_status_4012) | VITA/TCE Volunteer Resource Guide |
 | [i8857](/ea/others/view.i8857) | Instructions:Form 8857,  Request for Innocent Spouse Relief |
 | [i941sb](/ea/others/view.i941sb) | Instructions:Schedule B (Form 941), Report of Tax Liability for Semiweekly Schedule Depositors |
-| [irs-pub-4011-decision-tree](/ea/others/view.irs-pub-4011-decision-tree) |  |
+| [Decision Tree](/ea/others/view.irs-pub-4011-decision-tree) |  |
