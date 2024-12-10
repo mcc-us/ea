@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HOCK Docs 2
+title: Hock Docs
 ---
 
 <script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>
