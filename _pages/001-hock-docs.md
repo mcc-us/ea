@@ -3,8 +3,9 @@ layout: post
 title: Hock Suggested Reading
 ---
 
-- This list represents suggested reading from Christy P.
+- This list represents suggested reading from Christy P.  
 <script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>
+
 <button onclick="button1()">Goto IRS Pubs</button>
 
 
