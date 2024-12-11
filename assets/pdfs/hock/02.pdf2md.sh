@@ -1,10 +1,8 @@
 #!/bin/bash
 
-# Replace this with your desired output directory
-_others/New Folder
 
-mkdir "/home/mcc/websites/ea/_others/test/"
-output_dir="/home/mcc/websites/ea/_others/test/"
+mkdir "1.pmd"
+output_dir="1.pmd"
 
 # Loop through all files in the current directory
 for filename in *.pdf; do
@@ -21,7 +19,7 @@ for filename in *.pdf; do
   content+="title: $filename_no_ext\n"
   content+="---\n\n"
   content+="<div class=\"pdf-container\">\n"
-  content+="<iframe src=\"ea/assets/pdfs/$filename\" height=\"600\" width=\"100%\" allowFullScreen=\"true\"></iframe>\n"
+  content+="<iframe src=\"ea/assets/pdfs/hock/$filename\" height=\"600\" width=\"100%\" allowFullScreen=\"true\"></iframe>\n"
   content+="</div>\n"
 
   # Write the content to the markdown file in the output directory
