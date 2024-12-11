@@ -15,3 +15,4 @@ layout: post
 | **I** | Additional Information |
 | **R** | Credit for the Elderly or the Disabled |
 | **K-1** | Partner's Share of Income, Credits, Deductions, etc. |
+| **X** | Amended US Individual Income Tax Return |

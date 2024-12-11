@@ -1,6 +1,6 @@
 #!/bin/bash
 
-output_dir="1.test"
+output_dir="1.md"
 
 # Ensure the output directory exists
 if [ ! -d "$output_dir" ]; then
