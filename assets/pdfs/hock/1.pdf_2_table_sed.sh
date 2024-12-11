@@ -3,7 +3,7 @@
 # 1. PRODUCE PDF/Name markdown file
 
 # Define the output filename
-output_file="001-pdf2table.md"
+output_file="001-hock2table.md"
 
 # Create the empty markdown file
 touch "$output_file"
