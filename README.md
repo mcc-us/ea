@@ -16,8 +16,6 @@ function buttonPM() { window.open("https://www.prometric.com/test-takers/search/
 |:-|:-|:-
 |  <button onclick="buttonFB()">Facebook EA Study Group</button> | <button onclick="buttonEA()">IRS EA Info</button> |
 
----
-
 | # | **Important Pubs** |
 |:--|:--|
 | [p15b](/ea/pmd/view.p15b) | Employer's Tax Guide to Fringe Benefits |
