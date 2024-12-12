@@ -20,7 +20,7 @@ function buttonPM() { window.open("https://www.prometric.com/test-takers/search/
 
 | # | **Important Pubs** |
 |:--|:--|
-| [p15b](/ea/pmd/view.p15b) | Employer's Tax Guide to Fringe Benefits |
+| [p15b](/ea/_pmd/view.p15b) | Employer's Tax Guide to Fringe Benefits |
 | [p17](/ea/pmd/view.p17) | Your Federal Income Tax, For Individuals |
 | [p3](/ea/pmd/view.p3) | Armed Forces' Tax Guide |
 | [p4681](/ea/pmd/view.p4681) | Canceled Debts, Foreclosures, Repossessions, & Abandonments, (for Individuals) |
