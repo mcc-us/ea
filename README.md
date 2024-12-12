@@ -1,6 +1,6 @@
 ---
 layout: home
-title: EA Info
+title: EA Part 1 Info
 permalink: /
 ---
 
