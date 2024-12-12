@@ -18,9 +18,7 @@ function buttonPM() { window.open("https://www.prometric.com/test-takers/search/
 
 ---
 
-- **Important Pubs**
-
-| # | Title |
+| # | **Important Pubs** |
 |:--|:--|
 | [p15b](/ea/pmd/view.p15b) | Employer's Tax Guide to Fringe Benefits |
 | [p17](/ea/pmd/view.p17) | Your Federal Income Tax, For Individuals |
@@ -31,7 +29,7 @@ function buttonPM() { window.open("https://www.prometric.com/test-takers/search/
 | [p519](/ea/pmd/view.p519) | US Tax Guide for Aliens |
 | [p523](/ea/pmd/view.p523) | Selling Your Home |
 | [p525](/ea/pmd/view.p525) | Taxable and Nontaxable  Income |
-| [p527](/ea/pmd/view.p527) | Residential Rental Property,  (Including Rental of Vacation Homes) |
+| [p527](/ea/pmd/view.p527) | Residential Rental Property,(Including Rental of Vacation Homes) |
 | [p537](/ea/pmd/view.p537) | Installment Sales |
 | [p544](/ea/pmd/view.p544) | Sales and Other  Dispositions of  Assets |
 | [p54](/ea/pmd/view.p54) | Tax Guide for US Citizens and Resident Aliens Abroad |
