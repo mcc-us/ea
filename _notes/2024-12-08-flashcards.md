@@ -1,5 +1,5 @@
 ---
-title: EA Flashcards
+title: Matt's EA Part 1 Flashcards
 layout: post
 ---
 
