@@ -27,7 +27,7 @@ function buttonPM() { window.open("https://www.prometric.com/test-takers/search/
 | [p519](/ea/pmd/view.p519) | US Tax Guide for Aliens |
 | [p523](/ea/pmd/view.p523) | Selling Your Home |
 | [p525](/ea/pmd/view.p525) | Taxable & Nontaxable  Income |
-| [p527](/ea/pmd/view.p527) | Residential Rental Property,(Including Rental of Vacation Homes) |
+| [p527](/ea/pmd/view.p527) | Residential Rental Property, Including Vacation Homes Rentals |
 | [p537](/ea/pmd/view.p537) | Installment Sales |
 | [p544](/ea/pmd/view.p544) | Sales & Other  Dispositions of  Assets |
 | [p54](/ea/pmd/view.p54) | Tax Guide for US Citizens & Resident Aliens Abroad |
@@ -39,9 +39,9 @@ function buttonPM() { window.open("https://www.prometric.com/test-takers/search/
 | [f2120](/ea/pmd/view.f2120) | Multiple Support Declaration |
 | [f843](/ea/pmd/view.f843) | Claim for Refund & Request for Abatement |
 | [f8949](/ea/pmd/view.f8949) | Sales & Other Dispositions of Capital Assets |
-| [i1099s](/ea/pmd/view.i1099s) | Instructions:Form 1099-S, Proceeds From Real Estate Transactions |
+| [i1099s](/ea/pmd/view.i1099s) | Instructions:Form 1099-S, Real Estate Transactions Proceeds |
 | [i8857](/ea/pmd/view.i8857) | Instructions:Form 8857,  Request for Innocent Spouse Relief |
-| [i941sb](/ea/pmd/view.i941sb) | Instructions:Schedule B (Form 941), Report of Tax Liability for Semiweekly Schedule Depositors |
+| [i941sb](/ea/pmd/view.i941sb) | Instructions:Schedule B (Form 941), Tax Liability Report for Semiweekly Schedule Depositors |
 
 ---
 
