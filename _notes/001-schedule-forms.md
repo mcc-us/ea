@@ -7,7 +7,7 @@ layout: post
 |:-----:|:--|
 | **A** | Itemized Deductions |
 | **B** | Interest & Dividends |
-| **C** | Profit / Loss From Business |
+| **C** | P&L - Profit / Loss From Business |
 | **D** | Capital Gain / Loss |
 | **E** | Supplemental Income / Loss |
 | **F** | Profit / Loss From Farming |
