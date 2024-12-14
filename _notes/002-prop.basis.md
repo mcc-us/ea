@@ -3,32 +3,25 @@ layout: post
 title: Basis of Property, 551, p3
 ---
  
-The basis of property you buy is usually its cost, **including**:
+![Examples of Increases & Decreases to Basis](/ea/assets/images/adjusted.basis.png)
 
-- Sales tax.
-- Freight.
-- Installation and testing.
-- Excise taxes.
-- Legal and accounting fees (when they must be capitalized).
+**ADD** to **Basis of property**, it's cost **PLUS**:
+
+- Sales, Transfer & Excise taxes.
+- Real estate taxes (if assumed for the seller).
+- Freight & Shipping
+- Installation/testing.
+- Charges to utility services.
+- Legal fees (title search & sales contract preparation & deed).
+- Accounting fees (or may be capitalized).
 - Revenue stamps.
 - Recording fees.
-- Real estate taxes (if assumed for the seller).
-
-You may also have to capitalize (add to basis) certain other costs related to buying or producing property.
-
-**Also**
-- Abstract fees (abstract of title fees).
-- Charges for installing utility services.
-- Legal fees (including title search and preparation of the sales contract and deed).
-- Recording fees.
+- Abstract title fees.
 - Surveys.
-- Transfer taxes.
 - Owner's title insurance.
-- Any amounts the seller owes that you agree to pay, such as back taxes or interest, recording or mortgage fees, charges for improvements or repairs, and sales commissions.
+- Any amounts the seller owes that you agree to pay...
 
-## NOT
-
-The following items can't be included:
+## NOT Included (Possible Expenses):
 
 1. Casualty insurance premiums.
 2. Rent for occupancy of the property before closing.
@@ -40,3 +33,11 @@ The following items can't be included:
    4. Cost of a credit report.
    5. Fees for an appraisal required by a lender.
 5. Fees for refinancing a mortgage.
+
+| Video |
+|:-:|
+| https://www.youtube.com/watch?v=0rN-S2QmNPU&list=PL7vavbEVRpzgNItJ8ORyq3NXeWp3kwSBJ |
+| https://youtu.be/twat0u1kwD0?si=E--97XqFyuW10Dfd&t=108 |
+
+
+**NOTE**: With gifts, it is the lower of the fmv or your cost that transfers to the receiver.
