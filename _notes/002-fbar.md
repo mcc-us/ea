@@ -8,9 +8,6 @@ title: FBAR & 8938
 
  ![Using Form 8938](/ea/assets/images/form.8938.png)
 
-
-<img src="/ea/assets/images/form.8938.png" width="100%" />
-
  https://www.irs.gov/businesses/comparison-of-form-8938-and-fbar-requirements
 
 https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar
