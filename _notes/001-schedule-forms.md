@@ -6,11 +6,11 @@ layout: post
 | Schedule | Purpose |
 |:-----:|:--|
 | **A** | Itemized Deductions |
-| **B** | Interest and Ordinary Dividends |
-| **C** | Profit or Loss From Business |
-| **D** | Capital Gain and Loss |
-| **E** | Supplemental Income and Loss |
-| **F** | Profit or Loss From Farming |
+| **B** | Interest & Dividends |
+| **C** | Profit / Loss From Business |
+| **D** | Capital Gain / Loss |
+| **E** | Supplemental Income / Loss |
+| **F** | Profit / Loss From Farming |
 | **H** | Household Employment Taxes |
 | **I** | Additional Information |
 | **R** | Credit for the Elderly or the Disabled |
