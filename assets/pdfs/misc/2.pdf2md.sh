@@ -1,6 +1,7 @@
 #!/bin/bash
 
-output_dir="1.test"
+mkdir "4.pmd"
+output_dir="4.pmd"
 
 # Ensure the output directory exists
 if [ ! -d "$output_dir" ]; then
