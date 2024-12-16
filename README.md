@@ -41,7 +41,7 @@ function buttonPM() { window.open("https://www.prometric.com/test-takers/search/
 | [p550](/ea/pmd/view.p550) | Investment Income & Expenses, (Including Capital Gains & Losses)  |
 | [p551](/ea/pmd/view.p551) | Basis of Assets |
 | [p554](/ea/pmd/view.p554) | Tax Guide for Seniors |
-| [p5569](/ea/pmd/view.p5569) | REPORT OF FOREIGN BANK & FINANCIAL ACCOUNTS (FBAR) REFERENCE GUIDE |
+| [p5569](/ea/pmd/view.p5569) | Report of Foreign Bank & Financial Accounts (FBAR) Reference Guide |
 | [p556](/ea/pmd/view.p556) | Examination of Returns, Appeal Rights, & Claims for Refund |
 | [p559](/ea/pmd/view.p559) | Survivors, Executors, & Administrators |
 | [p560](/ea/pmd/view.p560) | Retirement Plans for Small Business, (SEP, SIMPLE, & Qualified Plans) |
