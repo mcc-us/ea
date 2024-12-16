@@ -13,11 +13,8 @@ See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 
 - **Buttons**
 
-<button class="button" onClick="window.open('address');"> <span class="icon">Open</span> </button>
-
-```
-<button class="button" onClick="window.open('address');"> <span class="icon">Open</span> </button>
-```
+<script> function button() { window.open("address"); } </script> 
+<button onclick="button()">text</button>
 
 
 - **Add non-breaking space**
