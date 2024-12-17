@@ -3,6 +3,11 @@ title: IRS Docs By Unit
 layout: post
 ---
 
+<script>
+function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
+</script>
+<button onclick="buttonForms()">Goto IRS Pubs</button>
+
 | Unit  | Docs |
 |:-----:|:-----|
 | **1** | 17 |
