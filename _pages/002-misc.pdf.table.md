@@ -98,10 +98,9 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [p594](/ea/pmd/view.p594) | The IRS Collection Process |
 | [p926](/ea/pmd/view.p926) | Household Employer's Tax Guide |
 | [p971](/ea/pmd/view.p971) | Innocent Spouse Relief |
-| [PTIN.Checklist](/ea/pmd/view.PTIN.Application.Checklist_Internal.Revenue.Service) |  |
-| [pub17.table1-1-Dollar-Filing-Req](/ea/pmd/view.pub17.table1-1-Dollar-Filing-Req) |  |
-| [TAS_Roadmap](/ea/pmd/view.TAS_Roadmap_32x32_v23_HQ) |  |
-| [Dependency_exemptions_4012](/ea/pmd/view.z-dependency_exemptions_4012) |  |
+| [PTIN.Checklist](/ea/pmd/view.PTIN.Application.Checklist_Internal.Revenue.Service) | PTIN.Checklist |
+| [pub17.table1-1-Filing-Req](/ea/pmd/view.pub17.table1-1-Dollar-Filing-Req) | pub17.table1-1-Filing-Req |
+| [TAS_Roadmap](/ea/pmd/view.TAS_Roadmap_32x32_v23_HQ) | TAS_Roadmap |
+| [Dependency_exemptions](/ea/pmd/view.z-dependency_exemptions_4012) | Dependency_exemptions |
 | [Dependency Flowchart](/ea/pmd/view.z-filing_status_4012) | Dependency Flowchart |
 | [Exempt individual](/ea/pmd/view.z-pub-4011-decision-tree) | Exempt individual? |
-
