@@ -6,13 +6,13 @@ layout: post
 | Schedule | Purpose |
 |:-----:|:--|
 | **A** | Itemized Deductions |
-| **B** | Interest & Dividends |
-| **C** | P&L - Profit / Loss From Business |
+| **B** | Int & Div |
+| **C** | (P&L) - Profit / Loss From Business |
 | **D** | Capital Gain / Loss |
-| **E** | Supplemental Income / Loss |
-| **F** | Profit / Loss From Farming |
+| **E** | Supplemental Income |
+| **F** | Farming/Fishing |
 | **H** | Household Employment Taxes |
 | **I** | Additional Information |
-| **R** | Credit for the Elderly or the Disabled |
+| **R** | Elderly & the Disabled |
 | **K-1** | Partner's Share of Income, Credits, Deductions, etc. |
-| **X** | Amended US Individual Income Tax Return |
+| **X** | Amended Returns |
