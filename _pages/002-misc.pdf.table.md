@@ -3,8 +3,10 @@ layout: post
 title: Misc. PDFs
 ---
 
-<script> function button1() { window.open(https://www.irs.gov/forms-pubs); } </script>
-<button onclick="button1()">Goto IRS Pubs</button>
+<script>
+function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
+</script>
+<button onclick="buttonForms()">Goto IRS Pubs</button>
 
 | | Title |
 |:--|:--|
@@ -49,7 +51,7 @@ title: Misc. PDFs
 | [f8949](/ea/pmd/view.f8949) | Sales & Other Dispositions of Capital Assets |
 | [f941](/ea/pmd/view.f941) | Employer's QUARTERLY Federal Tax Return |
 | [f9465](/ea/pmd/view.f9465) | Installment Agreement Request |
-| [Form.Instructions.982](/ea/pmd/view.Form.Instructions.982) | Reduction of Tax Attributes Due to Discharge of Indebtedness (and Section 1082 Basis Adjustment) |
+| [Form.Instructions.982](/ea/pmd/view.Form.Instructions.982) | Reduction of Tax Attributes Due to Discharge of Indebtedness (& Section 1082 Basis Adjustment) |
 | [fs-2024-30](/ea/pmd/view.fs-2024-30) | Fact Sheet 2024-30 |
 | [fss4](/ea/pmd/view.fss4) | Application for Employer Identification Number |
 | [fss8](/ea/pmd/view.fss8) | Determination of Worker Status for Purposes of Federal Employment Taxes & Income Tax Withholding |
