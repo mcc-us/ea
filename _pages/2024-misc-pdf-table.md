@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misc. PDFs
+title: Misc PDFs
 ---
 
 <script>
