@@ -4,13 +4,13 @@ layout: post
 ---
 
 
-Section 1031 is a tax provision that allows you to **defer capital gains taxes when you sell investment or business property and reinvest the proceeds into similar property**. This process is commonly known as a "like-kind exchange."
+Section 1031 allows one to **Defer capital gains when you sell 'real' investment or business property. One must reinvest the proceeds into another property, a "like-kind exchange." The exchange must be made with 180 days!!**
 
 How it works:
 
-- Like-kind property: The new property must be "like-kind" to the property you sold. This means it must be real estate. For example, you could exchange a rental property for a commercial building.
+- **Like-kind property**:  meaning the two properties must be investment real estate. For example, exchanging residential rental property for a commercial building.
 
-- Deferral, not elimination: **Section 1031 allows you to defer** the tax on the gain, **not eliminate it** entirely. The **tax is simply postponed** until you eventually sell the replacement property.
+- **Defer gains**, not eliminate: **Section 1031 allows one to defer** capital gains, **not eliminate it** entirely. The **tax is simply postponed** until you eventually sell the replacement property.
 
 - 1031 exchange rules: To qualify for a 1031 exchange, you must follow specific rules, including deadlines for identifying and acquiring replacement property.
 
