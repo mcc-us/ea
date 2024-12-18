@@ -6,8 +6,8 @@ layout: post
 | Schedule | Purpose |
 |:-----:|:--|
 | **A** | [Itemized Deductions](/ea/pmd/view.f1040sa/) |
-| **B** | Int & Div |
-| **C** | (P&L) - Profit / Loss From Business |
+| **B** | [Int & Div](/ea/pmd/view.f1040sb) |
+| **C** | [P&L Sole Proprietor](/ea/pmd/view.f1040sc)  |
 | **D** | Capital Gain / Loss |
 | **E** | Supplemental Income |
 | **F** | Farming/Fishing |
