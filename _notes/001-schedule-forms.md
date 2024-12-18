@@ -5,7 +5,7 @@ layout: post
 
 | Schedule | Purpose |
 |:-----:|:--|
-| **A** | Itemized Deductions |
+| **A** | [Itemized Deductions](/ea/pmd/view.f1040sa/) |
 | **B** | Int & Div |
 | **C** | (P&L) - Profit / Loss From Business |
 | **D** | Capital Gain / Loss |
