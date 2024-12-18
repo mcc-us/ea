@@ -48,6 +48,7 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [f8824](/ea/pmd/view.f8824) | Like-Kind Exchanges (and section 1043 conflict-of-interest sales) |
 | [f8857](/ea/pmd/view.f8857) | Request for Innocent Spouse Relief  |
 | [f8879](/ea/pmd/view.f8879) | IRS e-file Signature Authorization |
+| [f8889](/ea/pmd/view.f8889) | HSA form & info |
 | [f8949](/ea/pmd/view.f8949) | Sales & Other Dispositions of Capital Assets |
 | [f941](/ea/pmd/view.f941) | Employer's QUARTERLY Federal Tax Return |
 | [f9465](/ea/pmd/view.f9465) | Installment Agreement Request |
