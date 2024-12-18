@@ -16,16 +16,16 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [f1040s1](/ea/pmd/view.f1040s1) | Additional Income & Adjustments to Income |
 | [f1040s2](/ea/pmd/view.f1040s2) | Additional Taxes |
 | [f1040s3](/ea/pmd/view.f1040s3) | Additional Credits & Payments |
-| [f1040sa](/ea/pmd/view.f1040sa) | Itemized Deductions |
-| [f1040sb](/ea/pmd/view.f1040sb) | Interest & Ordinary Dividends |
-| [f1040sc](/ea/pmd/view.f1040sc) | Profit or Loss From Business (Sole Proprietorship) |
-| [f1040se](/ea/pmd/view.f1040se) | Supplemental Income & Loss |
-| [f1040sf](/ea/pmd/view.f1040sf) | Profit or Loss From Farming |
-| [f1040s](/ea/pmd/view.f1040s) | US Tax Return for Seniors |
-| [f1040x](/ea/pmd/view.f1040x) | Amended US Individual Income Tax Return |
+| [f1040sa](/ea/pmd/view.f1040sa) | Sch. A: Itemized Deductions |
+| [f1040sb](/ea/pmd/view.f1040sb) | Sch. B: Int. & Div. |
+| [f1040sc](/ea/pmd/view.f1040sc) | Sch. C: Profit or Loss for Sole Proprietor, See:i1040sc |
+| [f1040se](/ea/pmd/view.f1040se) | Sch. E: Supplemental Income & Loss |
+| [f1040sf](/ea/pmd/view.f1040sf) | Sch. F: Profit or Loss From Farming |
+| [f1040s](/ea/pmd/view.f1040s) | 1040-sr for Seniors |
+| [f1040x](/ea/pmd/view.f1040x) | Sch. X: Amended US Individual Income Tax Return |
 | [f1041](/ea/pmd/view.f1041) | US Income Tax Return for Estates & Trusts |
 | [f1065](/ea/pmd/view.f1065) | US Return of Partnership Income |
-| [f1065sk1](/ea/pmd/view.f1065sk1) | Partner's Share of Income, Deductions, Credits, etc. |
+| [f1065sk1](/ea/pmd/view.f1065sk1) | Sch. K1: Partner's Share of Income, Deductions, Credits, etc. |
 | [f1099c](/ea/pmd/view.f1099c) | Cancellation of Debt |
 | [f1099nec](/ea/pmd/view.f1099nec) | Nonemployee Compensation |
 | [f1099r](/ea/pmd/view.f1099r) | Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc. |
@@ -52,7 +52,7 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [f8949](/ea/pmd/view.f8949) | Sales & Other Dispositions of Capital Assets |
 | [f941](/ea/pmd/view.f941) | Employer's QUARTERLY Federal Tax Return |
 | [f9465](/ea/pmd/view.f9465) | Installment Agreement Request |
-| [Form.Instructions.982](/ea/pmd/view.Form.Instructions.982) | Reduction of Tax Attributes Due to Discharge of Indebtedness (& Section 1082 Basis Adjustment) |
+| [Form.Ins.982](/ea/pmd/view.Form.Instructions.982) | Reduction of Tax Attributes Due to Discharge of Indebtedness (& Section 1082 Basis Adjustment) |
 | [fs-2024-30](/ea/pmd/view.fs-2024-30) | Fact Sheet 2024-30 |
 | [fss4](/ea/pmd/view.fss4) | Application for Employer Identification Number |
 | [fss8](/ea/pmd/view.fss8) | Determination of Worker Status for Purposes of Federal Employment Taxes & Income Tax Withholding |
