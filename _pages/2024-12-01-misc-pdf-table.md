@@ -10,7 +10,7 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 
 | | Title |
 |:--|:--|
-| [Form 6252](/ea/pmd/view.2024\ Form\ 6252) | Installment Sale Income |
+| [f6252](/ea/pmd/view.2024\ Form\ 6252) | Installment Sale Income |
 | [f1040es](/ea/pmd/view.f1040es) | Form 1040-ES, Estimated Tax for Individuals |
 | [f1040nr](/ea/pmd/view.f1040nr) | US Nonresident Alien Income Tax Return |
 | [f1040s1](/ea/pmd/view.f1040s1) | Additional Income & Adjustments to Income |
