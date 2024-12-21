@@ -13,9 +13,9 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [f6252](/ea/pmd/view.2024\ Form\ 6252) | Installment Sale Income |
 | [f1040es](/ea/pmd/view.f1040es) | f1040-ES, Estimated Tax for Ind. |
 | [f1040nr](/ea/pmd/view.f1040nr) | Nonresident Alien Income Tax Return |
-| [f1040s1](/ea/pmd/view.f1040s1) | Additional Income & Adjustments to Income |
-| [f1040s2](/ea/pmd/view.f1040s2) | Additional Taxes |
-| [f1040s3](/ea/pmd/view.f1040s3) | Additional Credits & Payments |
+| [f1040s1](/ea/pmd/view.f1040s1) | Sch. 1: Additional Income & Adjustments |
+| [f1040s2](/ea/pmd/view.f1040s2) | Sch. 2: Additional Taxes |
+| [f1040s3](/ea/pmd/view.f1040s3) | Sch. 3: Additional Credits & Payments |
 | [f1040sa](/ea/pmd/view.f1040sa) | Sch. A: Itemized Deductions |
 | [f1040sb](/ea/pmd/view.f1040sb) | Sch. B: Int. & Div. |
 | [f1040sc](/ea/pmd/view.f1040sc) | Sch. C: Profit or Loss for Sole Proprietor, See:i1040sc |
@@ -23,19 +23,19 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [f1040sf](/ea/pmd/view.f1040sf) | Sch. F: Profit or Loss From Farming |
 | [f1040s](/ea/pmd/view.f1040s) | 1040-sr for Seniors |
 | [f1040x](/ea/pmd/view.f1040x) | Sch. X: Amended US Individual Income Tax Return |
-| [f1041](/ea/pmd/view.f1041) | US Income Tax Return for Estates & Trusts |
-| [f1065](/ea/pmd/view.f1065) | US Return of Partnership Income |
+| [f1041](/ea/pmd/view.f1041) | Estates & Trusts |
+| [f1065](/ea/pmd/view.f1065) | Partnership Income |
 | [f1065sk1](/ea/pmd/view.f1065sk1) | Sch. K1: Partner's Share of Income, Deductions, Credits, etc. |
 | [f1099c](/ea/pmd/view.f1099c) | Cancellation of Debt |
-| [f1099nec](/ea/pmd/view.f1099nec) | Nonemployee Compensation |
+| [f1099nec](/ea/pmd/view.f1099nec) | Non-Employee Compensation |
 | [f1099r](/ea/pmd/view.f1099r) | Distributions From Pensions, Annuities, Retirement or Profit-Sharing Plans, IRAs, Insurance Contracts, etc. |
-| [f1127](/ea/pmd/view.f1127) | Application for Extension of Time for Payment of Tax Due to Undue Hardship |
+| [f1127](/ea/pmd/view.f1127) | App. for Extension of Time for Payment of Tax Due to Undue Hardship |
 | [f14039](/ea/pmd/view.f14039) | Identity Theft Affidavit |
 | [f2848](/ea/pmd/view.f2848) | Power of Attorney & Declaration of Representative |
 | [f4137](/ea/pmd/view.f4137) | Social Security & Medicare Tax on Unreported Tip Income |
-| [f4361](/ea/pmd/view.f4361) | Application for Exemption From Self-Employment Tax for Use by Ministers, Members of Religious Orders & Christian Science Practitioners |
+| [f4361](/ea/pmd/view.f4361) | App. for Exemption From Self-Employment Tax for Use by Ministers, Members of Religious Orders & Christian Science Practitioners |
 | [f4506t](/ea/pmd/view.f4506t) | Request for Transcript of Tax Return |
-| [f4868-auto-extension](/ea/pmd/view.f4868-auto-extension) | Application for Automatic Extension of Time To File US Individual Income Tax Return |
+| [f4868-auto-extension](/ea/pmd/view.f4868-auto-extension) | App. for Automatic Extension of Time To File US Individual Income Tax Return |
 | [f6252](/ea/pmd/view.f6252) | Installment Sale Income |
 | [f656](/ea/pmd/view.f656) | Offer in Compromise |
 | [f709](/ea/pmd/view.f709) | United States Gift (and Generation-Skipping Transfer) Tax Return |
