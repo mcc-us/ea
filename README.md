@@ -21,7 +21,7 @@ function buttonPM() { window.open("https://www.prometric.com/test-takers/search/
 | [p15b](/ea/pmd/view.p15b) | Employer's Tax Guide to Fringe Benefits |
 | [p17](/ea/pmd/view.p17) | Your Federal Income Tax, For Individuals |
 | [p3](/ea/pmd/view.p3) | Armed Forces' Tax Guide |
-| [p4345](/ea/pmd/view.p4345) | Settlements Taxability |
+| [p4345](/ea/pmd/view.p4345) | Taxability of Settlements |
 | [p4681](/ea/pmd/view.p4681) | Individuals: Canceled Debts, Foreclosures, Repossessions & Abandonments |
 | [p501](/ea/pmd/view.p501) | Dependents, Standard Deduction, & Filing Information |
 | [p502](/ea/pmd/view.p502) | Medical & Dental Expenses |
