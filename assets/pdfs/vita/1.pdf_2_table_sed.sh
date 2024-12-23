@@ -3,7 +3,7 @@
 # 1. PRODUCE PDF/Name markdown file
 
 # Define the output filename
-output_file="001-vita.pdf2table.md"
+output_file="2024-12-01-vita.guides.md"
 
 # Create the empty markdown file
 touch "$output_file"
@@ -11,7 +11,7 @@ touch "$output_file"
 # Build header content
 content="---\n"
 content+="layout: post\n"
-content+="title: IRS Documents\n"
+content+="title: VITA Guides\n"
 content+="---\n\n"
 content+="<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>\n"
 content+="<button onclick=\"button1()\">Goto IRS Pubs</button>\n\n"
@@ -37,44 +37,43 @@ done
 
 # Write the final content to the markdown file
 echo -e "$content" >> "$output_file"
-echo "CREATED TABLE"
+#echo "CREATED TABLE"
 
 #-----------------------------------
 
-# Define the filename
-file=$output_file
-
 # Check if the file exists
-if [ ! -f "$file" ]; then
-  echo "Error: File '$file' not found!"
-  exit 1
-fi
+#if [ ! -f "$output_file" ]; then
+#  echo "Error: File "$output_file" not found!"
+#  exit 1
+#fi
 
 #-----------------------------------------
 
 # 2. REPLACE STRINGS
-
-old_string="Subject:         "
-new_string=""  # null string
-
+#sed 's/unix/linux/' geekfile.txt 
 # Perform the replacement using sed with in-place editing (-i) flag
-sed -i "s/$old_string/$new_string/g" "$file"
 
-#---------------------------------------------
+sed -i 's/Subject:         //' "$output_file"
+sed -i 's/ (English-Spanish)//' "$output_file"
+#sed -i 's/ and / \& /' "$output_file"
+#sed -i 's/VITA\/TCE INTAKE\/INTERVIEW AND QUALITY REVIEW TRAINING/VITA Intake Interview & Quality Training/g' "$output_file"
 
-old_string="Instructions for "
-new_string="Instructions:"
+awk '{gsub(/VITA\/TCE INTAKE\/INTERVIEW AND QUALITY REVIEW TRAINING/, "VITA Intake Interview & Quality Training")}1' 2024-12-01-vita.guides.md > temp_file.txt
+mv temp_file.txt 2024-12-01-vita.guides.md
 
-# Perform the replacement using sed with in-place editing (-i) flag
-sed -i "s/$old_string/$new_string/g" "$file"
+#sed -i 's/\|  \|"/\| VITA Intro \|/' "$output_file"  ### effs up the first col.
 
-#---------------------------------------------
-
-# Replace TEXT Strings
-sed -i "s/"U.S."/"US"/g" "$file"
-sed -i "s/"United States"/"US"/g" "$file"
-#sed -i "s/"_Internal.Revenue.Service"/""/g" "$file"
+#sed -i 's/"VITA/TCE INTAKE/INTERVIEW AND QUALITY REVIEW TRAINING"/"VITA/TCE Intake/Intview & Quality Training"/g' "$file"
+#sed -i 's/VITA\/TCE INTAKE\/INTERVIEW AND QUALITY REVIEW TRAINING/VITA\/TCE Intake\/Intview & Quality Training/g' file.txt
+#sed -i 's/"Instructions for "/"Inst.:"/g' "$file"
+#sed -i 's/U.S.//g' "$file"
+#sed -i "s/"United States"//g" "$file"
+#sed -i "s/"_Internal.Revenue.Service"//g" "$file"
 #sed -i "s/" and "/" & "/g" "$file"
-sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
+#sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
+
+
+#sed -i "s/"|  |"/"| VITA Intro |"/g" "$file"
+
 
 echo "FINI"
