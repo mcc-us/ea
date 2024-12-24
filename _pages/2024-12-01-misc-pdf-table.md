@@ -38,9 +38,9 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [f4868-auto-extension](/ea/pmd/view.f4868-auto-extension) | App. for Automatic Extension of Time To File US Individual Income Tax Return |
 | [f6252](/ea/pmd/view.f6252) | Installment Sale Income |
 | [f656](/ea/pmd/view.f656) | Offer in Compromise |
-| [f709](/ea/pmd/view.f709) | United States Gift (and Generation-Skipping Transfer) Tax Return |
+| [f709](/ea/pmd/view.f709) | Gift (and Generation-Skipping Transfer) Tax Return |
 | [f7206](/ea/pmd/view.f7206) | Self-Employed Health Insurance Deduction |
-| [f8332](/ea/pmd/view.f8332) | Release/Revocation of Release of Claim to Exemption for Child by Custodial Parent |
+| [f8332](/ea/pmd/view.f8332) | Release/Revocation of Claim to Exemption for Child by [a] Custodial Parent |
 | [f8453](/ea/pmd/view.f8453) | US Individual Income Tax Transmittal for an IRS e-file Return |
 | [f8814](/ea/pmd/view.f8814) | Parents' Election To Report Child's Interest & Dividends |
 | [f8822b](/ea/pmd/view.f8822b) | Change of Address or Responsible Party - Business |
@@ -50,7 +50,7 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [f8879](/ea/pmd/view.f8879) | IRS e-file Signature Authorization |
 | [f8889](/ea/pmd/view.f8889) | HSA form & info |
 | [f8949](/ea/pmd/view.f8949) | Sales & Other Dispositions of Capital Assets |
-| [f941](/ea/pmd/view.f941) | Employer's QUARTERLY Federal Tax Return |
+| [f941](/ea/pmd/view.f941) | Employer's Quarterly Federal Tax Return |
 | [f9465](/ea/pmd/view.f9465) | Installment Agreement Request |
 | [Form.Ins.982](/ea/pmd/view.Form.Instructions.982) | Reduction of Tax Attributes Due to Discharge of Indebtedness (& Section 1082 Basis Adjustment) |
 | [fs-2024-30](/ea/pmd/view.fs-2024-30) | Fact Sheet 2024-30 |
@@ -63,7 +63,7 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 | [i1040gi](/ea/pmd/view.i1040gi) | 1040, Instructions |
 | [i1040sc](/ea/pmd/view.i1040sc) | 2024 Ins: Schedule C, Profit or Loss From Business |
 | [i1040sd](/ea/pmd/view.i1040sd) | 2023 Ins: Schedule D, Capital Gains & Losses |
-| [i1040tt](/ea/pmd/view.i1040tt) | 1040 TAX & EARNED INCOME CREDIT TABLES,  |
+| [i1040tt](/ea/pmd/view.i1040tt) | 1040 Tax & Earned Income Credit Tables,  |
 | [i1040x](/ea/pmd/view.i1040x) | Ins: Form 1040-X, Amended US Individual Income Tax Return (Use With the February 2024 Revision of Form 1040-X) |
 | [i1041](/ea/pmd/view.i1041) | Ins: Form 1041 & Schedules A, B, G, J, & K-1 , US Income Tax Return for Estates & Trusts |
 | [i1065](/ea/pmd/view.i1065) | Ins: Form 1065 , US Return of Partnership Income  |
