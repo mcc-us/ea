@@ -15,7 +15,7 @@ layout: post
 
 While MACRS is primarily used by businesses, it can indirectly affect individual taxpayers in a few ways:
 
-1. **Rental Property:** If you own rental property, you can use MACRS to depreciate the building and other assets associated with the property. This can reduce your taxable income from the rental property, e.g. residential=27.5 yr
+1. **Rental Property:** If you own rental property, you can use MACRS to depreciate the building and other assets associated with the property. This can reduce your taxable income from the rental property, e.g. **residential=27.5 yr**
 2. **Business Income:** If you own a business, you'll likely use MACRS to calculate depreciation on your business assets. This can impact your business income and, in turn, your individual tax return, e.g. business bldg=39 yr
 
 
