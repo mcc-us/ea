@@ -10,11 +10,12 @@ function buttonForms() { window.open("https://www.irs.gov/forms-Ins."); }
 function buttonReddit() { window.open("https://www.reddit.com/r/enrolledagent/"); }
 function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup"); }
 function buttonPM() { window.open("https://www.prometric.com/test-takers/search/irs"); }
+function buttonAI() { window.open("https://gemini.google.com/app"); }
 </script>
 
 | <button onclick="buttonForms()">Find IRS Pubs & Forms</button> | <button onclick="buttonReddit()">EA-Reddit Info</button> | <button onclick="buttonPM()">Prometrics test-takers</button> |
 |:-|:-|:-
-|  <button onclick="buttonFB()">Facebook EA Study Group</button> | <button onclick="buttonEA()">IRS EA Info</button> |
+|  <button onclick="buttonFB()">Facebook EA Study Group</button> | <button onclick="buttonAI()">Gemini AI</button> | <button onclick="buttonEA()">IRS EA Info</button> |
 
 |   | **Important Part 1 Pubs** |
 |:--|:--|
