@@ -1,0 +1,27 @@
+CHILD TAX CREDIT RULES
+
+A taxpayer whose tax liability is zero cannot take the Child
+Tax Credit because there is no tax to reduce.
+
+The Child Tax Credit is limited to the amounts of regular
+income tax and any alternative minimum tax owed.
+However, a taxpayer with zero tax liability may be able to
+
+take the Additional Child Tax Credit, which is a refundable
+credit.
+
+In order to qualify for the Additional Child Tax Credit, the
+taxpayer must have “earned income,” such as wages or
+income from self-employment.
+
+is used for figuring and reporting the Child Tax
+Credit as well as the Credit for Other Dependents.
+
+---
+
+REWRITTEN
+
+1. **No Tax, No Credit:** If you owe no income tax, you can't claim the Child Tax Credit.
+2. **Credit Limit:** The Child Tax Credit is limited to the amount of tax you owe.
+3. **Earned Income Required:** You must have earned income (like wages) to claim the Additional Child Tax Credit.
+4. **Use Schedule 8812:** This form is used to calculate and claim the Child Tax Credit. 
