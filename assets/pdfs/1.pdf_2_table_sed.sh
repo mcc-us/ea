@@ -63,7 +63,7 @@ sed -i "s/$old_string/$new_string/g" "$file"
 #---------------------------------------------
 
 old_string="Instructions for "
-new_string="Instructions:"
+new_string="Ins:"
 
 # Perform the replacement using sed with in-place editing (-i) flag
 sed -i "s/$old_string/$new_string/g" "$file"
@@ -71,10 +71,10 @@ sed -i "s/$old_string/$new_string/g" "$file"
 #---------------------------------------------
 
 # Replace TEXT Strings
-sed -i "s/"U.S."/"US"/g" "$file"
-sed -i "s/"United States"/"US"/g" "$file"
-#sed -i "s/"_Internal.Revenue.Service"/""/g" "$file"
-#sed -i "s/" and "/" & "/g" "$file"
-sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
+sed -i 's/"U.S."/US/' "$file"
+sed -i 's/United States/US/' "$file"
+#sed -i 's/"_Internal.Revenue.Service"/""/' "$file"
+#sed -i 's/" and "/" & "/' "$file"
+sed -i 's/" before the Internal Revenue Service"/""/' "$file"
 
 echo "FINI"
