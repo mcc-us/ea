@@ -6,7 +6,7 @@ permalink: /
 
 <script>
 function buttonEA() { window.open("https://www.irs.gov/tax-professionals/enrolled-agents"); }
-function buttonForms() { window.open("https://www.irs.gov/forms-Ins."); }
+function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
 function buttonReddit() { window.open("https://www.reddit.com/r/enrolledagent/"); }
 function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup"); }
 function buttonPM() { window.open("https://www.prometric.com/test-takers/search/irs"); }
