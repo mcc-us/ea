@@ -54,7 +54,7 @@ In most cases, the excluded benefits aren't subject to federal income tax withho
    2.  incentive stock options,  
    3.  employee stock purchase plan options, and   
    4.  non-statutory (nonqualified) stock options.  
-8.  HSAs.  **Page 15**
+8.  HSAs. **Page 15**
    1. Any contributions that you make to an HSA become the employee's property and can't be withdrawn by you.  
    2. The medical expenses must not be reimbursable by insurance or other sources and their payment from HSA funds (distribution) won't give rise to a medical expense deduction on the individual's federal income tax return.  
 9.  Lodging on your business premises.   
