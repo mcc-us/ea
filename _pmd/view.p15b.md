@@ -37,7 +37,7 @@ In most cases, the excluded benefits aren't subject to federal income tax withho
 *Table 2-1. Special Rules for Various Types of Fringe Benefits, page 6*
 
 1. Accident and health benefits.  
-2. Achievement awards. Exempt up to \$1,600 for qualified plan awards ($400 for nonqualified awards).  
+2. Achievement awards. Exempt up to $1,600 for qualified plan awards ($400 for nonqualified awards).  
 3. Adoption assistance.  
 4. Athletic facilities.  
 5. De minimis (minimal) benefits.  
