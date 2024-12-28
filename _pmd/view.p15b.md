@@ -34,7 +34,7 @@ In most cases, the excluded benefits aren't subject to federal income tax withho
 4. Transportation (commuting) benefits. **Exempt up to $315.**  
 5. Educational assistance.  **Exempt <= $5,250.**   
 6. De minimis (minimal) benefits.   
-7. Achievement awards: Exempt up to $1,600 for qualified plan awards ($400 for nonqualified awards)
+7. Achievement awards: Exempt up to $1,600 for qualified plan awards (400 for nonqualified awards)
 8. Group-term life insurance coverage. 
    1. **Exempt < $50,000** 
    2. **> 50K, benefits are may be taxed. See rules.**  
