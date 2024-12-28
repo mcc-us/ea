@@ -3,9 +3,10 @@ layout: post
 title: p4345
 ---
 
-## Summary: Taxability of Court-Awarded Settlements
+## Taxability of Court-Awarded Settlements
 
-Court awarded cash settlements may consist of multiple elements, *for example*, back pay, emotional distress, medical, and attorneys' fees.
+Court awarded cash settlements may consist of multiple elements, *for example*, 
+  - back pay, emotional distress, medical, and attorneys' fees.
 
 ### 1. Personal physical injuries or physical sickness 
 

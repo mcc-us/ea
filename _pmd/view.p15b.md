@@ -43,21 +43,22 @@ In most cases, the excluded benefits aren't subject to federal income tax withho
 5. De minimis (minimal) benefits.  
 6. Dependent care assistance.  
 7. Educational assistance.  **Exempt <= $5,250.**  
-8. Employee discounts. **Page 11.**  
-9. Employee stock options.   
+8. Tuition Reduction. **FOR EDUCATIONAL INSTITUTIONS**
+9. Employee discounts. **Page 11.**  
+10. Employee stock options.   
    1.  three types:  
    2.  incentive stock options,  
    3.  employee stock purchase plan options, and   
    4.  non-statutory (nonqualified) stock options.  
-10. Employer-provided cell phones.  
-11. Group-term life insurance coverage. **Exempt < $50,000. Over 50K, benefits are may be taxed. See rules.**  
-12. HSAs.  **Page 15**
+11. Employer-provided cell phones.  
+12. Group-term life insurance coverage. **Exempt < $50,000. Over 50K, benefits are may be taxed. See rules.**  
+13. HSAs.  **Page 15**
    1. Any contributions that you make to an HSA become the employee's property and can't be withdrawn by you.  
    2. The medical expenses must not be reimbursable by insurance or other sources and their payment from HSA funds (distribution) won't give rise to a medical expense deduction on the individual's federal income tax return.  
-13. Lodging on your business premises.   
-14. No-additional-cost services.  
-15. Retirement planning services.  
-16. Working condition benefits.  
+14. Lodging on your business premises.   
+15. No-additional-cost services.  
+16. Retirement planning services.  
+17. Working condition benefits.  
 
 
 <div class="pdf-container">
