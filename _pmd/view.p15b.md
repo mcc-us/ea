@@ -3,7 +3,7 @@ layout: post
 title: p15b
 ---
 
-Sysnopsis:
+## Sysnopsis
 
 **Page 3**
 
@@ -24,7 +24,7 @@ Examples of Qualified Benefits:
 
 **Page 5**
 
-**Fringe Benefit**
+## Fringe Benefit
 
 In most cases, the excluded benefits aren't subject to federal income tax withholding, social security tax, Medicare tax, federal unemployment (FUTA) tax, or Railroad Retirement Tax Act (RRTA) taxes and aren't reported on Form W-2.
 
@@ -32,7 +32,7 @@ In most cases, the excluded benefits aren't subject to federal income tax withho
 2. Employer-Provided Cell Phones **ok**.
 3. Transportation (commuting) benefits. **Exempt up to $315.**    
 
-**Exclusion of fringe benefits.** 
+## Exclusion of fringe benefits
 
 *Table 2-1. Special Rules for Various Types of Fringe Benefits, page 6*
 
