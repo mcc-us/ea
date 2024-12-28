@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Special Projects
+title: EA Part1 
 permalink: /
 ---
 
@@ -17,7 +17,7 @@ function buttonAI() { window.open("https://gemini.google.com/app"); }
 |:-|:-|:-
 |  <button onclick="buttonFB()">Facebook EA Study Group</button> | <button onclick="buttonAI()">Gemini AI</button> | <button onclick="buttonEA()">IRS EA Info</button> |
 
-|   | **Special Projects** |
+| **Special Projects** | |
 |:--|:--|
 | [p15b](/ea/pmd/view.p15b) | Employer's Tax Guide to Fringe Benefits |
 | [p17](/ea/pmd/view.p17) | Your Federal Income Tax, For Individuals |
