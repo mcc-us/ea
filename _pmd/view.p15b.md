@@ -24,33 +24,41 @@ Examples of Qualified Benefits:
 
 **Page 5**
 
-**Fringe Benefit Exclusion Rules**
+**Fringe Benefit**
 
 In most cases, the excluded benefits aren't subject to federal income tax withholding, social security tax, Medicare tax, federal unemployment (FUTA) tax, or Railroad Retirement Tax Act (RRTA) taxes and aren't reported on Form W-2.
 
+1. Employer-operated eating facility for employees. 
+2. Employer-Provided Cell Phones **ok**.
+3. Transportation (commuting) benefits. **Exempt up to $315.**    
+
 **Exclusion of fringe benefits.** 
 
-*See: Table 2-1. Special Rules for Various Types of Fringe Benefits, page 6*
+*Table 2-1. Special Rules for Various Types of Fringe Benefits, page 6*
 
-1. Accident and health benefits.
-1. Achievement awards. Exempt2 up to \$1,600 for qualified plan awards ($400 for nonqualified awards).
-1. Adoption assistance.
-1. Athletic facilities.
-1. De minimis (minimal) benefits.
-1. Dependent care assistance.
-2. Educational assistance.  **Exempt <= $5,250.**
-3. Employee discounts. **See: page 11.**
-4. Employee stock options.
-5. Employer-provided cell phones.
-6. Group-term life insurance coverage. **Exempt < $50,000. Over 50K, benefits are may be taxed. See rules.**
-7. HSAs.
-8. Lodging on your business premises.
-9. Meals.
-10. No-additional-cost services.
-11. Retirement planning services.
-12. Transportation (commuting) benefits. **Exempt up $315.**
-13. Tuition reduction.
-14. Working condition benefits.
+1. Accident and health benefits.  
+2. Achievement awards. Exempt up to \$1,600 for qualified plan awards ($400 for nonqualified awards).  
+3. Adoption assistance.  
+4. Athletic facilities.  
+5. De minimis (minimal) benefits.  
+6. Dependent care assistance.  
+7. Educational assistance.  **Exempt <= $5,250.**  
+8. Employee discounts. **Page 11.**  
+9. Employee stock options.   
+   1.  three types:  
+   2.  incentive stock options,  
+   3.  employee stock purchase plan options, and   
+   4.  non-statutory (nonqualified) stock options.  
+10. Employer-provided cell phones.  
+11. Group-term life insurance coverage. **Exempt < $50,000. Over 50K, benefits are may be taxed. See rules.**  
+12. HSAs.  **Page 15**
+   1. Any contributions that you make to an HSA become the employee's property and can't be withdrawn by you.  
+   2. The medical expenses must not be reimbursable by insurance or other sources and their payment from HSA funds (distribution) won't give rise to a medical expense deduction on the individual's federal income tax return.  
+13. Lodging on your business premises.   
+14. No-additional-cost services.  
+15. Retirement planning services.  
+16. Working condition benefits.  
+
 
 <div class="pdf-container">
 <iframe src="/ea/assets/pdfs/hock/p15b.pdf" height="600" width="100%" allowFullScreen="true"></iframe>
