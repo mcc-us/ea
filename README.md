@@ -43,7 +43,11 @@ function buttonAI() { window.open("https://gemini.google.com/app"); }
 | [f4868-auto-extension](/ea/pmd/view.f4868-auto-extension) | App. for Automatic Extension of Time To File US Individual Income Tax Return |
 | [f6252](/ea/pmd/view.f6252) | Installment Sale Income |
 | [i843](/ea/pmd/view.i843) | Ins: Form 843, Claim for Refund & Request for Abatement |
-
+| [fw7](/ea/pmd/view.fw7) | Application for IRS Individual Taxpayer Identification Number |
+| [fw9](/ea/pmd/view.fw9) | Request for Taxpayer Identification Number & Certification |
+| [i1040sc](/ea/pmd/view.i1040sc) | 2024 Ins: Schedule C, Profit or Loss From Business |
+| [i1040sd](/ea/pmd/view.i1040sd) | 2023 Ins: Schedule D, Capital Gains & Losses |
+| [i843](/ea/pmd/view.i843) | Ins: Form 843, Claim for Refund & Request for Abatement |
 
 ---
 
