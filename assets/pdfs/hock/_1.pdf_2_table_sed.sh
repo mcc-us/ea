@@ -2,14 +2,16 @@
 
 # 1. PRODUCE PDF/Name markdown file
 
-# Define & Create the empty markdown file
-output_file="002-misc.pdf.table.md"
+# Define the output filename
+output_file="001-hock2table.md"
+
+# Create the empty markdown file
 touch "$output_file"
 
 # Build header content
 content="---\n"
 content+="layout: post\n"
-content+="title: Part1 Related PDFs\n"
+content+="title: IRS Documents\n"
 content+="---\n\n"
 content+="<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>\n"
 content+="<button onclick=\"button1()\">Goto IRS Pubs</button>\n\n"
@@ -35,35 +37,44 @@ done
 
 # Write the final content to the markdown file
 echo -e "$content" >> "$output_file"
-echo "Table complete"
+echo "CREATED TABLE"
 
 #-----------------------------------
 
 # Define the filename
-#file=$output_file
+file=$output_file
 
 # Check if the file exists
-#if [ ! -f "$file" ]; then
-#  echo "Error: File '$file' not found!"
-#  exit 1
-#fi
+if [ ! -f "$file" ]; then
+  echo "Error: File '$file' not found!"
+  exit 1
+fi
 
 #-----------------------------------------
 
 # 2. REPLACE STRINGS
+
+old_string="Subject:         "
+new_string=""  # null string
+
 # Perform the replacement using sed with in-place editing (-i) flag
+sed -i "s/$old_string/$new_string/g" "$file"
 
-sed -i 's/Subject:         //' "$output_file"
-#sed -i 's/Instructions for /Ins: /' "$file"
-#sed -i 's/Instructions /Ins: /' "$file"
-#sed -i 's/U.S.//' "$file"
-#sed -i 's/United States//' "$file"
-#sed -i 's/ and / & /' "$file"
-#sed -i 's/ Application / App. /' "$file"
-#sed -i 's/(American Opportunity  and  Lifetime Learning Credits)/AOTC & LLC/' "$file"
+#---------------------------------------------
 
-#Application
+old_string="Instructions for "
+new_string="Instructions:"
+
+# Perform the replacement using sed with in-place editing (-i) flag
+sed -i "s/$old_string/$new_string/g" "$file"
+
+#---------------------------------------------
+
+# Replace TEXT Strings
+sed -i "s/"U.S."/"US"/g" "$file"
+sed -i "s/"United States"/"US"/g" "$file"
 #sed -i "s/"_Internal.Revenue.Service"/""/g" "$file"
-#sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
+#sed -i "s/" and "/" & "/g" "$file"
+sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
 
 echo "FINI"

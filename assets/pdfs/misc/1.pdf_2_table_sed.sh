@@ -3,7 +3,7 @@
 # 1. PRODUCE PDF/Name markdown file
 
 # Define & Create the empty markdown file
-output_file="1000-hock-pubs.md"
+output_file="2000-part1-related.pdfs.md"
 touch "$output_file"
 
 # Build header content
@@ -63,9 +63,7 @@ sed -i 's/ Application / App. /' "$output_file"
 sed -i 's/ Additional / Addn /' "$output_file"
 sed -i 's/Individual Retirement Arrangements (IRAs)/IRAs/' "$output_file"
 sed -i 's/Identification/ID/' "$output_file"
-sed -i 's/REPORT OF FOREIGN BANK \& FINANCIAL ACCOUNTS (FBAR) REFERENCE GUIDE/Foreign Bank \& Financial Acts (FBAR) Guide/' "$output_file"
 
-  
 #sed -i 's/(American Opportunity  and  Lifetime Learning Credits)/AOTC & LLC/' "$file"
 
 #Application
