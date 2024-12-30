@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part1 Related PDFs
+title: Part1 MAJOR Pubs
 ---
 
 <script> function button1() { window.open(https://www.irs.gov/forms-pubs); } </script>
