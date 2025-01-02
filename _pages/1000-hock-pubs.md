@@ -8,18 +8,6 @@ title: Part1 MAJOR Pubs
 
 | Doc # | Title |
 |:--|:--|
-| [f1040s8](/ea/pmd/view.f1040s8) | Credits for Qualifying Children & Other Dependents |
-| [f1041](/ea/pmd/view.f1041) |  Income Tax Return for Estates & Trusts |
-| [f2120](/ea/pmd/view.f2120) | Multiple Support Declaration |
-| [f3520](/ea/pmd/view.f3520) | Annual Return To Report Transactions With Foreign Trusts & Receipt of Certain Foreign Gifts |
-| [f706](/ea/pmd/view.f706) |  Estate (and Generation-Skipping Transfer) Tax Return |
-| [f709](/ea/pmd/view.f709) |  Gift (and Generation-Skipping Transfer) Tax Return |
-| [f843](/ea/pmd/view.f843) | Claim for Refund & Request for Abatement |
-| [f8949](/ea/pmd/view.f8949) | Sales & Other Dispositions of Capital Assets |
-| [i1099s](/ea/pmd/view.i1099s) | Ins: Form 1099-S, Proceeds From Real Estate Transactions |
-| [i5405](/ea/pmd/view.i5405) | Ins: Form 5405, Repayment of the First-Time Homebuyer Credit |
-| [i8857](/ea/pmd/view.i8857) | Ins: Form 8857,  Request for Innocent Spouse Relief |
-| [i941sb](/ea/pmd/view.i941sb) | Ins: Schedule B (Form 941), Report of Tax Liability for Semiweekly Schedule Depositors |
 | [p15b](/ea/pmd/view.p15b) | Employer's Tax Guide to Fringe Benefits |
 | [p17](/ea/pmd/view.p17) | Your Federal Income Tax, For Individuals |
 | [p3](/ea/pmd/view.p3) | Armed Forces' Tax Guide |
@@ -56,4 +44,16 @@ title: Part1 MAJOR Pubs
 | [p946](/ea/pmd/view.p946) | How To Depreciate Property, Section 179 Deduction, Special Depreciation   Allowance, MACRS, Listed Property |
 | [p970](/ea/pmd/view.p970) | Tax Benefits for Education |
 | [p974](/ea/pmd/view.p974) | Premium Tax Credit (PTC) |
-
+|**Forms, etc.**||
+| [f1040s8](/ea/pmd/view.f1040s8) | Credits for Qualifying Children & Other Dependents |
+| [f1041](/ea/pmd/view.f1041) |  Income Tax Return for Estates & Trusts |
+| [f2120](/ea/pmd/view.f2120) | Multiple Support Declaration |
+| [f3520](/ea/pmd/view.f3520) | Annual Return To Report Transactions With Foreign Trusts & Receipt of Certain Foreign Gifts |
+| [f706](/ea/pmd/view.f706) |  Estate (and Generation-Skipping Transfer) Tax Return |
+| [f709](/ea/pmd/view.f709) |  Gift (and Generation-Skipping Transfer) Tax Return |
+| [f843](/ea/pmd/view.f843) | Claim for Refund & Request for Abatement |
+| [f8949](/ea/pmd/view.f8949) | Sales & Other Dispositions of Capital Assets |
+| [i1099s](/ea/pmd/view.i1099s) | Ins: Form 1099-S, Proceeds From Real Estate Transactions |
+| [i5405](/ea/pmd/view.i5405) | Ins: Form 5405, Repayment of the First-Time Homebuyer Credit |
+| [i8857](/ea/pmd/view.i8857) | Ins: Form 8857,  Request for Innocent Spouse Relief |
+| [i941sb](/ea/pmd/view.i941sb) | Ins: Schedule B (Form 941), Report of Tax Liability for Semiweekly Schedule Depositors |
