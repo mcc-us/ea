@@ -5,17 +5,13 @@ permalink: /
 ---
 
 <script>
-function buttonEA() { window.open("https://www.irs.gov/tax-professionals/enrolled-agents"); }
+function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup" "); }
 function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
-function buttonReddit() { window.open("https://www.reddit.com/r/enrolledagent/"); }
-function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup"); }
-function buttonPM() { window.open("https://www.prometric.com/test-takers/search/irs"); }
-function buttonAI() { window.open("https://gemini.google.com/app"); }
 </script>
 
-| <button onclick="buttonForms()">Find IRS Pubs & Forms</button> | <button onclick="buttonReddit()">EA-Reddit Info</button> | <button onclick="buttonPM()">Prometrics test-takers</button> |
+| <button onclick="buttonForms()">Find IRS Pubs & Forms</button> | [Reddit EA](https://www.reddit.com/r/enrolledagent/) | [Prometric.com Test-Takers](https://www.prometric.com/test-takers/search/irs) |
 |:-|:-|:-
-|  <button onclick="buttonFB()">Facebook EA Study Group</button> | <button onclick="buttonAI()">Gemini AI</button> | <button onclick="buttonEA()">IRS EA Info</button> |
+|  <button onclick="buttonFB()">Facebook EA Study Group</button> | [irs.gov/tax-professionals](https://www.irs.gov/tax-professionals) |
 
 | **Special Projects** | |
 |:--|:--|
