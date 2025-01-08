@@ -9,9 +9,9 @@ function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup"
 function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
 </script>
 
-| <button onclick="buttonForms()">Find IRS Pubs & Forms</button> | [Reddit EA](https://www.reddit.com/r/enrolledagent/) | [Prometric.com Test-Takers](https://www.prometric.com/test-takers/search/irs) |
+| <button onclick="buttonForms()">Find IRS Pubs & Forms</button> |   <button onclick="buttonFB()">Facebook EA Study Group</button> | |
 |:-|:-|:-
-|  <button onclick="buttonFB()">Facebook EA Study Group</button> | [irs.gov/tax-professionals](https://www.irs.gov/tax-professionals) |
+| [irs.gov/tax-professionals](https://www.irs.gov/tax-professionals) |[Reddit EA](https://www.reddit.com/r/enrolledagent/) | [Prometric.com Test-Takers](https://www.prometric.com/test-takers/search/irs) |
 
 | **Special Projects** | |
 |:--|:--|
