@@ -9,10 +9,6 @@ function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup"
 function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
 </script>
 
-```
-<script> function button() { window.open("address"); } </script> 
-<button onclick="button()">text</button>
-```
 
 | <button onclick="buttonForms()">Find IRS Pubs & Forms</button> | <button onclick="buttonFB()">Facebook EA Study Group</button> | |
 |:-|:-|:-|
