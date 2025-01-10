@@ -27,7 +27,7 @@ Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(As Des
 3. Form W-7 - Application for IRS Individual Taxpayer Identification Number (ITIN).
 4. Form W-9 - Request for Taxpayer Identification Number & Certification.
 
-Form 1099 series:
+### Form 1099 series:
 1. 1099-MISC - Miscellaneous Income.
 1. 1099-NEC - Nonemployee Compensation.
 1. 1099-INT - Interest Income.
