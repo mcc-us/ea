@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Hocks) Essential Forms, Etc.
+title: (Hocks) Essential Forms
 ---
 
 <script> function button1() { window.open(https://www.irs.gov/forms-instructions); } </script>
