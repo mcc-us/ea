@@ -14,7 +14,7 @@ Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(As Des
 ### Individual Tax Returns
 
 1. Form 1040 - Individual Income Tax Return.
-2. Form 1040-SR - Individual Income Tax Return for Seniors (aged 65+).
+2. Form 1040-SR - Individual Income Tax Return for Seniors (65+).
 3. Form 1040-NR - Nonresident Alien Income Tax Return.
 4. Form 1040-X - Amended Individual Income Tax Return.
 5. Form 4868 - Application for Automatic Extension of Time to File Individual
@@ -43,7 +43,7 @@ Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(As Des
 1. Schedule B - Interest & Ordinary Dividends.
 1. Schedule C - Profit / Loss from Business (Sole Proprietors).
 1. Schedule D - Capital Gains & Losses (e.g., sale of investments).
-1. Schedule E - Supplemental Income & Loss (rental, royalties, partnerships, S corporations).
+1. Schedule E - Supplemental Income & Loss (rental, royalties, partnerships, S-corporations).
 1. Schedule F - Profit / Loss from Farming.
 1. Schedule SE - Self-Employment Tax.
 1. Schedule 1 - Add'n Income & Adjustments to Income.
@@ -55,8 +55,8 @@ Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(As Des
 1. Schedule A - Itemized Deductions.
 1. Schedule B - Interest & Ordinary Dividends.
 1. Schedule C - Profit / Loss from Business (Sole Proprietors).
-1. Schedule D - Capital Gains & Losses (e.g., sale of investments).
-1.  Schedule E - Supplemental Income & Loss (rental, royalties, partnerships, S corporations).
+1. Schedule D - Capital Gains / Losses (e.g., sale of investments).
+1.  Schedule E - Supplemental Income / Loss (rental, royalties, partnerships, S corporations).
 1.  Schedule F - Profit / Loss from Farming.
 1.  Schedule SE - Self-Employment Tax.
 1.  Schedule 1 - Add'n Income & Adjustments to Income.
