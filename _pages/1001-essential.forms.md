@@ -6,7 +6,7 @@ title: Essential Forms, Etc.
 <script> function button1() { window.open(https://www.irs.gov/forms-instructions); } </script>
 <button onclick="button1()">Goto IRS Pubs</button>
 
-Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(As Described by K.Hock)
+Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(*By Kevin Hock*)
 
 > UNDER CONSTRUCTION
 {: .block-warning }
@@ -36,19 +36,6 @@ Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(As Des
 1. 1099-G - Government Payments (e.g., unemployment).
 1. 1099-K - Payment Card & Third-Party Network Transactions.
 1. 1099-S - Proceeds from Real Estate Transactions.
-
-### Schedules for Form 1040
-
-1. Schedule A - Itemized Deductions.
-1. Schedule B - Interest & Ordinary Dividends.
-1. Schedule C - Profit / Loss from Business (Sole Proprietors).
-1. Schedule D - Capital Gains & Losses (e.g., sale of investments).
-1. Schedule E - Supplemental Income & Loss (rental, royalties, partnerships, S-corporations).
-1. Schedule F - Profit / Loss from Farming.
-1. Schedule SE - Self-Employment Tax.
-1. Schedule 1 - Add'n Income & Adjustments to Income.
-1. Schedule 2 - Add'n Taxes.
-1. Schedule 3 - Add'n Credits & Payments.
 
 ### Schedules for Form 1040
 

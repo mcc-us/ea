@@ -9,7 +9,7 @@ function buttonFB() { window.open("https://www.facebook.com/groups/eastudygroup"
 function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); }
 </script>
 
-*EA docs compiled for 2023 tax year*
+*EA docs & info compiled for 2023 tax year*
 
 | <button onclick="buttonForms()">Find IRS Pubs & Forms</button> | <button onclick="buttonFB()">Facebook EA Study Group</button> | |
 |:-|:-|:-|
