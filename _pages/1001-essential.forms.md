@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essential Forms, Etc.
+title: (Hocks) Essential Forms, Etc.
 ---
 
 <script> function button1() { window.open(https://www.irs.gov/forms-instructions); } </script>
@@ -80,7 +80,7 @@ Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(*By Ke
 1.  Form 5329 - Add'n Taxes on Qualified Plans (early withdrawals, excess contributions).
 1.  Form 6251 - Alternative Minimum Tax (AMT).
 
-### Estate & Gift Tax
+### Estate & Gift Tax 
 
 1. Form 709 - Gift & Generation-Skipping Transfer Tax Return.
 1. Form 706 - Estate & Generation-Skipping Transfer Tax Return.
@@ -89,7 +89,10 @@ Essential forms, schedules, & amendments relevant for the EA Part 1 Exam.(*By Ke
 1. Schedule K-1 (Form 1041) - Beneficiary’s Share of Income, Deductions, & Credits.
 1. Form 56 - Notice Concerning Fiduciary Relationship.
 1. Form 1310 - Statement of Person Claiming Refund Due a Deceased Taxpayer.
-Miscellaneous & Administrative
+
+
+### Miscellaneous & Administrative
+
 1. Form 9465 - Installment Agreement Request.
 1. Form 8379 - Injured Spouse Allocation.
 1. Form 8857 - Request for Innocent Spouse Relief.
