@@ -5,6 +5,9 @@ layout: post
 
 | Schedule | Purpose |
 |:-----:|:--|
+|**1**| Additional Income & Adjustments to Income(ADD) |
+|**2**| Additional Taxes(ADD) |
+|**3**| Additional Credits & Payments(ADD) |
 | **A** | [Itemized Deductions](/ea/pmd/view.f1040sa/) |
 | **B** | [Int & Div](/ea/pmd/view.f1040sb) |
 | **C** | [P&L Sole Proprietor](/ea/pmd/view.f1040sc)  |
