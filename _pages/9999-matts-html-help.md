@@ -12,10 +12,10 @@ See also: [Jekyll Git Book theme](https://github.com/sighingnow/jekyll-gitbook)
 ```
 
 - **Buttons**
-
-<script> function button() { window.open("address"); } </script> 
+```
+<script> function button(){ window.open("address");} </script> 
 <button onclick="button()">text</button>
-
+```
 
 - **Add non-breaking space**
 
