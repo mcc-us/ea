@@ -47,8 +47,8 @@ title: Part1 Misc. Pubs
 | :white_check_mark:[f6251](/ea/pmd/view.f6251) Alternative Minimum Tax—Individuals |
 | [f6252](/ea/pmd/view.f6252)  |
 | [f656](/ea/pmd/view.f656) Offer in Compromise |
-| [f706a](/ea/pmd/view.f706a)  Addn Estate Tax Return |
-| :white_check_mark:[f706](/ea/pmd/view.f706)  Estate (and Generation-Skipping Transfer) Tax Return |
+| [f706a](/ea/pmd/view.f706a) Addn Estate Tax Return |
+| :white_check_mark:[f706](/ea/pmd/view.f706) Estate (and Generation-Skipping Transfer) Tax Return |
 | [f706sr1](/ea/pmd/view.f706sr1) Generation-Skipping Transfer Tax |
 | :white_check_mark:[f709](/ea/pmd/view.f709)  Gift (and Generation-Skipping Transfer) Tax Return |
 | :white_check_mark:[f7206](/ea/pmd/view.f7206) Self-Employed Health Insurance Deduction |
@@ -130,5 +130,5 @@ title: Part1 Misc. Pubs
 | [TAS Roadmap](/ea/pmd/view.TAS_Roadmap_32x32_v23_HQ)  |
 | [Dependency exemptions 4012](/ea/pmd/view.z-dependency_exemptions_4012)  |
 | [Filing status 4012](/ea/pmd/view.z-filing_status_4012) VITA/TCE Volunteer Resource Guide |
-| [Pub 4011 decision-tree](/ea/pmd/view.z-pub-4011-decision-tree)  |
+| [Pub 4011 Decision-tree](/ea/pmd/view.z-pub-4011-decision-tree) |
 
