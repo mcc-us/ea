@@ -13,8 +13,8 @@ content+="title: Part1 Misc. Pubs\n"
 content+="---\n\n"
 content+="<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>\n"
 content+="<button onclick=\"button1()\">Goto IRS Pubs</button>\n\n"
-content+="| Doc # | Title |\n"
-content+="|:--|:--|\n"
+content+="| Doc Title |\n"
+content+="|:--|\n"
 
 # Get list of all PDF files in the current directory
 pdf_files=( *.pdf )
