@@ -3,18 +3,18 @@
 # 1. PRODUCE PDF/Name markdown file
 
 # Define & Create the empty markdown file
-output_file="2000-part1-related.pdfs.md"
+output_file="2000-part1-misc.pubs.md"
 touch "$output_file"
 
 # Build header content
 content="---\n"
 content+="layout: post\n"
-content+="title: Part1 Related PDFs\n"
+content+="title: Part1 Misc. Pubs\n"
 content+="---\n\n"
 content+="<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>\n"
 content+="<button onclick=\"button1()\">Goto IRS Pubs</button>\n\n"
 content+="| Doc # | Title |\n"
-content+="|:--|:--|\n"  # Table separator line
+content+="|:--|:--|\n"
 
 # Get list of all PDF files in the current directory
 pdf_files=( *.pdf )
