@@ -30,7 +30,7 @@ do
   subject=$(pdfinfo "$pdf_file" | grep "Subject: ") 
 
   # Append table row to content
-  content+="| [$filename](/ea/pmd/view.$filename) | $subject |\n"
+  content+="| [$filename](/ea/pmd/view.$filename) $subject |\n"
 done
 
 # Write the final content to the markdown file
