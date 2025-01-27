@@ -17,7 +17,7 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 |[CCCC-Vita Program](https://www.capecod.edu/news/2024-news/cape-cod-community-college-to-host-free-vita-tax-preparation-service-events.html)|[Vita Gen. Info](https://www.capecodtimes.com/story/news/2024/02/18/cape-college-restarts-free-tax-preparation-help-community-college/72617447007/)|[CACCI](https://www.cacci.cc/)|
 
 
-[Shoba's Cheat sheet on AMT](/ea/pmd/view.AMT.EXPLAINED)
+[Shoba's Cheat sheet on AMT](/ea/pmd/view.AMT.EXPLAINED.ver2)
 
 ---
 
