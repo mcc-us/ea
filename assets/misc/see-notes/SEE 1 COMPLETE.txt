@@ -1,0 +1,463 @@
+﻿Domain 1: Preliminary Work & Taxpayer Data 14 Questions
+
+1.1. Preliminary work to prepare tax returns
+
+    1. Prior years' returns for comparison, accuracy & carryovers for current year's return
+    2. Taxpayer personal information (date of birth, marital status, dependents, id-protection PIN, Photo ID)
+    3. Residency status and/or citizenship (visas, green cards, resident alien or nonresident alien, ITIN, ATIN)
+    4. Filing requirements, due dates
+    5. Taxpayer filing status
+    6. Sources of worldwide taxable & nontaxable income (interest, wages, business, sales of property, dividends, rental income, flow-through entities, alimony received)
+    7. Sources of applicable exclusions & adjustments to gross income (foreign earned income exclusion, retirement plans, HSAs, alimony paid, health insurance, self-employment tax)
+    8. Sources of applicable deductions (itemized, standard)
+    9. Qualifications for dependency
+    10. Sources of applicable credits (education, foreign tax, child & dependent care, credit for other dependents, child tax credit)
+    11. Sources of tax payments & refundable credits
+    12. Previous IRS correspondence with taxpayer
+    13. Additional required returns to be filed & taxes paid (employment, gifts, international information returns & other information returns)
+    14. Special filing requirements (foreign income, presidentially declared disaster areas, injured spouse)
+    15. Foreign account & asset reporting (FBAR, Form 8938)
+    16. “Kiddie” tax - Minor children's unearned income
+    17. ACA requirements (AGI, premium tax credit, household size)
+
+
+MORE BASICS
+
+    • Residency status and/or citizenship: visas,green cards,resident alien or non-resident alien,ITIN, ATIN – W7 application
+
+Non-Resident Aliens:
+    NO tax on Worldwide income.
+    Taxed on US income.
+    No STD Deduction.
+    Substantial presence test (>183 days = 1st yr + 1/3(2nd yr) + 1/6(3rd yr).
+    Visa type important.
+
+Resident Aliens:
+    Taxed US & Worldwide income.
+    Tax treatment may differ based on specific visa type & length of stay.
+    Certain tax deductions & credits may be available.
+
+Green Card Holders:
+
+    Considered resident aliens for tax purposes.
+    Taxed on US & worldwide income.
+    May be eligible for certain tax benefits & credits.
+
+Student Visas:
+
+    Generally considered non-resident aliens unless meeting specific requirements for resident status. 
+    FIVE year look back for Substantial Presence.
+    May be subject to US tax on income earned within the US.
+    Exempt on scholarships & grants.
+
+    • Additional Resources:
+      
+    •     IRS Publication 519: U.S. Tax Guide for Aliens: https://www.irs.gov/forms-pubs/about-publication-519
+    •     IRS Publication 525: Taxable Income: https://www.irs.gov/forms-pubs/about-publication-525
+      
+    • Filing requirements / due dates
+    • 4/15, 2-month automatic extension Abroad,
+    • 6-month ext. F4868, 
+    • Military??
+    • Estimated Pay dates: 4/15, 6/15, 9/15, 1/15
+      
+    • Taxpayer filing status
+        ◦ Single, HOH – & legally separated, or married meeting the “considered unmarried” test  living apart for 6 months.
+    • MFS, MFJ:
+    • QSS - If spouse dies file MFJ then for 2 yrs file QSS, AFTER 3 yrs use HOH.
+
+
+    • Taxable & NON-Taxable income
+        ◦ Earned Income – wages, flow-through entities
+        ◦ UN-earned Income
+    • interest, 1099-INT, non-taxable MUNI bond INT ($10 threshold for 1099-INT)
+    • Dividends, 1099-DIV
+    • Property sales - P537-Installment Sales, P544-Sale of Assets, P523-Selling Home, Schedule D-cap. Gains, rental income,alimony received, note: alimony paid is NOT deductible
+    • 
+    • Sources of exclusions & adjustments to gross income
+        ◦ self-employment tax; Total FICA=15.3%, Medicare-1.45/2.9 SS-6.2/12.4 
+        ◦ foreign earned income exclusion 232K 
+        ◦ retirement plans, 
+        ◦ HSAs,
+        ◦ alimony paid, 
+        ◦ health insurance
+    • 
+    • Sources of applicable deductions:
+        ◦ itemized – Schedule A-itemized deductions
+        ◦ standard – S-13,850   HOH-19,000   MFJ-25,900
+        ◦ Blind & 65+ - 1,850
+      
+    • Qualifications for dependency
+        ◦ Age test- <19 or 24 & FT student or permanently disabled (no age limit)
+        ◦ Household Maintenance-provide >= 50% of cost of household, rent, utilities, food
+        ◦ Earnings tests <$4.7k
+        ◦ Qualified Children-biological/adopted child, stepchild, or foster child (not cousin)
+        ◦ Qualified Relative-Blood, marriage, parent, sibling, nephew, niece, grandparent, in-laws
+      
+    • Sources of applicable credits: education,foreign tax, child & dependent care,credit for other dependents, child tax credit,EITC
+
+    • Sources of tax payments & refundable credits
+      
+    • Previous IRS correspondence with taxpayer
+      
+    • Additional required returns to be filed, & taxes paid employment, De-minus gifts, international information returns & other information returns)
+      
+    • Special filing requirements: foreign income-see FBAR
+      
+    • Injured Spouse Relief, One party is hurt by the others past debts, Form 8379
+        ◦ Addresses situations when joint tax returns are filed
+          
+    • Innocent Spouse Relief, One party is innocent of a mistake made by the other,Form 8857
+        ◦ Addresses tax liability due to your spouse’s errors on the tax return & you want relief from the responsibility.
+          
+    • Presidentially declared disaster areas, 
+    • 
+    • Foreign account & asset reporting:FBAR, Financial Banking Act Report, FINCEN 114, e-file only, Form 8938
+      
+    • "Kiddie" tax-Minor children's:
+        ◦ EARNED INCOME is NOT included
+        ◦ UNEARNED INCOME exceeding $2,600 is taxed at the parent’s or guardian’s rate, Form 8615
+        ◦ < 19 years & Full-time students under 24 years
+      
+    • ACA requirements (total household income, premium tax credit, household size)
+
+
+Domain 2: Income & Assets
+
+2.1. Income
+
+
+    • Business types: Sole Proprietor, LLC, S-corp, C-corps, Estates, Trust
+      
+    • Taxable & NON-Taxable income
+        ◦ EARNED Income – wages, flow-through entities
+            ▪ Private bonds – 1099-DIV
+            ▪ 1099-NEC
+            ▪ Self-Employed
+        ◦ UNEARNED Income
+            ▪ interest, 1099-INT, non-taxable MUNI bond INT MUST BE LISTED, ($10 threshold for 1099-INT)
+            ▪ Dividends, 1099-DIV
+            ▪ Sales of property- P537-Installment Sales, P544-Sale of Assets, P523-Selling Home, Schedule D-cap. gains
+            ▪ rental income
+            ▪ alimony received, note: alimony paid is NOT deductible
+
+
+      BASIS of REAL Property
+        ◦ define: Cost Basis, Adjusted Basis, Basis Other Than Cost
+    • ADDS to Basis of property:
+        ◦ Sales tax.
+        ◦ Freight.
+        ◦ Installation & testing.
+        ◦ Excise taxes.
+        ◦ Legal & accounting fees (when they must be capitalized).
+        ◦ Revenue stamps.
+        ◦ Recording fees.
+    • Real estate taxes (if assumed by the seller).
+        ◦ Sales, Transfer & Excise taxes.
+        ◦ Real estate taxes (if assumed by the seller).
+        ◦ Freight & Shipping
+        ◦ Installation/testing.
+        ◦ Charges to utility services.
+        ◦ Legal fees (title search & sales contract preparation & deed).
+        ◦ Accounting fees (or may be capitalized).
+        ◦ Revenue stamps.
+        ◦ Recording fees.
+        ◦ Abstract title fees.
+        ◦ Surveys.
+        ◦ Owner’s title insurance.
+        ◦ Any amounts the seller owes that you agree to pay…
+    • NOT ADDED TO BASIS
+        ◦ Casualty insurance
+        ◦ Rent for occupancy of the property before closing.
+        ◦ Charges for utilities or other services related to occupancy
+        ◦ Charges connected with getting a loan.
+        ◦ Points, discount points
+        ◦ Mortgage insurance.
+        ◦ Loan assumption fees.
+        ◦ Cost of credit report.
+        ◦ Appraisal Fees by a lender.
+        ◦ Refinancing Fees
+    • 
+    • Basis of Gifts
+        ◦ 1. If the gift was worth more than what the giver paid for it: Your starting point (basis) is the same as what the giver paid for it.
+        ◦ 2. If the gift was worth less than what the giver paid for it: Your starting point (basis) is the value of the gift when you received it.
+
+    • Taxability of wages, salaries & other earnings
+    • Interest Income (taxable & non-taxable)
+    • Dividends & other distributions from mutual funds, corporations & other entities
+    • Personal property rental
+
+    • Gambling income & allowable deductions (Form W-2G, documentation)
+        ◦ Can ONLY Exp up to the limit you won.
+
+    • Tax treatment of cancellation of debt (Form 1099-C, foreclosures, insolvency)
+    • Tax treatment of a US citizen/resident with foreign income (tax treaties, Form 1116, Form 2555, Form 3520, Form 5471)
+
+    • Other
+        ◦ scholarships are not Income, If gift is paid directly to Uni then it is not taxed from IRA
+        ◦ barter income- fair market value 
+        ◦ hobby income – income IS reported but NO expenses taken EXCEPT COGS!
+        ◦ Alimony – Considered UNEARNED income, Alimony paid is NOT deductible.
+        ◦ NON-taxable combat pay – Income in combat(hazard duty) or while in hospital is not taxed. 
+        ◦ unearned income, 
+        ◦ taxable recoveries, 
+        ◦ NOL, 
+        ◦ illegal income
+
+    • Constructive receipt of income
+
+    • Constructive dividends (payments of personal expenses from a business entity)
+
+    • Passive income & loss
+
+    • Pass-through income
+        ◦ Schedule K-1 Partnerships, Think QBI
+        ◦ income, deductions, 
+        ◦ basis, 
+
+
+    • Intangible assets - Royalties, patents, copyrights, Franchises, trademarks & trade names are Supplemental Income, SCH.E
+
+    • SALT Cap. - State/local income tax refund & other itemized Deduction recoveries
+        ◦ SALT Deduction capped at $10,000 per year.
+
+    • 1099-MISC, 1099-NEC, 1099-K reporting, irregularities & corrections
+    • 1099-G: gov. income
+
+
+      QBI
+    • QBI - Section 199A allows business owners to deduct ~20% of qualified business income:
+https://www.youtube.com/watch?v=YrD7hG9EdiA
+Tax Cuts & Jobs Act (TCJA), “Trump cuts”
+Business MUST be in US, Don’t need to be active, CAN be passive income.
+Form 8995, i8995-p6
+
+Who can deduct: 
+        ◦ Sole Proprietors,
+        ◦ Self-Employed, 
+        ◦ Freelancers, 
+        ◦ Landlords
+        ◦ Trusts(most?), 
+        ◦ Estates, 
+        ◦ LLCs, 
+        ◦ S-corporations
+        ◦ NOT C-corporations
+        ◦ NOT Lawyers, CPAs, Consultants, Financial Services
+
+      Income from a passthrough entity:
+        ◦ Limited Liability Corporations,
+        ◦ Real estate investment (REIT - dividends)
+        ◦ Publicly traded partnerships (PTP income)
+        ◦ NOT Capital gains OR wages OR Guaranteed Payments
+        ◦ NOT Divs, INT, Annuities-Insurance
+
+Businesses fall into 2 categories:
+        ◦ Qualified Trades or Businesses (QTB)
+        ◦ Specialized Service Trades or Businesses (SSTB)
+
+	How does QBI work?
+        ◦ Income thresholds: Below, Med, Above Phase Out Range
+        ◦ BELOW - phase out
+            ▪ Lesser of 20% QBI or 20% Taxable income
+
+        ◦ MED - Take the lesser of {Below=20%QBI} or {Above=W2 wages}
+
+        ◦ ABOVE
+            ▪ (if you are SSTB then QBI=0)
+            ▪ Take Larger of (QBI=50% of W2-wages OR 25% W2-wages + 2.5% of PPE[Property, plant, equipment])
+
+    • "Kiddie" tax-Minor children's unearned income: 
+        ◦ EARNED Income is NOT included, 
+        ◦ UNEARNED income exceeding $2,600 is taxed at the parent’s or guardian’s rate, 
+        ◦ Form 8615
+        ◦ < 19 years & Full-time students under 24 years
+
+
+
+
+
+
+
+2.2. Retirement income
+
+    • Basis in a traditional IRA (Form 8606)
+        ◦ 59.5 - Withdraw earnings from IRA without penalty.
+        ◦ 72 - Traditional IRA RMDs.
+        ◦ $6500 - < 50 IRA contribution limit.
+        ◦ $7500 - > 50 IRA contribution limit.
+
+    • Roth IRAs
+
+
+    • Comparison of & distributions from traditional & Roth IRAs
+    • Distributions from qualified & non-qualified plans (pre-tax, after-tax, rollovers, Form 1099R, qualified charitable distribution)
+    • Excess contributions & tax treatment (penalties)
+    • Penalties & exceptions on premature distributions from qualified retirement plans & IRAs
+    • Prohibited transactions & tax consequences
+    • IRA conversions & recharacterization (Form 8606)
+
+    • RMD - Required minimum distributions
+    • Loans from qualified plans
+    • Taxability of Social Security & Railroad Retirement benefits
+
+    • Inherited retirement accounts - MUST be dispersed by 10th year
+
+    • Foreign pensions & retirement income
+
+2.3. Property, real & personal
+
+    • Sale or disposition of property including depreciation recapture rules & 1099A
+    • Capital gains: netting effect, short-term, long-term, mark-to-market, virtual currency)
+    • Basis of assets (purchased, gifted or inherited)
+    • Basis of stock after stock splits and/or stock dividends (research, schedules, brokerage re cords)
+    • Publicly traded partnerships (PTP) (sales, dispositions, losses)
+    • Sale of a personal residence (IRC sec 121 exclusions)
+    • Installment sales (related parties, original cost, date of acquisition, possible recalculations & recharacterization)
+    • Options (stock, commodity, ISO, ESPP)
+    • Like-kind exchange
+    • Non-business bad debts
+    • Investor versus trader
+    • Section 031 - allows one to DEFER capital gains when you sell ‘real estate’ investments or business property. One must reinvest the proceeds into another property of “like-kind exchange.” The exchange must be made with 180 days!! The tax is simply postponed until you eventually sell the replacement property.
+      
+
+2.4.Adjustments to Income
+
+    • Self-employment tax
+    • Retirement contribution limits & deductibility (earned compensation requirements)
+    • Health savings accounts
+    • Other adjustments to income (student loan interest, alimony, moving expenses for active military, write-in adjustments)
+    • Self-Employed Health Insurance
+    • Penalty for early CD withdrawal: (reported on 1099-INT) Adjustment to income on 1040.
+    • Student Loan Deduction: Higher Ed. loan interest. Self, spouse, or dependents. Not if MFS, not if TP can be claimed as a dependent. $2500 limit per return, has AGI limit. From financial institution only (on 1098-E if > $600). For degree, certificate, etc.
+    • SE health insurance deduction: Only if business has a profit after subtracting the 1/2 SE tax deduction. Can be wages from S-corp with > 2% share. Can't if either spouse eligible for work health insurance, even if decline it.
+    • Educator expenses up to $300 each. Not health courses (except athletics). P.E. only if athletic equipment. Not for home schooling. K-12 only, 900 hours/year min.
+
+
+Domain 3: Deductions & Credits 17 Questions
+
+3.1. Itemized deductions & QBI (see above)
+
+    • Medical, dental, vision, long-term care expenses
+    • Various taxes (state & local, personal property, real estate)
+    • Interest expense (mortgage interest, investment interest, tracing rules, points, indebtedness limitations)
+    • Charitable contributions (cash, non-cash, limitations, documentation required)
+    • Nonbusiness casualty & theft losses
+    • Other itemized deductions
+    • Itemized deductions for Form 1040-NR
+    • Qualified Business Income (QBI) deduction
+
+3.2. Credits
+
+    • Child & dependent care credit
+    • Child tax credit & credit for other dependents
+    • Education credits
+    • Foreign tax credit
+    • Earned income tax credit (paid preparer's earned income credit checklist, eligibility & disallowance)
+    • Adoption credits (carryovers, limitations, special needs)
+    • ACA premium tax credit
+    • Other credits (refundable & non-refundable) (health coverage tax credit, energy credits, Retirement savings contribution credit)
+
+
+Education Credits
+How to Claim the American Opportunity Tax Credit (AOTC) on Form 8863
+
+The U.S. provides generally 2 main tax credits / deductions for higher education expenses
+    1. American Opportunity Tax Credit (IRS Form 8863)
+    2. Lifetime Learning Tax Credit (IRS Form 8863)
+
+American Opportunity Tax Credit
+        Covers ONLY first 4 years of “Under-grad”
+        Preferable tax credit bc larger amounts & the credit is on a per student basis (for parents with multiple kids in college, can claim multiple credits in the same year)
+        The student must be pursuing a degree (they cannot simply be taking classes for fun or part of a non-degree program).
+        Credit up to $2,500 of education expenses.
+            100% of the first $2,000, & then 25% of expenses over 2k, but capped at 500.
+
+    Lifetime Learning tax Credit
+        Credit can apply all the way through grad-school, so it is not limited to the first 4 years of college.
+        Credit is available on a per taxpayer basis (only one person can claim per year).
+        Can be claimed even if not pursuing a degree (i.e., just taking classes for fun)
+
+    Example: John Doe is 20 years old & is enrolled as a full-time at a university studying Accounting. He is in his third year of college. John also works a full-time for a call center where he is allowed to work from home.
+
+    Example 2: Jon received form 1098-T which shows his tuition for the 2023 calendar year totaled $5,200 & his W2 wages from his job were 32,000. Jon has already claimed the AOTC for the previous two years (Freshman & Sophomore).
+
+GOOD-Table:How to Claim the American Opportunity Tax Credit (AOTC) on Form 8863
+
+FAIR: 2,500 College Educational Tuition Tax Credit American Opportunity Credit vs Life Learning Credit, JJ THE CPA
+
+
+Domain 4: Taxation 15 Items
+
+4.1. Taxation
+
+    • Alternative minimum tax & credit for prior year
+    • Household employees
+    • Underpayment penalties & interest
+    • Self-employment tax
+    • Excess Social Security withholding
+    • Tax provisions for members of the clergy
+    • Tax provisions for members of the military
+    • Income in respect of decedent
+    • Net investment income tax
+    • Additional Medicare tax
+    • Uncollected Social Security & Medicare tax
+    • Other taxes (first time homebuyer credit repayment)
+
+Domain 5: Advising the individual taxpayer 11 Questions
+
+5.1. Advising the Individual Taxpayer
+      
+    • Reporting obligations for individuals (1099, bartering, cash)
+    • Property sales (homes, stock, businesses, antiques, collectibles)
+    • Education planning (lifetime learning credit, IRC section 529 plans)
+    • Estate planning (gift versus inheritance, trusts, family partnerships, charitable giving, long- term care, life insurance)
+    • Retirement planning (annuities, IRAs, employer plans, early retirement rules, required minimum distribution, beneficiary ownership, charitable distributions from an IRA)
+    • Marriage & divorce (divorce settlement, common-law, community property, alimony)
+    • Items that will affect future/past returns (carryovers, net operating loss, Schedule D, Form 8801, negative QBI carryover)
+    • Injured spouse
+    • Innocent spouse
+    • Estimated tax & penalty avoidance (mid-year estimated tax planning)
+    • Adjustments, deductions & credits for tax planning (timing of income & expenses)
+    • Character of transaction (use of capital gain rates versus ordinary income rates)
+    • Advantages & disadvantages of MFJ/MFS/HOH filing statuses in various scenarios (joint & several liability)
+    • Conditions for filing a claim for refund (amended returns)
+    • Penalty of perjury
+
+Domain 6: Specialized Returns for Individuals 11 Questions
+
+6.1. Estate Tax
+
+    • Gross estate, taxable estate (calculations & payments), unified credit
+    • Jointly held property
+    • Marital deduction & other marital issues (portability election)
+    • Life insurance, IRAs & retirement plans
+    • Estate filing requirements & due dates (Form 706: Form 1041)
+
+6.2. Gift Tax
+
+    • Gift-splitting
+    • Annual exclusion
+    • Unified credit
+    • Effect on estate tax (Generation skipping transfer tax)
+    • Filing requirements (Form 709) 6.3.International Information Reporting
+    • Filing & reporting requirements & due dates (FBAR, Form 8938, Form 8865, Form 5471, Form 3520)
+    • Covered accounts (FBAR, Form 8938)
+    • Potential penalties (failure to file, under-reporting, substantially incomplete, statute of limitations, reduction of tax attributes)
+    • Distinctions between FBAR & Form 8938 requirements
+
+7. Extras
+
+1 	Addn Income & Adjustments to Income
+2 	Addn Taxes
+3 	Addn Credits & Payments
+A 	Itemized Deductions
+B 	Int & Div
+C 	P&L Sole Proprietor
+D 	Capital Gains / Loss
+E 	Supplemental Income
+F 	Farming/Fishing Income
+H 	Household Employment Taxes
+I 	Additional Information
+R 	Elderly & the Disabled
+K-1 	Partner’s Share of Income, Credits, Deductions
+X 	Amended Returns
