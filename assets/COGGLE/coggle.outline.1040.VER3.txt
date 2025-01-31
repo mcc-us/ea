@@ -1,0 +1,167 @@
+﻿1040
+
+
+
+    • SCH A: ITEM DEDUCTIONS
+        ◦ HOME MORTGAGE INT. & POINTS (F1098 FROM BANK) – are allowable deductions
+        ◦ MEDICAL MUST BE > 7.5% OF AGI
+        ◦ STATE & LOCAL TAX DEDUCTION (SALT) CAP: MFS $5K, MFJ $10K
+        ◦ GIFTS TO CHARITY, >$250
+        ◦ CARRYOVER - carryover can be used for the entire life of the taxpayer.
+        ◦ NON-CASH GIFTS (FORM 8283) - gifts are calculated based on FMV basis, Eg. cars
+        ◦ CAUSALITY & LOSS (FORM 4684) – See disasters, etc
+
+
+
+    • SCH 1: Adn INCOME
+        ◦ ATTY. FEES FOR AWARDS - can be deducted
+            ▪ See: [P4345](https://mcc-us.github.io/ea/pmd/view.p4345)
+            ▪ Tax implications of settlements & judgments
+            ▪ When you get money from a lawsuit, What is taxable?
+            ▪ 1. Physical Injuries or Illness
+                • Non-Taxable: If the settlement is for physical injuries or sickness & you didn’t claim medical expenses for these injuries before, you don’t have to pay taxes.
+                • Taxable: If you claimed medical expenses in previous years & got a tax benefit, the portion of the settlement covering those costs is taxable.
+            ▪ 2. Emotional Distress or Mental Anguish
+                • Non-Taxable: If connected to a physical injury or sickness, the rules are the same as above.
+                • Taxable: If unrelated to physical harm, you’ll pay taxes on it, but you can reduce the amount by subtracting medical costs not previously deducted.
+            ▪ 3. Lost Wages or Profits
+                • Employment Lawsuits: Money for lost wages (like back pay) is taxable & treated as regular income. Taxes will already (should) be deducted by whoever paid you.
+                • Bhttps://mcc-us.github.io/ea/pmd/view.p4345: Business-related gains/losses count as income & is subject to self-employment taxes.
+            ▪ 4. Property Damage
+                • Non-Taxable: If the settlement is less than your property’s value, you don’t owe taxes but must reduce your property’s value (basis) by the settlement amount.
+                • Taxable: If the settlement is more than the property’s value, you’ll pay taxes on the extra amount.
+            ▪ 5. Other Payments
+                • Interest: Taxable as regular interest income.
+                • Punitive Damages: Always taxable, even for personal injuries.
+            ▪ 6. Estimated Taxes
+                • If your taxes after credits & withholding's will be $1,000 or more, you might need to make estimated tax payments.
+            ▪ 7. Health Insurance & Settlements
+                • If you get a settlement that increases your income & you use Marketplace health insurance, inform the Marketplace to avoid issues with your tax credits.
+        ◦ ATTY. FEES FOR UNLAWFUL DISCRIMINATION CLAIMS - can be deducted
+        ◦ STUDENT LOAN INTEREST DEDUCTIONS
+            ▪ Topic no. 456
+            ▪ Deduct the lesser of ($2,500) or (the amount of interest you actually paid during the year). 
+        ◦ SELF EMPLOYMENT
+        ◦ SIMPLIFIED EMPLOYEE PENSION (SEP) INDIVIDUAL RETIREMENT ACCOUNT (IRA)
+        ◦ DEDUCTIBLE SELF EMPLOYMENT TAX
+        ◦ EDUCATOR EXP, MAX $300
+        ◦ MEDICARE WAIVER INCOME
+        ◦ SCHOLARSHIPS & EDUCATION
+        ◦ H.S.A. INCOME & DEDUCTIONS (FORM 8889)
+        ◦ CANCELLATION OF DEBT (FORM 1099-C)
+        ◦ GAMBLING, W2-G
+            ▪ IRS rules on gambling losses are strict—professional gamblers can deduct losses, but only up to the amount of their winnings. It’s not changing anytime soon because the IRS isn’t in the business of subsidizing risk.
+        ◦ UNEMPLOYMENT INCOME: Considered Unearned Inc.
+        ◦ RENTAL REAL ESTATE – Passive Income
+        ◦ SALT (State & Local Tax) REFUNDS; Deduction Cap @ $10,000/YR
+
+    • SCH 2: Adn TAXES
+        ◦ RECAPTURE LOW INCOME CREDIT (FORM 8611)
+        ◦ TAX DUE ON INSTALLMENT PAYMENT INTEREST
+            ▪ INSTALLMENT SALES CANNOT BE USED FOR INVENTORY OR STOCKS & BONDS
+            ▪ CALCULATE INSTALLMENT INCOME ([FORM 6252](https://www.irs.gov/pub/irs-pdf/f6252.pdf))
+            ▪ % PROFIT = PAYMENT / TOTAL
+            ▪ Filing MFS is one way to alleviate one spouse from the burden of paying another education bill
+            ▪ Filing MFS is one way to ensure a refund will be returned if one spouse has one & the other owes taxes.
+        ◦ SELF EMPLOYMENT TAX (ATTACH TO 1040-S.E.)
+            ▪ If net earnings are > $400, must pay self-employment tax.
+        ◦ AMT (FORM 6251)
+        ◦ ADVANCE PREMIUM TAX CREDIT FOR HEALTH INS.
+        ◦ FIRST TIME HOME BUYER CREDIT (FORM 5405)
+        ◦ Health Savings Accounts (HSA) DISTRIBUTIONS (FORM 8889)
+
+    • SCH B: INT & DIV
+        ◦ PART 1 & 2: INT & DIV
+        ◦ PART 3: FOREIGN ACTS & TRUSTS
+            ▪ TRIGGERS FBAR (FINCEN 114) Online Filing
+            ▪ TRIGGER (FORM 8938)
+            ▪ FBAR, Form 8938, Form 8865, Form 5471, Form 3520
+
+    • SCH 3: Adn CREDITS & PAYMENTS
+        ◦ EDUCATIONS CREDITS (FORM 8863): https://www.irs.gov/instructions/i8863
+            ▪ AOC (American Opportunity credit) – Only for 1st four year of Undergrad., American opportunity credit MAGI limits are: MFJ $180K, MFS $90K, NEED: Form 1098-T, Tuition Statement, Up to $2,500 credit per eligible student, must be pursuing a degree/cert. (2000 + 1/4 x Fee Up to $2,500), Felony drug conviction = NO GOOD, Qualified expenses = books, fees, tuition, NOT HOUSING, Enrolled least half-time, Must provide the educational institution's employer identification number (EIN) on your Form 8863
+            ▪ LLC (Lifetime Learning Credit) is only for post grad. Up to $2,000 credit per return. Available for an unlimited number of tax years. Student doesn't need to be pursuing degree. Nonrefundable—credit limited to the amount of tax you must pay on your taxable income,  Must provide the educational institution's employer identification number (EIN) on your Form 8863,  
+        ◦ FOREIGN TAX CREDIT (FORM 1116)
+        ◦ CHILD DEPENDENT CARE EXP (FORM 2241)
+        ◦ ADOPTION CREDIT (FORM 8839)
+            ▪ For each qualifying child, you can get a maximum tax credit of $16,810, and your employer can exclude up to the same amount in dependent care benefits from your income. If your MAGI (modified adjusted gross income) is > $252K, this amount starts to decrease. Once your income is > $292K you don't get any credit or exclusion.
+
+    • SCH C: P/L BUSINESS
+        ◦ **Q. DID YOU "MATERIALLY PARTICIPATE" IN OPERATIONS OF BUSINESS?**
+        ◦ **NOTE:** SCH C IS NO DIFFERENT THAN COMPANY BALANCE SHEET
+        ◦ PART1: INCOME
+        ◦ PART2: EXPENSES; *NOTE DEPRECIATION*
+        ◦ PART 3: COGS
+        ◦ PART 4: VEHICLE USAGE
+        ◦ PART 5: OTHER EXP.
+
+    • SCH 8: QUAL. CHILD & DEPENDENT CREDITS
+        ◦ NO. OF CHILDREN X $2,000
+        ◦ NO. OF DEPENDENT X $500
+        ◦ FILING STATUS: MFJ $400K, ALL OTHERS $200K
+        ◦ IFF INCOME OVER DEDUCTION X 5% FOR CREDIT
+
+    • SCH D: CAP. GAINS
+        ◦ PART 1: SHORT TERM CAP. GAINS
+            ▪ Contingent Sales Are Settled On The Year They Are Paid.
+            ▪ Installment Income ([P537](https://mcc-us.github.io/ea/pmd/view.p537))
+            ▪ Related Party Sale
+                • If you sell items to a family member or closely related business using installments & they then sell that property before finishing the payments to you, the IRS may treat a portion of their gain as if you received it.
+                • CALC. INSTALLMENT INCOME ([FORM 6252](https://www.irs.gov/pub/irs-pdf/f6252.pdf))
+                • INSTALLMENT SALES CANNOT BE USED FOR INVENTORY OR STOCKS & BONDS
+                • % PROFIT = PAYMENT / TOTAL
+            ▪ Sale Of Cap. Assets 1099-b (form 8949) *reported & not reported*
+        ◦ SHORT TERM GAINS FROM "K-1" PARTNERS, TRUSTS, ESTATES, S-CORPS
+        ◦ CASUALTIES & THEFTS (FORM 4684)
+        ◦ CONTRACT SEC. 1256 (FORM 6781)
+        ◦ LIKE-KIND EXCHANGE (FORM 8824)
+        ◦ SHORT TERM CARRYOVER
+    • PART 2: LONG TERM GAINS
+        ◦ SHAREHOLDER DISTRIBUTED CAP. GAINS
+        ◦ SALES OF CAP. ASSETS (FORM 8949) 1099-B
+        ◦ SALE OF BUSINESS PROPERTY (FORM 4797)
+        ◦ INSTALLMENT SALE INC. (FORM 6252)
+        ◦ LONG TERM CARRYOVER
+        ◦ QUALIFIED DIVS & GAINS
+            ▪ **?? 28% RATE GAIN WORKSHEET ??**
+            ▪ **?? UNRECAPTURED SEC. 1250 GAIN ??**
+
+    • SCH E: SUPPLEMENTAL INCOME
+        ◦ Passive Rental Inc.
+            ▪ NOTE: Fair rental days **START ONLY** when Ad is placed & unit is "ready to go"
+            ▪ **REMEMBER** NO EXPENSES CAN BE TAKEN UNTIL THE RENTAL UNIT IS "READY TO GO"
+        ◦ Inc. From Partnerships (k-1) & S-Corps
+        ◦ Depreciation & Amortization (FORM  4562)
+        ◦ Intangible Assets: Royalties, patents, copyrights, franchises, trademarks & trade names ARE Supplemental Income.
+
+    • 1040-X AMENDED RETURNS
+
+    • SCH F: FARM/FISH INCOME
+        ◦ Use: Cash Or Accrual Method Of Act?
+        ◦ DUE DATE: JAN 15 OR EXT. MARCH 1
+
+    • SCH H: HOUSEHOLD EMP. "NANNY TAX"
+        ◦ Employees **Cannot Be Spouse, Child(<21yr), Parent** (Gen. Family Not Employees)
+        ◦ Must Meet **$2,600 Threshold Per Employee**
+        ◦ Household Is **Not** Req. To Withhold Tax & Fica Unless Asked.
+        ◦ State May Req. **Futa & Suta**
+        ◦ Hi Value Employees Must File W2 For Employees
+
+    • 1040-ES (ESTIMATED TAX)
+        ◦ SS Tax Cap = $147K
+        ◦ Quarterly Payments: April, June, September, Jan
+        ◦ SS+FICA: 15.3% (12.4, 2.9)
+        ◦ SE Is Triggered @ $400
+        ◦ 0.9% Additional Medicare Tax Above: MFS $125k, MFJ $250k
+
+1041 - Income Tax Return for Estates and Trusts
+
+    • Income
+        ◦ Interest & dividends 
+        ◦ b Qualified dividends allocable to: (1) Beneficiaries (2) Estate or trust
+        ◦ Business income or (loss). Attach Schedule C (Form 1040)
+        ◦ Capital gain or (loss). Attach Schedule D (Form 1041) 
+        ◦ Rents, royalties, partnerships, other estates and trusts, etc. Attach Schedule E (Form 1040) 
+        ◦ Farm income or (loss). Attach Schedule F (Form 1040)
+        ◦ Ordinary gain or (loss). Attach Form 4797
+        ◦ 
