@@ -18,7 +18,7 @@ for filename in *.pdf; do
 
   # If the markdown file already exists, skip or overwrite
   if [ -f "$markdown_file" ]; then
-    echo "$markdown_file already exists. Skipping..."
+    echo "OK"
     continue
   fi
 
@@ -28,7 +28,7 @@ for filename in *.pdf; do
   content+="title: $filename_no_ext\n"
   content+="---\n\n"
   content+="<div class=\"pdf-container\">\n"
-  content+="<iframe src=\"/ea/assets/pdfs/pub.n.ins/$filename\" height=\"600\" width=\"100%\" allowFullScreen=\"true\"></iframe>\n"
+  content+="<iframe src=\"/ea/assets/pdfs/pubs.n.ins/$filename\" height=\"600\" width=\"100%\" allowFullScreen=\"true\"></iframe>\n"
   content+="</div>\n"
 
   # Write the content to the markdown file in the output directory
