@@ -9,7 +9,7 @@ title: Part1 Pubs & Instructions
 | Doc Title |
 |:--|
 | [AMT.EXPLAINED.ver2](/ea/pmd/view.AMT.EXPLAINED.ver2)  |
-| [i1040gi](/ea/pmd/view.i1040gi) 1040, Ins: |
+| [i1040gi](/ea/pmd/view.i1040gi) Ins: 1040 |
 | [i1040sb](/ea/pmd/view.i1040sb) 2024 Ins: Schedule B (Form 1040), Interest & Ordinary Dividends |
 | [i1040sc](/ea/pmd/view.i1040sc) 2024 Ins: Schedule C, Profit or Loss From Business |
 | [i1040sd](/ea/pmd/view.i1040sd) 2023 Ins: Schedule D, Capital Gains & Losses |
