@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part1 FORMS ONLY
+title: Part1 Forms
 ---
 
 <script> function button1() { window.open(https://www.irs.gov/forms-pubs); } </script>
