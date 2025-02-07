@@ -3,7 +3,7 @@
 # 1. PRODUCE PDF/Name markdown file
 
 # Define & Create the empty markdown file
-output_file="1000-hock-pubs.md"
+output_file="1000-only-forms.md"
 touch "$output_file"
 
 # Build header content
@@ -54,8 +54,8 @@ echo "Table complete"
 # Perform the replacement using sed with in-place editing (-i) flag
 
 sed -i 's/Subject:         //' "$output_file"
-sed -i 's/Instructions for /Ins: /' "$output_file"
-sed -i 's/Instructions /Ins: /' "$output_file"
+sed -i 's/Instructions for //' "$output_file"
+sed -i 's/Instructions //' "$output_file"
 sed -i 's/U.S.//' "$output_file"
 sed -i 's/United States//' "$output_file"
 sed -i 's/ and / \& /' "$output_file"
@@ -64,12 +64,9 @@ sed -i 's/ Additional / Addn /' "$output_file"
 sed -i 's/Individual Retirement Arrangements (IRAs)/IRAs/' "$output_file"
 sed -i 's/Identification/ID/' "$output_file"
 sed -i 's/REPORT OF FOREIGN BANK \& FINANCIAL ACCOUNTS (FBAR) REFERENCE GUIDE/Foreign Bank \& Financial Acts (FBAR) Guide/' "$output_file"
-
+sed -i "s/"_Internal.Revenue.Service"/""/g" "$file"
+sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
   
 #sed -i 's/(American Opportunity  and  Lifetime Learning Credits)/AOTC & LLC/' "$file"
-
-#Application
-#sed -i "s/"_Internal.Revenue.Service"/""/g" "$file"
-#sed -i "s/" before the Internal Revenue Service"/""/g" "$file"
 
 echo "FINI"

@@ -3,13 +3,13 @@
 # 1. PRODUCE PDF/Name markdown file
 
 # Define & Create the empty markdown file
-output_file="2000-part1-misc.pubs.md"
+output_file="2000-pubs-ins.md"
 touch "$output_file"
 
 # Build header content
 content="---\n"
 content+="layout: post\n"
-content+="title: Part1 Misc. Pubs\n"
+content+="title: Part1 Pubs & Instructions\n"
 content+="---\n\n"
 content+="<script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>\n"
 content+="<button onclick=\"button1()\">Goto IRS Pubs</button>\n\n"
@@ -54,8 +54,8 @@ echo "Table complete"
 # Perform the replacement using sed with in-place editing (-i) flag
 
 sed -i 's/Subject:         //' "$output_file"
-sed -i 's/Instructions for /Ins: /' "$output_file"
-sed -i 's/Instructions /Ins: /' "$output_file"
+sed -i 's/Instructions for //' "$output_file"
+sed -i 's/Instructions //' "$output_file"
 sed -i 's/U.S.//' "$output_file"
 sed -i 's/United States//' "$output_file"
 sed -i 's/ and / \& /' "$output_file"

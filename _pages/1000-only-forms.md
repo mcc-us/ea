@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part1 Forms
+title: Part1 Related PDFs
 ---
 
 <script> function button1() { window.open(https://www.irs.gov/forms-pubs); } </script>
@@ -8,7 +8,7 @@ title: Part1 Forms
 
 | Doc # | Title |
 |:--|:--|
-| [f1040es](/ea/pmd/view.f1040es) | Form 1040-ES, Estimated Tax for Individuals |
+| [f1040es](/ea/pmd/view.f1040es) | F1040-ES, Estimated Tax for Individuals |
 | [f1040nr](/ea/pmd/view.f1040nr) |  Nonresident Alien Income Tax Return |
 | [f1040s1](/ea/pmd/view.f1040s1) | Addn Income & Adjustments to Income |
 | [f1040s2](/ea/pmd/view.f1040s2) | Addn Taxes |
@@ -50,6 +50,8 @@ title: Part1 Forms
 | [f4684](/ea/pmd/view.f4684) | Casualties & Thefts |
 | [f4797](/ea/pmd/view.f4797) | Sales of Business Property (Also Involuntary Conversions & Recapture Amounts Under Sections 179 and 280F(b)(2)) |
 | [f4868-auto-extension](/ea/pmd/view.f4868-auto-extension) | App. for Automatic Extension of Time To File  Individual Income Tax Return |
+| [f5305sep](/ea/pmd/view.f5305sep) | Simplifies Employee Pension-Individual Retirement Accounts Contribution Agreement |
+| [f5405](/ea/pmd/view.f5405) | Repayment of the First-Time Homebuyer Credit |
 | [f56](/ea/pmd/view.f56) | Notice Concerning Fiduciary Relationship |
 | [f6251](/ea/pmd/view.f6251) | Alternative Minimum Tax—Individuals |
 | [f6252](/ea/pmd/view.f6252) |  |
@@ -62,6 +64,7 @@ title: Part1 Forms
 | [f8332](/ea/pmd/view.f8332) | Release/Revocation of Release of Claim to Exemption for Child by Custodial Parent |
 | [f843](/ea/pmd/view.f843) | Claim for Refund & Request for Abatement |
 | [f8453](/ea/pmd/view.f8453) |  Individual Income Tax Transmittal for an IRS e-file Return |
+| [f8582](/ea/pmd/view.f8582) | Passive Activity Loss Limitations |
 | [f8606](/ea/pmd/view.f8606) | Nondeductible IRAs |
 | [f8615](/ea/pmd/view.f8615) | Tax for Certain Children Who Have Unearned Income  |
 | [f8814](/ea/pmd/view.f8814) | Parents' Election To Report Child's Interest & Dividends |
@@ -79,9 +82,10 @@ title: Part1 Forms
 | [f8959](/ea/pmd/view.f8959) | Addn Medicare Tax |
 | [f8960](/ea/pmd/view.f8960) | Net Investment Income Tax—Individuals, Estates, & Trusts |
 | [f8995](/ea/pmd/view.f8995) | Qualified Business Income Deduction Simplified Computation |
-| [f940](/ea/pmd/view.f940) | Employer's Annual Federal Unemployment (FUTA) Tax Return |
-| [f941](/ea/pmd/view.f941) | Employer's QUARTERLY Federal Tax Return |
+| [f940](/ea/pmd/view.f940) | Employers Annual Federal Unemployment (FUTA) Tax Return |
+| [f941](/ea/pmd/view.f941) | Employers QUARTERLY Federal Tax Return |
 | [f9465](/ea/pmd/view.f9465) | Installment Agreement Request |
+| [f982](/ea/pmd/view.f982) | Reduction of Tax Attributes Due to Discharge of Indebtedness (and Section 1082 Basis Adjustment) |
 | [Form.Instructions.982](/ea/pmd/view.Form.Instructions.982) | Reduction of Tax Attributes Due to Discharge of Indebtedness (and Section 1082 Basis Adjustment) |
 | [fs-2024-30](/ea/pmd/view.fs-2024-30) | FS-2024-30, September 2024 |
 | [fss4](/ea/pmd/view.fss4) | App. for Employer ID Number |
@@ -90,6 +94,4 @@ title: Part1 Forms
 | [fw4](/ea/pmd/view.fw4) | Employee's Withholding Certificate |
 | [fw7](/ea/pmd/view.fw7) | App. for IRS Individual Taxpayer ID Number |
 | [fw9](/ea/pmd/view.fw9) | Request for Taxpayer ID Number & Certification |
-| [i56](/ea/pmd/view.i56) | Ins: Form 56, Notice Concerning Fiduciary Relationship |
-| [p4345](/ea/pmd/view.p4345) | Settlements—Taxability |
 
