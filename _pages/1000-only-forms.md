@@ -8,7 +8,7 @@ title: Part1 Forms
 
 | Doc # | Title |
 |:--|:--|
-| [f1040es](/ea/pmd/view.f1040es) | F1040-ES, Estimated Tax for Individuals |
+| [f1040es](/ea/pmd/view.f1040es.md) | F1040-ES, Estimated Tax for Individuals |
 | [f1040nr](/ea/pmd/view.f1040nr) |  Nonresident Alien Income Tax Return |
 | [f1040s1](/ea/pmd/view.f1040s1) | Addn Income & Adjustments to Income |
 | [f1040s2](/ea/pmd/view.f1040s2) | Addn Taxes |
