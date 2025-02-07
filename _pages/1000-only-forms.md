@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Part1 Related PDFs
+title: Part1 Forms
 ---
 
 <script> function button1() { window.open(https://www.irs.gov/forms-pubs); } </script>
@@ -70,7 +70,7 @@ title: Part1 Related PDFs
 | [f8814](/ea/pmd/view.f8814) | Parents' Election To Report Child's Interest & Dividends |
 | [f8822b](/ea/pmd/view.f8822b) | Change of Address or Responsible Party - Business |
 | [f8822](/ea/pmd/view.f8822) | Change of Address |
-| [f8824](/ea/pmd/view.f8824) | Like-Kind Exchanges (and section 1043 conflict-of-interest sales) |
+| [f8824](/ea/pmd/view.f8824) | Like-Kind Exchanges (& section 1043 conflict-of-interest sales) |
 | [f8857](/ea/pmd/view.f8857) | Request for Innocent Spouse Relief  |
 | [f8863](/ea/pmd/view.f8863) | Education Credits (American Opportunity & Lifetime Learning Credits) |
 | [f8867](/ea/pmd/view.f8867) | Paid Preparer's Due Diligence Checklist |
