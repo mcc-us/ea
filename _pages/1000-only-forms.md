@@ -8,8 +8,8 @@ title: Part1 Forms
 
 | Doc # | Title |
 |:--|:--|
-| [f1040es](/ea/pmd/view.f1040es.md) | F1040-ES, Estimated Tax for Individuals |
-| [f1040nr](/ea/pmd/view.f1040nr) |  Nonresident Alien Income Tax Return |
+| [f1040es](/ea/pmd/view.f1040es) | F1040-ES, Estimated Tax for Individuals |
+| [f1040nr](/ea/pmd/view.f1040nr) | Nonresident Alien Income Tax Return |
 | [f1040s1](/ea/pmd/view.f1040s1) | Addn Income & Adjustments to Income |
 | [f1040s2](/ea/pmd/view.f1040s2) | Addn Taxes |
 | [f1040s3](/ea/pmd/view.f1040s3) | Addn Credits & Payments |
@@ -18,17 +18,17 @@ title: Part1 Forms
 | [f1040sb](/ea/pmd/view.f1040sb) | Interest & Ordinary Dividends |
 | [f1040sc](/ea/pmd/view.f1040sc) | Profit or Loss From Business (Sole Proprietorship) |
 | [f1040sd](/ea/pmd/view.f1040sd) | Capital Gains & Losses |
-| [f1040sei](/ea/pmd/view.f1040sei) | Earned Income Credit  |
+| [f1040sei](/ea/pmd/view.f1040sei) | Earned Income Credit |
 | [f1040se](/ea/pmd/view.f1040se) | Supplemental Income & Loss |
 | [f1040sf](/ea/pmd/view.f1040sf) | Profit or Loss From Farming |
 | [f1040sh](/ea/pmd/view.f1040sh) | Household Employment Taxes |
-| [f1040s](/ea/pmd/view.f1040s) |  Tax Return for Seniors |
-| [f1040x](/ea/pmd/view.f1040x) | Amended  Individual Income Tax Return |
-| [f1041](/ea/pmd/view.f1041) |  Income Tax Return for Estates & Trusts |
-| [f1065](/ea/pmd/view.f1065) |  Return of Partnership Income |
+| [f1040s](/ea/pmd/view.f1040s) | Tax Return for Seniors |
+| [f1040x](/ea/pmd/view.f1040x) | Amended Individual Income Tax Return |
+| [f1041](/ea/pmd/view.f1041) | Income Tax Return for Estates & Trusts |
+| [f1065](/ea/pmd/view.f1065) | Return of Partnership Income |
 | [f1065sk1](/ea/pmd/view.f1065sk1) | Partner's Share of Income, Deductions, Credits, etc. |
 | [f1095a](/ea/pmd/view.f1095a) | Health Insurance Marketplace Statement |
-| [f1098](/ea/pmd/view.f1098) | Mortgage Interest Statement  |
+| [f1098](/ea/pmd/view.f1098) | Mortgage Interest Statement |
 | [f1098q](/ea/pmd/view.f1098q) | Qualified Longevity Annuity Contract Information |
 | [f1098t](/ea/pmd/view.f1098t) | Tuition Statement |
 | [f1099c](/ea/pmd/view.f1099c) | Cancellation of Debt |
@@ -49,29 +49,29 @@ title: Part1 Forms
 | [f4562](/ea/pmd/view.f4562) | Depreciation & Amortization (Including Information on Listed Property) |
 | [f4684](/ea/pmd/view.f4684) | Casualties & Thefts |
 | [f4797](/ea/pmd/view.f4797) | Sales of Business Property (Also Involuntary Conversions & Recapture Amounts Under Sections 179 and 280F(b)(2)) |
-| [f4868-auto-extension](/ea/pmd/view.f4868-auto-extension) | App. for Automatic Extension of Time To File  Individual Income Tax Return |
+| [f4868-auto-extension](/ea/pmd/view.f4868-auto-extension) | App. for Automatic Extension of Time To File Individual Income Tax Return |
 | [f5305sep](/ea/pmd/view.f5305sep) | Simplifies Employee Pension-Individual Retirement Accounts Contribution Agreement |
 | [f5405](/ea/pmd/view.f5405) | Repayment of the First-Time Homebuyer Credit |
 | [f56](/ea/pmd/view.f56) | Notice Concerning Fiduciary Relationship |
 | [f6251](/ea/pmd/view.f6251) | Alternative Minimum Tax—Individuals |
-| [f6252](/ea/pmd/view.f6252) |  |
+| [f6252](/ea/pmd/view.f6252) | |
 | [f656](/ea/pmd/view.f656) | Offer in Compromise |
-| [f706a](/ea/pmd/view.f706a) |  Addn Estate Tax Return |
-| [f706](/ea/pmd/view.f706) |  Estate (and Generation-Skipping Transfer) Tax Return |
+| [f706a](/ea/pmd/view.f706a) | Addn Estate Tax Return |
+| [f706](/ea/pmd/view.f706) | Estate (and Generation-Skipping Transfer) Tax Return |
 | [f706sr1](/ea/pmd/view.f706sr1) | Generation-Skipping Transfer Tax |
-| [f709](/ea/pmd/view.f709) |  Gift (and Generation-Skipping Transfer) Tax Return |
+| [f709](/ea/pmd/view.f709) | Gift (and Generation-Skipping Transfer) Tax Return |
 | [f7206](/ea/pmd/view.f7206) | Self-Employed Health Insurance Deduction |
 | [f8332](/ea/pmd/view.f8332) | Release/Revocation of Release of Claim to Exemption for Child by Custodial Parent |
 | [f843](/ea/pmd/view.f843) | Claim for Refund & Request for Abatement |
-| [f8453](/ea/pmd/view.f8453) |  Individual Income Tax Transmittal for an IRS e-file Return |
+| [f8453](/ea/pmd/view.f8453) | Individual Income Tax Transmittal for an IRS e-file Return |
 | [f8582](/ea/pmd/view.f8582) | Passive Activity Loss Limitations |
 | [f8606](/ea/pmd/view.f8606) | Nondeductible IRAs |
-| [f8615](/ea/pmd/view.f8615) | Tax for Certain Children Who Have Unearned Income  |
+| [f8615](/ea/pmd/view.f8615) | Tax for Certain Children Who Have Unearned Income |
 | [f8814](/ea/pmd/view.f8814) | Parents' Election To Report Child's Interest & Dividends |
 | [f8822b](/ea/pmd/view.f8822b) | Change of Address or Responsible Party - Business |
 | [f8822](/ea/pmd/view.f8822) | Change of Address |
 | [f8824](/ea/pmd/view.f8824) | Like-Kind Exchanges (& section 1043 conflict-of-interest sales) |
-| [f8857](/ea/pmd/view.f8857) | Request for Innocent Spouse Relief  |
+| [f8857](/ea/pmd/view.f8857) | Request for Innocent Spouse Relief |
 | [f8863](/ea/pmd/view.f8863) | Education Credits (American Opportunity & Lifetime Learning Credits) |
 | [f8867](/ea/pmd/view.f8867) | Paid Preparer's Due Diligence Checklist |
 | [f8879](/ea/pmd/view.f8879) | IRS e-file Signature Authorization |

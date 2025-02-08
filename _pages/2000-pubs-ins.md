@@ -9,41 +9,41 @@ title: Part1 Pubs & Instructions
 | Doc | Title |
 |:--|:--|
 | [AMT.EXPLAINED.ver2](/ea/pmd/view.AMT.EXPLAINED.ver2) | |
-| [i1040gi](/ea/pmd/view.i1040gi)  | Ins: 1040 |
-| [i1040sb](/ea/pmd/view.i1040sb) | 2024 Ins: Schedule B (Form 1040), Interest & Ordinary Dividends |
+| [i1040gi](/ea/pmd/view.i1040gi) | Ins: 1040 |
+| [i1040sb](/ea/pmd/view.i1040sb) | 2024 Ins: Schedule B (F1040), Interest & Ordinary Dividends |
 | [i1040sc](/ea/pmd/view.i1040sc) | 2024 Ins: Schedule C, Profit or Loss From Business |
 | [i1040sd](/ea/pmd/view.i1040sd) | 2023 Ins: Schedule D, Capital Gains & Losses |
 | [i1040sh](/ea/pmd/view.i1040sh) | 2024 Ins: Schedule H, HouseholdEmployment Taxes |
 | [i1040tt](/ea/pmd/view.i1040tt) | 1040 Tax & Earned Income Credit Tables  |
-| [i1040x](/ea/pmd/view.i1040x) | Ins: Form 1040-X, Amended Return |
-| [i1041](/ea/pmd/view.i1041) | Ins: Form 1041 & Schedules A, B, G, J, and K-1 ,  Income Tax Return for Estates and Trusts |
-| [i1041sd](/ea/pmd/view.i1041sd) | Ins: Schedule D (Form 1041), Capital Gains & Losses |
-| [i1065](/ea/pmd/view.i1065) | Ins: Form 1065, Return of Partnership Income  |
+| [i1040x](/ea/pmd/view.i1040x) | Ins: F1040-X, Amended Return |
+| [i1041](/ea/pmd/view.i1041) | Ins: F1041 & Schedules A, B, G, J, and K-1 ,  Income Tax Return for Estates and Trusts |
+| [i1041sd](/ea/pmd/view.i1041sd) | Ins: Schedule D (F1041), Capital Gains & Losses |
+| [i1065](/ea/pmd/view.i1065) | Ins: F1065, Return of Partnership Income  |
 | [i1098et](/ea/pmd/view.i1098et) | Ins: Forms 1098-E & 1098-T, Student Loan Interest Statement and Tuition Statement |
-| [i1098](/ea/pmd/view.i1098) | Ins: Form 1098, Mortgage Interest Statement |
+| [i1098](/ea/pmd/view.i1098) | Ins: F1098, Mortgage Interest Statement |
 | [i1099ac](/ea/pmd/view.i1099ac) | Ins: Forms 1099-A & 1099-C, Acquisition or Abandonment of Secured Property and Cancellation of Debt |
 | [i1099mec](/ea/pmd/view.i1099mec) | Ins: Forms 1099-MISC & 1099-NEC, Miscellaneous Information and Nonemployee Compensation |
-| [i1099s](/ea/pmd/view.i1099s) | Ins: Form 1099-S, Proceeds From Real Estate Transactions |
-| [i2555](/ea/pmd/view.i2555) | Ins: Form 2555, Foreign Earned Income |
-| [i2848](/ea/pmd/view.i2848) | Ins: Form 2848, Power of Attorney & Declaration of Representative |
-| [i5329](/ea/pmd/view.i5329) | Ins: Form 5329, Addn Taxes on Qualified Plans (Including IRAs) & Other Tax-Favored Accounts |
-| [i5405](/ea/pmd/view.i5405) | Ins: Form 5405, Repayment of the First-Time Homebuyer Credit |
-| [i56](/ea/pmd/view.i56) | Ins: Form 56, Notice Concerning Fiduciary Relationship |
-| [i6251](/ea/pmd/view.i6251) | Ins: Form 6251, Alternative Minimum Tax—Individuals |
-| [i706](/ea/pmd/view.i706) | Ins: Form 706,  Estate (and Generation-Skipping Transfer) Tax Return |
-| [i843](/ea/pmd/view.i843) | Ins: Form 843, Claim for Refund & Request for Abatement |
-| [i8606](/ea/pmd/view.i8606) | Ins: Form 8606, Nondeductible IRAs  |
-| [i8821](/ea/pmd/view.i8821) | Ins: Form 8821,  Tax Information Authorization |
-| [i8857](/ea/pmd/view.i8857) | Ins: Form 8857,  Request for Innocent Spouse Relief |
-| [i8863](/ea/pmd/view.i8863) | Ins: Form 8863, Education Credits (American Opportunity & Lifetime Learning Credits) |
-| [i8936](/ea/pmd/view.i8936) | Ins: Form 8936, Clean Vehicle Credits (and Schedule A (Form 8936), Clean Vehicle Credit Amount)  |
-| [i8995](/ea/pmd/view.i8995) | Ins: Form 8995, Qualified Business Income Deduction Simplified Computation |
-| [i941sb](/ea/pmd/view.i941sb) | Ins: Schedule B (Form 941), Report of Tax Liability for Semiweekly Schedule Depositors |
-| [iss4](/ea/pmd/view.iss4) | Ins: Form SS-4, App. for Employer ID Number (EIN) |
-| [iss8](/ea/pmd/view.iss8) | Ins: Form SS-8, Determination of Worker Status for Purposes of Federal Employment Taxes & Income Tax Withholding |
+| [i1099s](/ea/pmd/view.i1099s) | Ins: F1099-S, Proceeds From Real Estate Transactions |
+| [i2555](/ea/pmd/view.i2555) | Ins: F2555, Foreign Earned Income |
+| [i2848](/ea/pmd/view.i2848) | Ins: F2848, Power of Attorney & Declaration of Representative |
+| [i5329](/ea/pmd/view.i5329) | Ins: F5329, Addn Taxes on Qualified Plans (Including IRAs) & Other Tax-Favored Accounts |
+| [i5405](/ea/pmd/view.i5405) | Ins: F5405, Repayment of the First-Time Homebuyer Credit |
+| [i56](/ea/pmd/view.i56) | Ins: F56, Notice Concerning Fiduciary Relationship |
+| [i6251](/ea/pmd/view.i6251) | Ins: F6251, Alternative Minimum Tax—Individuals |
+| [i706](/ea/pmd/view.i706) | Ins: F706,  Estate (and Generation-Skipping Transfer) Tax Return |
+| [i843](/ea/pmd/view.i843) | Ins: F843, Claim for Refund & Request for Abatement |
+| [i8606](/ea/pmd/view.i8606) | Ins: F8606, Nondeductible IRAs  |
+| [i8821](/ea/pmd/view.i8821) | Ins: F8821,  Tax Information Authorization |
+| [i8857](/ea/pmd/view.i8857) | Ins: F8857,  Request for Innocent Spouse Relief |
+| [i8863](/ea/pmd/view.i8863) | Ins: F8863, Education Credits (American Opportunity & Lifetime Learning Credits) |
+| [i8936](/ea/pmd/view.i8936) | Ins: F8936, Clean Vehicle Credits (and Schedule A (F8936), Clean Vehicle Credit Amount)  |
+| [i8995](/ea/pmd/view.i8995) | Ins: F8995, Qualified Business Income Deduction Simplified Computation |
+| [i941sb](/ea/pmd/view.i941sb) | Ins: Schedule B (F941), Report of Tax Liability for Semiweekly Schedule Depositors |
+| [iss4](/ea/pmd/view.iss4) | Ins: FSS-4, App. for Employer ID Number (EIN) |
+| [iss8](/ea/pmd/view.iss8) | Ins: FSS-8, Determination of Worker Status for Purposes of Federal Employment Taxes & Income Tax Withholding |
 | [iw2w3](/ea/pmd/view.iw2w3) | General Ins: Forms W-2 & W-3, (Including Forms W-2AS, W-2CM, W-2GU, W-2VI, W-3SS, W-2c, and W-3c) |
-| [iw7](/ea/pmd/view.iw7) | Ins: Form W-7, App. for IRS Individual Taxpayer ID Number (Use with the August 2019 revision of Form W-7) |
-| [iw9](/ea/pmd/view.iw9) | Ins: the  Requester of Form W-9, Request for Taxpayer ID Number & Certification |
+| [iw7](/ea/pmd/view.iw7) | Ins: FW-7, App. for IRS Individual Taxpayer ID Number (Use with the August 2019 revision of FW-7) |
+| [iw9](/ea/pmd/view.iw9) | Ins: the  Requester of FW-9, Request for Taxpayer ID Number & Certification |
 | [p1244--2005](/ea/pmd/view.p1244--2005) | Employee's Daily Records of Tips & Report to Employer |
 | [p15b](/ea/pmd/view.p15b) | Employer's Tax Guide to Fringe Benefits |
 | [p1660](/ea/pmd/view.p1660) | Collection Appeal Rights |
