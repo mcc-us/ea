@@ -27,7 +27,7 @@ for filename in *.pdf; do
   content+="title: $filename_no_ext\n"
   content+="---\n\n"
   content+="<div class=\"pdf-container\">\n"
-  content+="<iframe src=\"/ea/assets/pdfs/$filename\" height=\"600\" width=\"100%\" allowFullScreen=\"true\"></iframe>\n"
+  content+="<iframe src=\"/ea/assets/pdfs/vita/$filename\" height=\"600\" width=\"100%\" allowFullScreen=\"true\"></iframe>\n"
   content+="</div>\n"
 
   # Write the content to the markdown file in the output directory
