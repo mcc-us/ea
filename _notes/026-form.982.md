@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Form 982
+title: Form 982 - Bankruptcy
 ---
  
-Form 982, "Reduction of Tax Attributes Due to Discharge of Indebtedness (and Section 1082 Basis Adjustment)," is an IRS form used by taxpayers who have had debt discharged (canceled) and are eligible to exclude that debt from their taxable income. This exclusion applies in specific situations, such as:  
+[Form 982](/ea/pmd/view.f982), **Reduction of Tax Attributes Due to Discharge of Indebtedness (and Section 1082 Basis Adjustment)**, is an IRS form used by taxpayers who have had debt discharged (canceled) and are eligible to exclude that debt from their taxable income. This exclusion applies in specific situations, such as:  
 
 - Bankruptcy: Debt discharged in a Title 11 bankruptcy case.   
 
-- Insolvency: Debt discharged when the taxpayer is insolvent (liabilities exceed assets).  
+- Insolvency: When liabilities exceed assets.  
   
-- Qualified farm debt: Debt related to farming operations.  
+- Farm debt.  
 
-- Qualified real property business debt: Debt related to real estate used in a business.  
+- Real property business debt.  
 
-- Qualified principal residence indebtedness: Debt secured by a primary home (with some limitations).  
+- Principal residence indebtedness: Debt secured by a primary home (with some limitations).  
 
 - **Why is it used?**
 
-- When debt is canceled, it's generally considered income and is taxable. However, in these specific situations, the IRS allows taxpayers to exclude the discharged debt from their income. Form 982 is used to:  
+- When debt is canceled, it's generally considered income and is taxable. However, in these specific situations, the IRS allows taxpayers to exclude the discharged debt from their income. [Form 982](/ea/pmd/view.f982) is used to:  
 
 - Report the excluded debt amount: The taxpayer reports the amount of debt that was discharged and excluded from their income.   
 
