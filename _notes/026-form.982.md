@@ -17,15 +17,17 @@ title: Form 982 - Bankruptcy
 
 - **Why is it used?**
 
-- When debt is canceled, it's generally considered income and is taxable. However, in these specific situations, the IRS allows taxpayers to exclude the discharged debt from their income. [Form 982](/ea/pmd/view.f982) is used to:  
+- When debt is canceled, it's *generally* considered income and **IS** taxable. However, in the specific situations, the IRS allows taxpayers to exclude the discharged debt from their income. 
+  
+- [**Form 982**](/ea/pmd/view.f982) is used to:  
 
-- Report the excluded debt amount: The taxpayer reports the amount of debt that was discharged and excluded from their income.   
+- Report the excluded/discharged debt amount: The taxpayer reports that amount to excluded it from their income.   
 
-- Reduce tax attributes: In exchange for excluding the debt from income, the taxpayer must reduce certain "tax attributes." These are things like net operating losses, capital losses, and the basis of assets. This reduction ensures that the taxpayer doesn't get a double benefit (not paying taxes on the forgiven debt and also keeping the full value of tax deductions related to those debts or assets).  
+- Reduce tax attributes: In exchange for excluding the debt from income, the taxpayer must reduce certain "tax attributes," Like (NOL) net operating losses, capital losses, and basis of assets. This reduction ensures that the taxpayer doesn't get a double benefit (**not paying taxes on the forgiven debt and also keeping the full value of tax deductions related to those debts or assets**).  
 
-- **In simpler terms:**
+- **In other terms:**
 
-Imagine you owe a lot of money, and a lender forgives part of that debt. Usually, that forgiven amount is considered income and you have to pay taxes on it. But, if you're in a situation like bankruptcy or if the debt was related to your farm or business, you might be able to exclude it from your income. Form 982 is how you tell the IRS about this exclusion and how you're reducing other tax benefits to make up for it.  
+You owe a ton of money, and a lender forgives part of that debt. That forgiven amount is *generally* considered income, and you have to pay taxes on it. But, if you're in a situation like bankruptcy or if the debt was related to your farm or business, you might be able to exclude it from your income. Form 982 is how you tell the IRS about this exclusion and how you're reducing other tax benefits to make up for it.  
 
 See: Under which of the following circumstances would canceled debt not be taxable
 https://www.irs.gov/taxtopics/tc431
