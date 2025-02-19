@@ -11,9 +11,10 @@ Q. What are the limit for Kiddie Tax?
     - **< 18 years old**.
     - **Full-time students < 24 years old**.
 
-- The Kiddie Tax only applies to **unearned** income, such as **investment income, INT, DIV, Or Cap. gains**.
+- The Kiddie Tax only applies to **UNEARNED** income = **Investment Income, INT, DIV, Or Cap. Gains**.
+   - **NOTE**: **Add** Cap. gains and losses together to get total Cap. G/L.
 
-- **Parents may elect to file including the child's income into their own filing, using F8814**.
+- **USE: F8814, when parents elect to file child's income with their own**.
    
 - Earned income (e.g., wages or salary) is taxed at the child's rate.
 
