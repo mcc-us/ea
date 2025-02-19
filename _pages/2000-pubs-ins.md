@@ -13,7 +13,7 @@ title: Part1 Pubs-Instructions
 | [i1040sb](/ea/pmd/view.i1040sb) | 2024 Schedule B (F1040), Interest & Ordinary Dividends |
 | [i1040sc](/ea/pmd/view.i1040sc) | 2024 Schedule C, Profit or Loss From Business |
 | [i1040sd](/ea/pmd/view.i1040sd) | 2023 Schedule D, Capital Gains & Losses |
-| [i1040sh](/ea/pmd/view.i1040sh) | 2024 Schedule H, HouseholdEmployment Taxes |
+| [i1040sh](/ea/pmd/view.i1040sh) | 2024 Schedule H, Household Employment Taxes |
 | [i1040tt](/ea/pmd/view.i1040tt) | 1040 Tax & Earned Income Credit Tables |
 | [i1040x](/ea/pmd/view.i1040x) | F1040-X, Amended Return |
 | [i1041](/ea/pmd/view.i1041) | F1041 & Schedules A, B, G, J, and K-1 , Income Tax Return for Estates and Trusts |
