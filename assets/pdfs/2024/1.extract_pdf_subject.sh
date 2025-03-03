@@ -17,10 +17,16 @@ for pdf_file in $pdf_files; do
   subject=$(pdfinfo "$pdf_file" | grep "Subject: " | cut -d ':' -f 2-)
 
   # Clean subject: lowercase, remove double spaces, apply substitutions
-  subject=$(echo "$subject" | tr '[:upper:]' '[:lower:]' | sed 's/  */ /g' \
-    | sed 's/application/App/g' \
+  subject=$(echo "$subject" \
+    | tr '[:upper:]' '[:lower:]' \
+    | sed 's/application/app/g' \
     | sed 's/u\.s\. return of //g' \
     | sed 's/u\.s\. //g' \
+    | sed 's/ and //g' \
+    | sed 's/,/./g' \
+    | tr -d '[:punc:]' \
+    | sed 's/, (including //g' \
+    | sed 's/ and losses)//g' \
     | sed 's/instructions for //g' \
     | sed 's/, (for individuals)//g' \
     | sed 's/, (for individuals who use schedule c)//g' \
@@ -35,9 +41,9 @@ for pdf_file in $pdf_files; do
   )
 
   # Append table row to content
-  content+="$filename.$subject.pdf  \n"
+  content+="$filename.$subject.pdf\n"
 done
 
 # Write the final content to the markdown file
 echo -e "$content" > "$output_file"
-echo "CREATED TABLE"
+echo "Fini"

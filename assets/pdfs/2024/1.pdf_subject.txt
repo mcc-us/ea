@@ -1,34 +1,34 @@
-p537. installment sales.pdf  
-p519. tax guide for aliens.pdf  
-p590a. contributions to IRAs.pdf  
-f1065. partnership income.pdf  
-p554. tax guide for seniors.pdf  
-p525. taxable and nontaxable income.pdf  
-p4681. canceled debts, foreclosures, repossessions, and abandonments.pdf  
-i8995. form 8995, qualified business income deduction simplified computation.pdf  
-p517. social security and other information for members of the clergy and religious workers.pdf  
-p17. your federal income tax.pdf  
-p334. tax guide for small business.pdf  
-p544. sale of assets.pdf  
-i1041. form 1041 and schedules a, b, g, j, and k-1 , income tax return for estates and trusts.pdf  
-p526. charitable contributions.pdf  
-p550. investment income and expenses, (including capital gains and losses).pdf  
-f1041. income tax return for estates and trusts.pdf  
-p503. child and dependent care expenses.pdf  
-p970. tax benefits for education.pdf  
-p559. survivors, executors, and administrators.pdf  
-p523. selling your home.pdf  
-p936. home mortgage interest deduction.pdf  
-p969. health savings accounts.pdf  
-i1065. form 1065 , partnership income .pdf  
-p504. divorced or separated individuals.pdf  
-p527. residential rental property, (including rental of vacation homes).pdf  
-p501. dependents, standard deduction, and filing information.pdf  
-fw7. App for irs individual taxpayer identification number.pdf  
-p54. tax guide for citizens and resident aliens abroad.pdf  
-f8995. qualified business income deduction simplified computation.pdf  
-p514. foreign tax credit.pdf  
-f1040sd. capital gains and losses.pdf  
-p3. armed forces' tax guide.pdf  
-fss4. App for employer identification number.pdf  
+p544..pdf
+p334..pdf
+p504..pdf
+p936..pdf
+p559..pdf
+i1065..pdf
+p3..pdf
+p519..pdf
+p54..pdf
+f1040sd..pdf
+p4681..pdf
+p590a..pdf
+p537..pdf
+p517..pdf
+f8995..pdf
+p514..pdf
+p503..pdf
+p501..pdf
+i8995..pdf
+f1041..pdf
+p17..pdf
+p523..pdf
+p526..pdf
+i1041..pdf
+fw7..pdf
+f1065..pdf
+p554..pdf
+p969..pdf
+fss4..pdf
+p970..pdf
+p525..pdf
+p550..pdf
+p527..pdf
 
