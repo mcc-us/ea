@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# This script uses the interesting concept of saving lines of text into the var 'content' then dumps that content into a text file when it is ready. The content allows more information to be tallied and stored.
+
 # Define the output filename
 output_file="1.pdf2table.md"
 
