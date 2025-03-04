@@ -14,7 +14,7 @@ layout: post
 | **D** | [Capital Gain / Loss](/ea/pmd/view.f1040sd.) |
 | **E** | [Supplemental Income](/ea/pmd/view.f1040se) |
 | **F** | [Farming/Fishing Income](/ea/pmd/view.f1040sf) |
-| **H** | Household Employment Taxes |
+| **H** | [Household Employment Taxes](ea/pmd/view.f1040sh) |
 | **I** | [Additional Information](/ea/pmd/view.f1040sei) |
 | **R** | Elderly & the Disabled |
 | **K-1** | [Partner's Share of Income, Credits, Deductions](/ea/pmd/view.i1065) |
