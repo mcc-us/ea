@@ -6,7 +6,7 @@ title: PDFs On File
 <script> function button1() { window.open("https://www.irs.gov/forms-pubs"); } </script>
 <button onclick="button1()">Goto IRS Pubs</button>
 
-| # | Doc Title |
+| # | Doc--Title |
 |:--:|:--|
 | 1 | [f1040es--ES-Estimated-Tax](/ea/pdf-2-md/f1040es--ES-Estimated-Tax) |
 | 2 | [f1040nr--Nonresident-Alien-Income-Tax-Return](/ea/pdf-2-md/f1040nr--Nonresident-Alien-Income-Tax-Return) |
