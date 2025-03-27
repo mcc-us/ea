@@ -13,7 +13,8 @@ function buttonForms() { window.open("https://www.irs.gov/forms-instructions"); 
 
 | <button onclick="buttonForms()">Find IRS Pubs & Forms</button> | <button onclick="buttonFB()">Facebook EA Study Group</button> |
 |:-|:-|
-| [irs.gov/tax-professionals](https://www.irs.gov/tax-professionals) |[Reddit EA](https://www.reddit.com/r/enrolledagent/) | [Prometric.com Test-Takers](https://www.prometric.com/test-takers/search/irs) |
+| [irs.gov/tax-professionals](https://www.irs.gov/tax-professionals) |[Reddit EA](https://www.reddit.com/r/enrolledagent/) |
+| [Prometric.com Test-Takers](https://www.prometric.com/test-takers/search/irs) |
 |[CACCI](https://www.cacci.cc/)| [Shoba's Cheat sheet on AMT](/ea/pmd/view.AMT.EXPLAINED.ver2) |
 
 ---
