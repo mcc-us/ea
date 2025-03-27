@@ -4,6 +4,6 @@ title: i1099ac--AcquisitionAbandonment-of-Secured-Property-Cancellation-of-Debt
 ---
 
 <div class="pdf-container">
-<iframe src="/ea//_pdf-2-md/i1099ac--AcquisitionAbandonment-of-Secured-Property-Cancellation-of-Debt.pdf" height="600" width="90%" allowFullScreen="true"></iframe>
+<iframe src="/ea/_pdf-2-md/i1099ac--AcquisitionAbandonment-of-Secured-Property-Cancellation-of-Debt.pdf" height="600" width="90%" allowFullScreen="true"></iframe>
 </div>
 
