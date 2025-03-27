@@ -1,0 +1,9 @@
+---
+layout: post
+title: i1041-2023--Schedules-A-B-G-J-K-1-Income-Tax-Return-Estates-Trusts
+---
+
+<div class="pdf-container">
+<iframe src="/ea//_pdf-2-md/i1041-2023--Schedules-A-B-G-J-K-1-Income-Tax-Return-Estates-Trusts.pdf" height="600" width="90%" allowFullScreen="true"></iframe>
+</div>
+
