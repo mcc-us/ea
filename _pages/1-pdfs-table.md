@@ -8,8 +8,8 @@ title: PDFs On File
 
 | # | Doc--Title |
 |:--:|:--|
-| 1 | [f1040es--ES-Estimated-Tax](/ea/_pdf-2-md/f1040es--ES-Estimated-Tax.md) |
-| 2 | [f1040nr--Nonresident-Alien-Income-Tax-Return](/ea/_pdf-2-md/f1040nr--Nonresident-Alien-Income-Tax-Return.md) |
+| 1 | [f1040es--ES-Estimated-Tax](/ea/pdf-2-md/f1040es--ES-Estimated-Tax) |
+| 2 | [f1040nr--Nonresident-Alien-Income-Tax-Return](/ea/pdf-2-md/f1040nr--Nonresident-Alien-Income-Tax-Return) |
 | 3 | [f1040s1--Sch-1-Income-Adjustments-to-Income](/ea/_pdf-2-md/f1040s1--Sch-1-Income-Adjustments-to-Income) |
 | 4 | [f1040s2--Sch-2-Taxes](/ea/_pdf-2-md/f1040s2--Sch-2-Taxes) |
 | 5 | [f1040s3--Sch-3-Credits-Payments](/ea/_pdf-2-md/f1040s3--Sch-3-Credits-Payments) |
