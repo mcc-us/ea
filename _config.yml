@@ -53,7 +53,7 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
-  pmd:
+  pdf-2-md:
     output: true
     permalink: /:collection/:path/
   notes:
@@ -64,6 +64,7 @@ collections:
 ordered_collections:
   - pages
   - notes
+  - pdf-2-md
 #  - others
 #  - questions
 
