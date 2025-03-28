@@ -4,6 +4,6 @@ title: f1065sk1--Partners-Share-of-Income-Deductions-Credits
 ---
 
 <div class="pdf-container">
-<iframe src="/ea/_pdf-2-md/f1065sk1--Partners-Share-of-Income-Deductions-Credits.pdf" height="600" width="90%" allowFullScreen="true"></iframe>
+<iframe src="/ea/assets/pdfs/f1065sk1--Partners-Share-of-Income-Deductions-Credits.pdf" height="600" width="90%" allowFullScreen="true"></iframe>
 </div>
 

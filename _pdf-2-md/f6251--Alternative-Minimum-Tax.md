@@ -4,6 +4,6 @@ title: f6251--Alternative-Minimum-Tax
 ---
 
 <div class="pdf-container">
-<iframe src="/ea/_pdf-2-md/f6251--Alternative-Minimum-Tax.pdf" height="600" width="90%" allowFullScreen="true"></iframe>
+<iframe src="/ea/assets/pdfs/f6251--Alternative-Minimum-Tax.pdf" height="600" width="90%" allowFullScreen="true"></iframe>
 </div>
 
