@@ -1,9 +1,9 @@
 ---
 layout: post
-title: f1040s1--Sch-1-Income-Adjustments-to-Income
+title: f1040s1--Sch-1-Addn-Income-Adjustments
 ---
 
-## Additional or Adjustments to Income 
+- **Income** 
 1. Alimony (received/paid)
 1. Business income (& NOL)
 1. Income from Rentals, royalties, partnerships, S-corps, trusts 
@@ -13,7 +13,7 @@ title: f1040s1--Sch-1-Income-Adjustments-to-Income
 1. Jury duty pay 
 1. Stock options 
 
-## Adjustments
+- **Adjustments** 
 1. Educator expenses 
 1. HSA and IRA deductions 
 1. Deductibles for self-employment tax 
