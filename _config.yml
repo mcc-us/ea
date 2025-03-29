@@ -64,7 +64,7 @@ collections:
 ordered_collections:
   - pages
   - notes
-  - pdf-2-md
+#  - pdf-2-md
 #  - others
 #  - questions
 
