@@ -47,7 +47,7 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 # disqushandler:            sighingnow
 
 exclude:
-  - _drafts
+#  - _drafts
 
 collections:
   pages:
@@ -68,7 +68,7 @@ ordered_collections:
 #  - others
 #  - questions
 
-page_width: 900px
+page_width: 800px
 
 destination:      ./_site
 incremental:      false
