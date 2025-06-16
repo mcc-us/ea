@@ -47,8 +47,9 @@ permalink:                /:categories/:year-:month-:day-:title:output_ext
 # disqushandler:            sighingnow
 
 exclude:
-#  - _drafts
-
+  - vita-info
+  - _drafts
+  
 collections:
   pages:
     output: true
