@@ -20,6 +20,3 @@ title: Net Investment Income Tax - NIIT
         * Your net investment income.
         * The amount by which your MAGI exceeds the income threshold.
 
-**In simpler terms:**
-
-If you have significant investment income and your income exceeds a certain level, you may owe an additional 3.8% tax on that investment income. 
